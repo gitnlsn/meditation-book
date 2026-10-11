@@ -130,7 +130,7 @@ e o corpo que mudam com o treino.
 - **Termos** — ensaio randomizado, grupo controle, controle ativo, placebo, meta-análise, tamanho de efeito, viés de publicação, replicação, inferência reversa, fMRI
 - **Evidência** — metodológica; forte
 - **Ressalvas** — o salmão morto é piada séria, não prova de que fMRI não presta
-- **Fontes** — Van Dam et al. 2018; Goldberg et al. 2017; Open Science Collaboration 2015; Poldrack 2006
+- **Fontes** — Van Dam et al. 2018; Goldberg et al. 2018; Open Science Collaboration 2015; Poldrack 2006
 
 ### 6. Neuroplasticidade sem exagero
 *(Neuroplasticity Without the Hype)*

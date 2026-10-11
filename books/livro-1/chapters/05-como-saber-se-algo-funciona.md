@@ -19,7 +19,7 @@ terms:
 - fMRI
 evidence: metodológica; forte
 caveats: o salmão morto é piada séria, não prova de que fMRI não presta
-sources: Van Dam et al. 2018; Goldberg et al. 2017; Open Science Collaboration 2015;
+sources: Van Dam et al. 2018; Goldberg et al. 2018; Open Science Collaboration 2015;
   Poldrack 2006
 status: outline
 ---
