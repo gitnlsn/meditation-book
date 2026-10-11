@@ -237,7 +237,8 @@ práticas socioemocionais como compaixão e bondade, e práticas de
 perspectiva sobre si e os outros. A síntese de Singer e Engert (2019) relata
 efeitos diferentes conforme o módulo, inclusive na resposta do cortisol a um
 teste de estresse social, que caiu depois dos módulos sociais e não depois
-do módulo de atenção. É o melhor argumento de que "meditação" não é uma
+do módulo de atenção (o resultado está em
+{{cap:estresse-o-alarme-que-nao-desliga}}). É o melhor argumento de que "meditação" não é uma
 intervenção só. Mas vem, de novo, de um único grupo de pesquisa.
 
 **Comportamento real: menor do que os questionários sugerem.** É aqui que a

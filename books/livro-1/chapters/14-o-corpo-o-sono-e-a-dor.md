@@ -134,8 +134,7 @@ independentes, baseadas em revisões sistemáticas, convergem.
 É contra esse pano de fundo que os estudos de meditação devem ser lidos.
 
 ::: {.relatorio}
-**O estudo.** Rusch e colegas, Institutos Nacionais de Saúde dos EUA,
-publicado em 2019. Meta-análise de 18 ensaios randomizados, com 1.654
+**O estudo.** Rusch e colegas, publicado em 2019. Meta-análise de 18 ensaios randomizados, com 1.654
 participantes, sobre meditação mindfulness e qualidade do sono. Os autores
 separaram dois tipos de comparação: contra controles ativos *inespecíficos*
 (atividades que igualam tempo e atenção, para controlar o efeito placebo) e

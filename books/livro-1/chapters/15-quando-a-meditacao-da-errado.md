@@ -61,7 +61,7 @@ a correr. Também faz parte da prática encontrar emoções que estavam ali e
 eram evitadas. Nada disso, por si, é sinal de que algo deu errado.
 
 O segundo cuidado é perguntar mais de uma coisa. A equipe de Willoughby
-Britton, na Universidade Brown, desenvolveu uma entrevista que, para cada
+Britton desenvolveu uma entrevista que, para cada
 experiência, investiga cinco aspectos: se ela ocorreu, se está ligada à
 prática de meditação, quanto durou, se foi sentida como boa ou ruim e se
 prejudicou o funcionamento da pessoa — no trabalho, no sono, nas relações.
@@ -116,7 +116,7 @@ persiste depois da sessão, assusta e atrapalha a vida.
 Aqui os números variam muito, e a variação é parte da informação.
 
 ::: {.relatorio}
-**O estudo.** Britton e colegas, Universidade Brown, publicado em 2021. 96
+**O estudo.** Britton e colegas, publicado em 2021. 96
 pessoas fizeram uma de três variantes de um programa de oito semanas de MBCT
 (a terapia cognitiva baseada em mindfulness, definida em
 {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}). Um entrevistador

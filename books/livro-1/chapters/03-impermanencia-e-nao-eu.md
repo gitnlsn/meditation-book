@@ -71,13 +71,13 @@ ordem vai do mais grosseiro, o corpo, ao mais sutil.
 | Formações | *saṅkhārā* | intenções e volições: a parte da mente que reage e tem propósitos |
 | Consciência | *viññāṇa* | o fato de estar ciente de algo |
 
-Três observações tornam a tabela mais útil:
+Quatro observações tornam a tabela mais útil:
 
 - **Vedanā não é emoção.** É só o tom: o "gosto" ou "não gosto" que acompanha
   uma experiência antes de qualquer história sobre ela. É a matéria da
   segunda flecha do capítulo {{cap:as-quatro-nobres-verdades-como-diagnostico}}:
   a primeira flecha é uma vedanā desagradável; a segunda é o que se faz com
-  ela.
+  ela. O capítulo {{cap:observar-sem-agarrar}} volta a vedanā como prática.
 - **Saṅkhārā é a palavra mais difícil.** As traduções variam: "formações
   mentais" na versão clássica de Mendis, "volições" no estudo de Bhikkhu
   Anālayo (2003), *choices* ("escolhas") na de Bhikkhu Sujato, que este livro
@@ -210,7 +210,7 @@ toque na mão de borracha, sentir que ela é "sua" e localizar a própria mão
 mais perto da falsa do que ela está.
 
 **O que encontrou — e a disputa.** Em 2020, Peter Lush e colegas
-(Universidade de Sussex) mediram a sugestionabilidade hipnótica de 353
+mediram a sugestionabilidade hipnótica de 353
 participantes e encontraram que ela previa a intensidade da ilusão relatada.
 A conclusão deles: parte do efeito pode vir das expectativas do participante
 sobre o que deveria sentir, e os controles usuais não descartam isso. Em

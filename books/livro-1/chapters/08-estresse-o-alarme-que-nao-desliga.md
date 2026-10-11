@@ -187,7 +187,7 @@ de conceitos aprendidos e da cultura — e não disparadas por circuitos
 prontos para "medo" ou "raiva". **Essa teoria é uma das partes de um debate
 em aberto**: pesquisadores da tradição das "emoções básicas" discordam dela,
 e o artigo de 2015 é declaradamente um artigo de opinião, que propõe um
-modelo. Use-a como hipótese forte, não como fato estabelecido.
+modelo. Use-a como hipótese séria, não como fato estabelecido.
 **Força da evidência: contestada.**
 
 Por que isso importa para a meditação? Porque várias práticas — o
@@ -243,7 +243,7 @@ meditação, populações e medidas muito diferentes diz pouco sobre o que uma
 prática específica faz numa pessoa específica — e o estudo seguinte mostra
 o quanto isso importa.
 
-**A complicação.** O maior estudo longitudinal de treino mental laico, o
+**A complicação.** Um dos maiores estudos longitudinais de treino mental laico, o
 *ReSource Project*, conduzido em Leipzig e Berlim, mediu a reação de 313
 pessoas a um teste padronizado de estresse social ao longo de nove meses de
 treino (Engert et al. 2017). Os três tipos de prática reduziram o estresse
@@ -295,7 +295,7 @@ parte do cuidado; não é um substituto para o tratamento.
   de emergência usado como rotina.
 - **Interocepção** é a percepção do estado interno do corpo. A ideia de que
   o cérebro *prevê* o corpo, e de que as emoções são construídas a partir
-  disso, é uma teoria forte e contestada.
+  disso, é uma teoria influente e contestada.
 - A **teoria polivagal** é popular, mas suas premissas fisiológicas são
   rejeitadas pela maioria dos especialistas.
 - O efeito da meditação sobre cortisol, inflamação e telômeros é

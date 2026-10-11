@@ -28,7 +28,7 @@ duas coisas deixam de coincidir.
 
 ## O texto: o discurso sobre a atenção à respiração
 
-A prática tem nome próprio em páli ({{cap:as-quatro-nobres-verdades-como-diagnostico}}
+A prática tem nome próprio em páli ({{cap:quem-foi-o-buda-e-quem-ele-nao-foi}}
 explica o que é o páli): **ānāpānasati**, literalmente "atenção (*sati*) à
 inspiração e à expiração (*ānāpāna*)". O termo *sati* foi apresentado em
 {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}; aqui basta lembrar que ele
@@ -99,25 +99,16 @@ tempo longe do que está fazendo, e uma pessoa sentada olhando a respiração
 não é exceção. A pergunta útil não é como impedir a saída, e sim o que fazer
 depois dela.
 
-Um estudo descreveu esse ciclo de forma explícita. Wendy Hasenkamp e colegas,
-da Universidade Emory, pediram a catorze praticantes de meditação que
-meditassem na respiração dentro de um aparelho de ressonância e apertassem um
-botão sempre que percebessem que a mente tinha divagado. A partir do botão,
-dividiram cada ciclo em quatro fases:
-
-1. **Divagação** — a mente está em outro lugar, sem saber disso.
-2. **Perceber a divagação** — o instante em que você nota "saí".
-3. **Redirecionar** — trazer a atenção de volta.
-4. **Atenção sustentada** — ficar com a respiração, até a próxima saída.
-
-Cada fase se associou à atividade de redes cerebrais diferentes, e a
-experiência acumulada de meditação modulou essas ativações. O estudo é
-pequeno e as interpretações de rede herdam o problema da inferência reversa
-({{cap:como-saber-se-algo-funciona}}): ver uma região ativa não diz, sozinho,
-o que a pessoa sentia. Mas o modelo de quatro fases é útil por outro motivo.
-Ele mostra que mesmo praticantes experientes divagam — se não divagassem,
-não haveria botão a apertar — e que o treino está nas fases 2 e 3. **Perceber
-e voltar é o exercício**, não uma falha no exercício.
+O capítulo {{cap:a-mente-que-divaga}} descreveu o estudo de Wendy Hasenkamp
+e colegas (2012), que deu forma a esse ciclo: catorze praticantes meditaram
+na respiração dentro de um aparelho de ressonância e apertaram um botão a
+cada vez que perceberam ter saído dela, e a prática foi dividida em quatro
+fases — divagar, perceber, redirecionar, sustentar. O estudo é pequeno, e
+suas leituras de redes cerebrais têm o risco da inferência reversa. Mas o
+modelo é útil para quem pratica por outro motivo. Ele mostra que mesmo
+praticantes experientes divagam — se não divagassem, não haveria botão a
+apertar — e que o treino está nas fases de perceber e redirecionar.
+**Perceber e voltar é o exercício**, não uma falha no exercício.
 
 ## A prática
 
@@ -160,7 +151,7 @@ A ideia mais difundida sobre meditação é que se trata de parar de pensar.
 Nem o sutta nem o comentário dizem isso. O sutta pede que se *saiba* como está
 a respiração — um ato de conhecer, não de apagar. O *Visuddhimagga* usa a
 contagem justamente porque supõe que a mente vai se dispersar. E o modelo de
-Hasenkamp mostra praticantes experientes divagando o tempo todo.
+Hasenkamp mostra praticantes experientes divagando repetidas vezes.
 
 Tratar "mente vazia" como meta produz dois efeitos ruins. O primeiro é
 frustração: o iniciante pensa durante a sessão, conclui que "não consegue
@@ -177,22 +168,18 @@ foram definidos em {{cap:atencao-emocao-e-habito}}; a respiração com contagem
 é um exemplo típico de atenção focada.
 
 **Atenção sustentada: evidência moderada, com dose alta.** O melhor estudo é
-o Shamatha Project, de Katherine MacLean, Clifford Saron e colegas (2010).
-Sessenta pessoas foram sorteadas para fazer um retiro de cerca de três meses,
-com aproximadamente cinco horas por dia de meditação centrada num objeto
-escolhido, como a respiração, ou para esperar e fazer o retiro depois (trinta
-em cada grupo). O treino melhorou a discriminação visual e reduziu a queda de
-desempenho que todos sofremos quando precisamos vigiar algo por muito tempo.
-É um ensaio randomizado, o que é bom; mas o controle é lista de espera, e a
-dose não tem nada a ver com dez minutos por dia. O que o estudo mostra é que
-a atenção sustentada é treinável. Não mostra quanto treino uma pessoa comum
-precisa.
+o Shamatha Project (MacLean e colegas, 2010), descrito em
+{{cap:atencao-emocao-e-habito}}: um retiro de três meses, com cerca de cinco
+horas diárias de atenção num objeto escolhido, como a respiração, melhorou a
+vigilância num ensaio randomizado com lista de espera. O que o estudo mostra
+é que a atenção sustentada é treinável. Não mostra quanto treino uma pessoa
+comum precisa, e a dose não tem nada a ver com dez minutos por dia.
 
 **Doses curtas: evidência preliminar.** Aqui os estudos são menores e os
 resultados, mais frágeis.
 
 ::: {.relatorio}
-**O estudo.** Amishi Jha e colegas, Universidade de Miami, 2015. Três grupos
+**O estudo.** Amishi Jha e colegas, 2015. Três grupos
 militares em preparação para envio a uma missão: um recebeu um curso de oito
 horas em oito semanas centrado em exercícios práticos de atenção (40
 pessoas); outro, um curso de mesma duração centrado em aulas sobre estresse
@@ -215,12 +202,9 @@ ouvir sobre a prática, é o que conta — e que mesmo doses modestas podem
 proteger a atenção sob pressão. Não prova uma dose mínima.
 :::
 
-Outros estudos apontam na mesma direção, todos com limites. Num ensaio
-chinês, um grupo de 40 universitários sorteado para cinco dias de vinte
-minutos de um treino de corpo e mente (derivado da medicina tradicional
-chinesa, com elementos de meditação) melhorou mais num teste de atenção que
-um grupo semelhante que fez treino de relaxamento; é um estudo pequeno e de
-duração curtíssima. E a própria contagem de respirações foi usada como
+Outros estudos apontam na mesma direção, todos com limites; o de cinco dias
+com universitários chineses está em {{cap:atencao-emocao-e-habito}}. E a
+própria contagem de respirações foi usada como
 instrumento: Daniel Levinson e colegas, no laboratório de Richard Davidson,
 mostraram em quatro estudos com mais de quatrocentas pessoas que errar menos
 a contagem acompanha menos divagação e mais percepção do próprio estado

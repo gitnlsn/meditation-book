@@ -40,14 +40,11 @@ ambiente costuma funcionar melhor do que contar com a vontade. Quem depende
 de "estar a fim" decide de novo, todo dia, se vai praticar — e um dia perde.
 Quem pratica sempre depois do café, na mesma cadeira, decide menos.
 
-O estudo de Lally e colegas (2010), apresentado em
-{{cap:atencao-emocao-e-habito}}, acrescenta duas informações úteis. A
-primeira: o tempo até um comportamento diário se tornar automático variou
-entre **18 e 254 dias** entre os participantes — não há número mágico, e
-pode levar muitos meses. A segunda: **perder um dia não atrapalhou** de forma
-relevante a formação do hábito. Força da evidência: **moderada** para a ideia
-geral de que repetição num contexto estável cria automatismo; **preliminar**
-para os números, que vêm de um estudo pequeno com medidas de autorrelato.
+O estudo de Lally e colegas (2010), apresentado com seus limites em
+{{cap:atencao-emocao-e-habito}}, acrescenta duas informações úteis: o tempo
+até um comportamento diário se tornar automático variou entre **18 e 254
+dias** — não há número mágico —, e **perder um dia não atrapalhou** de forma
+relevante a formação do hábito.
 
 A consequência prática: em vez de perguntar "como me manter motivado?",
 pergunte "o que no meu dia vai disparar a prática?".
@@ -66,7 +63,7 @@ diária constrói o contexto; uma longa e esporádica, não.
 ### Comunidade: a sangha na prática
 
 O capítulo {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}} definiu a **Sangha**
-como a comunidade de praticantes. **Na
+como a comunidade — no uso tradicional, a comunidade monástica. **Na
 prática**, para quem começa, sangha quer dizer algo mais simples: um grupo
 com quem você medita regularmente — um grupo de meditação de bairro, uma
 turma de curso, um centro ligado a uma tradição, até duas ou três pessoas que
@@ -82,8 +79,9 @@ intuição. Dois dados apontam na mesma direção. Numa meta-análise com dados
 individuais de 13 ensaios e 2.371 adultos, Galante e colegas (2023)
 encontraram que programas de mindfulness em grupo, presenciais e conduzidos
 por instrutor reduziram o sofrimento psicológico em comparação com controles
-passivos, com efeito de tamanho pequeno a moderado — o que não isola o efeito do grupo, mas é o formato em que a
-evidência existe. E no ReSource Project, um estudo alemão de nove meses com
+passivos, com efeito de tamanho pequeno a moderado
+({{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}) — o que não isola o
+efeito do grupo, mas é o formato em que a evidência existe. E no ReSource Project, um estudo alemão de nove meses com
 362 participantes, Kok e Singer (2017) testaram práticas feitas em dupla e
 encontraram engajamento semelhante ao da meditação solitária e aumento da
 sensação de proximidade social. Força: **moderada a preliminar**.

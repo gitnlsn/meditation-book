@@ -36,7 +36,8 @@ não se forma em 21 dias.
 
 ## Três alvos, não "o cérebro"
 
-Em 2011, a pesquisadora Britta Hölzel e colegas propuseram um esquema que
+Em 2011, a pesquisadora Britta Hölzel e colegas — num artigo teórico, não no
+estudo de imagem dela citado em {{cap:neuroplasticidade-sem-exagero}} — propuseram um esquema que
 virou referência na área: a meditação de atenção plena atuaria por
 mecanismos que interagem entre si — regulação da atenção, consciência do
 corpo, regulação emocional e mudança na perspectiva sobre o próprio eu. É um
@@ -236,7 +237,8 @@ interesse. Terceiro, a base experimental é pequena: num ensaio com 88
 fumantes, o treino de mindfulness teve 36% de abstinência no fim do
 tratamento contra 15% do programa padrão (uma diferença que não chegou a ser
 estatisticamente significativa) e 31% contra 6% dezessete semanas depois
-(esta, significativa) (Brewer et al. 2011). É um resultado promissor de um
+(esta, significativa) (Brewer et al. 2011 — outro estudo do mesmo grupo, diferente
+do exame de imagem citado em {{cap:a-mente-que-divaga}}). É um resultado promissor de um
 único estudo pequeno. **Preliminar.**
 
 ## Quanto tempo leva: o mito dos 21 dias

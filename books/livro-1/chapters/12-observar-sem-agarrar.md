@@ -94,9 +94,10 @@ para substituí-la por palavras.
 Vale a observação histórica, porque este livro promete não achatar a
 tradição: boa parte do que o Ocidente aprendeu como "mindfulness" passou por
 esses movimentos de reforma birmaneses, e o historiador Robert Sharf
-argumenta que a ideia de "atenção pura", sem conceito, é uma ênfase moderna
+argumenta que a ideia de "atenção nua", sem conceito (a história está em
+{{cap:o-caminho-e-onde-a-meditacao-entra-nele}}), é uma ênfase moderna
 e discutível como leitura da doutrina Theravāda mais antiga. É uma tese
-influente, e também contestada por outros estudiosos. A rotulagem é uma ferramenta legítima e testada por gerações de
+influente, e não um consenso. A rotulagem é uma ferramenta legítima e testada por gerações de
 praticantes — mas é uma interpretação do texto, não o texto.
 
 ## Equanimidade: nem seguir, nem empurrar
@@ -165,8 +166,7 @@ Mudando de registro, do texto para os experimentos: há dois achados que
 interessam.
 
 **Pôr sentimentos em palavras reduz parte da reação: evidência
-preliminar.** O laboratório de Matthew Lieberman, na
-Universidade da Califórnia em Los Angeles, estuda o que chama de *affect
+preliminar.** O laboratório do psicólogo Matthew Lieberman estuda o que chama de *affect
 labeling*, rotular o afeto. No primeiro estudo de imagem, nomear a emoção de
 uma foto negativa reduziu a resposta da amígdala — uma região ligada à
 detecção de ameaça e relevância emocional — em comparação com outras formas
@@ -214,7 +214,7 @@ termos a partir de Lutz e colegas (2008). A prática da respiração é atençã
 focada: um objeto, e volta a ele. A rotulagem fica entre as duas: há uma
 âncora, mas a atenção se abre para o que aparecer e o registra sem
 reagir — o núcleo do monitoramento aberto. A distinção é bem aceita, e o
-maior estudo longitudinal de treino meditativo laico, o ReSource Project do Instituto Max
+um dos maiores estudos longitudinais de treino meditativo laico, o ReSource Project do Instituto Max
 Planck, concluiu, nas palavras do título de uma síntese de 2019, que "importa
 o que você pratica": práticas diferentes treinaram capacidades diferentes.
 A ressalva é a de sempre: os estudos que separam os dois estilos no cérebro
@@ -241,15 +241,13 @@ algumas — em especial quem tem histórico de trauma, dissociação ou crises
 de pânico — pode trazer à tona memórias, sensações ou estados de
 desligamento que a pessoa não consegue regular sozinha.
 
-A pesquisa sustenta a cautela. Num levantamento com 1.232 meditadores
+A pesquisa sustenta a cautela. Num levantamento com mais de mil meditadores
 regulares, cerca de um quarto relatou experiências particularmente
-desagradáveis que atribuía à meditação, e elas foram mais prováveis em quem
-praticava apenas estilos "desconstrutivos", do tipo vipassanā, em quem tinha
-muito pensamento negativo repetitivo e em quem já tinha feito retiro. É um
-estudo de autorrelato, com uma única pergunta, e não estabelece causa. Num
-programa de oito semanas avaliado com entrevista independente, os efeitos
-ruins duradouros, numa minoria, se associaram a sinais de excitação
-desregulada e dissociação.
+desagradáveis que atribuía à meditação, mais prováveis em quem praticava só
+estilos do tipo vipassanā; e, num programa de oito semanas, os efeitos ruins
+duradouros, numa minoria, se associaram a sinais de excitação desregulada e
+dissociação. Os dois estudos, e seus limites, estão em
+{{cap:quando-a-meditacao-da-errado}}.
 
 Por isso, três orientações práticas:
 

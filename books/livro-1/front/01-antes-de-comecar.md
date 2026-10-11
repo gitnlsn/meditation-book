@@ -24,8 +24,14 @@ própria autoria.
 Este livro separa três coisas que costumam vir misturadas: o que os textos
 budistas afirmam, o que praticantes relatam e o que experimentos mostraram.
 Quando uma afirmação vem de um estudo, o texto diz quão forte é a evidência:
-**forte**, **moderada**, **preliminar** ou **contestada**. As fontes estão no
-fim do livro.
+
+- **forte**: estudos grandes, repetidos por outros grupos, ou meta-análises de
+  boa qualidade;
+- **moderada**: ensaios ou meta-análises sérios, mas com limites reais;
+- **preliminar**: estudos pequenos, únicos, sem grupo de comparação ou que
+  medem um único momento;
+- **contestada**: há uma discordância ativa, ainda não resolvida, entre os
+  pesquisadores.
 
 As fontes ficam no fim do livro, agrupadas por capítulo, cada uma com o
 lugar onde foi conferida. Quando o texto cita um sutta, diz de que tradução.

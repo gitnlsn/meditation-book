@@ -49,7 +49,7 @@ adiante.
 
 ## Quanto tempo a mente passa fora
 
-Até então, a divagação vinha sendo estudada sobretudo em laboratório, com
+Antes de 2010, a divagação vinha sendo estudada sobretudo em laboratório, com
 tarefas artificiais; medições no dia a dia eram raras e com poucas pessoas.
 A pergunta "quanto as pessoas divagam na vida real, e isso as
 deixa mais ou menos felizes?" exigia perguntar a muita gente, em momentos
@@ -57,7 +57,7 @@ aleatórios do dia, o que estavam fazendo e pensando naquele instante. Em
 2010, um aplicativo de celular tornou isso possível.
 
 ::: {.relatorio}
-**O estudo.** Matthew Killingsworth e Daniel Gilbert, Universidade Harvard,
+**O estudo.** Matthew Killingsworth e Daniel Gilbert,
 publicado na *Science* em 2010. Um aplicativo de iPhone contatava os
 participantes em momentos aleatórios do dia e perguntava: como você está se
 sentindo agora (de 0 a 100)? O que está fazendo? Está pensando em algo
@@ -179,7 +179,7 @@ mais ambiciosas são contestadas.
 
 ## O que muda em quem medita
 
-Em 2011, Judson Brewer e colegas, da Universidade Yale, examinaram com fMRI
+Em 2011, Judson Brewer e colegas examinaram com fMRI
 meditadores experientes e pessoas sem experiência em meditação enquanto
 praticavam vários tipos de meditação. Nos meditadores, duas regiões centrais
 da rede de modo padrão — o córtex pré-frontal medial e o cingulado
@@ -198,7 +198,7 @@ interessante, não uma demonstração.
 
 ## Perceber que divagou: a metaconsciência
 
-Um estudo de Wendy Hasenkamp e colegas (2012), na Universidade Emory, olhou
+Um estudo de Wendy Hasenkamp e colegas (2012) olhou
 para o momento mais modesto da prática, e talvez o mais importante. Catorze
 praticantes de meditação fizeram meditação com foco na respiração dentro do
 aparelho de fMRI. Toda vez que percebiam que a mente tinha saído da

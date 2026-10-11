@@ -211,7 +211,7 @@ A tabela resume o capítulo inteiro. Contra "nada", mindfulness parece bom.
 Contra algo parecido, o efeito encolhe. Contra um tratamento que já
 funciona, empata. Empatar com um tratamento eficaz é um resultado real e
 útil — significa que mindfulness pode ser uma alternativa para algumas
-pessoas —, mas é muito diferente da manchete "meditação é melhor que
+pessoas, numa escolha feita com quem acompanha o tratamento —, mas é muito diferente da manchete "meditação é melhor que
 terapia".
 
 ## O que não chega a ser publicado: viés de publicação
@@ -243,7 +243,8 @@ funcional. É um aparelho de ressonância — o mesmo tipo usado em hospitais �
 programado para registrar mudanças na oxigenação do sangue em cada pequeno
 ponto do cérebro. Quando uma região trabalha mais, o
 fluxo de sangue oxigenado para ela muda, e o aparelho detecta isso. Ou seja,
-a fMRI não vê neurônios funcionando: vê um sinal do sangue que acompanha a
+a fMRI não vê neurônios (as células que transmitem sinais, apresentadas em
+{{cap:neuroplasticidade-sem-exagero}}) funcionando: vê um sinal do sangue que acompanha a
 atividade dos neurônios (Raichle et al., 2001).
 
 Esse sinal é fraco e cheio de ruído, e a análise exige estatística
@@ -270,7 +271,8 @@ certo, e com quantas pessoas?".
 
 Há um erro mais sutil, e ele aparece mesmo em estudos bem analisados. Ele
 tem nome: **inferência reversa**. É deduzir um estado mental a partir da
-ativação de uma região do cérebro: "a amígdala acendeu, então a pessoa
+ativação de uma região do cérebro: "a amígdala (uma pequena região ligada à
+detecção de ameaça e de relevância emocional) acendeu, então a pessoa
 sentiu medo"; "a região da recompensa acendeu, então a meditação dá prazer".
 
 O raciocínio parece natural, mas vai na direção errada. Os estudos mostram

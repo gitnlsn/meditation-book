@@ -20,7 +20,7 @@ evidence: ansiedade, depressão, estresse (moderada); prevenção de recaída co
 caveats: efeitos pequenos a moderados; não supera tratamentos ativos; não substitui
   tratamento
 sources: Goyal et al. 2014; Galante et al. 2021; Galante et al. 2023; Goldberg et al.
-  2018; Goldberg & Tucker 2019; Kuyken et al. 2015 (PREVENT); Kuyken et al. 2016; Hoge
+  2018; Goldberg & Tucker 2020; Kuyken et al. 2015 (PREVENT); Kuyken et al. 2016; Hoge
   et al. 2023; Kuyken et al. 2022 (MYRIAD); Hölzel et al. 2011; Kral et al. 2022; Brook
   et al. 2013 (AHA); Kabat-Zinn 1982; Kabat-Zinn 2003; Van Dam et al. 2018
 status: draft
@@ -134,33 +134,21 @@ melhorar.
 
 A pergunta que mais importa para quem está decidindo o que fazer não é "a
 meditação é melhor do que nada?", e sim "é melhor do que as alternativas?".
-Simon Goldberg e colegas (2018) responderam a ela para pessoas com
-transtornos psiquiátricos, reunindo 142 amostras e 12.005 participantes e
-classificando cada estudo pelo tipo de comparação:
+A resposta mais completa é a meta-análise de Simon Goldberg e colegas (2018),
+com 142 amostras e 12.005 pessoas com transtornos psiquiátricos, apresentada
+em detalhe no capítulo {{cap:como-saber-se-algo-funciona}}: o tamanho de
+efeito cai de 0,55 contra nenhum tratamento para praticamente zero (−0,004)
+contra tratamentos com evidência estabelecida. É o padrão de quase toda a
+área: quanto mais forte o comparador, menor a vantagem, até ela sumir
+diante de um tratamento que já funciona.
 
-| Comparado com | Tamanho de efeito ao fim do tratamento |
-|---|---|
-| Nenhum tratamento | 0,55 |
-| Tratamento mínimo | 0,37 |
-| Controle ativo inespecífico | 0,35 |
-| Controle ativo específico | 0,23 |
-| Tratamento com evidência estabelecida | praticamente zero (−0,004) |
-
-A tabela mostra o padrão de quase toda a área: quanto mais forte o
-comparador, menor a vantagem, até ela sumir diante de um tratamento que já
-funciona. Os dados mais consistentes foram para depressão, dor, tabagismo e
-outras dependências.
-
-Uma segunda análise dos mesmos estudos (Goldberg & Tucker 2019) acrescentou
-um detalhe incômodo. Em 60 comparações com outras terapias de verdade
-(5.627 pessoas), as intervenções de mindfulness tiveram uma pequena vantagem
-(g = 0,13). Mas essa vantagem estava associada à **lealdade dos
-pesquisadores**: estudos conduzidos por quem tinha preferência declarada pelo
-mindfulness encontravam efeitos maiores. Quando essa preferência estava
-ausente ou equilibrada entre os tratamentos, a vantagem desaparecia. É o
-tipo de viés que {{cap:como-saber-se-algo-funciona}} ensina a procurar, e
-mostra por que a crítica de Van Dam e colegas (2018) ao exagero na área
-continua necessária.
+A reanálise de Goldberg e Tucker (2020), discutida no mesmo capítulo,
+acrescentou um detalhe incômodo. A pequena vantagem do mindfulness sobre
+outras terapias de verdade (g = 0,13, em 60 comparações) estava associada à
+**lealdade dos pesquisadores** — a preferência declarada de quem conduzia o
+estudo — e desaparecia quando essa preferência estava ausente ou
+equilibrada. É por isso que a crítica de Van Dam e colegas (2018) ao exagero
+na área continua necessária.
 
 **Conclusão:** mindfulness funciona mais ou menos tanto quanto outros
 tratamentos ativos. Não funciona mais. **Força da evidência: moderada.**
@@ -269,7 +257,7 @@ pessoas que nunca tinham meditado, sorteadas para MBSR (75), para um programa
 de saúde com o mesmo formato mas sem meditação (73) ou para lista de espera
 (70), com ressonância antes e depois. Não encontrou **nenhuma evidência** de
 que o MBSR mudasse o volume ou a densidade de massa cinzenta, ou a espessura
-do córtex, em comparação com qualquer um dos controles — nem no cérebro
+do córtex (a camada externa do cérebro), em comparação com qualquer um dos controles — nem no cérebro
 inteiro, nem nas regiões apontadas pelos estudos anteriores.
 
 Isso não prova que a meditação nunca muda a estrutura do cérebro. Os próprios
@@ -313,7 +301,7 @@ Meditação Transcendental; insuficiente para as demais.**
 | Estresse e sofrimento na população geral (Galante 2021) | Programas de mindfulness × nada ou outras práticas; 136 ensaios, 11.605 pessoas | Melhora contra nada; nenhuma superioridade contra práticas ativas específicas | Moderada |
 | Sofrimento psicológico (Galante 2023) | Programas presenciais × controles passivos; 13 ensaios, 2.371 pessoas | Redução pequena a moderada (0,32), consistente | Moderada (controle passivo) |
 | Transtornos psiquiátricos (Goldberg 2018) | Mindfulness × cinco tipos de comparador; 142 amostras, 12.005 pessoas | De 0,55 contra nada a zero contra tratamentos estabelecidos | Moderada |
-| Vantagem sobre outras terapias (Goldberg & Tucker 2019) | 60 comparações com terapias de verdade | Vantagem pequena (0,13), ligada à lealdade dos pesquisadores; some sem ela | Moderada |
+| Vantagem sobre outras terapias (Goldberg & Tucker 2020) | 60 comparações com terapias de verdade | Vantagem pequena (0,13), ligada à lealdade dos pesquisadores; some sem ela | Moderada |
 | Recaída na depressão recorrente (Kuyken 2016) | MBCT × sem MBCT; 9 ensaios, 1.258 pessoas | Recaída em 60 semanas: 38% × 49% | Moderada a forte |
 | Recaída: MBCT × remédio (PREVENT 2015) | MBCT com redução do remédio × antidepressivo de manutenção; 424 pessoas, 2 anos | 44% × 47%; sem diferença | Forte |
 | Transtornos de ansiedade (Hoge 2023) | MBSR × escitalopram; 276 sorteados, 208 analisados | Não inferior (queda de 1,35 × 1,43 pontos); menos eventos adversos | Moderada (um ensaio) |

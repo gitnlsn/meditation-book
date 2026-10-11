@@ -94,8 +94,8 @@ a sensação de que esta experiência precisa ser diferente agora. Querer
 almoçar não é taṇhā no sentido técnico; precisar que o almoço seja
 exatamente como você imaginou, e sofrer porque não foi, é.
 
-Essa distinção vai voltar na Parte II, quando o livro falar de recompensa e
-hábito. Por enquanto, basta notar que o budismo não localiza a causa do
+Essa distinção vai voltar no capítulo {{cap:atencao-emocao-e-habito}},
+quando o livro falar de recompensa e hábito. Por enquanto, basta notar que o budismo não localiza a causa do
 sofrimento no mundo lá fora, e sim numa resposta interna ao mundo.
 
 ### Nirodha e nirvana: cessação, não anestesia
@@ -116,8 +116,8 @@ a mente as agarre ou as empurre.
 **Magga** é "caminho". A quarta verdade não diz "acredite"; diz "faça". O
 Nobre Caminho Óctuplo tem oito elementos: visão correta, intenção correta,
 fala correta, ação correta, modo de vida correto, esforço correto, atenção
-correta e concentração correta. Só os três últimos correspondem ao que
-hoje chamamos de meditação. O capítulo {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
+correta e concentração correta. Só os dois últimos — e, em parte, o
+esforço — correspondem ao que hoje chamamos de meditação. O capítulo {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
 explica por que isso importa.
 
 ## A estrutura de diagnóstico
@@ -192,8 +192,9 @@ O sutta diz mais uma coisa, e ela é a parte mais fina do argumento. Quando a
 pessoa comum é atingida pela dor, ela **resiste** a ela, e a seguir **procura
 prazer sensorial** como saída, "porque não conhece outra saída para a dor
 além do prazer dos sentidos". As duas reações — empurrar a dor e correr para
-o prazer — são exatamente as duas formas de taṇhā que a segunda verdade
-descreveu. A segunda flecha é taṇhā em ação.
+o prazer — correspondem a duas das três formas de taṇhā que a segunda
+verdade descreveu: a sede de prazeres dos sentidos e a sede de que algo
+deixe de existir. A segunda flecha é taṇhā em ação.
 
 Note o que o texto *não* diz. Não diz que o praticante não sente dor, nem
 que ele deveria fingir que não sente. A primeira flecha é inevitável: corpo
@@ -215,8 +216,7 @@ dolorosa:
 Parecem a mesma coisa, mas podem ser separadas em laboratório.
 
 ::: {.relatorio}
-**O estudo.** Rainville e colegas, Universidade de Montréal, publicado na
-*Science* em 1997. Participantes hipnotizados receberam estímulos dolorosos
+**O estudo.** Rainville e colegas, publicado na *Science* em 1997. Participantes hipnotizados receberam estímulos dolorosos
 de calor enquanto o cérebro era examinado. As sugestões hipnóticas pediam que o *desagrado* da dor
 aumentasse ou diminuísse, sem mudar a intensidade.
 
@@ -245,7 +245,8 @@ leitura é útil como imagem, mas tem limites que devem ser ditos:
    da dor pode mudar sem a sensorial mudar. Não mostra que a meditação produz
    esse efeito. Se produz, e quanto, é assunto do capítulo
    {{cap:o-corpo-o-sono-e-a-dor}}, e a resposta curta é: há evidência, de
-   força moderada e com efeitos menores do que se costuma divulgar.
+   força moderada a preliminar e com efeitos menores do que se costuma
+   divulgar.
 3. **Não existe "o lugar do sofrimento" no cérebro.** Dizer que o budismo
    "descobriu o cingulado anterior" seria o tipo de exagero que este livro
    promete evitar.
@@ -300,6 +301,10 @@ nas costas, uma mensagem irritante.
 O objetivo não é sentir menos. É começar a perceber que existem duas coisas
 onde antes parecia haver uma. Esse perceber é a matéria-prima de todas as
 práticas da Parte III.
+
+O exercício é para incômodos pequenos. Uma dor nova, forte ou que não passa
+é assunto para avaliação médica, e notar a segunda flecha não substitui
+tratamento.
 
 ## O que fica estabelecido
 

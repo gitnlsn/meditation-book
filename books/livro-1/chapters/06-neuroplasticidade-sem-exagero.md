@@ -211,16 +211,14 @@ e colegas (2011), comparou poucas dezenas de pessoas, sem sorteio, com um
 grupo em lista de espera — exatamente o tipo de desenho que o capítulo
 {{cap:como-saber-se-algo-funciona}} mostrou ser fraco.
 
-O teste mais rigoroso veio em 2022, do laboratório de Richard Davidson, um
-centro dedicado justamente à pesquisa sobre meditação. Tammi Kral e colegas
-juntaram dois ensaios randomizados: 218 pessoas que nunca tinham meditado
-foram sorteadas para o MBSR (75), para um controle ativo equivalente (73)
-ou para a lista de espera (70), e fizeram ressonância antes e depois. Não
-houve nenhuma mudança estrutural atribuível ao MBSR — nem em volume, nem em
-densidade de massa cinzenta, nem em espessura do córtex (a camada externa
-do cérebro), nem nas regiões apontadas pelos estudos anteriores. Os achados
-de Hölzel não se repetiram. Força da evidência: forte, para a ausência de
-mudança estrutural detectável após oito semanas em adultos saudáveis.
+Quando a mesma ideia foi testada com rigor muito maior — um ensaio
+randomizado de 2022, do laboratório de Richard Davidson, com mais de duzentas
+pessoas, controle ativo e lista de espera (Kral e colegas) —, não apareceu
+nenhuma mudança estrutural atribuível ao MBSR, nem nas regiões apontadas
+pelos estudos anteriores. Os achados de Hölzel não se repetiram. O estudo
+está descrito em {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}. Força
+da evidência para mudança estrutural com oito semanas de prática:
+contestada, e ausente no maior ensaio.
 
 Duas leituras erradas devem ser evitadas. A primeira é concluir que a
 meditação "não faz nada no cérebro": se ela muda atenção ou hábitos, muda
