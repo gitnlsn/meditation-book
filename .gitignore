@@ -1,0 +1,13 @@
+dist/
+.DS_Store
+*.pdf.tmp
+# vale packages, fetched with `vale sync`
+styles/
+.vale-cache/
+# The works themselves stay out of the repo -- most are in copyright, and the
+# rest are large. The *records* of what was verified against them are the
+# book's citation audit trail and must be tracked, so the convention is: a
+# record is .md, a work never is. See sources/README.md; what was checked goes
+# in sources/VERIFIED.md and docs/<livro>/references.md.
+sources/*
+!sources/*.md

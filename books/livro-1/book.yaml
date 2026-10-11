@@ -1,0 +1,74 @@
+# Fonte única de verdade deste livro. Tudo a jusante -- metadados do EPUB, PDF
+# de impressão, largura da lombada, texto do anúncio na KDP -- lê daqui.
+#
+# Não ficção: meditação, budismo, neurociência e neuroplasticidade, para quem
+# parte do zero. O título ainda não foi decidido; `livro-1` é o slug-semente.
+
+slug: livro-1       # título de trabalho
+title: Livro 1      # [[?autor: título]]
+subtitle:           # [[?autor: subtítulo]]
+author: Íris Gradim      # o pseudônimo de todos os livros até aqui
+language: pt
+region: BR
+
+# Livro avulso, não série. Com `name` vazio, nem o EPUB nem a folha de rosto
+# anunciam uma coleção (ver build.py, belongs-to-collection).
+series:
+  name: ""
+  number: 1
+
+publisher: ""
+copyright_year: 2026
+rights: Todos os direitos reservados.
+edition: Primeira edição
+isbn: ""                 # em branco usa o identificador gratuito da KDP
+colophon: |
+  Composto em Libertinus Serif.
+  Texto escrito com contribuição intensa de inteligência artificial, sob
+  direção humana; ver "Antes de começar".
+  Este livro não substitui acompanhamento médico ou psicológico.
+  Tipografia e composição produzidas com ferramentas abertas.
+
+# Rótulos que aparecem impressos. Trocar aqui traduz o livro inteiro.
+labels:
+  chapter: Capítulo
+  contents: Sumário
+  book: Livro
+  part: Parte
+
+kdp:
+  description: |
+    [[?autor: o texto do anúncio, depois do rascunho]]
+  keywords: []          # [[?autor: sete palavras-chave, quando o título estiver decidido]]
+  categories:           # [[?autor: confirmar as três categorias]]
+    - Corpo, Mente e Espírito > Meditação
+    - Religião > Budismo
+    - Ciência > Ciências da Vida > Neurociência
+  age_range: adulto
+  price_usd: 14.99
+
+cover_guides: false   # true só enquanto a capa está sendo desenhada
+
+print:
+  # Formato de não ficção, o mesmo de Manual da Vida.
+  trim: [6in, 9in]
+  paper: cream
+  interior: bw
+  bleed: false
+  font_size: 11pt
+  leading: 0.78em
+  outer_margin: 0.625in
+  top_margin: 0.7in
+  bottom_margin: 0.75in
+  gutter_extra: 0.375in
+  illustration_width: 0.74
+
+epub:
+  cover: cover.png
+  illustration_format: jpg
+  illustration_max_px: 1400
+
+cover:                  # [[?autor: paleta]]; estes são neutros
+  bg: "#1f2328"
+  ink: "#f2efe9"
+  accent: "#c9a227"

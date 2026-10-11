@@ -1,0 +1,73 @@
+# The English edition of livro-1. A separate book, not a variant: the
+# Portuguese manuscript is canon, and every chapter here names its source and
+# the hash of the source body it was translated from. `make traducao` lists the
+# ones that have fallen behind. Rules: docs/translation-en.md and
+# docs/livro-1/translation-en.md.
+
+slug: book-1       # título de trabalho
+title: Book 1      # [[?autor: English title]]
+subtitle:           # [[?autor: English subtitle]]
+author: Íris Gradim      # the pen name of every book so far
+language: en
+region: US
+
+series:
+  name: ""
+  number: 1
+
+publisher: ""
+copyright_year: 2026
+rights: All rights reserved.
+edition: First English edition
+isbn: ""
+colophon: |
+  Set in Libertinus Serif.
+  Written with extensive contribution from artificial intelligence, under
+  human direction; see "Before You Begin". Translated from the Portuguese the
+  same way.
+  This book is not a substitute for medical or psychological care.
+  Typesetting and layout produced with open tools.
+
+labels:
+  chapter: Chapter
+  contents: Contents
+  book: Book
+  part: Part
+  opener: Part opener illustration
+
+kdp:
+  description: |
+    [[?autor: translated from the Portuguese blurb]]
+  keywords: []          # seven, once the title is decided
+  categories:
+    - Body, Mind & Spirit > Meditation
+    - Religion > Buddhism > General
+    - Science > Life Sciences > Neuroscience
+  age_range: adult
+  price_usd: 14.99
+
+cover_guides: false
+
+print:
+  # Same as the Portuguese edition.
+  trim: [6in, 9in]
+  paper: cream
+  interior: bw
+  bleed: false
+  font_size: 11pt
+  leading: 0.78em
+  outer_margin: 0.625in
+  top_margin: 0.7in
+  bottom_margin: 0.75in
+  gutter_extra: 0.375in
+  illustration_width: 0.74
+
+epub:
+  cover: cover.png
+  illustration_format: jpg
+  illustration_max_px: 1400
+
+cover:                  # same palette as the Portuguese edition
+  bg: "#1f2328"
+  ink: "#f2efe9"
+  accent: "#c9a227"
