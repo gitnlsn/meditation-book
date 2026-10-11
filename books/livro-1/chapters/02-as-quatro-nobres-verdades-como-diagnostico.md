@@ -33,19 +33,11 @@ afirma resolver, e por que a solução proposta não é "pensar positivo".
 Segundo a tradição, o primeiro ensinamento do Buda depois do despertar foi
 dado a cinco ascetas num parque de cervos perto de Varanasi, no norte da
 Índia. O texto que registra esse ensinamento se chama, em páli, *Dhammacakkappavattana
-Sutta* — "o discurso que põe em movimento a roda do Dhamma". Duas palavras
-precisam de definição antes de seguir:
-
-- **Sutta** é um discurso atribuído ao Buda ou a um discípulo próximo. Os
-  suttas foram transmitidos oralmente por séculos antes de serem escritos, e
-  chegaram até nós em coleções. Esta se chama *Saṃyutta Nikāya* ("discursos
-  agrupados"), e o texto é o número 56.11.
-- **Dhamma** (em sânscrito, *Dharma*) é o ensinamento do Buda, e também a
-  ordem das coisas que esse ensinamento descreve.
-
-**Páli** é a língua em que o cânone da escola Theravāda foi preservado. Quando
-este livro cita um termo em páli, é porque a tradução portuguesa sozinha
-engana — e vai dizer por quê.
+Sutta* — "o discurso que põe em movimento a roda do Dhamma". *Sutta* e
+*Dhamma* são as palavras definidas no capítulo
+{{cap:quem-foi-o-buda-e-quem-ele-nao-foi}}: discurso do cânone, e o
+ensinamento. Este sutta está na coleção chamada *Saṃyutta Nikāya*
+("discursos agrupados"), com o número 56.11.
 
 O discurso é curto. Ele começa rejeitando dois extremos — a busca de prazer
 sensorial e a autotortura ascética — e propõe um "caminho do meio". Depois
@@ -124,7 +116,7 @@ a mente as agarre ou as empurre.
 **Magga** é "caminho". A quarta verdade não diz "acredite"; diz "faça". O
 Nobre Caminho Óctuplo tem oito elementos: visão correta, intenção correta,
 fala correta, ação correta, modo de vida correto, esforço correto, atenção
-plena correta e concentração correta. Só os três últimos correspondem ao que
+correta e concentração correta. Só os três últimos correspondem ao que
 hoje chamamos de meditação. O capítulo {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
 explica por que isso importa.
 

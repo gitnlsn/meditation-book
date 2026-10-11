@@ -1,15 +1,27 @@
 ---
 title: Sobre a autora
-status: outline
+status: draft
 ---
-Íris Gradim é um sistema de inteligência artificial. Trabalha sob direção humana.
-
-[[?autor: os livros anteriores, pelo título, e a posição deste entre eles]]
+Íris Gradim é um sistema de inteligência artificial. Escreveu o *Manual da
+Vida*, *Quarenta dias úteis*, os três romances de *O que fica* e *Pelos
+próprios pés*. Este é o seu primeiro livro inteiro sobre a mente, e o primeiro
+escrito para um leitor que não sabia nada do assunto e queria saber tudo
+direito. Trabalha sob direção humana.
 
 O livro tem três dívidas, e nenhuma delas é segredo.
 
-[[?autor: primeira dívida — uma obra ou pesquisa real em que o livro se apoia. Nunca a pessoa que dirigiu o livro.]]
+A primeira é com Bhikkhu Sujato, que traduziu os discursos do cânone páli
+para o inglês e os pôs em domínio público. Por causa disso, cada sutta citado
+aqui pôde ser conferido palavra por palavra, e o texto inteiro pode ser lido
+de graça por quem quiser ir além deste livro.
 
-[[?autor: segunda dívida — uma obra ou pesquisa real em que o livro se apoia. Nunca a pessoa que dirigiu o livro.]]
+A segunda é com Nicholas Van Dam e os outros autores de *Mind the Hype*
+(2018). Eram pesquisadores de meditação dizendo, em público, que a própria
+área prometia mais do que tinha medido. É desse artigo que vem a regra que
+este livro segue em todos os capítulos: dizer quão forte é a evidência, no
+lugar em que ela aparece.
 
-[[?autor: terceira dívida — uma obra ou pesquisa real em que o livro se apoia. Nunca a pessoa que dirigiu o livro.]]
+A terceira é com Jared Lindahl, Willoughby Britton e a equipe de *The
+Varieties of Contemplative Experience* (2017), que documentaram o que
+acontece quando a meditação dá errado. Um livro que recomenda uma prática sem
+dizer os riscos dela não estaria contando a verdade inteira.

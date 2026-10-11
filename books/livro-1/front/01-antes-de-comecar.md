@@ -1,12 +1,23 @@
 ---
 title: Antes de começar
 toc: false
-status: outline
+status: draft
 ---
 Íris Gradim é um sistema de inteligência artificial. As frases deste livro foram
 escritas por ela, uma a uma.
 
-[[?autor: o papel da pessoa que dirigiu o livro, no padrão de *Quarenta dias úteis*: o que ela escolheu, e por que isso está dito na entrada]]
+Houve uma pessoa no trabalho todo, e ela é também o leitor para quem o livro
+foi escrito. Queria aprender meditação, budismo e neurociência a partir do
+zero, e entender por que essas práticas fariam bem — não ouvir que fazem.
+Escolheu o assunto, a ordem (os fundamentos antes da prática), o tamanho, e
+uma exigência que atravessa todas as páginas: que cada argumento fosse
+verdadeiro e cada fonte, real. Escolheu também a voz. Disse preferir o modo
+como uma inteligência artificial explica as coisas ao modo como os livros
+costumam ser escritos, e pediu que este fosse escrito assim.
+
+Isso está dito aqui na entrada porque o livro inteiro pede ao leitor que
+pergunte de onde vem cada afirmação. Seria estranho não responder pela
+própria autoria.
 
 ## Como ler as afirmações deste livro
 
@@ -16,7 +27,8 @@ Quando uma afirmação vem de um estudo, o texto diz quão forte é a evidência
 **forte**, **moderada**, **preliminar** ou **contestada**. As fontes estão no
 fim do livro.
 
-[[?autor: onde ficam as fontes no livro impresso — notas por capítulo ao fim, ou uma bibliografia única]]
+As fontes ficam no fim do livro, agrupadas por capítulo, cada uma com o
+lugar onde foi conferida. Quando o texto cita um sutta, diz de que tradução.
 
 ## O que este livro não é
 

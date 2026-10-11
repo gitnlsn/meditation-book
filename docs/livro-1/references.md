@@ -183,7 +183,7 @@ The paper that named the "default mode". This is the background for every later 
 Verified via https://pmc.ncbi.nlm.nih.gov/articles/14647.
 
 **Killingsworth, M. A., & Gilbert, D. T. (2010). A wandering mind is an unhappy mind.** *Science* 330(6006): 932. [core]
-Experience sampling via an iPhone app: 2,250 adults and about 250,000 data points. Minds wandered 46.9% of waking time, and people were less happy when wandering. Time-lag analyses suggested wandering preceded unhappiness. The best opening hook for the book. Evidence: moderate (large sample, but self-selected app users, correlational).
+Experience sampling via an iPhone app: the analysis used 2,250 adults (the ~250,000 samples from ~5,000 people describe the whole database, not this analysis — corrected 2026-10-11 against the paper). Minds wandered 46.9% of waking time, and people were less happy when wandering. Time-lag analyses suggested wandering preceded unhappiness. The best opening hook for the book. Evidence: moderate (large sample, but self-selected app users, correlational).
 Verified via https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/ and https://www.imm.uzh.ch/news/schatzkammer/Science_2010.330.932.pdf.
 
 **Smallwood, J., & Schooler, J. W. (2015). The science of mind wandering: empirically navigating the stream of consciousness.** *Annual Review of Psychology* 66: 487–518. doi:10.1146/annurev-psych-010814-015331.
@@ -291,7 +291,7 @@ A balanced review of RCTs across health, cognition, affect and relationships; se
 Verified via https://sources.mandala.library.virginia.edu/node/64686 and https://en.wikipedia.org/wiki/David_Creswell.
 
 **Goldberg, S. B., Tucker, R. P., Greene, P. A., et al. (2018). Mindfulness-based interventions for psychiatric disorders: A systematic review and meta-analysis.** *Clinical Psychology Review* 59: 52–60. [core]
-142 samples and 12,005 participants. MBIs beat no treatment and non-specific active controls (d = 0.35), and specific active controls (d = 0.23), but were **equivalent to evidence-based treatments** (d ≈ 0). The best support is for depression, pain, smoking and addictions. (The brief's "Goldberg 2017" is this paper; it was online in 2017 and in print in 2018.) Evidence: moderate.
+142 samples and 12,005 participants. Per the abstract (corrected 2026-10-11): d = 0.55 vs no treatment, 0.37 vs minimal treatment, 0.35 vs non-specific active controls, 0.23 vs specific active controls, and **−0.004 vs evidence-based treatments** (equivalent). The best support is for depression, pain, smoking and addictions. (The brief's "Goldberg 2017" is this paper; it was online in 2017 and in print in 2018.) Evidence: moderate.
 Verified via https://repository.lsu.edu/psychology_pubs/1041 and https://www.mindandlife.org/media/meditation-for-mental-health-how-does-mindfulness-compare-to-other-treatments/.
 
 **Hilton, L., Hempel, S., Ewing, B. A., et al. (2017). Mindfulness meditation for chronic pain: systematic review and meta-analysis.** *Annals of Behavioral Medicine* 51(2): 199–213. doi:10.1007/s12160-016-9844-2. [care]
@@ -451,7 +451,7 @@ Verified via https://scholars.uky.edu/en/publications/intensive-meditation-train
 Verified via https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0050138 (fetched).
 
 **Tang, Y.-Y., Ma, Y., Wang, J., et al. (2007). Short-term meditation training improves attention and self-regulation.** *PNAS* 104(43): 17152–17156.
-40 Chinese undergraduates given 5 days × 20 minutes of integrative body–mind training, vs relaxation training. Better executive attention (ANT), better mood, and lower cortisol. [care] Small, very short, and the authors call for larger studies. Evidence: preliminary.
+40 Chinese undergraduates in the experimental group (corrected 2026-10-11: not the whole sample) given 5 days × 20 minutes of integrative body–mind training, vs relaxation training. Better executive attention (ANT), better mood, and lower cortisol. [care] Small, very short, and the authors call for larger studies. Evidence: preliminary.
 Verified via https://pubmed.ncbi.nlm.nih.gov/17940025/.
 
 ---
@@ -522,7 +522,7 @@ Verified via https://pmc.ncbi.nlm.nih.gov/articles/PMC3257026.
 An insider's list of the problems: blinding is impossible, control conditions are hard, self-report measures are weak, and definitions are fuzzy. Evidence: n/a (methods review).
 Verified via https://pmc.ncbi.nlm.nih.gov/articles/PMC4627495.
 
-**Goldberg, S. B., & Tucker, R. P. (2019/2020). Allegiance effects in mindfulness-based interventions for psychiatric disorders: a meta-re-analysis.** *Psychotherapy Research* 30(6): 753–762. doi:10.1080/10503307.2019.1664783. [core]
+**Goldberg, S. B., & Tucker, R. P. (2020; online 2019). Allegiance effects in mindfulness-based interventions for psychiatric disorders: a meta-re-analysis.** *Psychotherapy Research* 30(6): 753–762. doi:10.1080/10503307.2019.1664783. [core]
 60 comparisons (n = 5,627). MBIs' small edge over other bona fide treatments (g = 0.13) was linked to **researcher allegiance**, meaning investigators who favour mindfulness found bigger effects. Evidence: moderate.
 Verified via https://digitalscholar.lsuhsc.edu/som_facpubs/1960 and https://pmc.ncbi.nlm.nih.gov/articles/PMC6602541.
 
@@ -609,3 +609,166 @@ SĀ 389 compara o Buda a um médico com quatro habilidades; não há prova de es
 
 **Rainville P, Duncan GH, Price DD, Carrier B, Bushnell MC (1997). Pain affect encoded in human anterior cingulate but not somatosensory cortex.** *Science* 277(5328): 968–971. doi:10.1126/science.277.5328.968
 Sugestão hipnótica mudou o desagrado da dor sem mudar a intensidade; cingulado anterior acompanhou o desagrado, S1 não. Evidence: moderate (distinção amplamente aceita; estudo pequeno, PET). Verified via PubMed PMID 9252330.
+
+
+## Fontes acrescentadas nos capítulos "Quem foi o Buda", "Impermanência e não-eu" e "O caminho"
+
+**Sujato, Bhikkhu (trad.). Anattalakkhaṇa Sutta (SN 22.59), Magga-vibhaṅga Sutta (SN 45.8), Cūḷavedalla Sutta (MN 44), Satipaṭṭhāna Sutta (MN 10) e Kālāma Sutta (AN 3.65).** SuttaCentral, CC0. https://suttacentral.net [core]
+Traduções em domínio público usadas nas citações; textos em `sources/sujato-*.md` (sn22.59, sn45.8, mn44, mn10, an3.65). Evidence: n/a (text). Usado em: "Impermanência e não-eu"; "O caminho, e onde a meditação entra nele". (Pode ser fundido à entrada Sujato da seção 12.)
+
+**Siderits, Mark (2011; rev. 2023). Buddha.** *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/buddha/ [core]
+Datas do Buda (tradicional 560–480 a.C.; muitos estudiosos hoje: morte c. 405 a.C.), clã Śākya, textos escritos séculos depois; reconstrução dos argumentos de SN 22.59; momentaneidade como desenvolvimento posterior; debate sobre se o Buda nega o eu "tout court". Substitui, para fatos verificáveis, Gethin 1998, que não pôde ser lido. Evidence: n/a (scholarly synthesis). Verified via the URL (lido 2026-10-11; cópia em `sources/sep-buddha-en.txt`).
+
+**Hayes, Richard (2010; rev. 2023). Madhyamaka.** *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/madhyamaka/
+Madhyamaka como uma das duas principais escolas do Mahāyāna indiano; vacuidade de natureza própria (svabhāva-śūnyatā); caminho gradual do bodhisattva. Evidence: n/a (scholarly synthesis). Verified via the URL (lido 2026-10-11).
+
+**Nagatomo, Shigenori (2006; rev. 2024). Japanese Zen Buddhist Philosophy.** *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/japanese-zen/
+Etimologia Zen < Chán < dhyāna; os três componentes do estudo budista (sīla, samādhi, prajñā). Evidence: n/a (scholarly synthesis). Verified via the URL (lido 2026-10-11).
+
+**Pew Research Center (2012, Dec 18). Buddhists (The Global Religious Landscape).** https://www.pewresearch.org/religion/2012/12/18/global-religious-landscape-buddhist/
+c. 488 milhões de budistas (7% da população mundial em 2010); ~99% na Ásia-Pacífico; metade na China; países onde predominam Mahāyāna, Theravāda e Vajrayāna. Evidence: moderate (demographic estimate; branch affiliation is not measured in most censuses, as the page says). Verified via the URL (lido 2026-10-11).
+
+**Lush, P., Botan, V., Scott, R. B., Seth, A. K., Ward, J., & Dienes, Z. (2020). Trait phenomenological control predicts experience of mirror synaesthesia and the rubber hand illusion.** *Nature Communications* 11: 4853. doi:10.1038/s41467-020-18591-6. [care]
+Hipnotizabilidade prevê relatos da ilusão da mão de borracha (n = 353); controles usuais não descartam efeitos de sugestão. [care] Contestado: Ehrsson et al. (2022) respondem que não há relação específica; Lush & Seth (2022) replicam. Evidence: contested. Verified via PubMed PMID 32978377 e PMC7519080.
+
+**Ehrsson, H. H., Fotopoulou, A., Radziun, D., Longo, M. R., & Tsakiris, M. (2022). No specific relationship between hypnotic suggestibility and the rubber hand illusion.** *Nature Communications* 13: 564. doi:10.1038/s41467-022-28177-z
+A resposta a Lush et al. 2020 (com réplica: Lush & Seth 2022, *Nat Commun* 13: 563, doi:10.1038/s41467-022-28178-y). Evidence: contested (ongoing exchange). Verified via Crossref (título e autores).
+
+**Botvinick, M., & Cohen, J. (1998). Rubber hands 'feel' touch that eyes see.** *Nature* 391(6669): 756. doi:10.1038/35784
+A descrição original da ilusão da mão de borracha. Evidence: moderate para o fenômeno relatado (literatura extensa), contested quanto à interpretação (ver Lush 2020 / Ehrsson 2022). Verified via PubMed PMID 9486643 (registro bibliográfico; sem resumo).
+
+**Calobrisi, Thomas (2020). Review of Evan Thompson, *Why I Am Not a Buddhist*.** *Journal of Global Buddhism* 21: 87–92. doi:10.5281/zenodo.4030991
+Usada para verificar o conteúdo de Thompson 2020 (excepcionalismo budista; Nyanaponika como origem da "ciência da mente"; eu como processo, não ilusão; crítica a Metzinger e Albahari). Evidence: n/a (review). PDF em `sources/`.
+
+### Notas para entradas existentes
+
+- **Kabat-Zinn (2003):** a definição foi conferida no PDF de jonkabat-zinn.com (p. 145); a nota "not confirmed" pode sair. Ver VERIFIED.
+- **Rahula (1959):** edição usada = 2.ª ed. ampliada, Grove Press, 1974 (OCR em `sources/`).
+- **Anālayo (2003):** PDF da Univ. Hamburg agora em `sources/`.
+- **Sharf (2015):** PDF de autor (Berkeley, via web.archive.org) agora em `sources/`.
+- **McMahan (2008):** verificado apenas pela resenha de David Loy (Tricycle, já listada); o capítulo só parafraseia.
+- **Gethin (1998):** listado no outline do capítulo "Quem foi o Buda", mas não pôde ser lido (archive.org restrito); os fatos que dependeriam dele vêm de Siderits/SEP e Pew.
+
+
+## Fontes acrescentadas nos capítulos "Como saber se algo funciona", "Neuroplasticidade sem exagero" e "A mente que divaga"
+
+**Hasenkamp, W., Wilson-Mendenhall, C. D., Duncan, E., & Barsalou, L. W. (2012). Mind wandering and attention during focused meditation: a fine-grained temporal analysis of fluctuating cognitive states.** *NeuroImage* 59(1): 750–760. doi:10.1016/j.neuroimage.2011.07.008.
+14 practitioners in breath-focused meditation inside fMRI pressed a button whenever they noticed mind-wandering. The paper gives a four-phase cycle (wandering, awareness, shifting, sustaining), with default-mode activity during wandering, salience-network activity at awareness, and executive-network activity during shifting and sustaining. It is the cleanest model of "perceber que divagou". Evidence: preliminary (n = 14, no control group, reverse-inference risk).
+Verified via PubMed PMID 21782031. Used in: "A mente que divaga".
+
+**Nolen-Hoeksema, S., Wisco, B. E., & Lyubomirsky, S. (2008). Rethinking rumination.** *Perspectives on Psychological Science* 3(5): 400–424. doi:10.1111/j.1745-6924.2008.00088.x. [core]
+A review of response-styles theory. Rumination worsens depression, negative thinking, problem solving and social support, and predicts the onset of depression. It is also associated with anxiety, binge eating, binge drinking and self-harm. This is the book's source for defining *ruminação*. Evidence: moderate (broad review; much of the data is correlational).
+Verified via PubMed PMID 26158958. Used in: "A mente que divaga".
+
+## Correções a entradas anteriores (caps. 5–7; Goldberg e Killingsworth já aplicadas)
+
+- **Goldberg et al. 2018**: the entry says MBIs "beat no treatment and non-specific active controls (d = 0.35)". The abstract (PMID 29126747) gives **d = 0.55 vs no treatment**, 0.37 vs minimal treatment, 0.35 vs non-specific active controls, 0.23 vs specific active controls and −0.004 vs evidence-based treatments.
+- **Killingsworth & Gilbert 2010**: the entry says "2,250 adults and about 250,000 data points". The paper's *database* held "nearly a quarter of a million samples from about 5000 people". The analysis used samples from 2,250 adults, and the paper does not give the number of samples analysed.
+- **Goldberg & Tucker**: the print year is 2020 (30(6): 753–762), and it was online in 2019.
+
+
+## Fontes acrescentadas nos capítulos "Estresse", "Atenção, emoção e hábito" e "O que a ciência da meditação mostra"
+
+Suggested placement in brackets. All verified 2026-10-11 against the PubMed abstract (or full text where noted); files in `sources/`.
+
+**[§6 Stress, body, emotion] Dickerson, S. S., & Kemeny, M. E. (2004). Acute stressors and cortisol responses: a theoretical integration and synthesis of laboratory research.** *Psychological Bulletin* 130(3): 355–391. doi:10.1037/0033-2909.130.3.355. [core]
+A meta-analysis of 208 lab studies: psychological stressors raise cortisol, and the largest, slowest-to-recover responses come from tasks that are both uncontrollable and carry social-evaluative threat. It is the direct evidence that an imagined or social threat, with no physical danger, switches on the HPA axis. Evidence: strong (that psychological stress raises cortisol); moderate (for the specific controllability/evaluation model).
+Verified via https://pubmed.ncbi.nlm.nih.gov/15122924/ (abstract).
+
+**[§6] Brosschot, J. F., Gerin, W., & Thayer, J. F. (2006). The perseverative cognition hypothesis: a review of worry, prolonged stress-related physiological activation, and health.** *Journal of Psychosomatic Research* 60(2): 113–124. doi:10.1016/j.jpsychores.2005.06.074.
+Worry and rumination prolong physiological stress activation before and after the stressor. The authors call the support preliminary. The physiological bridge for the "second arrow". Evidence: preliminary to moderate (mostly correlational).
+Verified via https://pubmed.ncbi.nlm.nih.gov/16439263/ (abstract).
+
+**[§4 Clinical evidence] Pascoe, M. C., Thompson, D. R., Jenkins, Z. M., & Ski, C. F. (2017). Mindfulness mediates the physiological markers of stress: Systematic review and meta-analysis.** *Journal of Psychiatric Research* 95: 156–178. doi:10.1016/j.jpsychires.2017.08.004. [care]
+45 RCTs of meditation vs *active* controls. Pooled, meditation reduced cortisol, CRP, blood pressure, heart rate, triglycerides and TNF-α; all subtypes reduced systolic BP. [care] Contrasts with Engert et al. 2017 (attention-based training changed self-report, not cortisol) and with Black & Slavich 2016 ("tentative"); the title's "mediates" is not what a meta-analysis of outcomes can show. Evidence: preliminary.
+Verified via https://pubmed.ncbi.nlm.nih.gov/28863392/ (abstract).
+
+**[§8 Attention] Simons, D. J., Boot, W. R., Charness, N., Gathercole, S. E., Chabris, C. F., Hambrick, D. Z., & Stine-Morrow, E. A. L. (2016). Do "brain-training" programs work?** *Psychological Science in the Public Interest* 17(3): 103–186. doi:10.1177/1529100616661983. [core]
+Extensive evidence of gains on trained tasks, less on closely related tasks, little on distant tasks or everyday cognition; many studies had major design flaws. The book's source for the transfer problem. Evidence: strong (for the near/far-transfer pattern in brain training); its application to meditation is by analogy.
+Verified via https://pubmed.ncbi.nlm.nih.gov/27697851/ (abstract).
+
+**[§7 Self, mind, craving and habit] Schultz, W., Dayan, P., & Montague, P. R. (1997). A neural substrate of prediction and reward.** *Science* 275(5306): 1593–1599. doi:10.1126/science.275.5306.1593. [core]
+Dopamine neurons in primates appear to signal reward-prediction errors, linking reinforcement learning theory to the brain. Background for "aprendizagem por reforço". Evidence: strong (foundational, widely replicated).
+Verified via https://pubmed.ncbi.nlm.nih.gov/9054347/ (abstract).
+
+## Correções a entradas anteriores (caps. 8–10) — valem sobre o texto das entradas acima
+
+- **Kuyken et al. 2015 (PREVENT):** 44% vs 47% now confirmed against the primary paper (full-text PDF, "94 (44%) of 212 ... 100 (47%) of 212"), not only the NIHR summary. Open-access copy: https://ndownloader.figshare.com/files/56954984 (University of Exeter repository). MBCT format there: eight 2.25 h group sessions plus four refreshers.
+- **Kuyken et al. 2016:** 38% vs 49% confirmed in PMC6640038 Results (229/596 vs 327/662).
+- **Lally et al. 2010:** the abstract (via repositorio.ispa.pt API) gives 96 volunteers, 82 with usable data, model fitted for 62, good fit for 39, range 18–254 days. **The "66 days" average is not in the abstract**; it is confirmed in Gardner, Lally & Wardle 2012 (bjgp.org full text: "plateau after an average of 66 days"). Cite 66 to Gardner 2012 unless the Lally full text is checked.
+- **Kabat-Zinn 1982:** abstract confirms a 10-week program, 51 patients "who had not improved with traditional medical care", "the present uncontrolled study". PMID 7042457.
+- **Hoge et al. 2023:** the abstract does not itself contain the "authors call for replication" line in the current entry; the chapter does not use it. Assessments were by a blinded clinical interviewer; ITT analysis also showed non-inferiority.
+- **Galante et al. 2021:** the "more than 1 in 20 settings" wording in the entry is an interpretation of the prediction intervals; the abstract says "in most but not all scenarios". The chapter uses the abstract's wording.
+
+
+## Fontes acrescentadas nos capítulos "Atenção na respiração", "Observar sem agarrar" e "Bondade e compaixão como treino"
+
+**Sujato, Bhikkhu (trad.). Ānāpānasati Sutta (MN 118), Satipaṭṭhāna Sutta (MN 10), Vattha Sutta (MN 7) e Metta Sutta / Karaṇīya Mettā Sutta (Snp 1.8).** SuttaCentral, CC0. https://suttacentral.net [core]
+Traduções em domínio público usadas nas citações; textos em `sources/sujato-mn118-en.md`, `sujato-mn10-en.md`, `sujato-mn7-en.md`, `sujato-snp1.8-en.md`. Evidence: n/a (text).
+
+**Buddhaghosa (séc. V). Visuddhimagga — The Path of Purification, trad. Bhikkhu Ñāṇamoli.** Buddhist Publication Society, ed. online 2011. https://www.accesstoinsight.org/lib/authors/nanamoli/PathofPurification2011.pdf [core]
+O manual Theravāda clássico: contagem de respirações (VIII.189–195), ordem da prática de mettā (IX.4–13), inimigos próximos e distantes dos brahmavihāras (IX.98–101). É comentário, não sutta — o livro diz isso. Evidence: n/a (text). PDF em `sources/`.
+
+**Mahasi Sayadaw (1954; trad. ingl. U Pe Thin 1957). Satipatthana Vipassana.** BPS, The Wheel 370/371 (1990). https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html
+Instruções originais da rotulagem (*noting*): "rising/falling", "thinking", "planning", "wandering"; rótulos não vocalizados; conhecer o objeto importa mais que o nome. Evidence: n/a (practice manual). Verified via the URL (fetched; copy in `sources/`).
+
+**Jha, A. P., Morrison, A. B., Dainer-Best, J., Parker, S., Rostrup, N., & Stanley, E. A. (2015). Minds "at attention": mindfulness training curbs attentional lapses in military cohorts.** *PLoS ONE* 10(2): e0116889. doi:10.1371/journal.pone.0116889
+Treino prático de 8 h em 8 semanas manteve a atenção sustentada estável sob demanda militar, melhor que versão didática e que nenhum treino; prática real média ~178 min no total. Sorteio por pelotão; criadora do programa coautora. Evidence: preliminary. Verified via PubMed PMID 25671579 and PMC4324839.
+
+**Hasenkamp, W., Wilson-Mendenhall, C. D., Duncan, E., & Barsalou, L. W. (2012). Mind wandering and attention during focused meditation: a fine-grained temporal analysis of fluctuating cognitive states.** *NeuroImage* 59(1): 750–760. doi:10.1016/j.neuroimage.2011.07.008
+Modelo de quatro fases (divagar, perceber, redirecionar, sustentar) em 14 praticantes com fMRI. Evidence: preliminary (small; network readings subject to reverse inference). Verified via PubMed PMID 21782031.
+
+**Levinson, D. B., Stoll, E. L., Kindy, S. D., Merry, H. L., & Davidson, R. J. (2014). A mind you can count on: validating breath counting as a behavioral measure of mindfulness.** *Frontiers in Psychology* 5: 1202. doi:10.3389/fpsyg.2014.01202
+Quatro estudos, mais de 400 pessoas: contagem de respirações como medida comportamental; 4 semanas de treino online reduziram divagação vs treino de memória e nenhum treino. Evidence: preliminary-to-moderate. Verified via PubMed PMID 25386148.
+
+**Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: affect labeling disrupts amygdala activity in response to affective stimuli.** *Psychological Science* 18(5): 421–428. doi:10.1111/j.1467-9280.2007.01916.x
+Rotular o afeto reduziu a resposta da amígdala a imagens negativas e aumentou a do RVLPFC. Evidence: preliminary (fMRI; reverse-inference caveats). Verified via PubMed PMID 17576282.
+
+**Burklund, L. J., Creswell, J. D., Irwin, M. R., & Lieberman, M. D. (2014). The common and distinct neural bases of affect labeling and reappraisal in healthy adults.** *Frontiers in Psychology* 5: 221. doi:10.3389/fpsyg.2014.00221
+N = 39 adultos mais velhos: rotular e reinterpretar reduziram de modo parecido a amígdala e o desconforto relatado. Evidence: preliminary. Verified via PubMed PMID 24715880.
+
+**Kircanski, K., Lieberman, M. D., & Craske, M. G. (2012). Feelings into words: contributions of language to exposure therapy.** *Psychological Science* 23(10): 1086–1091. doi:10.1177/0956797612443830
+88 pessoas com medo de aranha, 4 grupos de 22: rotular durante a exposição reduziu a condutância da pele uma semana depois, sem reduzir o medo relatado. Evidence: preliminary. Verified via PubMed PMID 22902568 and PMC4721564.
+
+**Zeng, X., Chiu, C. P., Wang, R., Oei, T. P., & Leung, F. Y. (2015). The effect of loving-kindness meditation on positive emotions: a meta-analytic review.** *Frontiers in Psychology* 6: 1693. doi:10.3389/fpsyg.2015.01693
+24 estudos, N = 1.759: efeitos médios sobre emoções positivas diárias; menores em intervenções centradas em compaixão. Evidence: moderate (many waitlist or non-randomized comparisons). Verified via PubMed PMID 26579061.
+
+**Galante, J., Galante, I., Bekkers, M. J., & Gallacher, J. (2014). Effect of kindness-based meditation on health and well-being: a systematic review and meta-analysis.** *Journal of Consulting and Clinical Psychology* 82(6): 1101–1114. doi:10.1037/a0037249
+22 RCTs: efeitos moderados vs controles passivos; inconclusivo vs ativos; qualidade baixa a moderada; prática pode ser difícil no início. Evidence: moderate (vs passive) / preliminary (vs active). Verified via PubMed PMID 24979314.
+
+**Klimecki, O. M., Leiberg, S., Lamm, C., & Singer, T. (2013). Functional neural plasticity and associated changes in positive affect after compassion training.** *Cerebral Cortex* 23(7): 1552–1561. doi:10.1093/cercor/bhs142
+Precursor de Klimecki 2014: treino de compaixão aumentou afeto positivo diante do sofrimento alheio. Evidence: preliminary. Verified via PubMed PMID 22661409.
+
+**Klimecki, O., & Singer, T. (2011). Empathic distress fatigue rather than compassion fatigue? Integrating findings from empathy research in psychology and social neuroscience.** In B. Oakley, A. Knafo, G. Madhavan & D. S. Wilson (eds.), *Pathological Altruism*. Oxford University Press. doi:10.1093/acprof:oso/9780199738571.003.0253
+Propõe trocar "fadiga por compaixão" por "fadiga por sofrimento empático". Evidence: n/a (theoretical chapter). Verified via https://archive-ouverte.unige.ch/unige:102122 (record and abstract; full text not read).
+
+**Singer, T., & Engert, V. (2019). It matters what you practice: differential training effects on subjective experience, behavior, brain and body in the ReSource Project.** *Current Opinion in Psychology* 28: 151–158. doi:10.1016/j.copsyc.2018.12.005 [core]
+Síntese do ReSource: módulos diferentes, efeitos diferentes (incluindo cortisol ao estresse social). Evidence: preliminary-to-moderate (one research group). Verified via PubMed PMID 30684917.
+
+**Kreplin, U., Farias, M., & Brazil, I. A. (2018). The limited prosocial effects of meditation: A systematic review and meta-analysis.** *Scientific Reports* 8: 2403. doi:10.1038/s41598-018-20299-z [core]
+22 RCTs na revisão, 16 na meta-análise: efeito em compaixão e empatia, não em agressão, conexão ou preconceito; o efeito em compaixão só aparece com professor-coautor e controle passivo. Evidence: moderate (for the limits). Verified via PubMed PMID 29402955 and PMC5799363.
+
+Nota: Jha et al. 2015 substitui, no capítulo "Atenção na respiração", a menção do outline a "Jha et al. 2015" que não constava de references.md (lá só há Jha et al. 2010).
+
+
+## Fontes acrescentadas em "O corpo, o sono e a dor", "Quando a meditação dá errado" e "Uma prática para a vida"
+
+**Qaseem, A., Kansagara, D., Forciea, M. A., Cooke, M., & Denberg, T. D.; Clinical Guidelines Committee of the American College of Physicians (2016). Management of Chronic Insomnia Disorder in Adults: A Clinical Practice Guideline From the American College of Physicians.** *Annals of Internal Medicine* 165(2): 125–133. doi:10.7326/M15-2175. [core]
+CBT-I as the initial treatment for all adults with chronic insomnia disorder (strong recommendation, moderate-quality evidence). The benchmark against which meditation-for-sleep claims are read. Evidence: strong (guideline based on systematic review).
+Verified via PubMed PMID 27136449.
+
+**Riemann, D., Espie, C. A., Altena, E., et al. (2023). The European Insomnia Guideline: An update on the diagnosis and treatment of insomnia 2023.** *Journal of Sleep Research* 32(6): e14035. doi:10.1111/jsr.14035.
+CBT-I recommended as first-line treatment for chronic insomnia in adults of any age, in person or digital (grade A). Evidence: strong (guideline).
+Verified via PubMed PMID 38016484.
+
+**Nicholas, M., Vlaeyen, J. W. S., Rief, W., et al.; IASP Taskforce for the Classification of Chronic Pain (2019). The IASP classification of chronic pain for ICD-11: chronic primary pain.** *Pain* 160(1): 28–37. doi:10.1097/j.pain.0000000000001390.
+Gives the book its definition of chronic pain: pain persisting more than 3 months; "chronic primary pain" also involves significant emotional distress and/or functional disability. Evidence: n/a (classification).
+Verified via PubMed PMID 30586068.
+
+**Centro de Valorização da Vida (CVV).** https://www.cvv.org.br/
+Free, confidential emotional support, 24 h, by phone 188, chat, e-mail. Crisis resource cited in "Quando a meditação dá errado". Read 2026-10-11.
+
+**Ministério da Saúde — SAMU 192 e CAPS.** https://www.gov.br/saude/pt-br/composicao/saes/samu-192 ; https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps
+SAMU 192: free, 24 h, includes psychiatric urgencies and suicide attempts. CAPS: public mental-health services open to the community; for crises, SAMU 192, UPA 24h, pronto-socorro. Read 2026-10-11.
+
+Also newly used in these chapters, already in references.md: Kabat-Zinn 1982 (verified via PubMed PMID 7042457 — note the abstract's "uncoupling" hypothesis); Hilton et al. 2017 (PMID 27658913; 7 of 38 RCTs reported safety); Schlosser et al. 2019 (PMID 31071152); Kok & Singer 2017 (PMID 28030741); Galante et al. 2023 (primary abstract via OpenAlex, doi:10.1038/s44220-023-00081-5 — upgrades the psypost-only verification); Barrett & Simmons 2015; Goyal et al. 2014; Hoge et al. 2023 (PMID 36350591, for MBSR's 8-week weekly format); Kral et al. 2022. Suggest updating Rusch 2019's note: the 0.33 figure is in the primary abstract (PMID 30575050), plus 0.54 at follow-up.
