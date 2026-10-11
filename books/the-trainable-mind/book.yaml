@@ -1,12 +1,12 @@
-# The English edition of livro-1. A separate book, not a variant: the
+# The English edition of a-mente-treinavel. A separate book, not a variant: the
 # Portuguese manuscript is canon, and every chapter here names its source and
 # the hash of the source body it was translated from. `make traducao` lists the
 # ones that have fallen behind. Rules: docs/translation-en.md and
-# docs/livro-1/translation-en.md.
+# docs/a-mente-treinavel/translation-en.md.
 
-slug: book-1       # título de trabalho
-title: Book 1      # [[?autor: English title]]
-subtitle:           # [[?autor: English subtitle]]
+slug: the-trainable-mind
+title: The Trainable Mind
+subtitle: Buddhism, Meditation and the Brain That Changes
 author: Íris Gradim      # the pen name of every book so far
 language: en
 region: US

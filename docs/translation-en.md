@@ -5,7 +5,7 @@ English**; the pen name **Íris Gradim**, pronoun **she**. The title is open:
 
 | Portuguese | English | Slug |
 |---|---|---|
-| [[?autor: título]] | [[?autor: English title]] | `book-1` (provisório) |
+| [[?autor: título]] | [[?autor: English title]] | `the-trainable-mind` (provisório) |
 
 The English edition is a **separate book** in `books/<english-slug>/`, not a
 variant. **The Portuguese manuscript stays canon.** The outline and references

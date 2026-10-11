@@ -3,20 +3,21 @@
 Production repo for a **nonfiction book** by Íris Gradim about meditation,
 Buddhism, neuroscience and neuroplasticity, for a reader starting from zero who
 wants to understand **why** the practices benefit health and life. The book
-lives in `books/livro-1/`, its planning docs in `docs/livro-1/`. The Markdown
+lives in `books/a-mente-treinavel/`, its planning docs in `docs/a-mente-treinavel/`. The Markdown
 manuscript builds to a KDP-ready EPUB and a print-ready PDF, with the same
 toolchain as *Quarenta dias úteis*, *Manual da Vida*, *What Remains* and the
 series in `../new-series`.
 
-The title is open. `livro-1` and its English edition `book-1` are seed slugs.
-When the book gets its real title, rename `books/<slug>/`, `docs/<slug>/`,
+The title is ***A mente treinável*** (`a-mente-treinavel`), chosen by the author on
+2026-10-11; the English edition is ***The Trainable Mind*** (`the-trainable-mind`).
+If the book is ever retitled, rename `books/<slug>/`, `docs/<slug>/`,
 `slug:` in its `book.yaml`, the `source:` paths in the English edition, and
 `BOOK ?=`, `SERIES` and `TRANSLATIONS` in the Makefile. Do it all at once.
 
 ## How the author works
 
 - Open questions are settled as **multiple-choice with a recommended option**.
-- Once the plan (`docs/livro-1/outline.md`) and a sample chapter are approved,
+- Once the plan (`docs/a-mente-treinavel/outline.md`) and a sample chapter are approved,
   **the whole book is drafted in one go** for a single review pass.
 - When the author delegates a decision, take it, record the reasoning in the
   outline, and say what was decided.
@@ -53,7 +54,7 @@ conversation sounds: clear, structured, direct, explanatory.
 ## Truth is non-negotiable
 
 - **Every empirical claim** is traceable to a real source recorded in
-  `docs/livro-1/references.md`, or it is marked `[[?fato: …]]` in the prose.
+  `docs/a-mente-treinavel/references.md`, or it is marked `[[?fato: …]]` in the prose.
   `make marcadores` will not let that chapter reach `revised` or `final` while
   the marker stands.
 - **Quotations and exact figures** (effect sizes, sample sizes, percentages,
@@ -127,31 +128,31 @@ fails on an unknown slug.
 
 Portuguese (pt-BR) is the primary edition. Printed labels come from `labels:`
 in `book.yaml`. The **English edition is a separate book** (US English),
-`books/book-1/`.
+`books/the-trainable-mind/`.
 
 - **The Portuguese is canon.** Docs are never translated. Each English chapter
   has the same filename as its source, Portuguese planning notes in its front
   matter, and `source:` + `source_sha:`. **`make traducao`** lists English
   chapters whose source changed, and `make release` stops on a stale one.
-- Rules: `docs/translation-en.md` (general) and `docs/livro-1/translation-en.md`
+- Rules: `docs/translation-en.md` (general) and `docs/a-mente-treinavel/translation-en.md`
   (titles, glossary, fixed sentences, *Found in the Portuguese*).
 - Start a chapter with `scripts/translation-header.py`. **Revise the Portuguese
   first, then carry the change into the English** and restamp:
-  `python3 scripts/check-translation.py book-1 --stamp <file>`.
+  `python3 scripts/check-translation.py the-trainable-mind --stamp <file>`.
 - The English book shares the Portuguese art through an `illustrations` symlink.
 
 ## Structure and conventions
 
-- `docs/livro-1/outline.md` is the single source for chapter titles and
+- `docs/a-mente-treinavel/outline.md` is the single source for chapter titles and
   numbering. `make outline` creates missing chapter files and refreshes
   planning notes; it never touches a written body. **Don't run it while the
   slots still carry placeholder titles**, because it would create one file per
   placeholder. The chapter block format is documented in the outline itself.
-- `docs/livro-1/references.md` is what is real, with `[core]` / `[care]`.
+- `docs/a-mente-treinavel/references.md` is what is real, with `[core]` / `[care]`.
 - Planning notes (`question`, `premise`, `terms`, `evidence`, `caveats`,
   `practice`, `sources`, `status`) live in chapter front matter; the build
   strips them. `status:` goes `outline` → `draft` → `revised` → `final`, by hand.
-- Part openers live in `books/livro-1/parts/`. Their `part:` string must match
+- Part openers live in `books/a-mente-treinavel/parts/`. Their `part:` string must match
   the `## PARTE …` heading in the outline exactly (`I — O QUE O BUDISMO DIZ`).
   Rename both together. The part titles are provisional.
 - Chapter bodies: `##` for section heads, never an `#` heading. Markdown lists
@@ -167,7 +168,7 @@ in `book.yaml`. The **English edition is a separate book** (US English),
 
 ## Commands
 
-Every target takes `BOOK=<slug>`; the default is `livro-1`.
+Every target takes `BOOK=<slug>`; the default is `a-mente-treinavel`.
 
     make                 # build the book (epub + interior + cover)
     make books           # build both editions

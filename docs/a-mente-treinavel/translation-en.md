@@ -1,6 +1,6 @@
 # Translation contract — *[[?autor: English title]]*
 
-The English edition of *Livro 1* (working slug), in `books/book-1/`. The general
+The English edition of *A mente treinável*, titled *The Trainable Mind*, in `books/the-trainable-mind/`. The general
 rules are in `docs/translation-en.md`; this file holds what is particular to this
 book, and wins over the general file when they disagree.
 

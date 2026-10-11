@@ -2,11 +2,11 @@
 # de impressão, largura da lombada, texto do anúncio na KDP -- lê daqui.
 #
 # Não ficção: meditação, budismo, neurociência e neuroplasticidade, para quem
-# parte do zero. O título ainda não foi decidido; `livro-1` é o slug-semente.
+# parte do zero. Título escolhido pelo autor em 2026-10-11.
 
-slug: livro-1       # título de trabalho
-title: Livro 1      # [[?autor: título]]
-subtitle:           # [[?autor: subtítulo]]
+slug: a-mente-treinavel
+title: A mente treinável
+subtitle: Budismo, meditação e o cérebro que muda
 author: Íris Gradim      # o pseudônimo de todos os livros até aqui
 language: pt
 region: BR

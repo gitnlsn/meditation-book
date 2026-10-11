@@ -1,11 +1,11 @@
 # Book production. `make` on its own builds everything for the default book;
 # pass BOOK=<slug> for another one. The books (working slugs, see docs/series.md):
 #
-#   1  livro-1
+#   1  a-mente-treinavel
 #
 # Each has an English edition, a separate book translated from it:
 #
-#   1  book-1
+#   1  the-trainable-mind
 #
 #   make BOOK=<slug> all            epub + interior pdf + cover
 #   make books                      every book, one after another
@@ -23,12 +23,12 @@
 #   make chapter TITLE="..."        add a chapter outside the outline
 #   make clean
 
-BOOK  ?= livro-1
+BOOK  ?= a-mente-treinavel
 BOOKS := $(notdir $(wildcard books/*))
 # Series order, for release. Books not listed here are appended.
-SERIES := livro-1 book-1
+SERIES := a-mente-treinavel the-trainable-mind
 # The English editions. Each chapter names its Portuguese source and its hash.
-TRANSLATIONS := book-1
+TRANSLATIONS := the-trainable-mind
 SERIES += $(filter-out $(SERIES),$(BOOKS))
 # `make release` does the whole series; `make release BOOK=x` does one book.
 RELEASE := $(if $(filter command line environment,$(origin BOOK)),$(BOOK),$(SERIES))

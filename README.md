@@ -1,4 +1,4 @@
-# Meditação (título de trabalho)
+# A mente treinável (The Trainable Mind)
 
 Não ficção sobre meditação, budismo, neurociência e neuroplasticidade, para
 quem parte do zero. Manuscrito em Markdown; EPUB pronto para a KDP e PDF pronto
@@ -14,7 +14,7 @@ anteriores de Íris Gradim.
 
 | Livro | `BOOK=` | Edição em inglês | `BOOK=` |
 |---|---|---|---|
-| *a decidir* | `livro-1` | *to be decided* | `book-1` |
+| *a decidir* | `a-mente-treinavel` | *to be decided* | `the-trainable-mind` |
 
 ## Layout
 
@@ -29,7 +29,7 @@ anteriores de Íris Gradim.
       series.md              o que é comum às duas edições
       translation-en.md      as regras da edição em inglês
       kdp-upload.md          o passo a passo do upload
-      livro-1/
+      a-mente-treinavel/
         outline.md           a tese, as partes, fonte única dos capítulos
         references.md        o que é real, e onde foi conferido
         translation-en.md    títulos, glossário e frases fixas em inglês

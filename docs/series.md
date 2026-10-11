@@ -3,9 +3,9 @@
 Um livro de não ficção de Íris Gradim, com a sua edição em inglês. Este arquivo
 guarda o que é comum às duas edições e não cabe em `book.yaml`.
 
-| # | Livro (título de trabalho) | Pasta | Edição em inglês | Pasta |
+| # | Livro | Pasta | Edição em inglês | Pasta |
 |---|---|---|---|---|
-| 1 | [[?autor: título]] | `livro-1` (provisório) | [[?autor: English title]] | `book-1` (provisório) |
+| 1 | *A mente treinável* | `a-mente-treinavel` | *The Trainable Mind* | `the-trainable-mind` |
 
 ## Já decidido
 
@@ -19,4 +19,4 @@ guarda o que é comum às duas edições e não cabe em `book.yaml`.
 
 ## A decidir pelo autor
 
-- [[?autor: publicação — o português primeiro, o inglês primeiro, ou os dois juntos]]
+- **Ordem:** português primeiro; o inglês é traduzido depois da revisão do português (decidido em 2026-10-11).

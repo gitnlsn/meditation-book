@@ -1,11 +1,11 @@
-# Plano — Livro 1
+# Plano — A mente treinável
 
 Não ficção sobre meditação, budismo, neurociência e neuroplasticidade, para um
 leitor que parte do zero e quer entender **por que** as práticas fazem bem à
-saúde e à vida. Título de trabalho: `livro-1`.
+saúde e à vida. Título de trabalho: `a-mente-treinavel`.
 
 Este arquivo é a **fonte única** dos títulos e da numeração dos capítulos:
-`make outline` cria ou atualiza os arquivos em `books/livro-1/chapters/`, sem
+`make outline` cria ou atualiza os arquivos em `books/a-mente-treinavel/chapters/`, sem
 nunca tocar no corpo já escrito.
 
 **Não rodar `make outline` enquanto as vagas tiverem títulos provisórios** — o
@@ -44,9 +44,12 @@ diferentes, e cada afirmação do livro diz em qual das três está.
   dele exatamente antes da ciência, e o "Antes de começar" já explica os
   quatro rótulos de evidência.
 
-## Título — a decidir pelo autor
+## Título (decidido em 2026-10-11)
 
-- [[?autor: título e subtítulo — opções em proposta: *A mente treinável* (budismo, meditação e o cérebro que muda); *A segunda flecha* (budismo, meditação e neurociência para quem está começando); *Sentar e ver* (o que o budismo descobriu e a neurociência começou a medir)]]
+***A mente treinável*** — Budismo, meditação e o cérebro que muda. Em inglês,
+***The Trainable Mind*** — Buddhism, Meditation and the Brain That Changes.
+Escolhido pelo autor entre três propostas; as outras eram *A segunda flecha* e
+*Sentar e ver*.
 
 ---
 
@@ -55,7 +58,7 @@ diferentes, e cada afirmação do livro diz em qual das três está.
 Copiar o bloco abaixo por capítulo. `make outline` lê:
 
 - `## PARTE <numeral> — <TÍTULO>` abre uma parte. O texto depois de `PARTE`
-  tem de ser **idêntico** ao `part:` do arquivo em `books/livro-1/parts/`.
+  tem de ser **idêntico** ao `part:` do arquivo em `books/a-mente-treinavel/parts/`.
 - `### <n>. <Título>` abre um capítulo. O número dá a ordem e o nome do arquivo.
 - `*(English Title)*`, na linha seguinte, vira `title_en:` (opcional).
 - `- **Campo** — valor`, com travessão (ou hífen), vira um campo do front
