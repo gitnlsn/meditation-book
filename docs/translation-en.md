@@ -1,11 +1,11 @@
 # Translation contract — the English edition
 
 The English edition of this book. Carried over from the earlier books: **US
-English**; the pen name **Íris Gradim**, pronoun **she**. The title is open:
+English**; the pen name **Íris Gradim**, pronoun **she**. The title, chosen 2026-10-11:
 
 | Portuguese | English | Slug |
 |---|---|---|
-| [[?autor: título]] | [[?autor: English title]] | `the-trainable-mind` (provisório) |
+| *A mente treinável* | *The Trainable Mind* | `the-trainable-mind` |
 
 The English edition is a **separate book** in `books/<english-slug>/`, not a
 variant. **The Portuguese manuscript stays canon.** The outline and references
