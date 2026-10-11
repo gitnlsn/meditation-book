@@ -30,7 +30,7 @@ duas coisas deixam de coincidir.
 
 A prática tem nome próprio em páli ({{cap:quem-foi-o-buda-e-quem-ele-nao-foi}}
 explica o que é o páli): **ānāpānasati**, literalmente "atenção (*sati*) à
-inspiração e à expiração (*ānāpāna*)". O termo *sati* foi apresentado em
+inspiração e à expiração (*ānāpāna*)". O termo *sati* foi apresentado no capítulo
 {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}; aqui basta lembrar que ele
 significa manter algo presente na mente, não "relaxar".
 
@@ -53,7 +53,7 @@ primeiro grupo trata do corpo e da respiração; o segundo, das sensações
 agradáveis que podem surgir; o terceiro, da mente; o quarto, da
 impermanência, do desaparecimento, da cessação e do soltar. O próprio texto
 liga cada grupo a uma das quatro bases da atenção do *Satipaṭṭhāna Sutta*,
-tema de {{cap:observar-sem-agarrar}}, e afirma que a prática, desenvolvida,
+tema do capítulo {{cap:observar-sem-agarrar}}, e afirma que a prática, desenvolvida,
 leva ao "conhecimento e à libertação".
 
 Duas consequências para quem começa. Primeiro, este capítulo usa só os
@@ -156,7 +156,7 @@ Hasenkamp mostra praticantes experientes divagando repetidas vezes.
 Tratar "mente vazia" como meta produz dois efeitos ruins. O primeiro é
 frustração: o iniciante pensa durante a sessão, conclui que "não consegue
 meditar" e desiste. O segundo é mais sutil: tentar empurrar pensamentos para
-fora é uma forma de resistência, a mesma que {{cap:as-quatro-nobres-verdades-como-diagnostico}}
+fora é uma forma de resistência, a mesma que o capítulo {{cap:as-quatro-nobres-verdades-como-diagnostico}}
 descreveu como segunda flecha. A instrução é outra: o pensamento aparece,
 você nota, você volta.
 
@@ -164,11 +164,11 @@ você nota, você volta.
 
 Aqui o livro muda de registro: do que os textos afirmam para o que os
 experimentos mediram. Os termos *atenção focada* e *monitoramento aberto*
-foram definidos em {{cap:atencao-emocao-e-habito}}; a respiração com contagem
+foram definidos no capítulo {{cap:atencao-emocao-e-habito}}; a respiração com contagem
 é um exemplo típico de atenção focada.
 
 **Atenção sustentada: evidência moderada, com dose alta.** O melhor estudo é
-o Shamatha Project (MacLean e colegas, 2010), descrito em
+o Shamatha Project (MacLean e colegas, 2010), descrito no capítulo
 {{cap:atencao-emocao-e-habito}}: um retiro de três meses, com cerca de cinco
 horas diárias de atenção num objeto escolhido, como a respiração, melhorou a
 vigilância num ensaio randomizado com lista de espera. O que o estudo mostra
@@ -203,7 +203,7 @@ proteger a atenção sob pressão. Não prova uma dose mínima.
 :::
 
 Outros estudos apontam na mesma direção, todos com limites; o de cinco dias
-com universitários chineses está em {{cap:atencao-emocao-e-habito}}. E a
+com universitários chineses está no capítulo {{cap:atencao-emocao-e-habito}}. E a
 própria contagem de respirações foi usada como
 instrumento: Daniel Levinson e colegas, no laboratório de Richard Davidson,
 mostraram em quatro estudos com mais de quatrocentas pessoas que errar menos
@@ -214,7 +214,7 @@ divagação em comparação com treino de memória e com nenhum treino. Isso dá
 
 O resumo honesto: a atenção sustentada melhora com treino de atenção focada
 (**moderada**); que dez minutos diários bastem para um efeito mensurável é
-plausível, mas ainda **preliminar**. E, como {{cap:atencao-emocao-e-habito}}
+plausível, mas ainda **preliminar**. E, como o capítulo {{cap:atencao-emocao-e-habito}}
 discute, ganhos numa tarefa de laboratório nem sempre se transferem para a
 vida.
 

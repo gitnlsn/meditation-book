@@ -42,7 +42,7 @@ Quase toda a pesquisa clínica sobre meditação usa um de dois programas
 padronizados. Os dois são adaptações laicas de práticas budistas, e isso
 precisa ser dito: foram tirados de seu contexto religioso de propósito, para
 poder entrar em hospitais e consultórios. O que se perde e o que se ganha
-nessa adaptação foi discutido em {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}.
+nessa adaptação foi discutido no capítulo {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}.
 
 **MBSR** (sigla em inglês de *Mindfulness-Based Stress Reduction*, "redução
 do estresse baseada em mindfulness") é um curso em grupo, hoje no formato de
@@ -52,7 +52,7 @@ melhorado com o tratamento médico habitual. O artigo que apresentou o
 programa (Kabat-Zinn 1982, numa versão de dez semanas) não tinha grupo de
 controle, e o próprio autor chamou seus resultados de preliminares: ele
 importa pela história, não como prova. O curso ensina práticas como a
-atenção na respiração e o escaneamento corporal, descrito em
+atenção na respiração e o escaneamento corporal, descrito no capítulo
 {{cap:o-corpo-o-sono-e-a-dor}}. O próprio Kabat-Zinn descreveu de onde o
 programa veio e como ele entrou na medicina (Kabat-Zinn 2003).
 
@@ -63,7 +63,7 @@ volte. No formato usado nos grandes ensaios, são oito sessões semanais em
 grupo, de pouco mais de duas horas. O objetivo, nas palavras dos
 pesquisadores, é que a pessoa aprenda a perceber as sensações, os
 pensamentos e os sentimentos associados à volta da depressão — a ruminação,
-vista em {{cap:a-mente-que-divaga}}, é um deles — e a se relacionar com eles
+vista no capítulo {{cap:a-mente-que-divaga}}, é um deles — e a se relacionar com eles
 de forma construtiva.
 
 Para entender o MBCT é preciso um termo da psiquiatria. **Recaída** é a
@@ -74,7 +74,7 @@ grande do tratamento — e é onde a meditação tem seu resultado mais sólido.
 
 Ao longo do capítulo, os termos de método — ensaio randomizado, controle
 ativo, meta-análise, tamanho de efeito, viés de publicação — são os
-explicados em {{cap:como-saber-se-algo-funciona}}. A pergunta que se repete é
+explicados no capítulo {{cap:como-saber-se-algo-funciona}}. A pergunta que se repete é
 sempre a mesma: *comparado com o quê?*
 
 ## Ansiedade, depressão e estresse: a média
@@ -220,7 +220,7 @@ estudo ocorreu em 78,6% do grupo do remédio e em 15,4% do grupo do MBSR.
 participantes sabiam o que estavam recebendo; e "não inferior" não quer
 dizer "igual em todos os casos", muito menos "melhor". Note também que 15%
 do grupo da meditação relatou algum evento adverso — o que leva a um tema
-tratado em {{cap:quando-a-meditacao-da-errado}}. **Força da evidência:
+tratado no capítulo {{cap:quando-a-meditacao-da-errado}}. **Força da evidência:
 moderada.**
 
 ## Onde não funcionou: mindfulness nas escolas
@@ -245,7 +245,7 @@ nesse formato.**
 
 Em 2011, Britta Hölzel e colegas publicaram um estudo que se tornou a base de
 uma das frases mais repetidas sobre meditação: oito semanas de MBSR
-aumentariam a densidade de massa cinzenta (termo explicado em
+aumentariam a densidade de massa cinzenta (termo explicado no capítulo
 {{cap:neuroplasticidade-sem-exagero}}) no
 hipocampo e em outras regiões. O estudo comparou 16 participantes do MBSR com
 17 pessoas numa lista de espera, sem sorteio entre os grupos.
@@ -286,7 +286,7 @@ uma classe de recomendação e um nível de evidência:
 Os autores resumem as terapias comportamentais, meditação incluída, como
 tendo evidência "modesta, mista ou sem consistência". Materiais de divulgação
 ligados à organização da Meditação Transcendental costumam apresentar essa
-declaração como um endosso, o que ela não é. A meta-análise citada em
+declaração como um endosso, o que ela não é. A meta-análise citada no capítulo
 {{cap:estresse-o-alarme-que-nao-desliga}} encontrou reduções de pressão
 sistólica com meditação — um resultado preliminar, que mistura estudos muito
 diferentes —, mas isso não muda a recomendação clínica: quem tem
@@ -320,7 +320,7 @@ Três frases circulam muito e nenhuma se sustenta nos dados acima:
    controlado teste não encontrou mudança estrutural.
 3. **"Meditação faz bem a todo mundo."** O efeito médio é pequeno, varia
    entre contextos, foi nulo num grande ensaio com adolescentes, e há
-   efeitos adversos documentados, discutidos em
+   efeitos adversos documentados, discutidos no capítulo
    {{cap:quando-a-meditacao-da-errado}}.
 
 E uma que se sustenta: para muita gente, um programa de meditação bem

@@ -31,7 +31,7 @@ livro inteiro.
 ## Por que a motivação não basta
 
 A ideia de que hábitos se formam pela força de vontade é intuitiva e,
-segundo a pesquisa sobre hábito, mal colocada. Hábito, como definido em
+segundo a pesquisa sobre hábito, mal colocada. Hábito, como definido no capítulo
 {{cap:atencao-emocao-e-habito}}, é uma resposta que o contexto dispara quase
 sem decisão. A psicóloga Wendy Wood, uma das principais pesquisadoras do
 tema, resume a literatura num livro de divulgação (*Good Habits, Bad Habits*,
@@ -40,7 +40,7 @@ ambiente costuma funcionar melhor do que contar com a vontade. Quem depende
 de "estar a fim" decide de novo, todo dia, se vai praticar — e um dia perde.
 Quem pratica sempre depois do café, na mesma cadeira, decide menos.
 
-O estudo de Lally e colegas (2010), apresentado com seus limites em
+O estudo de Lally e colegas (2010), apresentado com seus limites no capítulo
 {{cap:atencao-emocao-e-habito}}, acrescenta duas informações úteis: o tempo
 até um comportamento diário se tornar automático variou entre **18 e 254
 dias** — não há número mágico —, e **perder um dia não atrapalhou** de forma
@@ -133,7 +133,7 @@ Há três caminhos principais, e eles não se excluem.
 | **MBCT** | Mesmo formato, combinado com terapia cognitiva | Quem já teve depressão recorrente e quer reduzir o risco de recaída — é onde está a evidência | Não é tratamento para uma crise aguda; faz-se com acompanhamento |
 | **Tradição budista** (centros Theravāda, Zen, tibetanos e outros) | Prática dentro do contexto ético, filosófico e, muitas vezes, religioso de onde ela veio | Quem quer o caminho inteiro, não só a técnica | Cada tradição tem pressupostos próprios; pergunte quais são antes |
 
-MBSR e MBCT foram definidos em {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}.
+MBSR e MBCT foram definidos no capítulo {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}.
 A diferença entre eles e uma tradição não é de qualidade, é de propósito.
 Os programas tiram a meditação do conjunto em que ela nasceu e a usam com
 objetivos de saúde; o capítulo {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
@@ -149,7 +149,7 @@ de programas com instrutor, e não de prática solitária com aplicativo.
 
 **Retiro** é um período afastado da rotina dedicado à prática: pode ser uma
 manhã, um dia inteiro, um fim de semana ou várias semanas. O retiro
-intensivo, de muitos dias e muitas horas diárias, foi definido em
+intensivo, de muitos dias e muitas horas diárias, foi definido no capítulo
 {{cap:quando-a-meditacao-da-errado}}. Retiros curtos são uma forma
 excelente de aprofundar a prática e conhecer um grupo. Os longos são outra
 coisa.
@@ -226,7 +226,7 @@ Uma sugestão de sequência, que percorre as práticas da Parte III:
 
 Ao fim da oitava semana, responda por escrito a três perguntas: qual prática
 eu vou manter? Em que horário? Com quem? Se em algum momento surgirem os
-sinais descritos em {{cap:quando-a-meditacao-da-errado}}, o plano muda —
+sinais descritos no capítulo {{cap:quando-a-meditacao-da-errado}}, o plano muda —
 encurte, troque a prática ou pare e procure orientação. E se você está em
 tratamento para qualquer condição, este plano o acompanha, não o substitui.
 

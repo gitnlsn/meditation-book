@@ -13,6 +13,7 @@ docs/translation-en.md and docs/<source-slug>/translation-en.md.
 from __future__ import annotations
 
 import hashlib
+import json
 import re
 import sys
 from pathlib import Path
@@ -49,7 +50,9 @@ def main() -> None:
         if line.startswith("status:"):
             continue
         if line.startswith("title:"):
-            line = f"title: {title}"
+            # A title with ": " (or a leading quote) is not valid bare YAML.
+            line = "title: " + (json.dumps(title, ensure_ascii=False)
+                                if re.search(r":\s|^[\"'#&*!|>%@`]", title) else title)
         elif line.startswith("part:"):
             part = line.split(":", 1)[1].strip()
             line = f"part: {parts.get(part, part)}"

@@ -270,6 +270,7 @@ conjunto de que fazia parte.
 ---
 
 *As citações de Walpola Rahula (*What the Buddha Taught*, 2.ª ed., Grove
-Press, 1974), de Anagarika Dharmapala (via Lopez 2008) e de Evan Thompson (via
-a resenha de Thomas Calobrisi no* Journal of Global Buddhism*, 2020) foram
-traduzidas do inglês por Íris Gradim.*
+Press, 1974), de Anagarika Dharmapala (via Lopez 2008) e a expressão "ciência da mente",
+de Evan Thompson (via a resenha de Thomas Calobrisi no* Journal of Global
+Buddhism*, 2020), foram traduzidas do inglês por Íris Gradim; o restante de
+Thompson é paráfrase.*

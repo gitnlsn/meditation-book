@@ -87,14 +87,14 @@ que quase sempre se perdem:
 - "é mais importante conhecer o objeto do que conhecê-lo por um termo ou
   nome".
 
-O rótulo, portanto, é um apoio, como a contagem de
+O rótulo, portanto, é um apoio, como a contagem do capítulo
 {{cap:atencao-na-respiracao}}: serve para tornar a atenção explícita, não
 para substituí-la por palavras.
 
 Vale a observação histórica, porque este livro promete não achatar a
 tradição: boa parte do que o Ocidente aprendeu como "mindfulness" passou por
 esses movimentos de reforma birmaneses, e o historiador Robert Sharf
-argumenta que a ideia de "atenção nua", sem conceito (a história está em
+argumenta que a ideia de "atenção nua", sem conceito (a história está no capítulo
 {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}), é uma ênfase moderna
 e discutível como leitura da doutrina Theravāda mais antiga. É uma tese
 influente, e não um consenso. A rotulagem é uma ferramenta legítima e testada por gerações de
@@ -109,7 +109,7 @@ perto, com equanimidade".
 
 Equanimidade não é indiferença. A pessoa indiferente não percebe, ou não se
 importa. A pessoa equânime percebe com nitidez — a raiva está aqui, é forte,
-esquenta o rosto — e não acrescenta a segunda flecha descrita em
+esquenta o rosto — e não acrescenta a segunda flecha descrita no capítulo
 {{cap:as-quatro-nobres-verdades-como-diagnostico}}: o comentário, a
 justificativa, a briga com a raiva. O capítulo
 {{cap:bondade-e-compaixao-como-treino}} mostra a equanimidade como uma das
@@ -118,7 +118,7 @@ próprio.
 
 ## A prática
 
-Dez minutos, de preferência depois de alguns dias de
+Dez minutos, de preferência depois de alguns dias do capítulo
 {{cap:atencao-na-respiracao}}, porque a rotulagem supõe que você já sabe
 voltar a uma âncora.
 
@@ -213,7 +213,7 @@ moderada.** O capítulo {{cap:atencao-emocao-e-habito}} definiu os dois
 termos a partir de Lutz e colegas (2008). A prática da respiração é atenção
 focada: um objeto, e volta a ele. A rotulagem fica entre as duas: há uma
 âncora, mas a atenção se abre para o que aparecer e o registra sem
-reagir — o núcleo do monitoramento aberto. A distinção é bem aceita, e o
+reagir — o núcleo do monitoramento aberto. A distinção é bem aceita, e
 um dos maiores estudos longitudinais de treino meditativo laico, o ReSource Project do Instituto Max
 Planck, concluiu, nas palavras do título de uma síntese de 2019, que "importa
 o que você pratica": práticas diferentes treinaram capacidades diferentes.
@@ -224,7 +224,7 @@ são, em sua maioria, pequenos.
 
 A ciência pergunta se rotular *reduz a reatividade*. O sutta tem outro
 objetivo: ver que tudo o que aparece surge e desaparece, e que nada disso é
-algo a que valha se agarrar — o tema de {{cap:impermanencia-e-nao-eu}}. Para
+algo a que valha se agarrar — o tema do capítulo {{cap:impermanencia-e-nao-eu}}. Para
 a tradição, sentir-se mais calmo é um efeito colateral bem-vindo; o alvo é
 uma compreensão. Nenhum experimento citado aqui mede essa compreensão.
 
@@ -246,7 +246,7 @@ regulares, cerca de um quarto relatou experiências particularmente
 desagradáveis que atribuía à meditação, mais prováveis em quem praticava só
 estilos do tipo vipassanā; e, num programa de oito semanas, os efeitos ruins
 duradouros, numa minoria, se associaram a sinais de excitação desregulada e
-dissociação. Os dois estudos, e seus limites, estão em
+dissociação. Os dois estudos, e seus limites, estão no capítulo
 {{cap:quando-a-meditacao-da-errado}}.
 
 Por isso, três orientações práticas:

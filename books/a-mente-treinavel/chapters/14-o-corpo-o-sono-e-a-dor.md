@@ -41,13 +41,13 @@ relaxar a região, mudá-la ou imaginá-la diferente. Só se nota, e segue-se
 adiante.
 
 A prática, no formato em que ficou conhecida, vem do programa MBSR (definido
-em {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}). O manual do programa
+no capítulo {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}). O manual do programa
 para o público, *Full Catastrophe Living*, de Jon Kabat-Zinn (1990), a
 apresenta como uma das práticas formais centrais do curso, feita deitado.
 
 Ela tem parentesco com a tradição, mas não é uma cópia dela. No
 *Satipaṭṭhāna Sutta*, o corpo é a primeira das quatro bases da atenção
-(apresentadas em {{cap:observar-sem-agarrar}}), e o texto inclui
+(apresentadas no capítulo {{cap:observar-sem-agarrar}}), e o texto inclui
 contemplações do corpo parte por parte. O escaneamento do MBSR guarda a
 ideia de usar o corpo como objeto de atenção, mas deixa de lado o propósito
 que o sutta dá a essas contemplações — ver o corpo surgir e passar, sem se
@@ -60,7 +60,7 @@ Por que o corpo? Há duas razões, uma prática e uma teórica.
   *agora*. Diferente de um pensamento, uma sensação no pé não está no
   passado nem no futuro. Isso faz do corpo uma âncora natural.
 - **A teórica:** perceber o estado interno do corpo — a interocepção,
-  definida em {{cap:estresse-o-alarme-que-nao-desliga}} — participa da forma
+  definida no capítulo {{cap:estresse-o-alarme-que-nao-desliga}} — participa da forma
   como o cérebro constrói emoções e avalia ameaças. Treinar essa percepção
   é, em princípio, treinar uma das entradas do sistema de alarme. "Em
   princípio" importa: é um argumento teórico plausível (Barrett & Simmons
@@ -85,7 +85,7 @@ será uma vantagem ou um problema conforme a hora.
    cima), peito, ombros, braços até as mãos, pescoço, rosto, alto da cabeça.
 5. **Quando a atenção sair** — e ela vai sair, para um plano, uma lembrança,
    um comentário sobre a prática —, note para onde foi e volte à última região
-   de que se lembra. É o mesmo movimento de voltar ensinado em
+   de que se lembra. É o mesmo movimento de voltar ensinado no capítulo
    {{cap:atencao-na-respiracao}}.
 6. **Quando encontrar desconforto**, não o empurre e não se demore nele por
    obrigação. Note as qualidades da sensação (pontada ou peso? fixa ou
@@ -152,7 +152,7 @@ baixa, mas consistente com as diretrizes, para "ela não supera o tratamento
 próprio para insônia". Os autores chamam os achados de preliminares.
 :::
 
-Um tamanho de efeito de 0,33 é pequeno a moderado (os termos estão em
+Um tamanho de efeito de 0,33 é pequeno a moderado (os termos estão no capítulo
 {{cap:como-saber-se-algo-funciona}}): perceptível em média, longe de
 transformador. O número mais impressionante da literatura vem de um estudo
 só. Black e colegas (2015) randomizaram 49 adultos mais velhos, com média de
@@ -162,7 +162,7 @@ melhorou mais no índice de qualidade do sono, com tamanho de efeito de 0,89,
 e também em sintomas de insônia, depressão e fadiga. É um bom resultado, com
 um controle ativo razoável — mas é um ensaio pequeno e único, e efeitos
 grandes em estudos pequenos tendem a encolher quando outros estudos se
-somam a eles (o porquê está em {{cap:como-saber-se-algo-funciona}}).
+somam a eles (o porquê está no capítulo {{cap:como-saber-se-algo-funciona}}).
 Força: **preliminar**.
 
 Há ainda uma tensão a registrar. A meta-análise de Goyal e colegas (2014),
@@ -198,7 +198,7 @@ Mas a hipótese de Kabat-Zinn merece atenção. Ele propôs que a meditação
 produzisse um "desacoplamento" entre a dimensão sensorial da dor e a reação
 afetiva de alarme que vem com ela. É, quase palavra por palavra, a
 distinção entre a primeira e a segunda flecha, e entre intensidade e
-desagrado no estudo de Rainville, apresentado em
+desagrado no estudo de Rainville, apresentado no capítulo
 {{cap:as-quatro-nobres-verdades-como-diagnostico}}.
 
 Mais de quarenta anos depois, o que se sabe?
@@ -226,7 +226,7 @@ O estudo de Zeidan também mediu o cérebro e encontrou padrões diferentes
 para a meditação (mais atividade em regiões associadas à modulação
 cognitiva da dor) e para o placebo. A leitura correta é modesta: os dois
 efeitos parecem não ser o mesmo efeito. A leitura exagerada — "a meditação
-ativa o centro de controle da dor" — é inferência reversa, o erro descrito em
+ativa o centro de controle da dor" — é inferência reversa, o erro descrito no capítulo
 {{cap:como-saber-se-algo-funciona}}.
 
 ## Por que entender o mecanismo muda a relação com a dor

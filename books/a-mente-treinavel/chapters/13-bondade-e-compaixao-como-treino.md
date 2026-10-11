@@ -49,7 +49,7 @@ mente pode habitar. São elas:
   sofrimento, diante do sofrimento dele.
 - **Muditā** — alegria com o bem do outro, o contrário da inveja. Sujato
   traduz por "regozijo".
-- **Upekkhā** — equanimidade, a mesma atitude descrita em
+- **Upekkhā** — equanimidade, a mesma atitude descrita no capítulo
   {{cap:observar-sem-agarrar}}, aqui dirigida aos seres: querer o bem de
   todos sem preferir uns e excluir outros.
 
@@ -84,7 +84,7 @@ caminho ético e religioso que inclui renascimento, como explicou
 
 ## Os inimigos próximos
 
-O *Visuddhimagga*, o manual de Buddhaghosa apresentado em
+O *Visuddhimagga*, o manual de Buddhaghosa apresentado no capítulo
 {{cap:atencao-na-respiracao}}, acrescenta uma ideia que não está nos suttas
 e é das mais úteis do capítulo. Cada morada sublime tem dois inimigos. O
 **inimigo distante** é o oposto óbvio: a má vontade para a bondade, a
@@ -188,7 +188,7 @@ Dez a quinze minutos.
    ser feliz e não quer sofrer.
 5. **Quarto círculo: alguém difícil.** Comece por alguém *levemente*
    irritante, não pela pessoa que mais o feriu. Mesmas frases. Se aparecer
-   raiva, rotule-a como em {{cap:observar-sem-agarrar}} e volte às frases, ou
+   raiva, rotule-a como no capítulo {{cap:observar-sem-agarrar}} e volte às frases, ou
    volte ao segundo círculo por um momento.
 6. **Se quiser, abra:** "Que todos os seres estejam em segurança e sejam
    felizes", como no poema.
@@ -237,7 +237,7 @@ práticas socioemocionais como compaixão e bondade, e práticas de
 perspectiva sobre si e os outros. A síntese de Singer e Engert (2019) relata
 efeitos diferentes conforme o módulo, inclusive na resposta do cortisol a um
 teste de estresse social, que caiu depois dos módulos sociais e não depois
-do módulo de atenção (o resultado está em
+do módulo de atenção (o resultado está no capítulo
 {{cap:estresse-o-alarme-que-nao-desliga}}). É o melhor argumento de que "meditação" não é uma
 intervenção só. Mas vem, de novo, de um único grupo de pesquisa.
 
@@ -282,7 +282,7 @@ lembranças de não ter sido cuidado — o que é uma das razões pelas quais a
 prática "pode ser difícil no início". Para quem tem histórico de trauma ou
 abuso, o quarto círculo nunca deve começar por quem causou o dano, e não há
 obrigação de chegar a essa pessoa. Se a prática despertar angústia que não
-passa depois da sessão, interrompa e veja os sinais descritos em
+passa depois da sessão, interrompa e veja os sinais descritos no capítulo
 {{cap:quando-a-meditacao-da-errado}}. Para quem cuida de outros e está
 esgotado, a distinção entre empatia e compaixão é útil, mas não substitui
 descanso, apoio nem tratamento para depressão ou esgotamento.

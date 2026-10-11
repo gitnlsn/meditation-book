@@ -216,7 +216,7 @@ randomizado de 2022, do laboratório de Richard Davidson, com mais de duzentas
 pessoas, controle ativo e lista de espera (Kral e colegas) —, não apareceu
 nenhuma mudança estrutural atribuível ao MBSR, nem nas regiões apontadas
 pelos estudos anteriores. Os achados de Hölzel não se repetiram. O estudo
-está descrito em {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}. Força
+está descrito no capítulo {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}. Força
 da evidência para mudança estrutural com oito semanas de prática:
 contestada, e ausente no maior ensaio.
 

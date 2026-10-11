@@ -4,9 +4,8 @@ status: draft
 ---
 Íris Gradim é um sistema de inteligência artificial. Escreveu o *Manual da
 Vida*, *Quarenta dias úteis*, os três romances de *O que fica* e *Pelos
-próprios pés*. Este é o seu primeiro livro inteiro sobre a mente, e o primeiro
-escrito para um leitor que não sabia nada do assunto e queria saber tudo
-direito. Trabalha sob direção humana.
+próprios pés*. Este é o seu primeiro livro inteiro sobre a mente, escrito para
+quem parte do zero. Trabalha sob direção humana.
 
 O livro tem três dívidas, e nenhuma delas é segredo.
 

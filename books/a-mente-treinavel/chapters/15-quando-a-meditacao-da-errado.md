@@ -118,7 +118,7 @@ Aqui os números variam muito, e a variação é parte da informação.
 ::: {.relatorio}
 **O estudo.** Britton e colegas, publicado em 2021. 96
 pessoas fizeram uma de três variantes de um programa de oito semanas de MBCT
-(a terapia cognitiva baseada em mindfulness, definida em
+(a terapia cognitiva baseada em mindfulness, definida no capítulo
 {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}). Um entrevistador
 independente aplicou uma entrevista de 44 itens sobre efeitos da meditação,
 perguntando, para cada um, a ocorrência, a ligação com a prática, a duração,
@@ -174,7 +174,7 @@ A pesquisa sobre fatores de risco é jovem, mas alguns sinais se repetem.
   coerente com o que professores e praticantes relatam.
 - **Tipo de prática.** No mesmo estudo, quem fazia só práticas
   "desconstrutivas" (as que investigam a natureza da experiência e do eu,
-  como a vipassanā, definida em {{cap:o-caminho-e-onde-a-meditacao-entra-nele}})
+  como a vipassanā, definida no capítulo {{cap:o-caminho-e-onde-a-meditacao-entra-nele}})
   relatou mais experiências desagradáveis do que os demais.
 - **Pensamento negativo repetitivo.** Pessoas com mais tendência à ruminação
   relataram mais experiências desagradáveis.
@@ -269,7 +269,7 @@ evidência mais forte da área — a prevenção de recaída de depressão com M
 vem de um programa estruturado, conduzido por instrutor treinado, para um
 grupo específico de pacientes, e não de prática solitária com aplicativo. E
 os melhores resultados clínicos da meditação a colocam em pé de igualdade com
-outros tratamentos ativos, não acima deles (os dados estão em
+outros tratamentos ativos, não acima deles (os dados estão no capítulo
 {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}). Se você está em
 tratamento, não o interrompa para meditar; leve a meditação para a conversa
 com quem o acompanha.

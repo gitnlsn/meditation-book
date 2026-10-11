@@ -36,9 +36,39 @@ labels:
   opener: Part opener illustration
 
 kdp:
-  description: |
-    [[?autor: translated from the Portuguese blurb]]
-  keywords: []          # seven, once the title is decided
+  # draft — for the author: the Portuguese blurb is still an [[?autor]]
+  # placeholder, so this was written from the book itself, not translated.
+  description: |  # draft — for the author
+    The Trainable Mind is for a reader starting from zero who wants to
+    understand meditation properly: where it comes from, what it does, and what
+    it doesn't.
+
+    It begins with Buddhism as its own texts present it: the Four Noble Truths,
+    impermanence and not-self, and the path in which meditation is only one
+    part. It keeps the tradition apart from the self-help version of it.
+
+    It then turns to the science: how to read a study, what neuroplasticity
+    does and doesn't mean, mind wandering, stress, attention, emotion and
+    habit. Every finding the book relies on is labeled by the strength of its
+    evidence (strong, moderate, preliminary or contested), and the book names
+    the hype where it exists: small samples, weak controls, failed
+    replications, brain scans read with too much confidence.
+
+    The last part teaches the practices step by step: attention on the breath,
+    watching without grabbing, kindness and compassion, the body. A full
+    chapter covers what happens when meditation goes wrong, from documented
+    adverse effects to when to stop and seek help.
+
+    Meditation is not a substitute for treatment, and this book does not
+    pretend otherwise.
+  keywords:
+    - meditation for beginners
+    - Buddhism explained
+    - science of meditation
+    - neuroplasticity
+    - mindfulness research
+    - evidence-based meditation
+    - meditation adverse effects
   categories:
     - Body, Mind & Spirit > Meditation
     - Religion > Buddhism > General

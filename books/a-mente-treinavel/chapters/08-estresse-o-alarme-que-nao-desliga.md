@@ -29,7 +29,7 @@ passos: o corpo tem um sistema de alarme feito para emergências físicas; esse
 alarme dispara também diante de ameaças que só existem na cabeça — uma
 avaliação, uma lembrança, uma preocupação; e, quando ele fica ligado por
 tempo demais, cobra um preço físico. É aqui que a segunda flecha, apresentada
-em {{cap:as-quatro-nobres-verdades-como-diagnostico}}, ganha uma fisiologia.
+no capítulo {{cap:as-quatro-nobres-verdades-como-diagnostico}}, ganha uma fisiologia.
 No fim, o capítulo separa o que se sabe bem (a fisiologia do estresse) do que
 ainda é promessa (o efeito da meditação sobre hormônios, inflamação e
 envelhecimento das células) e de uma teoria muito popular que os
@@ -124,7 +124,7 @@ reprovação.
 O segundo passo é o tempo. Os psicólogos Jos Brosschot, William Gerin e
 Julian Thayer propuseram em 2006 a **hipótese da cognição perseverativa**:
 preocupação e ruminação (o pensamento repetitivo sobre o que deu errado,
-descrito em {{cap:a-mente-que-divaga}}) prolongam a ativação do corpo antes e
+descrito no capítulo {{cap:a-mente-que-divaga}}) prolongam a ativação do corpo antes e
 depois do evento estressante. A reunião dura uma hora; a preocupação com ela
 começa três dias antes e termina dois dias depois. A revisão deles reúne
 estudos em que preocupação, ruminação e estresse antecipatório se associam a
@@ -234,7 +234,7 @@ desiguais e ainda **preliminares**.
 
 **A favor.** Uma meta-análise de 2017 (Pascoe e colegas) reuniu 45 ensaios
 randomizados que compararam meditação com um controle ativo — o tipo de
-comparação que {{cap:como-saber-se-algo-funciona}} explica por que importa.
+comparação que o capítulo {{cap:como-saber-se-algo-funciona}} explica por que importa.
 Somadas todas as formas de meditação, os autores encontraram reduções de
 cortisol, pressão arterial sistólica, frequência cardíaca, triglicerídeos e
 de dois marcadores de inflamação (proteína C-reativa e TNF-alfa). É um
@@ -257,7 +257,7 @@ tipo de prática.
 Os dois resultados não se anulam, mas mostram que "meditação reduz o
 cortisol" é uma frase grande demais. Depende do tipo de prática, do tipo de
 medida e de quem é comparado com quem. E "meditação" não é uma intervenção
-única — ponto que volta em {{cap:bondade-e-compaixao-como-treino}}.
+única — ponto que volta no capítulo {{cap:bondade-e-compaixao-como-treino}}.
 
 **Telômeros e inflamação.** Telômeros são as pontas protetoras dos
 cromossomos; seu encurtamento acompanha o envelhecimento das células e foi

@@ -13,7 +13,7 @@ terms:
 - hábito
 - aprendizagem por reforço
 evidence: melhora de atenção com treino intensivo (moderada); com treino curto (preliminar);
-  transferência para a vida diária (fraca, preliminar); mecanismos de regulação emocional
+  transferência para a vida diária (preliminar); mecanismos de regulação emocional
   na meditação (preliminar); hábito leva meses e varia muito, não 21 dias (moderada);
   mindfulness para parar de fumar (preliminar)
 caveats: o mito dos 21 dias; ganhos de atenção nem sempre se transferem para outras
@@ -37,7 +37,7 @@ não se forma em 21 dias.
 ## Três alvos, não "o cérebro"
 
 Em 2011, a pesquisadora Britta Hölzel e colegas — num artigo teórico, não no
-estudo de imagem dela citado em {{cap:neuroplasticidade-sem-exagero}} — propuseram um esquema que
+estudo de imagem dela citado no capítulo {{cap:neuroplasticidade-sem-exagero}} — propuseram um esquema que
 virou referência na área: a meditação de atenção plena atuaria por
 mecanismos que interagem entre si — regulação da atenção, consciência do
 corpo, regulação emocional e mudança na perspectiva sobre o próprio eu. É um
@@ -45,8 +45,8 @@ modelo teórico, não um resultado: ele organiza hipóteses, e as afirmações
 sobre o cérebro que ele cita herdam as fraquezas dos estudos de origem.
 
 Este livro usa uma versão simplificada do esquema. A consciência do corpo
-apareceu em {{cap:estresse-o-alarme-que-nao-desliga}}, com a interocepção; a
-perspectiva sobre o eu, em {{cap:impermanencia-e-nao-eu}}. Ficam três alvos
+apareceu no capítulo {{cap:estresse-o-alarme-que-nao-desliga}}, com a interocepção; a
+perspectiva sobre o eu, no capítulo {{cap:impermanencia-e-nao-eu}}. Ficam três alvos
 para este capítulo:
 
 | Alvo | O que se treina | Pergunta que a ciência faz |
@@ -71,12 +71,12 @@ Davidson propuseram uma distinção que hoje organiza boa parte da pesquisa:
   empurrar.
 
 Na prática, muitos métodos começam pela atenção focada e passam depois ao
-monitoramento aberto. Este livro ensina os dois: a atenção na respiração em
-{{cap:atencao-na-respiracao}} e a observação sem agarrar em
+monitoramento aberto. Este livro ensina os dois: a atenção na respiração no capítulo
+{{cap:atencao-na-respiracao}} e a observação sem agarrar no capítulo
 {{cap:observar-sem-agarrar}}.
 
 A distinção lembra a dupla tradicional *samatha* e *vipassanā*, apresentada
-em {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}, e às vezes é descrita como
+no capítulo {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}, e às vezes é descrita como
 a versão científica dela. A correspondência é frouxa. Samatha e vipassanā são
 categorias de um caminho religioso, com objetivos definidos pela tradição;
 atenção focada e monitoramento aberto são categorias de laboratório, criadas
@@ -193,11 +193,11 @@ sem fugir dela, até que ela perca força.
 
 Aqui é preciso ser franco sobre o estado da evidência. Há bons ensaios
 mostrando que programas de mindfulness reduzem sintomas de ansiedade e
-depressão em média, com efeitos pequenos a moderados — o balanço está em
+depressão em média, com efeitos pequenos a moderados — o balanço está no capítulo
 {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}. O que é bem menos
 estabelecido é *por qual caminho* isso acontece. Os estudos de imagem
 cerebral sobre regulação emocional em meditadores são, em sua maioria,
-pequenos e sujeitos à inferência reversa explicada em
+pequenos e sujeitos à inferência reversa explicada no capítulo
 {{cap:como-saber-se-algo-funciona}}: ver uma região "acender" não diz, por
 si, que a pessoa estava regulando uma emoção. **Força da evidência para os
 mecanismos: preliminar.**
@@ -238,7 +238,7 @@ fumantes, o treino de mindfulness teve 36% de abstinência no fim do
 tratamento contra 15% do programa padrão (uma diferença que não chegou a ser
 estatisticamente significativa) e 31% contra 6% dezessete semanas depois
 (esta, significativa) (Brewer et al. 2011 — outro estudo do mesmo grupo, diferente
-do exame de imagem citado em {{cap:a-mente-que-divaga}}). É um resultado promissor de um
+do exame de imagem citado no capítulo {{cap:a-mente-que-divaga}}). É um resultado promissor de um
 único estudo pequeno. **Preliminar.**
 
 ## Quanto tempo leva: o mito dos 21 dias
@@ -277,7 +277,7 @@ estabilizou, em média, por volta de 66 dias. O número já virou um novo slogan
 *amplitude*, não a média.
 
 Para quem quer criar uma prática de meditação, isso tem três consequências
-práticas, retomadas em {{cap:uma-pratica-para-a-vida}}: o mesmo horário e o
+práticas, retomadas no capítulo {{cap:uma-pratica-para-a-vida}}: o mesmo horário e o
 mesmo lugar ajudam, porque hábito é associação com contexto; falhar um dia
 não zera nada; e a sensação de esforço pode durar meses antes de diminuir,
 sem que isso signifique que algo deu errado.

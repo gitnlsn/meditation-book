@@ -5,8 +5,8 @@ status: draft
 Estas são as obras citadas no texto, agrupadas por capítulo; a que aparece
 em mais de um capítulo se repete em cada um. Todas foram
 conferidas em 11 de outubro de 2026, e cada entrada diz onde. Os registros
-completos da verificação, com endereços e cópias consultadas, ficam com a
-autora. Os suttas são citados na tradução inglesa de Bhikkhu Sujato, em
+completos da verificação, com endereços e cópias consultadas, ficam guardados
+junto com o manuscrito. Os suttas são citados na tradução inglesa de Bhikkhu Sujato, em
 domínio público, salvo indicação na própria entrada.
 
 

@@ -150,3 +150,191 @@ few words, and the English adds **nothing** else (no US numbers) — note it und
 
 What the translation turned up for the author. Never fixed by the translator.
 Add entries below as `- **chapter file** — what, and why it matters.`
+
+### Already fixed (2026-10-11), in both editions
+
+- Cross-references printed a bare number in Portuguese ("em 8"): eleven chapters now say "no capítulo {{cap:…}}" / "do capítulo …"; the English already said "chapter …".
+- Goldberg 2018 vs evidence-based treatments: the ch. 5 table said 0,00; now −0,004 as in the abstract (both editions).
+- Ch. 1 foot note claimed Thompson was quoted; only "ciência da mente" is, the rest is paraphrase. Note corrected.
+- Ch. 12 typo "e o um dos maiores"; ch. 9 front matter used "fraca", not one of the four labels.
+- Sobre a autora pointed indirectly at the director ("escrito para um leitor que não sabia nada"); now "escrito para quem parte do zero". Fontes said the records stay "com a autora"; now "junto com o manuscrito".
+- English ch. 15 had crisis lines only for Brazil; it now also says "Wherever you are, call your local emergency number or a crisis line." (safety; the only addition the English makes).
+
+### Notes from the translators, open for the author
+
+#### 01-03
+
+# Found in the Portuguese — chapters 01–03
+
+- **01-quem-foi-o-buda-e-quem-ele-nao-foi.md** — The front matter's `title_en: Who the Buddha Was, and Wasn't` disagrees with the contract's title "Who the Buddha Was — and Who He Wasn't". The English chapter uses the contract's title; the `title_en` field (copied verbatim) should be brought into line so the two don't drift.
+- **01-quem-foi-o-buda-e-quem-ele-nao-foi.md** — The closing note says quotations "de Evan Thompson" were translated, but VERIFIED.md says Thompson is paraphrased only and not quoted literally. The only quoted fragment is "ciência da mente" (= Thompson's 'mind science'). Either the note overstates or it should say "a expressão de Thompson". The English note keeps the three attributions as source notes (no translation was needed).
+- **01-quem-foi-o-buda-e-quem-ele-nao-foi.md** — "quando este livro usa um termo em páli, é porque a tradução portuguesa sozinha engana" only works in Portuguese; rendered "the English word alone would mislead".
+- **01-quem-foi-o-buda-e-quem-ele-nao-foi.md** — The Rahula quotation in the Portuguese ("O budismo é uma religião ou uma filosofia? Não importa como você o chame.") drops Rahula's lead-in ("The question has often been asked:"). The English quotes the full two sentences from VERIFIED.md, so it reads naturally with "answered the question this way". No change in meaning.
+- **02-as-quatro-nobres-verdades-como-diagnostico.md** — The first truth's list opens with "Nascer ... é sofrimento", and later the text says the first truth "começa por 'nascer é sofrimento'". Sujato, whom the Portuguese says it follows, has "Rebirth is suffering" (Pali *jāti*, literally "birth"). The English follows Sujato ("Rebirth is suffering"), which actually backs up the chapter's point about rebirth more strongly. The author may want to say in the Portuguese that Sujato reads *jāti* as rebirth, or say "nascer (renascer)".
+- **02-as-quatro-nobres-verdades-como-diagnostico.md** — The Portuguese quotes "em resumo, os cinco agregados de apego são dukkha", but Sujato's text says "are suffering". The English quotes Sujato exactly and adds "where the word is *dukkha*" outside the quotation marks so the argument still works.
+- **02-as-quatro-nobres-verdades-como-diagnostico.md** — The four truths were "tradução livre" in the Portuguese; the English quotes Sujato verbatim (abridged, and said to be). sujato-sn56.11-en.md segment 4.7 reads "cessation of that very same craving no residue left behind" (a word seems to be missing, "with"?), so the English elides that phrase with "…" rather than quoting an apparent typo. Worth checking against SuttaCentral.
+- **02-as-quatro-nobres-verdades-como-diagnostico.md** — The Portuguese Sallatha passage is a free condensation that says "aflige, lamenta e se desespera"; Sujato's wording (now quoted) is "sorrow and wail and lament, beating their breast and falling into confusion". No change in meaning. Sujato's "learned noble disciple" is "o praticante (experiente)" in the prose, kept as "the practitioner".
+- **02-as-quatro-nobres-verdades-como-diagnostico.md** — The eightfold path list uses "atenção correta"; following the glossary, the English has "right attention (*sammā sati*)", which brings the Pali term in one chapter earlier than ch. 4 explains it. Fine per the contract; just flagging that the gloss comes before the explanation.
+- **02-as-quatro-nobres-verdades-como-diagnostico.md** — The Rainville box rests on the PubMed abstract only (sample size unchecked, per VERIFIED.md), yet the label rationale calls the study "pequeno". That is plausible but not verified; the claim of smallness has no recorded figure behind it.
+- **03-impermanencia-e-nao-eu.md** — The impermanence dialogue is a blockquote of consecutive "> — ..." lines without hard breaks, so pandoc runs it together into one paragraph. In the English the speeches are in quotation marks (as in Sujato), so it reads correctly even as one paragraph; the Portuguese renders as a single run-on paragraph of dashes.
+- **03-impermanencia-e-nao-eu.md** — "*choices* ('escolhas') na de Bhikkhu Sujato" only works in Portuguese; the English drops the parenthetical gloss.
+- **03-impermanencia-e-nao-eu.md** — The Lindahl ranges ("de muito positivo a muito negativo ... de mínimo e passageiro a grave e duradouro") follow the abstract's wording closely; the English paraphrases without quotation marks ("minimal and passing to severe and lasting"), since the Portuguese doesn't quote.
+- **03-impermanencia-e-nao-eu.md** — The sutta closing in the Portuguese says the five ascetics' minds were "libertadas"; Sujato says "freed from defilements by not grasping". The English keeps the Portuguese paraphrase (no quotation marks).
+
+## Proposed fixed sentences
+
+| Portuguese | English | Note |
+|---|---|---|
+| sensação (agregado, *vedanā*) | feeling | Standard English for *vedanā* and Sujato's word; avoids clash with physical "sensation". Used in ch. 2–3. |
+| formações / formações mentais (*saṅkhārā*) | formations / mental formations | follow which one the Portuguese uses |
+| a.C. | BCE | |
+| "Em tradução livre a partir da versão inglesa de Bhikkhu Sujato" | "In Bhikkhu Sujato's English translation" (+ "abridged" where cut) | the English quotes Sujato verbatim |
+| "no capítulo {{cap:x}}" | "in chapter {{cap:x}}" (lowercase mid-sentence; "Chapter {{cap:x}}" at sentence start) | |
+| pessoa comum / praticante (Sallatha) | the ordinary person / the practitioner | Sujato: "unlearned ordinary person" / "learned noble disciple" inside quotations only |
+| Closing note when a chapter quotes non-sutta English originals | "*X is quoted from* Title *(…); Y, via Z.*" | replaces "foram traduzidas do inglês por Íris Gradim" |
+| Closing note for SN 56.11 (taṇhā) | "Sujato's "craving" and this book's "thirst" render the same term, *taṇhā*." | replaces the "desejo ávido"/"sede" sentence |
+
+#### 04-06
+
+# Found in the Portuguese — chapters 04–06 (English translation)
+
+- **04-o-caminho-e-onde-a-meditacao-entra-nele.md** — Two sentences are about Portuguese usage: "em português, costuma virar 'atenção plena'" (Sati section) and "Em português, o termo costuma aparecer como 'fundamentos' ou 'bases' da atenção" (satipaṭṭhāna). The English drops the first, since *mindfulness* is already the English word, and turns the second into "In English, the term usually appears as the 'foundations of mindfulness'". Worth confirming that this adaptation is what the author wants.
+- **04-o-caminho-e-onde-a-meditacao-entra-nele.md** — The Rahula paraphrase that the Portuguese quotes leaves out Rahula's "(akusala)". The English quotes the recorded wording with "(akusala)" included. In VERIFIED.md the OCR'd line reads "when, you know", with a stray comma, so the English starts the quotation at "you know for yourselves" to avoid carrying an OCR artifact into print.
+- **04-o-caminho-e-onde-a-meditacao-entra-nele.md** — The Thanissaro note is paraphrased without quotation marks, as in the Portuguese, although VERIFIED.md records his English wording. A direct quotation is available if the author wants one.
+- **04-o-caminho-e-onde-a-meditacao-entra-nele.md** — The Portuguese foot note also says that the Kabat-Zinn, Sharf and Rahula quotations were translated by Íris Gradim. In English these are quoted from the originals, so the note keeps only the contract's Sujato sentence.
+- **05-como-saber-se-algo-funciona.md** — "(do inglês *randomized*, 'sorteado'; também se diz ensaio clínico randomizado, ou ECR)" only works in Portuguese. The English gives "randomized controlled trial, or RCT ('randomized' means assigned by chance)".
+- **05-como-saber-se-algo-funciona.md** — The fMRI section says "a fMRI não vê neurônios (… apresentadas em {{cap:neuroplasticidade-sem-exagero}})" with no "no capítulo", so the build prints "apresentadas em 6". Every other cross-reference in these chapters has "capítulo" in front of it. The English adds "chapter".
+- **05-como-saber-se-algo-funciona.md** — "Metade das manchetes sobre meditação vem com uma imagem do cérebro" reads as a figure but has no source. It is probably meant rhetorically, but it is the kind of unlabeled quantity the book otherwise avoids.
+- **05-como-saber-se-algo-funciona.md** — In the Goldberg 2018 box, the last row gives *d* = 0,00, while the abstract (VERIFIED.md) gives d = -0.004. The rounding is harmless, but every other *d* in the table is printed as published.
+- **06-neuroplasticidade-sem-exagero.md** — Moreno-Jiménez et al. 2019 (a [care] source) and Kempermann et al. 2018 are cited in the body, but they are missing from the front matter `sources:` and have no entry in VERIFIED.md. Both are in references.md. The [care] caveat ("A questão não está fechada") does sit in the same paragraph.
+- **06-neuroplasticidade-sem-exagero.md** — The chapter cites Thomas & Baker for "aumento de volume do hipocampo com exercício físico em pessoas idosas". The source says *anterior* hippocampal volume. This is not wrong, only less specific.
+
+## Proposed fixed sentences
+
+| Portuguese | English |
+|---|---|
+| ensaio randomizado (first use, with the "sorteado" gloss) | randomized controlled trial, or RCT ("randomized" means assigned by chance) |
+| por sorteio / sortear quem vai para cada grupo | by lot / assign by lot (random assignment where a noun reads better) |
+| Força da evidência: X (unbolded, in running prose) | Strength of evidence: X |
+| lista de espera | waitlist |
+| "religar o cérebro em oito semanas" | "rewire your brain in eight weeks" |
+| o mito dos 10% | the 10 percent myth (heading: "The 10 Percent"; in prose "10%") |
+
+#### 07-09
+
+# Found in the Portuguese: chapters 07–09
+
+- **08-estresse-o-alarme-que-nao-desliga.md, 09-atencao-emocao-e-habito.md** — `{{cap:slug}}` resolves to a bare number (scripts/build.py `resolve_refs`), but these chapters write "em {{cap:…}}" / "que {{cap:…}} explica" with no "capítulo", so the Portuguese prints "apresentada em 2", "apareceu em 8", "o balanço está em 10". ch08: lines 32, 127, 237, 260. ch09: lines 40, 48, 49, 75, 76, 79, 197, 201, 241, 280. Chapter 07 always writes "o capítulo {{cap:…}}". The English writes "chapter {{cap:…}}" everywhere.
+- **09-atencao-emocao-e-habito.md** — front matter `evidence:` says "transferência para a vida diária (fraca, preliminar)". "fraca" is not one of the four labels; the body says only **preliminar**. The front matter is copied verbatim into the English file, so the fix belongs in the Portuguese.
+- **08-estresse-o-alarme-que-nao-desliga.md** — the Pascoe et al. (2017) paragraph says that with all forms pooled, meditation reduced "pressão arterial sistólica". The recorded abstract (VERIFIED.md; sources/pascoe-2017-…) says "blood pressure" for the pooled result. "systolic" appears only for subtypes. The English follows the Portuguese ("systolic blood pressure"). Check the full paper or drop "sistólica".
+- **08-estresse-o-alarme-que-nao-desliga.md** — front matter `evidence:` gives perseverative cognition as "preliminar a moderada", while the body (and Brosschot's own abstract) say **preliminar**.
+- **07-a-mente-que-divaga.md** — the Killingsworth & Gilbert box says the time-lag analyses "sugeriram" mind wandering came first. The authors wrote "strongly suggested". The softening is defensible, since the box labels causation preliminary, but it reports the authors' claim as weaker than they stated it. The English follows the Portuguese ("suggested, according to the authors").
+- **07-a-mente-que-divaga.md** — Raichle et al. (2001) is quoted by title ("Um modo padrão de funcionamento do cérebro"). The English uses the published title, "A default mode of brain function", but VERIFIED.md records only the abstract, not the title. Worth adding the title to the record.
+- **scripts/translation-header.py** (not the Portuguese, but it affects every translator) — it writes `title:` unquoted. A title containing ": " ("Stress: The Alarm That Won't Switch Off") then becomes invalid YAML. I quoted it by hand in 08's English front matter.
+
+## Proposed fixed sentences
+
+| Portuguese | English |
+|---|---|
+| `o capítulo {{cap:x}}` / `em {{cap:x}}` | `chapter {{cap:x}}` (lowercase mid-sentence, `Chapter {{cap:x}}` at sentence start). The macro prints only the number, so English always needs the word. |
+| `**Balanço:**` | `**On balance:**` |
+| Meditação não substitui esse tratamento. / A meditação pode ser uma parte do cuidado; não é um substituto para o tratamento. | Meditation is not a substitute for that treatment. / Meditation can be part of care; it is not a substitute for treatment. |
+| divagação (noun, as a phenomenon) / divagar | mind wandering / (the mind) wanders, wandering |
+| carga alostática / alostase | allostatic load / allostasis |
+| teoria polivagal | polyvagal theory |
+| hipótese da cognição perseverativa | perseverative cognition hypothesis |
+| ameaça de avaliação social | social-evaluative threat |
+| transferência (de treino) | transfer |
+| automatismo (Lally) | automaticity |
+
+#### 10-12
+
+# Found in the Portuguese — chapters 10–12
+
+- **10-o-que-a-ciencia-da-meditacao-mostra-e-o-que.md** — front matter `title_en:` says "What Meditation Science Shows, and What It Doesn't" (comma), but the contract's title table says "What Meditation Science Shows — and What It Doesn't" (dash). The English chapter uses the contract's title; `title_en` should be brought in line so the two records agree.
+- **10-o-que-a-ciencia-da-meditacao-mostra-e-o-que.md** — Hölzel 2011 is described as "densidade de massa cinzenta"; the abstract (VERIFIED.md) says "gray matter concentration". Translated as "gray matter density" to follow the Portuguese; the author may prefer "concentration" to match the source.
+- **10-o-que-a-ciencia-da-meditacao-mostra-e-o-que.md** — the definition of MBSR glosses the English acronym in Portuguese ("sigla em inglês de…"); the English edition just spells out the name. No problem, noted only because the gloss naturally disappears in English.
+- **11-atencao-na-respiracao.md** — the text says the practice, developed, leads to "conhecimento e libertação". In MN 118 (Sujato 15.4/43.1) it is the *seven awakening factors* that "fulfill knowledge and freedom", at the end of a chain (breath → four kinds of mindfulness meditation → awakening factors → knowledge and freedom). The compression is defensible but slightly loose; the English follows the Portuguese.
+- **11-atencao-na-respiracao.md** — the "Cuidados" section cites Britton et al. 2021 ("um estudo cuidadoso de participantes de terapia cognitiva baseada em mindfulness"), but Britton 2021 is not in the chapter's `sources:` front matter.
+- **11-atencao-na-respiracao.md** — the Portuguese renders the MN 118 opening as "O praticante vai…"; quoting Sujato directly in English brings in his word "mendicant", which the beginner reader meets without a gloss (the contract forbids adding one). Same in chapter 12's MN 10 quotation. Worth a decision on whether a one-word gloss belongs in the Portuguese first.
+- **12-observar-sem-agarrar.md** — typo in the "O que a ciência diz" section: "A distinção é bem aceita, e o um dos maiores estudos longitudinais…" (stray "o").
+- **12-observar-sem-agarrar.md** — the ReSource synthesis quoted by title ("importa o que você pratica" = Singer & Engert 2019, "It matters what you practice") is not in the chapter's `sources:` front matter (which lists Schlosser 2019, a different paper).
+- **12-observar-sem-agarrar.md** — the Portuguese uses "sensações" for *vedanā* while Sujato's English (quoted in the same section) says "feeling". The English uses **feelings** for the *vedanā* sense throughout (list item 2, practice step 7, summary) so the gloss and the quotation agree; "sensations" is kept for the generic sense in the opening paragraph.
+- **12-observar-sem-agarrar.md** — the mind list says "com raiva ou sem"; Sujato's MN 10 (34.4) has "mind with hate". English uses "hate" to match the sutta the paragraph paraphrases; "concentrada" has no single matching Sujato term in 34.2–34.17 (closest: "immersed in samādhi"), kept as "concentrated".
+- **12-observar-sem-agarrar.md** — "Seu método é a rotulagem (em inglês, *noting*)": the parenthesis drops out in English, where the method's name simply is *noting*.
+
+## Proposed fixed sentences
+
+| Portuguese | English |
+|---|---|
+| *vedanā* glossed as "sensações" / "o tom agradável, desagradável ou neutro" | **feelings** (*vedanā*), "the pleasant, unpleasant or neutral tone" — Sujato's "feeling" |
+| rotulagem (prática de Mahasi) / rotular / rótulo | **noting** / to **note** / the **label** (affect-labeling research stays *labeling*) |
+| "medita independente, sem se agarrar a nada no mundo" (refrão de MN 10) | "meditate independent, not grasping at anything in the world" (Sujato, MN 10 5.3) |
+| "cobiça e desagrado pelo mundo" | "covetousness and displeasure for the world" (Sujato) |
+| os cinco obstáculos | sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt (Sujato, MN 10 36.4–36.8) |
+| `**Força da evidência para X: moderada.**` | `**Strength of evidence for X: moderate.**` |
+| × (entre resultados, "38% × 49%") | vs. ("38% vs. 49%") |
+| controles: "lista de espera" in tables | waitlist |
+| Footnote, sutta + Visuddhimagga | *Passages from the* X Sutta *are quoted from Bhikkhu Sujato's translation (SuttaCentral, public domain). Passages from the* Visuddhimagga *(…) are quoted from Bhikkhu Ñāṇamoli's translation,* The Path of Purification *(Buddhist Publication Society).* |
+| Footnote, Mahasi | *Mahasi Sayadaw's instructions are quoted from U Pe Thin's translation,* Satipatthana Vipassana *(Buddhist Publication Society, The Wheel 370/371).* |
+
+#### 13-16
+
+# Found in the Portuguese — chapters 13–16 (English translation pass)
+
+- **13-bondade-e-compaixao-como-treino.md** — The closing note cites *Visuddhimagga* "IX.8–12 e IX.98–101", but the "é cansativo" quotation ("To put an antipathetic person in a dear one's place is fatiguing") and the warning about not starting with the hostile or neutral person are IX.4–5 (p. 291, as VERIFIED.md records). The note's range should probably read IX.4–12. The English keeps the Portuguese ranges.
+- **13-bondade-e-compaixao-como-treino.md** — The table and text give the near enemy of mettā as "apego" / "apego, cobiça"; Ñāṇamoli has only "greed" (IX.98), and the "porque ambos veem virtudes" sentence quotes the line about greed. "Apego" is an interpretation, not the translation. The English says "attachment, greed" in the table and "greed is the near enemy … 'since both share in seeing virtues'" in the prose to keep the quoted line accurate.
+- **13-bondade-e-compaixao-como-treino.md** — The Portuguese presents the order as self, dear, neutral, hostile and says it "vem do Visuddhimagga, simplificada". Ñāṇamoli (IX.11–12) puts a respected teacher second and a "very dearly loved friend" third, and IX.4–5 says *not* to begin with a very dearly loved friend either. "Simplificada" covers it, but the sentence "adverte para não começar pela pessoa hostil nem pela neutra" omits two of the four persons the text names (antipathetic, very dearly loved friend). Worth a look.
+- **13-bondade-e-compaixao-como-treino.md** — The Sujato quotation "May all beings be happy!" carries an exclamation mark in the source; the Portuguese dropped it. The English keeps it (exact quotation), which is the only "!" in these chapters. Decide whether that is acceptable under the no-exclamation-marks voice rule.
+- **13-bondade-e-compaixao-como-treino.md** — The MN 7 block quote in Portuguese omits "all around" ("em toda parte, espalha…"); Sujato 13.1 has "everywhere, all around". The English quotes Sujato in full.
+- **13-bondade-e-compaixao-como-treino.md** — "pode ser difícil no início" is in quotation marks in Cautions as if quoting Galante 2014; the original is "Exposure to KBM may initially be challenging for some people." The English quotes the original ("may initially be challenging").
+- **14-o-corpo-o-sono-e-a-dor.md** — Black et al. 2015: "média de 66 anos"; the source says mean age 66.3. The English copies 66. If the no-rounding rule applies, it should be 66,3.
+- **14-o-corpo-o-sono-e-a-dor.md** — The Rusch box ends "baixa, mas consistente com as diretrizes" for the "no advantage over specific treatment" claim. "Baixa" (the authors' GRADE-style "low strength of evidence") isn't one of the book's four labels, and the chapter's `evidence:` field states that claim without a label. Translated literally as "low".
+- **14-o-corpo-o-sono-e-a-dor.md** — The European guideline is described as first-line "em qualquer idade"; Riemann 2023 says "adults of any age". The English says "adults of any age", which is what the source says.
+- **15-quando-a-meditacao-da-errado.md** — The Lindahl table says it uses "os nomes que o próprio estudo usa" but shortens several categories against Table 4: "depressão ou luto" (study: Depression, dysphoria, or grief), "embotamento emocional" (Affective flattening or emotional detachment), "fadiga" (Fatigue or weakness), "alteração dos limites entre eu e mundo" (Changes in self-other or self-world boundaries), "hipersensibilidade a estímulos" (Perceptual hypersensitivity). The English uses the study's full names, because the sentence promises them. Either align the Portuguese or drop "com os nomes que o próprio estudo usa".
+- **15-quando-a-meditacao-da-errado.md** — The crisis resources are Brazil-only (CVV 188, SAMU 192, CAPS, UPA). Per the contract the English adds nothing, but an English-edition reader outside Brazil gets no crisis resource at all, in the chapter that most needs one. A neutral line ("outside Brazil, contact your local emergency number or crisis line") would be an authorial decision, made in the Portuguese first.
+- **16-uma-pratica-para-a-vida.md** — Galante 2023 is described as "programas de mindfulness em grupo, presenciais e conduzidos por instrutor"; the verified abstract says "Group-based teacher-led MBPs"; "presenciais" (in person) is not in the recorded text. Check the full paper before keeping it.
+- **16-uma-pratica-para-a-vida.md** — The week-by-week table uses "Rotular" with the labels "pensando", "ouvindo", "planejando"; the English renders them as "Noting ('thinking,' 'hearing,' 'planning')". If the ch. 12 translator chose different English labels, align the table with ch. 12.
+
+## Proposed fixed sentences
+
+| Portuguese | English |
+|---|---|
+| `## O que a tradição diz e o que a ciência diz, lado a lado` | `## What the Tradition Says and What Science Says, Side by Side` |
+| O que a tradição afirma / O que a pesquisa mostra (table headers) | What the tradition claims / What the research shows |
+| fadiga por compaixão | compassion fatigue |
+| erro do alarme / erro da minimização | the alarm mistake / the minimizing mistake |
+| Ajustar, parar, procurar ajuda | Adjust, stop, seek help |
+| quem o acompanha (o profissional que trata o leitor) | whoever is treating you |
+| desconforto esperado | expected discomfort |
+| excitação desregulada / hiperexcitação | dysregulated arousal / hyperarousal (Britton's terms) |
+| a sangha na prática | the sangha in practice |
+| moradas sublimes / inimigo próximo / inimigo distante | sublime abodes / near enemy / far enemy |
+| Mettā em quatro círculos | Mettā in four circles |
+| Rotular (prática) | Noting |
+| No Brasil: | In Brazil: |
+
+#### front-back
+
+# Found in the Portuguese — front, back, parts, book.yaml
+
+Candidates for *Found in the Portuguese* in docs/a-mente-treinavel/translation-en.md.
+Nothing below was changed in the Portuguese.
+
+- **back/01-sobre-a-autora.md** — "o primeiro escrito para um leitor que não sabia
+  nada do assunto e queria saber tudo direito". *Antes de começar* says the person
+  who directed the book *is* that reader, so this sentence points at the director
+  from the back page, which the rule says must never mention them. It does not name
+  or credit anyone, and the English mirrors it ("the first written for a reader who
+  knew nothing about the subject…"). Author's call whether it stays.
+- **back/02-fontes.md** — the intro says the full verification records "ficam com a
+  autora". The author is an AI; the records are in `sources/VERIFIED.md`. Translated
+  as "are kept by the author"; possibly worth rewording in both.
+- **back/02-fontes.md** — some entries lack page ranges where the others have them
+  (BRITTON et al. 2021, *Clinical Psychological Science* v. 9, n. 6; FARIAS et al.
+  2020, *Acta Psychiatrica Scandinavica* v. 142, n. 5; WOOLLETT & MAGUIRE 2011,
+  *Current Biology* v. 21, n. 24). Copied as they are.
+- **book.yaml** — `kdp.description` is still `[[?autor]]` and `keywords: []`, so the
+  English description was drafted from the book (marked `# draft — for the author`),
+  not translated. When the Portuguese blurb is written, the English should be
+  redone from it.

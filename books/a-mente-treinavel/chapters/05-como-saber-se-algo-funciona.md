@@ -196,7 +196,7 @@ medida que o controle ficava mais exigente:
 | Tratamento mínimo | 0,37 | 60 |
 | Controle ativo inespecífico | 0,35 | 60 |
 | Controle ativo específico | 0,23 | 56 |
-| Tratamento com eficácia comprovada | 0,00 | 50 |
+| Tratamento com eficácia comprovada | −0,004 | 50 |
 
 A última coluna é uma conversão aproximada feita para este livro, não um
 dado do artigo. Os resultados mais consistentes foram para depressão, dor,
@@ -243,7 +243,7 @@ funcional. É um aparelho de ressonância — o mesmo tipo usado em hospitais �
 programado para registrar mudanças na oxigenação do sangue em cada pequeno
 ponto do cérebro. Quando uma região trabalha mais, o
 fluxo de sangue oxigenado para ela muda, e o aparelho detecta isso. Ou seja,
-a fMRI não vê neurônios (as células que transmitem sinais, apresentadas em
+a fMRI não vê neurônios (as células que transmitem sinais, apresentadas no capítulo
 {{cap:neuroplasticidade-sem-exagero}}) funcionando: vê um sinal do sangue que acompanha a
 atividade dos neurônios (Raichle et al., 2001).
 
