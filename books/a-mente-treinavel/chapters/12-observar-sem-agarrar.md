@@ -168,8 +168,8 @@ interessam.
 **Pôr sentimentos em palavras reduz parte da reação: evidência
 preliminar.** O laboratório do psicólogo Matthew Lieberman estuda o que chama de *affect
 labeling*, rotular o afeto. No primeiro estudo de imagem, nomear a emoção de
-uma foto negativa reduziu a resposta da amígdala — uma região ligada à
-detecção de ameaça e relevância emocional — em comparação com outras formas
+uma foto negativa reduziu a resposta da amígdala (uma região ligada à detecção de ameaça, entre outras funções,
+vista no capítulo {{cap:como-saber-se-algo-funciona}}) em comparação com outras formas
 de processar a mesma imagem, e aumentou a atividade numa região do córtex
 pré-frontal. Um estudo posterior com 39 adultos mais velhos encontrou que
 rotular e reinterpretar deliberadamente a situação reduziram de modo
@@ -241,12 +241,15 @@ algumas — em especial quem tem histórico de trauma, dissociação ou crises
 de pânico — pode trazer à tona memórias, sensações ou estados de
 desligamento que a pessoa não consegue regular sozinha.
 
-A pesquisa sustenta a cautela. Num levantamento com mais de mil meditadores
+A pesquisa sustenta a cautela. Num levantamento com 1.232 meditadores
 regulares, cerca de um quarto relatou experiências particularmente
-desagradáveis que atribuía à meditação, mais prováveis em quem praticava só
-estilos do tipo vipassanā; e, num programa de oito semanas, os efeitos ruins
-duradouros, numa minoria, se associaram a sinais de excitação desregulada e
-dissociação. Os dois estudos, e seus limites, estão no capítulo
+desagradáveis que atribuía à meditação. Elas foram mais prováveis em quem
+praticava só estilos do tipo vipassanā — a família a que a rotulagem
+pertence —, em quem tinha muito pensamento negativo repetitivo e em quem já
+tinha feito retiro. É um estudo de autorrelato, com uma única pergunta, e não
+estabelece causa (evidência preliminar). Num programa de oito semanas, os
+efeitos ruins duradouros, numa minoria, se associaram a sinais de excitação
+desregulada e dissociação. Os dois estudos estão em detalhe no capítulo
 {{cap:quando-a-meditacao-da-errado}}.
 
 Por isso, três orientações práticas:

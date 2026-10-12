@@ -43,14 +43,14 @@ tension, pain, or nothing you can detect. You don't try to relax the region,
 change it or imagine it differently. You just notice, and move on.
 
 The practice, in the form it became known in, comes from the MBSR program
-(defined in {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}). The
+(defined in chapter {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}). The
 program's book for the general public, Jon Kabat-Zinn's *Full Catastrophe
 Living* (1990), presents it as one of the course's central formal practices,
 done lying down.
 
 It is related to the tradition, but it is not a copy of it. In the
 *Satipaṭṭhāna Sutta*, the body is the first of the four foundations of
-mindfulness (introduced in {{cap:observar-sem-agarrar}}), and the text
+mindfulness (introduced in chapter {{cap:observar-sem-agarrar}}), and the text
 includes contemplations of the body part by part. The MBSR scan keeps the
 idea of using the body as an object of attention, but sets aside the purpose
 the sutta gives those contemplations — seeing the body arise and pass away,
@@ -64,7 +64,7 @@ Why the body? There are two reasons, one practical and one theoretical.
   *now*. Unlike a thought, a sensation in your foot is not in the past or
   the future. That makes the body a natural anchor.
 - **The theoretical one:** perceiving the internal state of the body —
-  interoception, defined in {{cap:estresse-o-alarme-que-nao-desliga}} — plays
+  interoception, defined in chapter {{cap:estresse-o-alarme-que-nao-desliga}} — plays
   a part in how the brain constructs emotions and assesses threats. Training
   that perception is, in principle, training one of the inputs to the alarm
   system. "In principle" matters: this is a plausible theoretical argument
@@ -93,7 +93,7 @@ day.
 5. **When your attention wanders off** — and it will, to a plan, a memory, a
    comment about the practice — notice where it went and come back to the
    last region you remember. It is the same move of coming back taught in
-   {{cap:atencao-na-respiracao}}.
+   chapter {{cap:atencao-na-respiracao}}.
 6. **When you meet discomfort**, don't push it away, and don't linger on it
    out of duty. Notice the qualities of the sensation (a stab or a weight?
    steady or throbbing? sharp-edged or diffuse?) and notice, separately, your
@@ -160,7 +160,7 @@ treatment for insomnia." The authors call the findings preliminary.
 :::
 
 An effect size of 0.33 is small to moderate (the terms are in
-{{cap:como-saber-se-algo-funciona}}): noticeable on average, far from
+chapter {{cap:como-saber-se-algo-funciona}}): noticeable on average, far from
 transformative. The most impressive number in the literature comes from a
 single study. Black and colleagues (2015) randomized 49 older adults, with
 an average age of 66 and moderate sleep problems, to six weeks of
@@ -169,7 +169,7 @@ improved more on the sleep quality index, with an effect size of 0.89, and
 also on symptoms of insomnia, depression and fatigue. It is a good result,
 with a reasonable active control — but it is a small, single trial, and
 large effects in small studies tend to shrink as other studies are added
-(the reason is in {{cap:como-saber-se-algo-funciona}}). Strength:
+(the reason is in chapter {{cap:como-saber-se-algo-funciona}}). Strength:
 **preliminary**.
 
 There is one more tension to record. The meta-analysis by Goyal and
@@ -205,7 +205,7 @@ He proposed that meditation produces an "uncoupling" of the sensory
 dimension of pain from the affective alarm reaction that comes with it. That
 is, almost word for word, the distinction between the first and the second
 arrow, and between intensity and unpleasantness in Rainville's study,
-presented in {{cap:as-quatro-nobres-verdades-como-diagnostico}}.
+presented in chapter {{cap:as-quatro-nobres-verdades-como-diagnostico}}.
 
 More than forty years later, what do we know?
 
@@ -233,7 +233,7 @@ meditation (more activity in regions associated with the cognitive
 modulation of pain) and for placebo. The correct reading is modest: the two
 effects appear not to be the same effect. The exaggerated reading —
 "meditation activates the brain's pain control center" — is reverse
-inference, the error described in {{cap:como-saber-se-algo-funciona}}.
+inference, the error described in chapter {{cap:como-saber-se-algo-funciona}}.
 
 ## Why Understanding the Mechanism Changes Your Relationship to Pain
 

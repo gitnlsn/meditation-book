@@ -159,7 +159,17 @@ def derive(master: Path | None, dest: Path, label: str, *, px: int, gray: bool,
         return dest
     if dest.exists() and dest.stat().st_mtime >= master.stat().st_mtime:
         return dest
-    cmd = ["magick", str(master), "-strip"]
+    src = master
+    if master.suffix.lower() == ".svg":
+        # ImageMagick has no good SVG renderer of its own here (it looks for
+        # inkscape, then falls back to an internal one that drops the text).
+        # The figures are line art with labels, so rasterize them with
+        # rsvg-convert straight at the target width -- sharp at any size --
+        # and let magick do the rest as for any other master.
+        src = dest.with_name(f".{dest.stem}.svg.png")
+        run(["rsvg-convert", "--width", str(px), "--keep-aspect-ratio",
+             "--background-color", "white", "-o", str(src), str(master)])
+    cmd = ["magick", str(src), "-strip"]
     if gray:
         cmd += ["-colorspace", "Gray", "-background", "white", "-alpha", "remove",
                 "-alpha", "off"]
@@ -172,6 +182,8 @@ def derive(master: Path | None, dest: Path, label: str, *, px: int, gray: bool,
         cmd += ["-quality", "88", "-background", "white", "-alpha", "remove"]
     cmd.append(str(dest))
     run(cmd)
+    if src is not master:
+        src.unlink(missing_ok=True)
     return dest
 
 
@@ -477,10 +489,12 @@ def build_print(book_dir: Path, cfg: dict, pieces: list[Piece],
     refs = chapter_refs(pieces)
     frags: list[tuple[Piece, str, str | None]] = []
     for i, piece in enumerate(pieces):
+        # An inline figure is set by typst at the full measure, so it is
+        # rasterized for the full measure too: at 0.9 it printed under 300 dpi.
         body = rewrite_images(
             resolve_refs(piece.body, refs, piece.path), piece.path,
             lambda abs_src: print_derivative(
-                abs_src if abs_src.exists() else None, abs_src.stem, 0.9),
+                abs_src if abs_src.exists() else None, abs_src.stem, 1.0),
         )
         name = f"{i:02d}-{piece.stem}.typ"
         # `include` evaluates a file in its own scope, so a fragment does not

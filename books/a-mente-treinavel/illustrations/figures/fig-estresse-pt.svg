@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1404" height="1501" viewBox="0 0 520 556" font-family="Arial, Helvetica, sans-serif" fill="#1a1a1a">
+<defs>
+  <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a1a1a"/></marker>
+</defs>
+<rect x="0" y="0" width="520" height="556" fill="#ffffff"/>
+<rect x="42" y="10" width="470" height="70" rx="6" fill="#d6d6d6" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="277.0" y="30.2" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">Ameaça</text>
+<text x="277.0" y="49.4" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">um perigo físico, ou só pensado:</text>
+<text x="277.0" y="67.4" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">uma avaliação, uma lembrança, uma preocupação</text>
+<path d="M 118.0,80 L 118.0,136" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M 285.0,80 L 285.0,136" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)"/>
+<text x="122.0" y="100.0" font-size="15" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Via rápida</text>
+<text x="122.0" y="117.0" font-size="15" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">segundos</text>
+<text x="289.0" y="100.0" font-size="15" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Via lenta: eixo HPA</text>
+<text x="289.0" y="117.0" font-size="15" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">minutos a horas</text>
+<rect x="42" y="138" width="152" height="62" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="118.0" y="155.5" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Sistema nervoso</text>
+<text x="118.0" y="172.5" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">autônomo:</text>
+<text x="118.0" y="189.5" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">ramo simpático</text>
+<path d="M 118.0,200 L 118.0,226" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="42" y="228" width="152" height="46" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="118.0" y="246.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">parte interna das</text>
+<text x="118.0" y="263.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">suprarrenais</text>
+<path d="M 118.0,274 L 118.0,316" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="42" y="318" width="152" height="40" rx="6" fill="#d6d6d6" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="118.0" y="341.2" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">Adrenalina</text>
+<rect x="218" y="138" width="134" height="38" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="285.0" y="160.2" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">Hipotálamo</text>
+<path d="M 285.0,176 L 285.0,196" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="218" y="198" width="134" height="38" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="285.0" y="220.2" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">Hipófise</text>
+<path d="M 285.0,236 L 285.0,256" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="218" y="258" width="134" height="38" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="285.0" y="280.2" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">Suprarrenais</text>
+<path d="M 285.0,296 L 285.0,316" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="218" y="318" width="134" height="40" rx="6" fill="#d6d6d6" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="285.0" y="341.2" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">Cortisol</text>
+<path d="M 352,338 L 372,338 L 372,157 L 354,157" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)" stroke-dasharray="5 3"/>
+<text x="382" y="214.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Desliga o alarme:</text>
+<text x="382" y="231.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">o cérebro detecta</text>
+<text x="382" y="248.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">o cortisol e</text>
+<text x="382" y="265.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">reduz o comando</text>
+<path d="M 118.0,358 L 118.0,394" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M 285.0,358 L 285.0,394" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="42" y="396" width="310" height="64" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="197.0" y="414.2" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">Resposta ao estresse</text>
+<text x="197.0" y="433.4" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">coração acelera, respiração muda,</text>
+<text x="197.0" y="450.4" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">energia liberada para os músculos</text>
+<rect x="42" y="482" width="310" height="64" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.6"/>
+<text x="197.0" y="500.2" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">Preocupação e ruminação</text>
+<text x="197.0" y="519.4" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">pensar de novo na ameaça prolonga</text>
+<text x="197.0" y="536.4" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">a ativação (preliminar)</text>
+<path d="M 42,514 L 20,514 L 20,45 L 40,45" fill="none" stroke="#1a1a1a" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="382" y="478.0" font-size="15" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Carga alostática:</text>
+<text x="382" y="496.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">o desgaste quando</text>
+<text x="382" y="513.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">o alarme fica</text>
+<text x="382" y="530.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">ligado por tempo</text>
+<text x="382" y="547.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">demais</text>
+</svg>

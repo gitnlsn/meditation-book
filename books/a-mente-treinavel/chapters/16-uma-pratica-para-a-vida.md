@@ -44,7 +44,9 @@ O estudo de Lally e colegas (2010), apresentado com seus limites no capítulo
 {{cap:atencao-emocao-e-habito}}, acrescenta duas informações úteis: o tempo
 até um comportamento diário se tornar automático variou entre **18 e 254
 dias** — não há número mágico —, e **perder um dia não atrapalhou** de forma
-relevante a formação do hábito.
+relevante a formação do hábito. Força da evidência: **moderada** para a ideia
+geral de que repetição num contexto estável cria automatismo; **preliminar**
+para os números, que vêm de um estudo pequeno, com medidas de autorrelato.
 
 A consequência prática: em vez de perguntar "como me manter motivado?",
 pergunte "o que no meu dia vai disparar a prática?".

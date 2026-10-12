@@ -30,7 +30,8 @@ is:
 
 - **strong**: large studies, repeated by other groups, or good-quality
   meta-analyses;
-- **moderate**: serious trials or meta-analyses, but with real limits;
+- **moderate**: serious trials or meta-analyses, but with real limits,
+  including a single large, well-run trial that has not yet been repeated;
 - **preliminary**: small or single studies, studies without a comparison
   group, or studies that measure a single moment;
 - **contested**: there is an active, still unresolved disagreement among

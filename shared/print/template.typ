@@ -321,7 +321,16 @@
     radius: 2pt,
     text(font: ("Libertinus Mono", "Menlo"), size: 9pt, it),
   )
-  show figure.caption: it => text(font: sans, size: 8.5pt, fill: luma(30%), it)
+  // Explanatory figures (a markdown image with a caption): the caption is set
+  // like the evidence box, sans and small, and carries no "Figura N:" label --
+  // the prose never refers to a figure by number, and the EPUB has none.
+  // A little air above and below sets the figure apart from the running text.
+  show figure.where(kind: image): set block(above: 1.6em, below: 1.6em)
+  show figure.caption: it => block(width: 92%, {
+    set par(justify: false, first-line-indent: 0pt)
+    set text(hyphenate: false)
+    text(font: sans, size: 8.5pt, fill: luma(30%), it.body)
+  })
 
   // --- Table of contents ---------------------------------------------------
   // Parts are set apart: small caps, no leader, air above. Chapters are

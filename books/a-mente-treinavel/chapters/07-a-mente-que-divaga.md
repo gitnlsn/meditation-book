@@ -165,6 +165,8 @@ costumam se ativar juntas quando a pessoa não está concentrada numa tarefa
 externa. Que essa rede existe e se comporta assim é um dos achados mais bem
 replicados da neurociência por imagem.
 
+![Esquema do cérebro cortado ao meio, visto pelo lado de dentro, com a frente à esquerda e as regiões citadas neste livro. As posições são aproximadas, e o desenho não diz o que cada região faz.](../illustrations/figures/fig-cerebro-pt.svg)
+
 O que ela *faz* é outra questão. Pesquisas posteriores a associaram ao
 pensamento sobre si mesmo, e Killingsworth e Gilbert abrem seu artigo
 observando que a divagação parece ser o "modo padrão" de funcionamento do
@@ -211,6 +213,8 @@ quatro fases:
 2. **Perceber**: a pessoa se dá conta de que divagou.
 3. **Redirecionar**: a atenção é trazida de volta.
 4. **Sustentar**: a atenção fica na respiração, até a próxima saída.
+
+![O ciclo de quatro fases da meditação com foco na respiração, como Hasenkamp e colegas (2012) o dividiram.](../illustrations/figures/fig-ciclo-divagacao-pt.svg)
 
 Na fase de divagação, apareceu atividade em regiões da rede de modo padrão.
 No momento de perceber, em regiões de outra rede, associada a detectar o

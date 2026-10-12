@@ -27,7 +27,8 @@ Quando uma afirmação vem de um estudo, o texto diz quão forte é a evidência
 
 - **forte**: estudos grandes, repetidos por outros grupos, ou meta-análises de
   boa qualidade;
-- **moderada**: ensaios ou meta-análises sérios, mas com limites reais;
+- **moderada**: ensaios ou meta-análises sérios, mas com limites reais,
+  incluindo um único ensaio grande e bem feito que ainda não foi repetido;
 - **preliminar**: estudos pequenos, únicos, sem grupo de comparação ou que
   medem um único momento;
 - **contestada**: há uma discordância ativa, ainda não resolvida, entre os

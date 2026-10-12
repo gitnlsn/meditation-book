@@ -43,6 +43,13 @@ diferentes, e cada afirmação do livro diz em qual das três está.
   primeiro capítulo da Parte II, e não uma abertura solta: o leitor precisa
   dele exatamente antes da ciência, e o "Antes de começar" já explica os
   quatro rótulos de evidência.
+- **Decidido por mim (revisão, 2026-10-11):** "forte" exige repetição por
+  outros grupos ou meta-análise de boa qualidade, como diz o "Antes de
+  começar". Um único ensaio, por maior e mais bem feito que seja, fica em
+  "moderada": por isso o PREVENT (MBCT × antidepressivo) e o MYRIAD
+  (mindfulness nas escolas) desceram de "forte" para "moderada". Manter a
+  definição e corrigir os rótulos era mais honesto do que afrouxar a
+  definição para caber neles.
 
 ## Título (decidido em 2026-10-11)
 
@@ -130,7 +137,7 @@ e o corpo que mudam com o treino.
 *(How to Know Whether Something Works)*
 - **A pergunta** — por que tanta gente diz que meditação "comprovadamente" faz bem, e como checar?
 - **A ideia** — saber se uma prática funciona exige comparar com algo ativo, sortear quem pratica e somar muitos estudos; quase todo exagero vem de pular uma dessas etapas.
-- **Termos** — ensaio randomizado, grupo controle, controle ativo, placebo, meta-análise, tamanho de efeito, viés de publicação, replicação, inferência reversa, fMRI
+- **Termos** — ensaio randomizado, grupo controle, controle ativo, placebo, meta-análise, tamanho de efeito, viés de publicação, replicação, inferência reversa, fMRI, amígdala
 - **Evidência** — metodológica; forte
 - **Ressalvas** — o salmão morto é piada séria, não prova de que fMRI não presta
 - **Fontes** — Van Dam et al. 2018; Goldberg et al. 2018; Open Science Collaboration 2015; Poldrack 2006
@@ -140,7 +147,7 @@ e o corpo que mudam com o treino.
 - **A pergunta** — o cérebro adulto realmente muda?
 - **A ideia** — muda com o uso, mas menos, mais devagar e de forma mais difícil de medir do que os livros populares dizem.
 - **Termos** — neurônio, sinapse, neuroplasticidade, aprendizagem hebbiana, massa cinzenta, neurogênese, hipocampo
-- **Evidência** — plasticidade sináptica (forte); mudança estrutural visível em ressonância (moderada, pequena); neurogênese adulta humana (contestada)
+- **Evidência** — plasticidade sináptica (forte); mudança estrutural visível em ressonância com treino intenso de meses ou anos (moderada, pequena); mudança estrutural após oito semanas de meditação (contestada, ausente no maior ensaio); neurogênese adulta humana (contestada)
 - **Ressalvas** — o mito dos 10%; "religar o cérebro em oito semanas"
 - **Fontes** — Hebb 1949; Maguire et al. 2000, 2006; Draganski et al. 2004; Sorrells et al. 2018; Boldrini et al. 2018
 
@@ -176,7 +183,7 @@ e o corpo que mudam com o treino.
 - **A pergunta** — no balanço, meditação faz bem à saúde?
 - **A ideia** — há evidência moderada de benefícios reais em ansiedade, depressão recorrente e estresse, de tamanho parecido ao de outros tratamentos ativos; muito do que se diz sobre o cérebro não se sustenta.
 - **Termos** — MBSR, MBCT, recaída, não inferioridade
-- **Evidência** — ansiedade, depressão, estresse (moderada); prevenção de recaída com MBCT (moderada a forte); mudança estrutural no cérebro (contestada)
+- **Evidência** — ansiedade, depressão, estresse (moderada); prevenção de recaída com MBCT (moderada a forte); MBCT ≈ antidepressivo de manutenção (moderada, um grande ensaio); MBSR não inferior ao escitalopram (moderada, um ensaio); mindfulness universal nas escolas (moderada, um grande ensaio, para a ausência de efeito); mudança estrutural no cérebro em oito semanas (contestada; o maior ensaio não a encontrou); pressão arterial (preliminar para Meditação Transcendental, insuficiente para as demais)
 - **Ressalvas** — efeitos pequenos a moderados; não supera tratamentos ativos; não substitui tratamento
 - **Fontes** — Goyal et al. 2014; Kuyken et al. 2016; Hoge et al. 2023; Galante et al. 2021; Kral et al. 2022
 

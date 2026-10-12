@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1404" height="1253" viewBox="0 0 520 464" font-family="Arial, Helvetica, sans-serif" fill="#1a1a1a">
+<defs>
+  <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a1a1a"/></marker>
+</defs>
+<rect x="0" y="0" width="520" height="464" fill="#ffffff"/>
+<rect x="56" y="376" width="456" height="78" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="70" y="401.0" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Antes e depois, um grupo só</text>
+<text x="70" y="422.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Não separa a prática de: tempo, expectativa, contexto,</text>
+<text x="70" y="440.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">vontade de agradar, desistências.</text>
+<rect x="56" y="271" width="456" height="96" rx="6" fill="#f1f1f1" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="70" y="296.0" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Grupos comparados, sem sorteio</text>
+<text x="70" y="317.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Por exemplo, meditadores e não meditadores. Mostra uma</text>
+<text x="70" y="335.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">diferença, não uma causa: os grupos podiam ser diferentes</text>
+<text x="70" y="353.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">desde o começo.</text>
+<rect x="56" y="184" width="456" height="78" rx="6" fill="#e3e3e3" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="70" y="209.0" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Ensaio randomizado, controle em lista de espera</text>
+<text x="70" y="230.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Descarta: o tempo que passou; diferenças prévias (o sorteio).</text>
+<text x="70" y="248.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Não descarta: expectativa, grupo acolhedor, instrutor.</text>
+<rect x="56" y="97" width="456" height="78" rx="6" fill="#d5d5d5" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="70" y="122.0" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Ensaio randomizado, controle ativo</text>
+<text x="70" y="143.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Descarta também expectativa e contexto, se os dois grupos</text>
+<text x="70" y="161.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">esperarem melhorar na mesma medida.</text>
+<rect x="56" y="10" width="456" height="78" rx="6" fill="#c7c7c7" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="70" y="35.0" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Replicação e meta-análise</text>
+<text x="70" y="56.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Um estudo pode errar por acaso; somados, os erros tendem</text>
+<text x="70" y="74.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">a se compensar. Limite: herdam o viés de publicação.</text>
+<path d="M 26,452 L 26,14" fill="none" stroke="#1a1a1a" stroke-width="2.2" marker-end="url(#ah)"/>
+<text x="0" y="0" font-size="15" font-weight="bold" text-anchor="middle" transform="translate(44 232.0) rotate(-90)">mais confiável</text>
+</svg>

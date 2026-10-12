@@ -12,9 +12,9 @@ terms:
 - recaída
 - não inferioridade
 evidence: ansiedade, depressão, estresse (moderada); prevenção de recaída com MBCT
-  (moderada a forte); MBCT ≈ antidepressivo de manutenção (forte, um grande ensaio);
+  (moderada a forte); MBCT ≈ antidepressivo de manutenção (moderada, um grande ensaio);
   MBSR não inferior ao escitalopram (moderada, um ensaio); mindfulness universal nas
-  escolas (forte, para a ausência de efeito); mudança estrutural no cérebro em oito
+  escolas (moderada, um grande ensaio, para a ausência de efeito); mudança estrutural no cérebro em oito
   semanas (contestada; o maior ensaio não a encontrou); pressão arterial (preliminar
   para Meditação Transcendental, insuficiente para as demais)
 caveats: efeitos pequenos a moderados; não supera tratamentos ativos; não substitui
@@ -180,8 +180,9 @@ estatisticamente significativa (razão de risco de 0,89; p = 0,43). Os autores
 concluem que **não há evidência de que o MBCT seja superior** ao
 antidepressivo de manutenção, e que os dois grupos tiveram bons resultados.
 
-**Força da evidência:** forte para "o MBCT é uma alternativa de eficácia
-parecida para este grupo de pacientes". Não sustenta "o MBCT é melhor do que
+**Força da evidência:** moderada para "o MBCT é uma alternativa de eficácia
+parecida para este grupo de pacientes": um ensaio grande e bem conduzido,
+mas um só. Não sustenta "o MBCT é melhor do que
 remédio", que é como o estudo às vezes aparece na imprensa.
 :::
 
@@ -238,8 +239,9 @@ O estudo foi feito por uma equipe favorável ao mindfulness, com uma amostra
 grande e representativa da população britânica. Ele não mostra que a
 meditação não serve para adolescentes. Mostra que oferecer um curso curto a
 *todos* os alunos de uma escola, sem selecionar quem precisa, não produziu
-benefício mensurável. **Força da evidência: forte, para a ausência de efeito
-nesse formato.**
+benefício mensurável. **Força da evidência: moderada, para a ausência de efeito
+nesse formato** — um ensaio só, mas muito grande e bem conduzido, o que
+torna improvável que um benefício relevante tenha passado despercebido.
 
 ## O cérebro: a manchete que não se replicou
 
@@ -303,9 +305,9 @@ Meditação Transcendental; insuficiente para as demais.**
 | Transtornos psiquiátricos (Goldberg 2018) | Mindfulness × cinco tipos de comparador; 142 amostras, 12.005 pessoas | De 0,55 contra nada a zero contra tratamentos estabelecidos | Moderada |
 | Vantagem sobre outras terapias (Goldberg & Tucker 2020) | 60 comparações com terapias de verdade | Vantagem pequena (0,13), ligada à lealdade dos pesquisadores; some sem ela | Moderada |
 | Recaída na depressão recorrente (Kuyken 2016) | MBCT × sem MBCT; 9 ensaios, 1.258 pessoas | Recaída em 60 semanas: 38% × 49% | Moderada a forte |
-| Recaída: MBCT × remédio (PREVENT 2015) | MBCT com redução do remédio × antidepressivo de manutenção; 424 pessoas, 2 anos | 44% × 47%; sem diferença | Forte |
+| Recaída: MBCT × remédio (PREVENT 2015) | MBCT com redução do remédio × antidepressivo de manutenção; 424 pessoas, 2 anos | 44% × 47%; sem diferença | Moderada (um ensaio) |
 | Transtornos de ansiedade (Hoge 2023) | MBSR × escitalopram; 276 sorteados, 208 analisados | Não inferior (queda de 1,35 × 1,43 pontos); menos eventos adversos | Moderada (um ensaio) |
-| Saúde mental de adolescentes (MYRIAD 2022) | Curso escolar universal × ensino habitual; 84 escolas, 8.376 alunos | Sem diferença em um ano | Forte (para o nulo) |
+| Saúde mental de adolescentes (MYRIAD 2022) | Curso escolar universal × ensino habitual; 84 escolas, 8.376 alunos | Sem diferença em um ano | Moderada (um ensaio, para o nulo) |
 | Estrutura do cérebro (Hölzel 2011 × Kral 2022) | MBSR × lista de espera (16 × 17, sem sorteio); MBSR × controle ativo e lista de espera (218, sorteados) | Aumento no estudo pequeno; nenhuma mudança no grande | Contestada |
 | Pressão arterial (AHA 2013) | Revisão de ensaios por uma diretriz médica | Meditação Transcendental "pode ser considerada"; outras técnicas não recomendadas | Preliminar / insuficiente |
 

@@ -77,6 +77,8 @@ exatamente como ela. A divisão dela é esta:
   o treino de ver as coisas como os textos dizem que são: impermanentes,
   insatisfatórias, sem um eu fixo (o capítulo {{cap:impermanencia-e-nao-eu}}).
 
+![Os oito fatores do Nobre Caminho Óctuplo agrupados nos três treinos, segundo a divisão de Dhammadinnā no *Cūḷavedalla Sutta*.](../illustrations/figures/fig-caminho-pt.svg)
+
 A mesma divisão em três chegou ao Japão: a filosofia do Zen, segundo a
 *Stanford Encyclopedia of Philosophy*, herda do budismo indiano a ideia de
 que o estudo budista tem três componentes — preceitos éticos, meditação e
@@ -164,8 +166,8 @@ moderno:
    cremação, em vários estágios de decomposição: "este corpo também é da
    mesma natureza". A meta é desfazer o apego, não relaxar.
 2. **A observação dos fenômenos é doutrinal.** O praticante observa, entre
-   outras coisas, os cinco obstáculos (desejo sensual, má vontade, torpor,
-   agitação, dúvida), os cinco agregados e as Quatro Nobres Verdades. Para
+   outras coisas, os cinco obstáculos (desejo sensorial, má vontade, torpor e
+   sonolência, agitação e remorso, dúvida), os cinco agregados e as Quatro Nobres Verdades. Para
    isso precisa conhecer as categorias do ensinamento.
 3. **O objetivo é o despertar.** O sutta termina prometendo que quem
    desenvolver os quatro satipaṭṭhānas por sete anos — e, descendo, até por

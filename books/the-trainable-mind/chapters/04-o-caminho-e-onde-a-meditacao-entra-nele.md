@@ -23,7 +23,7 @@ sources: Satipaṭṭhāna Sutta (MN 10), Magga-vibhaṅga (SN 45.8),
   Cūḷavedalla (MN 44) e Kālāma Sutta (AN 3.65), trad. Sujato; Anālayo 2003; Sharf
   2015; Kabat-Zinn 2003; Rahula 1959 (ed. 1974)
 source: a-mente-treinavel/chapters/04-o-caminho-e-onde-a-meditacao-entra-nele.md
-source_sha: a8ffd66fa9c3
+source_sha: a2410ea518df
 status: draft
 ---
 This chapter answers the question "Is meditating the same as being a
@@ -80,6 +80,8 @@ he would have answered exactly as she did. Her division is this:
   intention. It is the training of seeing things as the texts say they are:
   impermanent, unsatisfactory, without a fixed self (chapter
   {{cap:impermanencia-e-nao-eu}}).
+
+![The eight factors of the Noble Eightfold Path grouped into the three trainings, following Dhammadinnā's division in the *Cūḷavedalla Sutta*.](../illustrations/figures/fig-caminho-en.svg)
 
 The same three-part division reached Japan: Zen philosophy, according to the
 *Stanford Encyclopedia of Philosophy*, inherits from Indian Buddhism the idea
@@ -168,8 +170,8 @@ mindfulness:
    ground, at various stages of decay: "This body is also of that same
    nature." The goal is to undo attachment, not to relax.
 2. **Observing phenomena is doctrinal.** The practitioner observes, among
-   other things, the five hindrances (sensual desire, ill will, dullness,
-   restlessness, doubt), the five aggregates and the Four Noble Truths. To do
+   other things, the five hindrances (sensual desire, ill will, dullness and
+   drowsiness, restlessness and remorse, doubt), the five aggregates and the Four Noble Truths. To do
    that, you need to know the categories of the teaching.
 3. **The goal is awakening.** The sutta ends by promising that whoever
    develops the four satipaṭṭhānas for seven years — and, counting down, even

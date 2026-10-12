@@ -14,7 +14,8 @@ terms:
 - neurogênese
 - hipocampo
 evidence: plasticidade sináptica (forte); mudança estrutural visível em ressonância
-  (moderada, pequena); neurogênese adulta humana (contestada)
+  com treino intenso de meses ou anos (moderada, pequena); mudança estrutural após
+  oito semanas de meditação (contestada, ausente no maior ensaio); neurogênese adulta humana (contestada)
 caveats: o mito dos 10%; "religar o cérebro em oito semanas"
 sources: Hebb 1949; Maguire et al. 2000, 2006; Woollett & Maguire 2011; Draganski
   et al. 2004; Thomas & Baker 2013; Sorrells et al. 2018; Boldrini et al. 2018; Kral

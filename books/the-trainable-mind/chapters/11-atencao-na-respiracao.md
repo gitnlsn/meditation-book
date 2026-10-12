@@ -33,7 +33,7 @@ experiments have measured, and where the two stop lining up.
 The practice has its own name in Pali ({{cap:quem-foi-o-buda-e-quem-ele-nao-foi}}
 explains what Pali is): **ānāpānasati**, literally "attention (*sati*) to the
 in-breath and the out-breath (*ānāpāna*)." The term *sati* was introduced in
-{{cap:o-caminho-e-onde-a-meditacao-entra-nele}}; here it is enough to
+chapter {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}; here it is enough to
 remember that it means keeping something present in the mind, not
 "relaxing."
 
@@ -58,7 +58,7 @@ group deals with the body and the breath; the second, with the pleasant
 feelings that may arise; the third, with the mind; the fourth, with
 impermanence, fading away, cessation and letting go. The text itself links
 each group to one of the four foundations of mindfulness in the
-*Satipaṭṭhāna Sutta*, the subject of {{cap:observar-sem-agarrar}}, and says
+*Satipaṭṭhāna Sutta*, the subject of chapter {{cap:observar-sem-agarrar}}, and says
 that the practice, once developed, leads to "knowledge and freedom."
 
 Two consequences for a beginner. First, this chapter uses only the first
@@ -100,13 +100,13 @@ can be a sound, the contact of your feet with the floor or of your hands in
 your lap. The breath is the classic choice because it is always present,
 changes all the time and takes no effort.
 
-Attention will drift. Not "it may": it will. {{cap:a-mente-que-divaga}}
+Attention will drift. Not "it may": it will. Chapter {{cap:a-mente-que-divaga}}
 showed that the mind spends a large part of its time away from what it is
 doing, and a person sitting and watching the breath is no exception. The
 useful question is not how to stop it from drifting, but what to do once it
 has.
 
-{{cap:a-mente-que-divaga}} described the study by Wendy Hasenkamp and
+Chapter {{cap:a-mente-que-divaga}} described the study by Wendy Hasenkamp and
 colleagues (2012), which gave shape to this cycle: fourteen practitioners
 meditated on the breath inside a scanner and pressed a button each time they
 noticed they had drifted from it, and the practice was divided into four
@@ -121,7 +121,7 @@ exercise.
 ## The Practice
 
 Ten minutes a day, for one week. A fixed time helps more than motivation;
-{{cap:uma-pratica-para-a-vida}} deals with that.
+chapter {{cap:uma-pratica-para-a-vida}} deals with that.
 
 **Posture** is the way you sit, and in the tradition it has a function: to
 keep the body stable and alert, without strain. The sutta speaks of crossed
@@ -166,7 +166,7 @@ again and again.
 Treating an "empty mind" as the goal has two bad effects. The first is
 frustration: the beginner thinks during the session, concludes they "can't
 meditate" and gives up. The second is subtler: trying to push thoughts out
-is a form of resistance, the same thing
+is a form of resistance, the same thing chapter
 {{cap:as-quatro-nobres-verdades-como-diagnostico}} described as the second
 arrow. The instruction is different: the thought shows up, you notice, you
 come back.
@@ -175,12 +175,12 @@ come back.
 
 Here the book changes register: from what the texts claim to what
 experiments have measured. The terms *focused attention* and *open
-monitoring* were defined in {{cap:atencao-emocao-e-habito}}; breath counting
+monitoring* were defined in chapter {{cap:atencao-emocao-e-habito}}; breath counting
 is a typical example of focused attention.
 
 **Sustained attention: moderate evidence, at a high dose.** The best study is
 the Shamatha Project (MacLean and colleagues, 2010), described in
-{{cap:atencao-emocao-e-habito}}: a three-month retreat, with about five
+chapter {{cap:atencao-emocao-e-habito}}: a three-month retreat, with about five
 hours a day of attention on a chosen object such as the breath, improved
 vigilance in a randomized trial with a waitlist. What the study shows is that
 sustained attention is trainable. It does not show how much training an
@@ -215,7 +215,7 @@ minimum dose.
 :::
 
 Other studies point the same way, all with limits; the five-day study with
-Chinese university students is in {{cap:atencao-emocao-e-habito}}. And breath
+Chinese university students is in chapter {{cap:atencao-emocao-e-habito}}. And breath
 counting itself has been used as a measuring instrument: Daniel Levinson and
 colleagues, in Richard Davidson's lab, showed in four studies with more than
 four hundred people that making fewer counting errors goes along with less
@@ -227,7 +227,7 @@ double role: it is an exercise and it is a ruler.
 The honest summary: sustained attention improves with focused-attention
 training (**moderate**); that ten minutes a day is enough for a measurable
 effect is plausible, but still **preliminary**. And, as
-{{cap:atencao-emocao-e-habito}} discusses, gains on a lab task do not always
+chapter {{cap:atencao-emocao-e-habito}} discusses, gains on a lab task do not always
 carry over to life.
 
 ## Where Tradition and Science Part Ways
@@ -261,7 +261,7 @@ The adverse effects of meditation are real and documented, even in
 eight-week programs: a careful study of participants in mindfulness-based
 cognitive therapy found lasting bad effects in a minority, associated with
 signs of dysregulated arousal and dissociation. Ten minutes a day is a low
-dose, but it is not a zero dose. {{cap:quando-a-meditacao-da-errado}}
+dose, but it is not a zero dose. Chapter {{cap:quando-a-meditacao-da-errado}}
 describes the signs and when to stop. And no practice in this book is a
 substitute for treatment of anxiety, depression or any diagnosis.
 

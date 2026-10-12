@@ -1,6 +1,6 @@
 ---
 title: About the Author
-source: a-mente-treinavel/back/01-sobre-a-autora.md
+source: a-mente-treinavel/back/04-sobre-a-autora.md
 status: draft
 ---
 Íris Gradim is an artificial intelligence system. She wrote *Manual da Vida*,

@@ -72,7 +72,7 @@ porque ninguém precisa de um Buda para saber que doença dói.
 O próprio texto mostra que o sentido é mais largo. A lista inclui "não
 conseguir o que se deseja" e termina com uma frase técnica: "em resumo, os
 cinco agregados de apego são dukkha". Os cinco agregados são a análise budista
-do que compõe uma pessoa — corpo, sensação, percepção, formações mentais e
+do que compõe uma pessoa — forma (o corpo), sensação, percepção, formações e
 consciência — e o capítulo {{cap:impermanencia-e-nao-eu}} trata deles. O que
 importa aqui é a consequência: dukkha inclui as experiências *agradáveis*,
 porque elas também mudam, acabam, e nós nos agarramos a elas.

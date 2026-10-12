@@ -17,7 +17,7 @@ practice: montar o próprio plano de oito semanas
 sources: Wood 2019; Lally et al. 2010; Goleman & Davidson 2017; Kok & Singer 2017;
   Galante et al. 2023; Schlosser et al. 2019; Kral et al. 2022
 source: a-mente-treinavel/chapters/16-uma-pratica-para-a-vida.md
-source_sha: 2ace6eb55c2b
+source_sha: caed4af5b5a6
 status: draft
 ---
 This chapter closes the book with a practical question: how do you make a
@@ -34,7 +34,7 @@ together and a summary of the argument of the whole book.
 
 The idea that habits form through willpower is intuitive and, according to
 habit research, misplaced. A habit, as defined in
-{{cap:atencao-emocao-e-habito}}, is a response the context triggers almost
+chapter {{cap:atencao-emocao-e-habito}}, is a response the context triggers almost
 without a decision. The psychologist Wendy Wood, one of the leading
 researchers on the subject, sums up the literature in a book for general
 readers (*Good Habits, Bad Habits*, 2019): habits are associations between a
@@ -45,10 +45,13 @@ to. If you always practice after coffee, in the same chair, you have less to
 decide.
 
 The study by Lally and colleagues (2010), presented with its limits in
-{{cap:atencao-emocao-e-habito}}, adds two useful pieces of information: the
+chapter {{cap:atencao-emocao-e-habito}}, adds two useful pieces of information: the
 time it took for a daily behavior to become automatic ranged from **18 to
 254 days** — there is no magic number — and **missing a day did not
-meaningfully disrupt** habit formation.
+meaningfully disrupt** habit formation. Strength of evidence: **moderate** for
+the general idea that repetition in a stable context builds automaticity;
+**preliminary** for the numbers, which come from a small study with
+self-report measures.
 
 The practical upshot: instead of asking "how do I stay motivated?", ask
 "what in my day is going to trigger the practice?"
@@ -140,7 +143,7 @@ There are three main paths, and they are not mutually exclusive.
 | **MBCT** | The same format, combined with cognitive therapy | People who have had recurrent depression and want to reduce the risk of relapse — that is where the evidence is | Not a treatment for an acute crisis; done with professional follow-up |
 | **Buddhist tradition** (Theravāda, Zen, Tibetan and other centers) | Practice within the ethical, philosophical and often religious context it came from | People who want the whole path, not just the technique | Each tradition has its own assumptions; ask what they are beforehand |
 
-MBSR and MBCT were defined in {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}.
+MBSR and MBCT were defined in chapter {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}.
 The difference between them and a tradition is not one of quality but of
 purpose. The programs take meditation out of the whole it was born in and
 use it for health goals; the chapter
@@ -159,7 +162,7 @@ an app.
 A **retreat** is a period away from your routine devoted to practice: it can
 be a morning, a full day, a weekend or several weeks. The intensive retreat,
 lasting many days with many hours of practice a day, was defined in
-{{cap:quando-a-meditacao-da-errado}}. Short retreats are an excellent way to
+chapter {{cap:quando-a-meditacao-da-errado}}. Short retreats are an excellent way to
 deepen your practice and get to know a group. Long ones are something else.
 
 Three cautions:
@@ -235,7 +238,7 @@ A suggested sequence, which runs through the practices of Part III:
 
 At the end of the eighth week, answer three questions in writing: Which
 practice am I going to keep? At what time? With whom? If at any point the
-signs described in {{cap:quando-a-meditacao-da-errado}} appear, the plan
+signs described in chapter {{cap:quando-a-meditacao-da-errado}} appear, the plan
 changes — shorten it, switch practices, or stop and seek guidance. And if
 you are in treatment for any condition, this plan goes alongside it; it
 does not replace it.

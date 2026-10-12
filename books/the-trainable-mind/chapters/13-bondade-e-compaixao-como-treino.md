@@ -52,7 +52,7 @@ They are:
 - **Muditā** — joy at another's good fortune, the opposite of envy. Sujato
   translates it as "rejoicing."
 - **Upekkhā** — equanimity, the same attitude described in
-  {{cap:observar-sem-agarrar}}, here directed toward beings: wishing all of
+  chapter {{cap:observar-sem-agarrar}}, here directed toward beings: wishing all of
   them well without favoring some and shutting out others.
 
 The suttas describe the practice as a radiating outward. Here is Bhikkhu
@@ -82,13 +82,13 @@ life — being upright, easy to speak to, doing nothing the wise would
 blame — and ends by saying that someone who develops it will "never return
 to a womb again," that is, will not be reborn. In the tradition, mettā is
 not a wellness technique. It is part of an ethical and religious path that
-includes rebirth, as {{cap:as-quatro-nobres-verdades-como-diagnostico}}
+includes rebirth, as chapter {{cap:as-quatro-nobres-verdades-como-diagnostico}}
 explained.
 
 ## The Near Enemies
 
 The *Visuddhimagga*, Buddhaghosa's manual introduced in
-{{cap:atencao-na-respiracao}}, adds an idea that is not in the suttas and is
+chapter {{cap:atencao-na-respiracao}}, adds an idea that is not in the suttas and is
 one of the most useful in this chapter. Each sublime abode has two enemies.
 The **far enemy** is the obvious opposite: ill will for kindness, cruelty
 for compassion. The **near enemy** is more dangerous, because it resembles
@@ -191,7 +191,7 @@ Ten to fifteen minutes.
    be happy and does not want to suffer.
 5. **Fourth circle: someone difficult.** Start with someone *mildly*
    irritating, not the person who hurt you most. Same phrases. If anger comes
-   up, note it as in {{cap:observar-sem-agarrar}} and go back to the phrases,
+   up, note it as in chapter {{cap:observar-sem-agarrar}} and go back to the phrases,
    or go back to the second circle for a moment.
 6. **If you like, open it up:** "May all beings be safe and happy," as in
    the poem.
@@ -243,7 +243,7 @@ compassion and kindness, and perspective-taking practices on oneself and
 others. Singer and Engert's 2019 overview reports different effects
 depending on the module, including on the cortisol response to a social
 stress test, which fell after the social modules and not after the attention
-module (the result is in {{cap:estresse-o-alarme-que-nao-desliga}}). It is
+module (the result is in chapter {{cap:estresse-o-alarme-que-nao-desliga}}). It is
 the best argument that "meditation" is not a single intervention. But it
 comes, again, from a single research group.
 
@@ -289,7 +289,7 @@ people, the practice "may initially be challenging." For anyone with a history o
 fourth circle should never begin with the person who caused the harm, and
 there is no obligation ever to reach that person. If the practice stirs up
 distress that does not pass after the session, stop and look at the signs
-described in {{cap:quando-a-meditacao-da-errado}}. For caregivers who are
+described in chapter {{cap:quando-a-meditacao-da-errado}}. For caregivers who are
 burned out, the distinction between empathy and compassion is useful, but it
 is not a substitute for rest, support, or treatment for depression or
 burnout.

@@ -4,7 +4,12 @@ status: draft
 ---
 Estas são as obras citadas no texto, agrupadas por capítulo; a que aparece
 em mais de um capítulo se repete em cada um. Todas foram
-conferidas em 11 de outubro de 2026, e cada entrada diz onde. Os registros
+conferidas em 11 de outubro de 2026, e cada entrada diz onde. A maioria foi
+conferida no próprio texto ou no resumo publicado. Alguns livros foram
+conferidos só de forma indireta — pela página da editora, por uma resenha ou
+pela bibliografia de outro trabalho —, e a entrada diz isso; nesses casos, a
+conferência confirma a obra e o que dela se diz, não a leitura do livro
+inteiro. Os registros
 completos da verificação, com endereços e cópias consultadas, ficam guardados
 junto com o manuscrito. Os suttas são citados na tradução inglesa de Bhikkhu Sujato, em
 domínio público, salvo indicação na própria entrada.
@@ -230,3 +235,10 @@ domínio público, salvo indicação na própria entrada.
 - SCHLOSSER, M. et al. Unpleasant meditation-related experiences in regular meditators: Prevalence, predictors, and conceptual considerations. *PLOS ONE*, v. 14, n. 5, e0216643, 2019. Conferido em: PubMed.
 - GOLEMAN, D.; DAVIDSON, R. J. *Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body*. Nova York: Avery, 2017. Conferido em: catálogo (LibraryThing).
 - KRAL, T. R. A. et al. Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, v. 8, n. 20, eabk3316, 2022. Conferido em: PubMed / Center for Healthy Minds.
+
+## Perguntas da segunda semana
+
+- LINARDON, J. et al. The efficacy of mindfulness apps on symptoms of depression and anxiety: An updated meta-analysis of randomized controlled trials. *Clinical Psychology Review*, v. 107, 102370, 2024. DOI: 10.1016/j.cpr.2023.102370. Conferido em: PubMed.
+- LINARDON, J. Rates of attrition and engagement in randomized controlled trials of mindfulness apps: Systematic review and meta-analysis. *Behaviour Research and Therapy*, v. 170, 104421, 2023. DOI: 10.1016/j.brat.2023.104421. Conferido em: PubMed.
+- BRASIL. Ministério da Saúde. Portaria nº 849, de 27 de março de 2017. Inclui a meditação, entre outras práticas, na Política Nacional de Práticas Integrativas e Complementares (PNPIC). Disponível em: bvsms.saude.gov.br. Conferido em: Biblioteca Virtual em Saúde do Ministério da Saúde.
+- CENTRO MENTE ABERTA — Centro Brasileiro de Mindfulness e Promoção da Saúde (Unifesp). Disponível em: mindfulness.unifesp.br. Conferido em: site do centro.

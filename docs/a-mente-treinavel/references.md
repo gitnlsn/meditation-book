@@ -558,7 +558,7 @@ Verified via https://cris.huji.ac.il/en/publications/transient-induced-gamma-ban
 
 4. **"Monks' gamma waves prove enlightenment / meditation produces a special brain state."** Overstated. Lutz 2004 is small and cross-sectional, and the paper itself flags muscle artifact above about 42 Hz. Scalp gamma is vulnerable to eye-movement artifacts (Yuval-Greenberg 2008). Mapping "gamma" onto "enlightenment" is reverse inference (Poldrack 2006). *Correctors: Yuval-Greenberg 2008; Poldrack 2006; Van Dam 2018.*
 
-5. **"Mindfulness works better than antidepressants."** Overstated. For relapse prevention MBCT is about **equal** to maintenance antidepressants (PREVENT: 44% vs 47%). For anxiety, MBSR was non-inferior to escitalopram in one trial (Hoge 2023). Meditation programs did not beat active treatments (Goyal 2014), and MBIs ≈ evidence-based treatments (Goldberg 2018), with an edge linked to researcher allegiance (Goldberg & Tucker 2019). *Correctors: Kuyken 2015; Goyal 2014; Goldberg 2018.*
+5. **"Mindfulness works better than antidepressants."** Overstated. For relapse prevention MBCT is about **equal** to maintenance antidepressants (PREVENT: 44% vs 47%). For anxiety, MBSR was non-inferior to escitalopram in one trial (Hoge 2023). Meditation programs did not beat active treatments (Goyal 2014), and MBIs ≈ evidence-based treatments (Goldberg 2018), with an edge linked to researcher allegiance (Goldberg & Tucker 2020). *Correctors: Kuyken 2015; Goyal 2014; Goldberg 2018.*
 
 6. **"Meditation is always safe / has no side effects."** False. Pooled adverse-event prevalence is about 8.3% (Farias 2020). In MBCT, 37% reported some negative impact on functioning and 6–14% reported lasting bad effects (Britton 2021). 25.6% of regular meditators report particularly unpleasant experiences (Schlosser 2019). *Correctors: Farias 2020; Britton 2021; Lindahl 2017.*
 
@@ -596,7 +596,7 @@ Verified via https://cris.huji.ac.il/en/publications/transient-induced-gamma-ban
 16. Galante et al. (2021/2023), mindfulness for the general public.
 17. Van Dam et al. (2018), "Mind the Hype", the methodological north star.
 18. Britton et al. (2021) + Farias et al. (2020), the risks.
-19. Goldberg & Tucker (2019) + Boot et al. (2013), allegiance and expectations.
+19. Goldberg & Tucker (2020) + Boot et al. (2013), allegiance and expectations.
 20. Sapolsky (1994/2004) + Barrett (2017), the stress and emotion frameworks (with Grossman 2023 as the polyvagal corrective).
 
 ## 12. Fontes acrescentadas no capítulo-amostra
@@ -772,3 +772,18 @@ Free, confidential emotional support, 24 h, by phone 188, chat, e-mail. Crisis r
 SAMU 192: free, 24 h, includes psychiatric urgencies and suicide attempts. CAPS: public mental-health services open to the community; for crises, SAMU 192, UPA 24h, pronto-socorro. Read 2026-10-11.
 
 Also newly used in these chapters, already in references.md: Kabat-Zinn 1982 (verified via PubMed PMID 7042457 — note the abstract's "uncoupling" hypothesis); Hilton et al. 2017 (PMID 27658913; 7 of 38 RCTs reported safety); Schlosser et al. 2019 (PMID 31071152); Kok & Singer 2017 (PMID 28030741); Galante et al. 2023 (primary abstract via OpenAlex, doi:10.1038/s44220-023-00081-5 — upgrades the psypost-only verification); Barrett & Simmons 2015; Goyal et al. 2014; Hoge et al. 2023 (PMID 36350591, for MBSR's 8-week weekly format); Kral et al. 2022. Suggest updating Rusch 2019's note: the 0.33 figure is in the primary abstract (PMID 30575050), plus 0.54 at follow-up.
+
+
+## Fontes acrescentadas em "Comece agora" e "Perguntas da segunda semana"
+
+**Linardon, J., Messer, M., Goldberg, S. B., & Fuller-Tyszkiewicz, M. (2024). The efficacy of mindfulness apps on symptoms of depression and anxiety: An updated meta-analysis of randomized controlled trials.** *Clinical Psychology Review* 107: 102370. doi:10.1016/j.cpr.2023.102370. [core]
+45 RCTs. Small effects vs control groups: g = 0.24 depression (N = 5,852), g = 0.28 anxiety (N = 6,082); stable in lower-risk-of-bias and larger trials; non-significant vs active therapeutic comparisons (few studies). Authors ask for higher-quality trials with longer follow-ups. Evidence: moderate (small short-term effect vs controls); preliminary (vs treatments). Note: Goldberg (Goldberg 2018; Goldberg & Tucker 2020) is a coauthor. Verified via PubMed PMID 38056219 (PMC10872959).
+
+**Linardon, J. (2023). Rates of attrition and engagement in randomized controlled trials of mindfulness apps: Systematic review and meta-analysis.** *Behaviour Research and Therapy* 170: 104421. doi:10.1016/j.brat.2023.104421.
+70 RCTs, 9,258 participants allocated to an app: weighted attrition 24.7%; 38.7% in larger studies (n ≥ 100 per condition). Engagement data poorly reported, but clear problems with sustained engagement. Evidence: moderate (for high attrition). Verified via PubMed PMID 37862854.
+
+**Brasil. Ministério da Saúde. Portaria nº 849, de 27 de março de 2017.** Inclui Arteterapia, Ayurveda, Biodança, Dança Circular, Meditação, Musicoterapia, Naturopatia, Osteopatia, Quiropraxia, Reflexoterapia, Reiki, Shantala, Terapia Comunitária Integrativa e Yoga à Política Nacional de Práticas Integrativas e Complementares (PNPIC). https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prt0849_28_03_2017.html [care]
+[care] The annex describes meditation in promotional terms ("instrumento de fortalecimento físico, emocional, mental, social e cognitivo", Samadhi as "dissolução da identificação com o ego"); inclusion is a policy decision, not evidence of efficacy — say so wherever it is cited. Evidence: n/a (policy). Verified 2026-10-11.
+
+**Centro Mente Aberta — Centro Brasileiro de Mindfulness e Promoção da Saúde (Unifesp).** https://mindfulness.unifesp.br
+Unifesp mindfulness center; coordinator in the Departamento de Medicina Preventiva, Escola Paulista de Medicina; courses and instructor training in MBHP (eight-week protocol created by the coordinator), MBCT and ABCT; says it follows the MBI:TAC teaching-assessment criteria (Bangor, Exeter, Oxford). Named as a starting point, not endorsed. Evidence: n/a (organization). Verified 2026-10-11 via mindfulness.unifesp.br/ensine and mindfulnessbrasil.com.

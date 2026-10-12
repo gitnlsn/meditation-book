@@ -17,13 +17,14 @@ terms:
 - replicação
 - inferência reversa
 - fMRI
+- amígdala
 evidence: metodológica; forte
 caveats: o salmão morto é piada séria, não prova de que fMRI não presta
 sources: Van Dam et al. 2018; Goldberg et al. 2018; Open Science Collaboration 2015;
   Poldrack 2006; MacCoon et al. 2012; Boot et al. 2013; Goldberg & Tucker 2020;
   Button et al. 2013; Bennett et al. 2010; Raichle et al. 2001; Kabat-Zinn 1982
 source: a-mente-treinavel/chapters/05-como-saber-se-algo-funciona.md
-source_sha: 132130bfc0ee
+source_sha: 050607c57755
 status: draft
 ---
 This chapter gives you the tools to read the rest of the book, and any
@@ -233,14 +234,16 @@ reality, and a meta-analysis built on it inherits that optimism. There are
 statistical methods for estimating how much is missing, but none of them
 recovers the study that never left the drawer.
 
-A similar bias comes from the people doing the research. In a new look at
-Goldberg's data, Goldberg and Tucker (2020) examined 60 comparisons between
+A similar bias comes from the people doing the research. In a reanalysis of
+mindfulness trials, Goldberg and Tucker (2020) examined 60 comparisons between
 mindfulness and other established treatments. Mindfulness had a small edge
 overall, but the edge appeared when the researchers were sympathetic to
 mindfulness and vanished when that sympathy was absent or balanced. No one
 has to be cheating for this to happen: people who believe in a treatment
 tend to deliver it better, to choose favorable measures and to interpret
 ambiguous results in its favor. Strength of evidence: moderate.
+
+![From the weakest design to the strongest: what each kind of study can separate from the effect of the practice.](../illustrations/figures/fig-escada-evidencia-en.svg)
 
 ## Brain Images: What fMRI Measures
 
@@ -250,9 +253,8 @@ resonance imaging. It is an MRI scanner — the same kind used in hospitals —
 programmed to record changes in blood oxygenation at each small point in the
 brain. When a region works harder, the flow of oxygenated blood to it
 changes, and the scanner detects that. In other words, fMRI does not see
-neurons (the cells that transmit signals, introduced in chapter
-{{cap:neuroplasticidade-sem-exagero}}) at work: it sees a blood signal that
-tracks the activity of neurons (Raichle et al., 2001).
+the brain's cells at work: it sees a blood signal that tracks their activity
+(Raichle et al., 2001).
 
 That signal is weak and noisy, and the analysis requires careful statistics.
 A typical scan divides the brain into about 130,000 small cubes, called
@@ -278,7 +280,7 @@ analysis done properly, and with how many people?"
 
 There is a subtler error, and it shows up even in well-analyzed studies. It
 has a name: **reverse inference**. It means deducing a mental state from the
-activation of a brain region: "the amygdala (a small region involved in
+activation of a brain region: "the **amygdala** (a small region involved in
 detecting threat and emotional relevance) lit up, so the person felt fear";
 "the reward region lit up, so meditation is pleasurable."
 

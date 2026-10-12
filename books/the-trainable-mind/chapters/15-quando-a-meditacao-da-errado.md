@@ -125,7 +125,7 @@ information.
 ::: {.relatorio}
 **The study.** Britton and colleagues, published in 2021. 96 people took one
 of three variants of an eight-week MBCT program (mindfulness-based cognitive
-therapy, defined in {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}). An
+therapy, defined in chapter {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}). An
 independent interviewer administered a 44-item interview on meditation
 effects, asking about each one's occurrence, link to practice, duration,
 valence and impact on functioning.
@@ -180,7 +180,7 @@ Research on risk factors is young, but some signals recur.
 - **Type of practice.** In the same study, people who did only
   "deconstructive" practices (those that investigate the nature of
   experience and of the self, such as vipassanā, defined in
-  {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}) reported more unpleasant
+  chapter {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}) reported more unpleasant
   experiences than the others.
 - **Repetitive negative thinking.** People more prone to rumination reported
   more unpleasant experiences.
@@ -278,7 +278,7 @@ comes from a structured program, led by a trained instructor, for a
 specific group of patients, not from solitary practice with an app. And the
 best clinical results for meditation put it on a par with other active
 treatments, not above them (the data are in
-{{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}). If you are in
+chapter {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}). If you are in
 treatment, don't stop it in order to meditate; bring meditation into the
 conversation with whoever is treating you.
 

@@ -23,7 +23,7 @@ sources: Sapolsky 2004; McEwen 1998; Dickerson & Kemeny 2004; Brosschot, Gerin &
   et al. 2026; Engert et al. 2017; Pascoe et al. 2017; Epel et al. 2009; Black & Slavich
   2016; Conklin et al. 2019
 source: a-mente-treinavel/chapters/08-estresse-o-alarme-que-nao-desliga.md
-source_sha: a8b4b647fee4
+source_sha: 8252ee45d45c
 status: draft
 ---
 This chapter explains how a thought reaches the body. The path has three
@@ -175,6 +175,8 @@ mechanism.
 **Strength of evidence:** strong as a theoretical framework. Weaker in the
 details: the indices used to measure allostatic load in a person vary from
 study to study, and there is no single number that says "your load is X."
+
+![The stress alarm: two pathways, the switch-off through cortisol, and the repeated thinking that sets the alarm off again.](../illustrations/figures/fig-estresse-en.svg)
 
 ## Interoception: The Body Sensed from Within
 

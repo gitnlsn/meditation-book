@@ -1199,3 +1199,37 @@ Sources lidas em 2026-10-11:
 - https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps — "Os Centros de Atenção Psicossocial - CAPS são serviços públicos de saúde mental, abertos à comunidade, que acolhem pessoas em intenso sofrimento psíquico"; para crises: "SAMU 192, UPA 24h, Pronto socorro".
 
 Used in: capítulo "Quando a meditação dá errado".
+
+## Linardon, Messer, Goldberg & Fuller-Tyszkiewicz (2024), *Clinical Psychology Review* 107: 102370
+
+Source: resumo no PubMed (PMID 38056219; efetch E-utilities), lido em 2026-10-11.
+
+> Random effects meta-analyses were conducted on 45 RCTs. Small, significant effect sizes were found for symptoms of depression (Ncomp = 46, N = 5852, g = 0.24, 95% CI = 0.17, 0.31, NNT = 13.57) and anxiety (Ncomp = 48, N = 6082, g = 0.28, 95% CI = 0.21, 0.35, NNT = 11.47) in favour of mindfulness apps over control groups. ... Effects remained stable when restricting analyses to lower risk of bias and larger sample trials. ... Non-significant effects were observed when comparing mindfulness apps to active therapeutic comparisons (g = -0.15 depression, g = 0.10 anxiety), though the number of studies was low. Growing evidence indicates that mindfulness apps can acutely reduce symptoms of depression and anxiety, although higher quality studies with longer follow-ups are needed.
+
+Used in: "Perguntas da segunda semana" (aplicativos).
+
+## Linardon (2023), *Behaviour Research and Therapy* 170: 104421
+
+Source: resumo no PubMed (PMID 37862854; efetch E-utilities), lido em 2026-10-11.
+
+> ... examine rates of attrition from, and engagement in, mindfulness apps in 70 RCTs ... The weighted meta-analytic attrition rate from 9258 participants allocated to a mindfulness app was 24.7%. This estimate was higher (38.7%) when restricting analyses to larger studies (n ≥ 100 per condition) and for specific target samples ... Although engagement data were inadequately reported, qualitative synthesis highlighted clear problems with sustained user engagement with mindfulness apps.
+
+Used in: "Perguntas da segunda semana" (aplicativos).
+
+## Ministério da Saúde, Portaria nº 849, de 27 de março de 2017 (meditação na PNPIC)
+
+Source: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prt0849_28_03_2017.html (Biblioteca Virtual em Saúde do Ministério da Saúde), lido em 2026-10-11. (A página gov.br/saude da PNPIC pediu autenticação.)
+
+> Art. 1º Inclui na Política Nacional de Práticas Integrativas e Complementares (PNPIC), instituída pela Portaria nº 971/GM/MS, de 3 de maio de 2006, ... as seguintes práticas: Arteterapia, Ayurveda, Biodança, Dança Circular, Meditação, Musicoterapia, Naturopatia, Osteopatia, Quiropraxia, Reflexoterapia, Reiki, Shantala, Terapia Comunitária Integrativa e Yoga apresentadas no anexo a esta Portaria.
+
+> (Anexo, MEDITAÇÃO) A meditação constitui um instrumento de fortalecimento físico, emocional, mental, social e cognitivo.
+
+Used in: "Perguntas da segunda semana" (SUS).
+
+## Centro Mente Aberta (Unifesp)
+
+Sources lidas em 2026-10-11:
+- https://mindfulness.unifesp.br/ensine — "ministrar cursos para praticantes e de formação para outros instrutores, nos protocolos MBHP, MBCT e ABCT."; "Coordenador do Centro Mente Aberta ... do Departamento de Medicina Preventiva da Escola Paulista de Medicina – UNIFESP."; MBHP "Criado pelo Dr. Marcelo Demarzo, coordenador do Centro Mente Aberta, da UNIFESP"; critérios "Critérios de Avaliação do Ensino de Intervenções Baseadas em Mindfulness (MBI:TAC)" "das Universidades de Bangor, Exeter e Oxford".
+- https://mindfulnessbrasil.com — "O MBHP estrutura o treinamento da atenção em oito semanas"; "Centro Brasileiro de Mindfulness e Promoção da Saúde".
+
+Used in: "Perguntas da segunda semana" (professores e grupos).

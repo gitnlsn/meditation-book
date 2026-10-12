@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1404" height="1253" viewBox="0 0 520 464" font-family="Arial, Helvetica, sans-serif" fill="#1a1a1a">
+<defs>
+  <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a1a1a"/></marker>
+</defs>
+<rect x="0" y="0" width="520" height="464" fill="#ffffff"/>
+<rect x="56" y="376" width="456" height="78" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="70" y="401.0" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Before and after, one group only</text>
+<text x="70" y="422.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Can’t separate the practice from: time passing,</text>
+<text x="70" y="440.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">expectation, context, the wish to please, dropouts.</text>
+<rect x="56" y="271" width="456" height="96" rx="6" fill="#f1f1f1" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="70" y="296.0" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Groups compared, not assigned by lot</text>
+<text x="70" y="317.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">For example, meditators and non-meditators. Shows a</text>
+<text x="70" y="335.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">difference, not a cause: the groups may have been</text>
+<text x="70" y="353.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">different from the start.</text>
+<rect x="56" y="184" width="456" height="78" rx="6" fill="#e3e3e3" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="70" y="209.0" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Randomized trial, waitlist control</text>
+<text x="70" y="230.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Rules out: time passing; prior differences (the lot).</text>
+<text x="70" y="248.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Doesn’t rule out: expectation, the group, the instructor.</text>
+<rect x="56" y="97" width="456" height="78" rx="6" fill="#d5d5d5" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="70" y="122.0" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Randomized trial, active control</text>
+<text x="70" y="143.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Also rules out expectation and context, if both groups</text>
+<text x="70" y="161.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">expect to improve by the same amount.</text>
+<rect x="56" y="10" width="456" height="78" rx="6" fill="#c7c7c7" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="70" y="35.0" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Replication and meta-analysis</text>
+<text x="70" y="56.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">One study can be wrong by chance; pooled, the errors</text>
+<text x="70" y="74.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">tend to cancel out. Limit: they inherit publication bias.</text>
+<path d="M 26,452 L 26,14" fill="none" stroke="#1a1a1a" stroke-width="2.2" marker-end="url(#ah)"/>
+<text x="0" y="0" font-size="15" font-weight="bold" text-anchor="middle" transform="translate(44 232.0) rotate(-90)">more reliable</text>
+</svg>

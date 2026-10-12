@@ -338,3 +338,15 @@ Nothing below was changed in the Portuguese.
   English description was drafted from the book (marked `# draft — for the author`),
   not translated. When the Portuguese blurb is written, the English should be
   redone from it.
+
+### Fixed when the glossary was built (2026-10-11), both editions
+
+- The five hindrances are now listed the same way in chapters 4 and 12, and the five aggregates in chapters 2 and 3 (form, that is the body; feeling; perception; formations; consciousness).
+- Chapter 12 no longer calls the amygdala simply "the threat-detection region", which chapter 5 warns against.
+- English chapters 10–16 had cross-references that printed a bare number ("in 7"); they now say "chapter".
+- ReSource Project: 313 (chapter 8) and 362 (chapter 16) are both right. They are different papers and samples, checked in VERIFIED.md.
+
+### Still open, from the glossary
+
+- *dhammas*: chapter 4 glosses them as "fenômenos"; chapter 12 notes Sujato's "principles". Not wrong, but the reader meets two renderings.
+- *satipaṭṭhāna*: chapter 4 prefers Anālayo's "presence of mindfulness" and doubts the "foundation" etymology, while chapter 12 and the English use "four foundations of mindfulness". Deliberate (it's the standard English), but worth a sentence in chapter 12.

@@ -170,6 +170,8 @@ moldura que liga essas associações a um mecanismo.
 os índices usados para medir carga alostática numa pessoa variam de estudo
 para estudo, e não existe um número único que diga "sua carga é X".
 
+![O alarme do estresse: duas vias, o desligamento pelo cortisol e o pensamento repetido que volta a ligar o alarme.](../illustrations/figures/fig-estresse-pt.svg)
+
 ## Interocepção: o corpo percebido de dentro
 
 Até aqui, o fluxo foi de cima para baixo: o pensamento liga o alarme, o

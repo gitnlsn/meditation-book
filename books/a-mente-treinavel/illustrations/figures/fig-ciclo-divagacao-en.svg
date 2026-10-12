@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1404" height="1080" viewBox="0 0 520 400" font-family="Arial, Helvetica, sans-serif" fill="#1a1a1a">
+<defs>
+  <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a1a1a"/></marker>
+</defs>
+<rect x="0" y="0" width="520" height="400" fill="#ffffff"/>
+<rect x="157.0" y="10.0" width="206" height="92" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="260.0" y="42.2" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">1. Wandering</text>
+<text x="260.0" y="61.4" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">the mind leaves the breath,</text>
+<text x="260.0" y="78.4" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">without the person noticing</text>
+<rect x="301.0" y="154.0" width="206" height="92" rx="6" fill="#d6d6d6" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="404.0" y="177.7" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">2. Noticing</text>
+<text x="404.0" y="196.9" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">the person realizes</text>
+<text x="404.0" y="213.9" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">they have wandered</text>
+<text x="404.0" y="230.9" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a"><tspan font-style="italic">(meta-awareness)</tspan></text>
+<rect x="157.0" y="298.0" width="206" height="92" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="260.0" y="330.2" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">3. Redirecting</text>
+<text x="260.0" y="349.4" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">attention is</text>
+<text x="260.0" y="366.4" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">brought back</text>
+<rect x="13.0" y="154.0" width="206" height="92" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="116.0" y="186.2" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">4. Sustaining</text>
+<text x="116.0" y="205.4" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">attention stays</text>
+<text x="116.0" y="222.4" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">on the breath</text>
+<path d="M 363,48 Q 432,48 440,150" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M 440,250 Q 432,344 363,344" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M 157,344 Q 88,344 80,250" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M 80,150 Q 88,48 157,48" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#ah)"/>
+<text x="260" y="196.0" font-size="15" font-weight="normal" font-style="italic" text-anchor="middle" fill="#555555">focus on</text>
+<text x="260" y="214.0" font-size="15" font-weight="normal" font-style="italic" text-anchor="middle" fill="#555555">the breath</text>
+</svg>

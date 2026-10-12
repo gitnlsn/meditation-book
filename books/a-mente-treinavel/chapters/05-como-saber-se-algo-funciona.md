@@ -17,6 +17,7 @@ terms:
 - replicação
 - inferência reversa
 - fMRI
+- amígdala
 evidence: metodológica; forte
 caveats: o salmão morto é piada séria, não prova de que fMRI não presta
 sources: Van Dam et al. 2018; Goldberg et al. 2018; Open Science Collaboration 2015;
@@ -225,8 +226,8 @@ realidade, e uma meta-análise feita sobre ela herda o otimismo. Há métodos
 estatísticos para estimar quanto falta, mas nenhum recupera o estudo que
 nunca saiu da gaveta.
 
-Um viés parecido vem de quem faz a pesquisa. Num novo exame dos dados de
-Goldberg, Goldberg e Tucker (2020) olharam para 60 comparações entre
+Um viés parecido vem de quem faz a pesquisa. Numa reanálise de ensaios de
+mindfulness, Goldberg e Tucker (2020) olharam para 60 comparações entre
 mindfulness e outros tratamentos reconhecidos. Mindfulness levava uma
 vantagem pequena no conjunto, mas a vantagem aparecia quando os
 pesquisadores eram simpatizantes de mindfulness, e sumia quando essa
@@ -234,6 +235,8 @@ simpatia estava ausente ou equilibrada. Ninguém precisa estar trapaceando
 para isso acontecer: quem acredita num tratamento tende a aplicá-lo melhor, a
 escolher medidas favoráveis e a interpretar o ambíguo a seu favor. Força da
 evidência: moderada.
+
+![Do desenho mais fraco ao mais forte: o que cada tipo de estudo consegue separar do efeito da prática.](../illustrations/figures/fig-escada-evidencia-pt.svg)
 
 ## Imagens do cérebro: o que a fMRI mede
 
@@ -243,9 +246,8 @@ funcional. É um aparelho de ressonância — o mesmo tipo usado em hospitais �
 programado para registrar mudanças na oxigenação do sangue em cada pequeno
 ponto do cérebro. Quando uma região trabalha mais, o
 fluxo de sangue oxigenado para ela muda, e o aparelho detecta isso. Ou seja,
-a fMRI não vê neurônios (as células que transmitem sinais, apresentadas no capítulo
-{{cap:neuroplasticidade-sem-exagero}}) funcionando: vê um sinal do sangue que acompanha a
-atividade dos neurônios (Raichle et al., 2001).
+a fMRI não vê as células do cérebro funcionando: vê um sinal do sangue que
+acompanha a atividade delas (Raichle et al., 2001).
 
 Esse sinal é fraco e cheio de ruído, e a análise exige estatística
 cuidadosa. Um exame típico divide o cérebro em cerca de 130 mil pequenos
@@ -271,7 +273,7 @@ certo, e com quantas pessoas?".
 
 Há um erro mais sutil, e ele aparece mesmo em estudos bem analisados. Ele
 tem nome: **inferência reversa**. É deduzir um estado mental a partir da
-ativação de uma região do cérebro: "a amígdala (uma pequena região ligada à
+ativação de uma região do cérebro: "a **amígdala** (uma pequena região ligada à
 detecção de ameaça e de relevância emocional) acendeu, então a pessoa
 sentiu medo"; "a região da recompensa acendeu, então a meditação dá prazer".
 

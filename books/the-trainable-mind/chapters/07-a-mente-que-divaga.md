@@ -18,7 +18,7 @@ caveats: correlação não é causa; a rede de modo padrão também serve para p
 sources: Killingsworth & Gilbert 2010; Smallwood & Schooler 2015; Raichle et al. 2001;
   Brewer et al. 2011; Hasenkamp et al. 2012; Nolen-Hoeksema et al. 2008
 source: a-mente-treinavel/chapters/07-a-mente-que-divaga.md
-source_sha: 58afcd932f57
+source_sha: 7c28c4c861ff
 status: draft
 ---
 This chapter explains why it is so hard to stay in the present. The short
@@ -166,6 +166,8 @@ tend to activate together when a person is not focused on an external task.
 That this network exists and behaves this way is one of the best-replicated
 findings in brain-imaging neuroscience.
 
+![A schematic of the brain cut down the middle and seen from the inside, front to the left, with the regions this book mentions. Positions are approximate, and the drawing does not say what each region does.](../illustrations/figures/fig-cerebro-en.svg)
+
 What it *does* is another question. Later research associated it with
 thinking about oneself, and Killingsworth and Gilbert open their paper by
 observing that mind wandering "appears to be the brain's default mode of
@@ -213,6 +215,8 @@ cycle of four phases:
 2. **Noticing**: the person realizes they have wandered.
 3. **Redirecting**: attention is brought back.
 4. **Sustaining**: attention stays on the breath, until the next departure.
+
+![The four-phase cycle of breath-focused meditation, as Hasenkamp and colleagues (2012) divided it.](../illustrations/figures/fig-ciclo-divagacao-en.svg)
 
 During the wandering phase, activity showed up in regions of the default
 mode network. At the moment of noticing, it appeared in regions of another

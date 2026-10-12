@@ -12,9 +12,9 @@ terms:
 - recaída
 - não inferioridade
 evidence: ansiedade, depressão, estresse (moderada); prevenção de recaída com MBCT
-  (moderada a forte); MBCT ≈ antidepressivo de manutenção (forte, um grande ensaio);
+  (moderada a forte); MBCT ≈ antidepressivo de manutenção (moderada, um grande ensaio);
   MBSR não inferior ao escitalopram (moderada, um ensaio); mindfulness universal nas
-  escolas (forte, para a ausência de efeito); mudança estrutural no cérebro em oito
+  escolas (moderada, um grande ensaio, para a ausência de efeito); mudança estrutural no cérebro em oito
   semanas (contestada; o maior ensaio não a encontrou); pressão arterial (preliminar
   para Meditação Transcendental, insuficiente para as demais)
 caveats: efeitos pequenos a moderados; não supera tratamentos ativos; não substitui
@@ -24,7 +24,7 @@ sources: Goyal et al. 2014; Galante et al. 2021; Galante et al. 2023; Goldberg e
   et al. 2023; Kuyken et al. 2022 (MYRIAD); Hölzel et al. 2011; Kral et al. 2022; Brook
   et al. 2013 (AHA); Kabat-Zinn 1982; Kabat-Zinn 2003; Van Dam et al. 2018
 source: a-mente-treinavel/chapters/10-o-que-a-ciencia-da-meditacao-mostra-e-o-que.md
-source_sha: 09ecc5da5a24
+source_sha: 50f8c4d136bf
 status: draft
 ---
 This chapter takes stock. Having seen how a practice is evaluated, how the
@@ -44,7 +44,7 @@ Almost all clinical research on meditation uses one of two standardized
 programs. Both are secular adaptations of Buddhist practices, and that needs
 saying: they were taken out of their religious context on purpose, so they
 could enter hospitals and clinics. What is lost and what is gained in that
-adaptation was discussed in {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}.
+adaptation was discussed in chapter {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}.
 
 **MBSR** (*Mindfulness-Based Stress Reduction*) is a group course, now in an
 eight-week format with weekly meetings, created by Jon Kabat-Zinn in a
@@ -53,7 +53,7 @@ with standard medical care. The paper that introduced the program
 (Kabat-Zinn 1982, in a ten-week version) had no control group, and the
 author himself called its results preliminary: it matters for its history,
 not as proof. The course teaches practices such as attention on the breath
-and the body scan, described in {{cap:o-corpo-o-sono-e-a-dor}}. Kabat-Zinn
+and the body scan, described in chapter {{cap:o-corpo-o-sono-e-a-dor}}. Kabat-Zinn
 himself described where the program came from and how it entered medicine
 (Kabat-Zinn 2003).
 
@@ -63,7 +63,7 @@ specific problem: keeping depression from coming back. In the format used in
 the large trials, it is eight weekly group sessions of a little over two
 hours. The aim, as the researchers put it, is for people to learn to become
 more aware of the bodily sensations, thoughts and feelings associated with
-depression returning — rumination, covered in {{cap:a-mente-que-divaga}}, is
+depression returning — rumination, covered in chapter {{cap:a-mente-que-divaga}}, is
 one of them — and to relate to them constructively.
 
 Understanding MBCT takes one term from psychiatry. **Relapse** is the return
@@ -75,7 +75,7 @@ most solid result.
 
 Throughout the chapter, the method terms — randomized trial, active control,
 meta-analysis, effect size, publication bias — are the ones explained in
-{{cap:como-saber-se-algo-funciona}}. The question that keeps coming back is
+chapter {{cap:como-saber-se-algo-funciona}}. The question that keeps coming back is
 always the same: *compared with what?*
 
 ## Anxiety, Depression and Stress: The Average
@@ -138,7 +138,7 @@ The question that matters most to someone deciding what to do is not "is
 meditation better than nothing?" but "is it better than the alternatives?"
 The most complete answer is the meta-analysis by Simon Goldberg and
 colleagues (2018), with 142 samples and 12,005 people with psychiatric
-disorders, presented in detail in {{cap:como-saber-se-algo-funciona}}: the
+disorders, presented in detail in chapter {{cap:como-saber-se-algo-funciona}}: the
 effect size falls from 0.55 against no treatment to practically zero
 (−0.004) against treatments with established evidence. It is the pattern of
 almost the whole field: the stronger the comparison, the smaller the
@@ -182,8 +182,9 @@ statistically significant (hazard ratio 0.89; p = 0.43). The authors
 conclude that **there is no evidence that MBCT is superior** to maintenance
 antidepressants, and that both groups did well.
 
-**Strength of evidence:** strong for "MBCT is an alternative of similar
-efficacy for this group of patients." It does not support "MBCT is better
+**Strength of evidence:** moderate for "MBCT is an alternative of similar
+efficacy for this group of patients": one large, well-conducted trial, but
+only one. It does not support "MBCT is better
 than medication," which is how the study sometimes appears in the press.
 :::
 
@@ -221,7 +222,7 @@ It is an important result, and it has clear limits: it is a single trial;
 the participants knew what they were receiving; and "noninferior" does not
 mean "the same in every case," much less "better." Note too that 15% of the
 meditation group reported some adverse event — which leads to a topic taken
-up in {{cap:quando-a-meditacao-da-errado}}. **Strength of evidence:
+up in chapter {{cap:quando-a-meditacao-da-errado}}. **Strength of evidence:
 moderate.**
 
 ## Where It Didn't Work: Mindfulness in Schools
@@ -239,15 +240,16 @@ The study was run by a team sympathetic to mindfulness, with a large sample
 representative of the British population. It does not show that meditation
 is useless for adolescents. It shows that offering a short course to *every*
 student in a school, without selecting those who need it, produced no
-measurable benefit. **Strength of evidence: strong, for the absence of an
-effect in this format.**
+measurable benefit. **Strength of evidence: moderate, for the absence of an
+effect in this format** — a single trial, but a very large and well-conducted
+one, which makes it unlikely that a meaningful benefit went unnoticed.
 
 ## The Brain: The Headline That Didn't Replicate
 
 In 2011, Britta Hölzel and colleagues published a study that became the
 basis for one of the most repeated lines about meditation: eight weeks of
 MBSR would increase gray matter density (a term explained in
-{{cap:neuroplasticidade-sem-exagero}}) in the hippocampus and other regions.
+chapter {{cap:neuroplasticidade-sem-exagero}}) in the hippocampus and other regions.
 The study compared 16 MBSR participants with 17 people on a waitlist, with
 no random assignment between the groups.
 
@@ -263,7 +265,7 @@ nor in the regions singled out by earlier studies.
 
 This does not prove that meditation never changes the structure of the
 brain. The authors themselves note that much longer or more specific
-training might show changes, and {{cap:neuroplasticidade-sem-exagero}} shows
+training might show changes, and chapter {{cap:neuroplasticidade-sem-exagero}} shows
 that learning sustained over years does change brain structure. What it
 proves is that the "eight weeks" headline rested on a small study that the
 more rigorous test did not confirm. **Strength of evidence for structural
@@ -288,7 +290,7 @@ The authors sum up the behavioral therapies, meditation included, as having
 "modest, mixed, or no consistent evidence." Promotional materials connected
 to the Transcendental Meditation organization often present this statement
 as an endorsement, which it is not. The meta-analysis cited in
-{{cap:estresse-o-alarme-que-nao-desliga}} found reductions in systolic
+chapter {{cap:estresse-o-alarme-que-nao-desliga}} found reductions in systolic
 pressure with meditation — a preliminary result that mixes very different
 studies — but that does not change the clinical recommendation: people with
 high blood pressure treat it with their doctor. **Strength of evidence:
@@ -304,9 +306,9 @@ preliminary for Transcendental Meditation; insufficient for the others.**
 | Psychiatric disorders (Goldberg 2018) | Mindfulness vs. five types of comparison; 142 samples, 12,005 people | From 0.55 against nothing to zero against established treatments | Moderate |
 | Advantage over other therapies (Goldberg & Tucker 2020) | 60 comparisons with real therapies | Small advantage (0.13), tied to researcher allegiance; disappears without it | Moderate |
 | Relapse in recurrent depression (Kuyken 2016) | MBCT vs. no MBCT; 9 trials, 1,258 people | Relapse within 60 weeks: 38% vs. 49% | Moderate to strong |
-| Relapse: MBCT vs. medication (PREVENT 2015) | MBCT with medication tapering vs. maintenance antidepressant; 424 people, 2 years | 44% vs. 47%; no difference | Strong |
+| Relapse: MBCT vs. medication (PREVENT 2015) | MBCT with medication tapering vs. maintenance antidepressant; 424 people, 2 years | 44% vs. 47%; no difference | Moderate (one trial) |
 | Anxiety disorders (Hoge 2023) | MBSR vs. escitalopram; 276 randomized, 208 analyzed | Noninferior (drop of 1.35 vs. 1.43 points); fewer adverse events | Moderate (one trial) |
-| Adolescent mental health (MYRIAD 2022) | Universal school course vs. usual teaching; 84 schools, 8,376 students | No difference at one year | Strong (for the null) |
+| Adolescent mental health (MYRIAD 2022) | Universal school course vs. usual teaching; 84 schools, 8,376 students | No difference at one year | Moderate (one trial, for the null) |
 | Brain structure (Hölzel 2011 vs. Kral 2022) | MBSR vs. waitlist (16 vs. 17, not randomized); MBSR vs. active control and waitlist (218, randomized) | Increase in the small study; no change in the large one | Contested |
 | Blood pressure (AHA 2013) | Review of trials by a medical guideline | Transcendental Meditation "may be considered"; other techniques not recommended | Preliminary / insufficient |
 
@@ -323,7 +325,7 @@ above:
 3. **"Meditation is good for everyone."** The average effect is small, it
    varies between settings, it was zero in a large trial with adolescents,
    and there are documented adverse effects, discussed in
-   {{cap:quando-a-meditacao-da-errado}}.
+   chapter {{cap:quando-a-meditacao-da-errado}}.
 
 And one that does hold up: for many people, a well-run meditation program
 is a real option, with a benefit similar to that of other active treatments

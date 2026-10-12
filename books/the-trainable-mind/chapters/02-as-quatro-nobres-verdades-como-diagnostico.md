@@ -19,7 +19,7 @@ practice: notar a segunda flecha num incômodo pequeno do dia
 sources: Dhammacakkappavattana Sutta (SN 56.11); Sallatha Sutta (SN 36.6); Anālayo
   2011; Rainville et al. 1997
 source: a-mente-treinavel/chapters/02-as-quatro-nobres-verdades-como-diagnostico.md
-source_sha: 93d11e69a83b
+source_sha: 59bcdabd775e
 status: draft
 ---
 This chapter explains the central teaching of Buddhism, the Four Noble
@@ -75,8 +75,8 @@ trivial because no one needs a Buddha to know that illness hurts.
 The text itself shows that the meaning is wider. The list includes "not
 getting what you wish for" and ends with a technical sentence: "In brief, the
 five grasping aggregates are suffering," where the word is *dukkha*. The five
-aggregates are the Buddhist analysis of what makes up a person (body,
-feeling, perception, mental formations and consciousness), and chapter
+aggregates are the Buddhist analysis of what makes up a person (form, that
+is, the body; feeling; perception; formations; and consciousness), and chapter
 {{cap:impermanencia-e-nao-eu}} deals with them. What matters here is the
 consequence: dukkha includes *pleasant* experiences, because they too change
 and end, and we cling to them.

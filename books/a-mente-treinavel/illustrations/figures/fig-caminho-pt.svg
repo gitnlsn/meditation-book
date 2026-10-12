@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1404" height="977" viewBox="0 0 520 362" font-family="Arial, Helvetica, sans-serif" fill="#1a1a1a">
+<defs>
+  <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a1a1a"/></marker>
+</defs>
+<rect x="0" y="0" width="520" height="362" fill="#ffffff"/>
+<rect x="4.0" y="10" width="512.0" height="36" rx="4" fill="#2b2b2b" stroke="#2b2b2b" stroke-width="1.2"/>
+<text x="260.0" y="33.5" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#ffffff">Nobre Caminho Óctuplo: oito fatores, três treinos</text>
+<path d="M 86.0,46 L 86.0,58" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="4.0" y="58" width="164" height="56" rx="6" fill="#d6d6d6" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="86.0" y="81.0" font-size="17" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">Sīla</text>
+<text x="86.0" y="101.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">ética</text>
+<rect x="4.0" y="128" width="164" height="60" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="20.0" cy="158.0" r="10.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.1"/>
+<text x="20.0" y="163.2" font-size="15" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<text x="96.0" y="163.3" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Fala correta</text>
+<rect x="4.0" y="198" width="164" height="60" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="20.0" cy="228.0" r="10.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.1"/>
+<text x="20.0" y="233.2" font-size="15" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">4</text>
+<text x="96.0" y="233.3" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Ação correta</text>
+<rect x="4.0" y="268" width="164" height="60" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="20.0" cy="298.0" r="10.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.1"/>
+<text x="20.0" y="303.2" font-size="15" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="96.0" y="295.1" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Modo de vida</text>
+<text x="96.0" y="311.6" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">correto</text>
+<path d="M 260.0,46 L 260.0,58" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="178.0" y="58" width="164" height="56" rx="6" fill="#d6d6d6" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="260.0" y="81.0" font-size="17" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">Samādhi</text>
+<text x="260.0" y="101.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">concentração</text>
+<rect x="178.0" y="128" width="164" height="60" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="194.0" cy="158.0" r="10.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.1"/>
+<text x="194.0" y="163.2" font-size="15" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">6</text>
+<text x="270.0" y="163.3" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Esforço correto</text>
+<rect x="178.0" y="198" width="164" height="60" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="194.0" cy="228.0" r="10.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.1"/>
+<text x="194.0" y="233.2" font-size="15" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">7</text>
+<text x="270.0" y="225.1" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Atenção correta</text>
+<text x="270.0" y="241.6" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">(<tspan font-style="italic">sammā sati</tspan>)</text>
+<rect x="178.0" y="268" width="164" height="60" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="194.0" cy="298.0" r="10.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.1"/>
+<text x="194.0" y="303.2" font-size="15" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">8</text>
+<text x="270.0" y="286.8" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Concentração</text>
+<text x="270.0" y="303.3" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">correta</text>
+<text x="270.0" y="319.8" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">(<tspan font-style="italic">sammā samādhi</tspan>)</text>
+<path d="M 434.0,46 L 434.0,58" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="352.0" y="58" width="164" height="56" rx="6" fill="#d6d6d6" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="434.0" y="81.0" font-size="17" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">Paññā</text>
+<text x="434.0" y="101.0" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">sabedoria</text>
+<rect x="352.0" y="128" width="164" height="60" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="368.0" cy="158.0" r="10.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.1"/>
+<text x="368.0" y="163.2" font-size="15" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<text x="444.0" y="163.3" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Visão correta</text>
+<rect x="352.0" y="198" width="164" height="60" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="368.0" cy="228.0" r="10.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.1"/>
+<text x="368.0" y="233.2" font-size="15" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
+<text x="444.0" y="233.3" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Intenção correta</text>
+<text x="260.0" y="352.0" font-size="14.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#555555">Os números seguem a ordem da lista dos oito fatores.</text>
+</svg>
