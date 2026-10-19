@@ -139,15 +139,19 @@
   // KDP requires text and logos to stay 0.25in clear of trim edges, and the
   // spine only takes text at all once the book is 79+ pages.
   let safe = 0.25in + bleed
+  let back-margin = 0.6in
 
   set page(width: full-w, height: full-h, margin: 0pt, fill: bg)
   set text(font: serif, fill: ink, hyphenate: false)
 
   place(top + left, dx: 0pt, dy: 0pt, block(width: full-w, height: full-h)[
     // ---------------- back cover ----------------
-    #place(top + left, dx: safe, dy: safe, block(
-      width: tw - 2 * 0.25in - bleed,
-      height: th - 2 * 0.25in,
+    // The blurb sits well inside KDP's 0.25in minimum, not on it: KDP's
+    // previewer draws its safe line with some play, and text set on the limit
+    // shows there as cut at the edge.
+    #place(top + left, dx: bleed + back-margin, dy: bleed + back-margin, block(
+      width: tw - 2 * back-margin,
+      height: th - back-margin - 0.25in,
     )[
       #if series != none [
         #text(font: sans, size: 8pt, tracking: 0.24em, fill: accent)[
