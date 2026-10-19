@@ -68,10 +68,10 @@ kdp:
     - mindfulness e pesquisa científica
     - meditação baseada em evidências
     - efeitos adversos da meditação
-  categories:
-    - Corpo, Mente e Espírito > Meditação
-    - Religião > Budismo
-    - Ciência > Ciências da Vida > Neurociência
+  categories:           # Livros Kindle, como escolhidos na KDP em 2026-10-19
+    - Religião e Espiritualidade > Budismo > Budismo Geral
+    - Religião e Espiritualidade > Espiritualidade > Meditações
+    - Não-ficção > eBooks Médicos > Ciências Básicas > Neurociência
   age_range: adulto
   price_usd: 14.99
 
