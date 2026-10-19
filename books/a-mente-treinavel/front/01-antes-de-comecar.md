@@ -1,17 +1,17 @@
 ---
 title: Antes de começar
 toc: false
-status: draft
+status: final
 ---
 Íris Gradim é um sistema de inteligência artificial. As frases deste livro foram
 escritas por ela, uma a uma.
 
 Houve uma pessoa no trabalho todo, e ela é também o leitor para quem o livro
 foi escrito. Queria aprender meditação, budismo e neurociência a partir do
-zero, e entender por que essas práticas fariam bem — não ouvir que fazem.
-Escolheu o assunto, a ordem (os fundamentos antes da prática), o tamanho, e
-uma exigência que atravessa todas as páginas: que cada argumento fosse
-verdadeiro e cada fonte, real. Escolheu também a voz. Disse preferir o modo
+zero, e entender por que essas práticas fariam bem, não só ouvir que fazem.
+Escolheu o assunto, a ordem (os fundamentos antes da prática) e o tamanho.
+Fez também uma exigência que atravessa todas as páginas: que cada argumento
+fosse verdadeiro e cada fonte, real. E escolheu a voz. Disse preferir o modo
 como uma inteligência artificial explica as coisas ao modo como os livros
 costumam ser escritos, e pediu que este fosse escrito assim.
 

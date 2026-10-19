@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1404" height="1202" viewBox="0 0 520 445" font-family="Arial, Helvetica, sans-serif" fill="#1a1a1a">
+<rect x="0" y="0" width="520" height="445" fill="#ffffff"/>
+<path d="M 82,26 L 82,388" fill="none" stroke="#8a8a8a" stroke-width="2"/>
+<circle cx="82" cy="26" r="5.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.8"/>
+<text x="20" y="31" font-size="16" font-weight="bold">2018</text>
+<text x="104" y="31" font-size="16" font-weight="bold">Dois estudos, respostas opostas</text>
+<text x="104" y="50" font-size="15">Um não encontra neurônios jovens no hipocampo adulto.</text>
+<text x="104" y="69" font-size="15">O outro encontra milhares, em todas as idades.</text>
+<circle cx="82" cy="107" r="5.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.8"/>
+<text x="20" y="112" font-size="16" font-weight="bold">2019</text>
+<text x="104" y="112" font-size="16" font-weight="bold">Tecido mais bem preservado</text>
+<text x="104" y="131" font-size="15">Milhares de neurônios imaturos em pessoas saudáveis,</text>
+<text x="104" y="150" font-size="15">até a faixa dos 80 anos.</text>
+<circle cx="82" cy="188" r="5.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.8"/>
+<text x="20" y="193" font-size="16" font-weight="bold">2021</text>
+<text x="104" y="193" font-size="16" font-weight="bold">A objeção</text>
+<text x="104" y="212" font-size="15">O marcador usado aparece também em neurônios maduros.</text>
+<text x="104" y="231" font-size="15">Prova pedida: achar as células que dão origem a</text>
+<text x="104" y="250" font-size="15">neurônios no momento em que se dividem.</text>
+<circle cx="82" cy="288" r="5.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.8"/>
+<text x="20" y="293" font-size="16" font-weight="bold">2022</text>
+<text x="104" y="293" font-size="16" font-weight="bold">Leitura dos genes de cada célula</text>
+<text x="104" y="312" font-size="15">Um estudo: sinais claros em camundongo, porco e</text>
+<text x="104" y="331" font-size="15">macaco, mas não em humanos. Outro: essas células,</text>
+<text x="104" y="350" font-size="15">raras, em adultos.</text>
+<circle cx="82" cy="388" r="5.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.8"/>
+<text x="20" y="393" font-size="16" font-weight="bold">2025</text>
+<text x="104" y="393" font-size="16" font-weight="bold">A prova pedida</text>
+<text x="104" y="412" font-size="15">Essas células, em plena divisão, no hipocampo</text>
+<text x="104" y="431" font-size="15">de adultos.</text>
+</svg>

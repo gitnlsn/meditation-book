@@ -19,14 +19,15 @@ practice: notar a segunda flecha num incômodo pequeno do dia
 sources: Dhammacakkappavattana Sutta (SN 56.11); Sallatha Sutta (SN 36.6); Anālayo
   2011; Rainville et al. 1997
 source: a-mente-treinavel/chapters/02-as-quatro-nobres-verdades-como-diagnostico.md
-source_sha: 59bcdabd775e
-status: draft
+source_sha: 229db895b89c
+status: final
 ---
 This chapter explains the central teaching of Buddhism, the Four Noble
-Truths, and shows that it has the structure of a diagnosis: a problem, the
-cause of the problem, the claim that it can end, and a treatment. It then
-presents an image the Buddha himself used, the second arrow, because it is the
-most direct bridge between what Buddhism says and what neuroscience measures.
+Truths. It shows that this teaching has the structure of a diagnosis: a
+problem, the cause of the problem, the claim that it can end, and a
+treatment. It then presents an image the Buddha himself used, the second
+arrow. It is the most direct bridge between what Buddhism says and what
+neuroscience measures.
 By the end, you should be able to say in your own words what problem Buddhism
 claims to solve, and why the solution it proposes is not "positive thinking."
 
@@ -75,8 +76,8 @@ trivial because no one needs a Buddha to know that illness hurts.
 The text itself shows that the meaning is wider. The list includes "not
 getting what you wish for" and ends with a technical sentence: "In brief, the
 five grasping aggregates are suffering," where the word is *dukkha*. The five
-aggregates are the Buddhist analysis of what makes up a person (form, that
-is, the body; feeling; perception; formations; and consciousness), and chapter
+aggregates are the Buddhist analysis of what makes up a person: form (the
+body), feeling, perception, formations and consciousness. Chapter
 {{cap:impermanencia-e-nao-eu}} deals with them. What matters here is the
 consequence: dukkha includes *pleasant* experiences, because they too change
 and end, and we cling to them.
@@ -107,12 +108,12 @@ in an internal response to the world.
 
 **Nirodha** means "cessation." The third truth claims that if the thirst
 ends, the dukkha it produces ends too. The state in which this is complete is
-called **nirvana** (in Pali, *nibbāna*), a word whose root is associated with
-the image of a flame going out for lack of fuel.
+called **nirvana** (in Pali, *nibbāna*). The root of the word is associated
+with the image of a flame going out for lack of fuel.
 
 Nirvana is not a paradise or a state of permanent ecstasy, and the Buddhist
 schools disagree about how to describe it. For the purposes of this book, the
-minimal reading is enough: there is, according to the tradition, a way of
+minimal reading is enough. There is, according to the tradition, a way of
 living in which experiences keep happening, painful ones included, without
 the mind grabbing them or pushing them away.
 
@@ -137,29 +138,34 @@ physician's reasoning:
 | The disease can be cured | Dukkha can cease (nirodha) |
 | This is the treatment | The treatment is the path (magga) |
 
-The comparison is not a modern invention. A discourse preserved in the
-Chinese translation of an early collection (the *Saṃyukta-āgama*, number 389)
-says that a great physician masters four skills (knowing the disease, the
-origin of the disease, the cure, and how to keep the disease from coming
-back) and that the Buddha is a physician of that kind, for suffering. The
-same correspondence appears in two classic meditation manuals, the
-*Vimuttimagga* and the *Visuddhimagga*. In the Pali canon there is no
-equivalent discourse, but the Buddha is often called a physician.
+The comparison is not a modern invention. An early discourse, preserved in a
+Chinese translation (*Saṃyukta-āgama* 389), says that a great physician
+masters four skills:
+
+- knowing the disease;
+- knowing the origin of the disease;
+- knowing the cure;
+- knowing how to keep the disease from coming back.
+
+The Buddha, the text says, is a physician of that kind, for suffering. The
+same correspondence appears in two classic meditation manuals. In the Pali
+canon there is no equivalent discourse, but the Buddha is often called a
+physician.
 
 There is an interesting historical question here, and it is still open. Some
 scholars have supposed that the Buddha borrowed a diagnostic scheme that
 already existed in Indian medicine. The problem is that **there is no record
-of a four-part medical scheme earlier than Buddhism**, as Har Dayal,
-Filliozat and, in detail, Albrecht Wezler (1984) have shown. The monk and
-scholar Bhikkhu Anālayo (2011) argues that the discourse seems to assume the
-audience already knew this way of reasoning, perhaps as a popular practice
-rather than a written theory. Neither position can be proved from what has
+of a four-part medical scheme earlier than Buddhism**; the scholars who have
+looked for one have not found it. The monk and scholar Bhikkhu Anālayo (2011)
+sees another possibility. For him, the discourse seems to assume the audience
+already knew this way of reasoning, perhaps as a popular practice rather than
+a written theory. Neither position can be proved from what has
 survived.
 
 For you, as a reader starting out, the useful conclusion does not depend on
 this dispute. The scheme shows **what kind of teaching this is**. It is not
 an account of how the universe came to be, nor a revelation to be accepted on
-faith. It is an analysis of human suffering with a proposed treatment, made
+faith. It is an analysis of human suffering with a proposed treatment. It was made
 in a setting full of philosophers debating metaphysics. And it is precisely
 this choice of practical analysis that makes Buddhism comparable, in part, to
 psychology and neuroscience.
@@ -170,7 +176,7 @@ truth begins with "rebirth is suffering." Traditional Buddhism assumes
 rebirth, and the ultimate goal of the path includes leaving the cycle of
 rebirths. Modern Western readings, this one included, usually set that aside
 and keep the psychological part. That is legitimate as a use, but it is not
-what the text says, and chapter {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}}
+what the text says. Chapter {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}}
 explains where this "secular" version comes from.
 
 ## The Second Arrow
@@ -195,13 +201,15 @@ The physical pain is still there. What does not come is the layer of
 resistance, distress and lament that the person adds on top.
 
 The sutta says one more thing, and it is the subtlest part of the argument.
-When the ordinary person is struck by pain, they **resist** it, and next they
+When the ordinary person is struck by pain, they **resist** it. Next, they
 **look for sensual pleasure** as a way out, "because an unlearned ordinary
 person doesn't understand any escape from painful feeling apart from sensual
-pleasures." The two reactions, pushing the pain away and running toward
-pleasure, correspond to two of the three forms of taṇhā described in the
-second truth: thirst for sensual pleasures and thirst for something to stop
-existing. The second arrow is taṇhā in action.
+pleasures."
+
+The two reactions, pushing the pain away and running toward pleasure,
+correspond to two of the three forms of taṇhā described in the second truth.
+One is thirst for sensual pleasures. The other is thirst for something to
+stop existing. The second arrow is taṇhā in action.
 
 Notice what the text does *not* say. It does not say that the practitioner
 feels no pain, or that they should pretend not to. The first arrow is
@@ -230,15 +238,15 @@ were scanned. The hypnotic suggestions asked for the *unpleasantness* of the
 pain to go up or down, without changing its intensity.
 
 **What it found.** Participants reported changes in unpleasantness with no
-change in perceived intensity. In a brain scan (positron emission tomography),
-activity in a region called the anterior cingulate cortex tracked the
-unpleasantness; activity in the primary somatosensory cortex, the region that
-maps the body's sensations, did not change.
+change in perceived intensity. In the brain scan (positron emission
+tomography), a region called the anterior cingulate cortex tracked the
+unpleasantness. The primary somatosensory cortex, the region that maps the
+body's sensations, did not change.
 
 **Strength of evidence:** moderate for the general idea that the intensity
-and the unpleasantness of pain are processed in partly separate ways; the
+and the unpleasantness of pain are processed in partly separate ways. That
 distinction is widely accepted in pain research. The study itself is small
-and old, and "this region encodes unpleasantness" is a simplification: the
+and old. And "this region encodes unpleasantness" is a simplification: the
 anterior cingulate takes part in many other functions.
 :::
 
@@ -254,16 +262,16 @@ to be stated:
 2. **The study used hypnosis, not meditation.** It shows that the affective
    dimension of pain can change without the sensory one changing. It does
    not show that meditation produces this effect. Whether it does, and how
-   much, is the subject of chapter {{cap:o-corpo-o-sono-e-a-dor}}, and the
-   short answer is: there is evidence, of moderate to preliminary strength,
-   with effects smaller than is usually advertised.
+   much, is the subject of chapter {{cap:o-corpo-o-sono-e-a-dor}}. The short
+   answer: there is evidence, of moderate to preliminary strength, and the
+   effects are smaller than is usually advertised.
 3. **There is no "seat of suffering" in the brain.** Saying that Buddhism
    "discovered the anterior cingulate" would be exactly the kind of
    exaggeration this book promises to avoid.
 
-What remains, after the caveats, is a real and modest convergence: the
-tradition claims that pain and the reaction to pain are two things, and
-science has found independent reasons to treat them as two things. The
+What remains, after the caveats, is a real and modest convergence. The
+tradition claims that pain and the reaction to pain are two things. Science
+has found independent reasons to treat them as two things. The
 second claim does not prove the first. But it makes it reasonable to take
 the first seriously.
 
@@ -272,7 +280,7 @@ the first arrow. The next three hours spent chewing over the email,
 rehearsing replies and foreseeing your firing are the second. Chapter
 {{cap:estresse-o-alarme-que-nao-desliga}} shows that the body responds to
 this second arrow, the imagined threat, with the same alarm system it uses
-for real threats, and that this is where it takes its physical toll.
+for real threats. That is where it takes its physical toll.
 
 ## Why This Is Not "Positive Thinking"
 
@@ -287,7 +295,7 @@ want a test to come back good without spending the week in agony.
 **Second, the second arrow cannot be removed by a decision.** Telling
 yourself "I won't get upset" does not work. The sutta describes the
 difference between the ordinary person and the practitioner as the fruit of
-training: that is why there is a fourth truth, and it is a path, not a piece
+training. That is why there is a fourth truth, and it is a path, not a piece
 of advice. Positive thinking replaces one thought with another; what the
 tradition proposes is to change your relationship with thoughts, the
 positive ones included.

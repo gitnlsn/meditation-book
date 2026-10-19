@@ -3,7 +3,7 @@ part: I — WHAT BUDDHISM SAYS
 title: What Buddhism Says
 illustration: 01-o-que-o-budismo-diz
 source: a-mente-treinavel/parts/01-o-que-o-budismo-diz.md
-status: draft
+status: final
 ---
 Before asking whether meditation works, you need to know what it is — and it
 was born inside a tradition with its own diagnosis of human suffering. This

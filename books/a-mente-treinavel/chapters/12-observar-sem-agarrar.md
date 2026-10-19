@@ -18,18 +18,22 @@ practice: rotular por dez minutos ("pensando", "ouvindo", "planejando")
 sources: Satipaṭṭhāna Sutta (MN 10, trad. Sujato); Sharf 2015; Mahasi Sayadaw,
   Satipatthana Vipassana (trad. U Pe Thin); Lutz et al. 2008; Lieberman et al. 2007;
   Kircanski et al. 2012; Burklund et al. 2014; Schlosser et al. 2019; Britton et
-  al. 2021
-status: draft
+  al. 2021; Singer & Engert 2019
+status: final
 ---
 Este capítulo ensina a segunda prática básica e responde a uma pergunta que
 a palavra "mindfulness" costuma esconder: o que, exatamente, se faz quando se
 "presta atenção plena"? A resposta, no sentido do texto budista de onde a
-ideia vem, é: observar o que aparece — sensações, emoções, pensamentos —
+ideia vem, é: observar o que aparece (sensações, emoções, pensamentos)
 como eventos que surgem e passam, sem segui-los e sem empurrá-los. A técnica
 ensinada aqui é a **rotulagem**, dar um nome breve a cada coisa que aparece.
-O capítulo mostra de onde ela vem, o que a ciência encontrou sobre pôr
-sentimentos em palavras, por que observar não é o mesmo que suprimir, e para
-quem esta não é a melhor porta de entrada.
+
+O capítulo mostra:
+
+- de onde a rotulagem vem;
+- o que a ciência encontrou sobre pôr sentimentos em palavras;
+- por que observar não é o mesmo que suprimir;
+- para quem esta não é a melhor porta de entrada.
 
 ## O texto: quatro lugares para olhar
 
@@ -92,24 +96,24 @@ O rótulo, portanto, é um apoio, como a contagem do capítulo
 para substituí-la por palavras.
 
 Vale a observação histórica, porque este livro promete não achatar a
-tradição: boa parte do que o Ocidente aprendeu como "mindfulness" passou por
-esses movimentos de reforma birmaneses, e o historiador Robert Sharf
-argumenta que a ideia de "atenção nua", sem conceito (a história está no capítulo
-{{cap:o-caminho-e-onde-a-meditacao-entra-nele}}), é uma ênfase moderna
-e discutível como leitura da doutrina Theravāda mais antiga. É uma tese
-influente, e não um consenso. A rotulagem é uma ferramenta legítima e testada por gerações de
-praticantes — mas é uma interpretação do texto, não o texto.
+tradição. Boa parte do que o Ocidente aprendeu como "mindfulness" passou por
+esses movimentos de reforma birmaneses. O historiador Robert Sharf argumenta
+que a ideia de "atenção nua", sem conceito, é uma ênfase moderna e discutível
+como leitura da doutrina Theravāda mais antiga (a história está no capítulo
+{{cap:o-caminho-e-onde-a-meditacao-entra-nele}}). É uma tese influente, e não
+um consenso. A rotulagem é uma ferramenta legítima e testada por gerações de
+praticantes. Mas é uma interpretação do texto, não o texto.
 
 ## Equanimidade: nem seguir, nem empurrar
 
-A atitude que a prática cultiva tem nome: **equanimidade**. É a capacidade de deixar uma experiência estar presente sem
-puxá-la nem empurrá-la. O *Ānāpānasati Sutta* descreve o praticante que,
+A atitude que a prática cultiva tem nome: **equanimidade**. É a capacidade
+de deixar uma experiência estar presente sem puxá-la nem empurrá-la. O *Ānāpānasati Sutta* descreve o praticante que,
 tendo visto com sabedoria o abandono da cobiça e do desagrado, "vigia de
 perto, com equanimidade".
 
 Equanimidade não é indiferença. A pessoa indiferente não percebe, ou não se
-importa. A pessoa equânime percebe com nitidez — a raiva está aqui, é forte,
-esquenta o rosto — e não acrescenta a segunda flecha descrita no capítulo
+importa. A pessoa equânime percebe com nitidez: a raiva está aqui, é forte,
+esquenta o rosto. E não acrescenta a segunda flecha descrita no capítulo
 {{cap:as-quatro-nobres-verdades-como-diagnostico}}: o comentário, a
 justificativa, a briga com a raiva. O capítulo
 {{cap:bondade-e-compaixao-como-treino}} mostra a equanimidade como uma das
@@ -141,9 +145,9 @@ voltar a uma âncora.
 7. **Inclua o tom**, quando conseguir: "agradável", "desagradável",
    "neutro". É a segunda base do sutta, e costuma ser a mais reveladora.
 
-Depois de alguns dias, muitas pessoas notam que os rótulos se repetem —
-"planejando", "planejando", "julgando" — e que essa repetição mostra hábitos
-da mente com mais clareza do que horas de reflexão. Notam também que um
+Depois de alguns dias, muitas pessoas notam que os rótulos se repetem:
+"planejando", "planejando", "julgando". Essa repetição mostra hábitos da
+mente com mais clareza do que horas de reflexão. Notam também que um
 pensamento rotulado costuma perder força. Não é regra, e não é o objetivo;
 mas é comum.
 
@@ -166,17 +170,21 @@ Mudando de registro, do texto para os experimentos: há dois achados que
 interessam.
 
 **Pôr sentimentos em palavras reduz parte da reação: evidência
-preliminar.** O laboratório do psicólogo Matthew Lieberman estuda o que chama de *affect
-labeling*, rotular o afeto. No primeiro estudo de imagem, nomear a emoção de
-uma foto negativa reduziu a resposta da amígdala (uma região ligada à detecção de ameaça, entre outras funções,
-vista no capítulo {{cap:como-saber-se-algo-funciona}}) em comparação com outras formas
-de processar a mesma imagem, e aumentou a atividade numa região do córtex
-pré-frontal. Um estudo posterior com 39 adultos mais velhos encontrou que
-rotular e reinterpretar deliberadamente a situação reduziram de modo
-parecido a atividade da amígdala, com quedas correlacionadas no desconforto
-relatado. O ponto
-curioso é que rotular não tem a intenção de mudar a emoção, e mesmo assim
-muda.
+preliminar.** O laboratório do psicólogo Matthew Lieberman estuda o que chama
+de *affect labeling*, rotular o afeto.
+
+No primeiro estudo de imagem, as pessoas nomeavam a emoção de uma foto
+negativa. Isso reduziu a resposta da amígdala, em comparação com outras
+formas de processar a mesma imagem. (A amígdala é uma região ligada à
+detecção de ameaça, entre outras funções, vista no capítulo
+{{cap:como-saber-se-algo-funciona}}.) E aumentou a atividade numa região do
+córtex pré-frontal.
+
+Um estudo posterior, com adultos mais velhos, comparou rotular com
+reinterpretar deliberadamente a situação. As duas estratégias reduziram de
+modo parecido a atividade da amígdala, e o desconforto relatado caiu junto.
+O ponto curioso é que rotular não tem a intenção de mudar a emoção, e mesmo
+assim muda.
 
 ::: {.relatorio}
 **O estudo.** Katharina Kircanski, Matthew Lieberman e Michelle Craske,
@@ -189,7 +197,7 @@ só fazia a exposição.
 
 **O que encontrou.** Uma semana depois, diante de outra aranha em outro
 lugar, o grupo que tinha rotulado mostrou menor resposta de condutância da
-pele (um sinal fisiológico de excitação) que os outros grupos, e chegou um
+pele (um sinal fisiológico de excitação) que os outros grupos. E chegou um
 pouco mais perto da aranha que o grupo da distração. Mas **não relatou
 menos medo** que os outros. E quem usou mais palavras de medo e ansiedade
 durante a exposição teve maior redução da resposta.
@@ -203,8 +211,8 @@ conforme o que se mede.
 
 Há um salto que precisa ser dito. *Affect labeling* em laboratório é
 nomear uma emoção diante de um estímulo, em geral uma vez, com palavras. A
-rotulagem na meditação é contínua, silenciosa, e cobre tudo — sons,
-pensamentos, coceiras —, não só emoções. Os estudos de Lieberman tornam
+rotulagem na meditação é contínua, silenciosa, e cobre tudo (sons,
+pensamentos, coceiras), não só emoções. Os estudos de Lieberman tornam
 plausível que a rotulagem meditativa ajude a regular emoções. Não testaram a
 prática em si.
 
@@ -213,10 +221,12 @@ moderada.** O capítulo {{cap:atencao-emocao-e-habito}} definiu os dois
 termos a partir de Lutz e colegas (2008). A prática da respiração é atenção
 focada: um objeto, e volta a ele. A rotulagem fica entre as duas: há uma
 âncora, mas a atenção se abre para o que aparecer e o registra sem
-reagir — o núcleo do monitoramento aberto. A distinção é bem aceita, e
-um dos maiores estudos longitudinais de treino meditativo laico, o ReSource Project do Instituto Max
-Planck, concluiu, nas palavras do título de uma síntese de 2019, que "importa
-o que você pratica": práticas diferentes treinaram capacidades diferentes.
+reagir. Esse é o núcleo do monitoramento aberto.
+
+A distinção é bem aceita. Um dos maiores estudos de longa duração sobre
+treino meditativo laico é o ReSource Project. Uma síntese de 2019 resumiu
+suas conclusões no título: "importa o que você pratica". Práticas diferentes
+treinaram capacidades diferentes.
 A ressalva é a de sempre: os estudos que separam os dois estilos no cérebro
 são, em sua maioria, pequenos.
 
@@ -224,7 +234,7 @@ são, em sua maioria, pequenos.
 
 A ciência pergunta se rotular *reduz a reatividade*. O sutta tem outro
 objetivo: ver que tudo o que aparece surge e desaparece, e que nada disso é
-algo a que valha se agarrar — o tema do capítulo {{cap:impermanencia-e-nao-eu}}. Para
+algo a que valha se agarrar. É o tema do capítulo {{cap:impermanencia-e-nao-eu}}. Para
 a tradição, sentir-se mais calmo é um efeito colateral bem-vindo; o alvo é
 uma compreensão. Nenhum experimento citado aqui mede essa compreensão.
 
@@ -237,17 +247,22 @@ podem ser verdade ao mesmo tempo, mas não são a mesma afirmação.
 
 Abrir a atenção a tudo o que aparece significa que o que é difícil também
 aparece. Para a maioria das pessoas, isso é tolerável e até útil. Para
-algumas — em especial quem tem histórico de trauma, dissociação ou crises
-de pânico — pode trazer à tona memórias, sensações ou estados de
-desligamento que a pessoa não consegue regular sozinha.
+algumas, pode trazer à tona memórias, sensações ou estados de desligamento
+que a pessoa não consegue regular sozinha. Isso vale em especial para quem
+tem histórico de trauma, dissociação ou crises de pânico.
 
-A pesquisa sustenta a cautela. Num levantamento com 1.232 meditadores
+A pesquisa sustenta a cautela. Num levantamento com mais de mil meditadores
 regulares, cerca de um quarto relatou experiências particularmente
-desagradáveis que atribuía à meditação. Elas foram mais prováveis em quem
-praticava só estilos do tipo vipassanā — a família a que a rotulagem
-pertence —, em quem tinha muito pensamento negativo repetitivo e em quem já
-tinha feito retiro. É um estudo de autorrelato, com uma única pergunta, e não
-estabelece causa (evidência preliminar). Num programa de oito semanas, os
+desagradáveis que atribuía à meditação. Elas foram mais prováveis em três
+grupos:
+
+- quem praticava só estilos do tipo vipassanā, a família a que a rotulagem
+  pertence;
+- quem tinha muito pensamento negativo repetitivo;
+- quem já tinha feito retiro.
+
+É um estudo de autorrelato, com uma única pergunta, e não estabelece causa
+(evidência preliminar). Num programa de oito semanas, os
 efeitos ruins duradouros, numa minoria, se associaram a sinais de excitação
 desregulada e dissociação. Os dois estudos estão em detalhe no capítulo
 {{cap:quando-a-meditacao-da-errado}}.
@@ -255,14 +270,14 @@ desregulada e dissociação. Os dois estudos estão em detalhe no capítulo
 Por isso, três orientações práticas:
 
 - **Mantenha a âncora forte.** Se a rotulagem abrir mais do que você
-  consegue acompanhar, volte só à respiração ou, se ela também incomodar, aos
-  pés no chão, de olhos abertos.
+  consegue acompanhar, volte só à respiração. Se ela também incomodar, volte
+  aos pés no chão, de olhos abertos.
 - **Encurte.** Três minutos bem feitos valem mais que dez de aflição.
 - **Pare e procure ajuda** se aparecerem flashbacks, sensação persistente de
   irrealidade ou de estar fora do corpo, ou angústia que não passa depois da
   sessão. O capítulo {{cap:quando-a-meditacao-da-errado}} descreve esses
   sinais. Para quem tem trauma, uma prática guiada por um profissional
-  treinado é uma porta melhor que a prática solitária — e nenhuma meditação
+  treinado é uma porta melhor que a prática solitária. E nenhuma meditação
   substitui tratamento.
 
 ## O que fica estabelecido

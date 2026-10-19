@@ -14,17 +14,23 @@ evidence: melhora de atenção sustentada (moderada); doses curtas (preliminar)
 caveats: '"esvaziar a mente" não é o objetivo'
 practice: dez minutos por dia durante uma semana, contando respirações
 sources: Ānāpānasati Sutta (MN 118, trad. Sujato); Visuddhimagga VIII (trad. Ñāṇamoli);
-  MacLean et al. 2010; Jha et al. 2015; Hasenkamp et al. 2012; Levinson et al. 2014
-status: draft
+  MacLean et al. 2010; Jha et al. 2015; Hasenkamp et al. 2012; Levinson et al. 2014;
+  Britton et al. 2021
+status: final
 ---
 Este capítulo ensina a prática mais antiga e mais simples da meditação
 budista: prestar atenção à respiração. A ideia central é uma só, e o resto do
 capítulo existe para sustentá-la: a prática não consiste em manter a atenção
 parada, e sim em **voltar**. A atenção sai, você percebe que saiu e a traz de
 volta. Cada volta é uma repetição, como no treino de força cada levantamento
-de peso conta. Ao fim, você vai saber como fazer dez minutos por dia, o que a
-tradição diz que essa prática produz, o que os experimentos mediram e onde as
-duas coisas deixam de coincidir.
+de peso conta.
+
+Ao fim, você vai saber:
+
+- como fazer dez minutos por dia;
+- o que a tradição diz que essa prática produz;
+- o que os experimentos mediram;
+- onde as duas coisas deixam de coincidir.
 
 ## O texto: o discurso sobre a atenção à respiração
 
@@ -53,7 +59,7 @@ primeiro grupo trata do corpo e da respiração; o segundo, das sensações
 agradáveis que podem surgir; o terceiro, da mente; o quarto, da
 impermanência, do desaparecimento, da cessação e do soltar. O próprio texto
 liga cada grupo a uma das quatro bases da atenção do *Satipaṭṭhāna Sutta*,
-tema do capítulo {{cap:observar-sem-agarrar}}, e afirma que a prática, desenvolvida,
+tema do capítulo {{cap:observar-sem-agarrar}}. E afirma que a prática, desenvolvida,
 leva ao "conhecimento e à libertação".
 
 Duas consequências para quem começa. Primeiro, este capítulo usa só os
@@ -100,15 +106,17 @@ não é exceção. A pergunta útil não é como impedir a saída, e sim o que f
 depois dela.
 
 O capítulo {{cap:a-mente-que-divaga}} descreveu o estudo de Wendy Hasenkamp
-e colegas (2012), que deu forma a esse ciclo: catorze praticantes meditaram
-na respiração dentro de um aparelho de ressonância e apertaram um botão a
-cada vez que perceberam ter saído dela, e a prática foi dividida em quatro
-fases — divagar, perceber, redirecionar, sustentar. O estudo é pequeno, e
-suas leituras de redes cerebrais têm o risco da inferência reversa. Mas o
-modelo é útil para quem pratica por outro motivo. Ele mostra que mesmo
-praticantes experientes divagam — se não divagassem, não haveria botão a
-apertar — e que o treino está nas fases de perceber e redirecionar.
-**Perceber e voltar é o exercício**, não uma falha no exercício.
+e colegas (2012), que deu forma a esse ciclo. Praticantes experientes
+meditaram na respiração dentro de um aparelho de ressonância. Apertavam um
+botão cada vez que percebiam ter saído dela. A prática foi dividida em
+quatro fases: divagar, perceber, redirecionar, sustentar.
+
+O estudo é pequeno, e suas leituras de redes cerebrais têm o risco da
+inferência reversa. Mas o modelo é útil para quem pratica por outro motivo.
+Ele mostra que mesmo praticantes experientes divagam. Se não divagassem, não
+haveria botão a apertar. E mostra que o treino está nas fases de perceber e
+redirecionar. **Perceber e voltar é o exercício**, não uma falha no
+exercício.
 
 ## A prática
 
@@ -169,9 +177,9 @@ foram definidos no capítulo {{cap:atencao-emocao-e-habito}}; a respiração com
 
 **Atenção sustentada: evidência moderada, com dose alta.** O melhor estudo é
 o Shamatha Project (MacLean e colegas, 2010), descrito no capítulo
-{{cap:atencao-emocao-e-habito}}: um retiro de três meses, com cerca de cinco
-horas diárias de atenção num objeto escolhido, como a respiração, melhorou a
-vigilância num ensaio randomizado com lista de espera. O que o estudo mostra
+{{cap:atencao-emocao-e-habito}}. Foi um retiro de três meses, com cerca de
+cinco horas diárias de atenção num objeto escolhido, como a respiração. Num
+ensaio randomizado com lista de espera, ele melhorou a vigilância. O que o estudo mostra
 é que a atenção sustentada é treinável. Não mostra quanto treino uma pessoa
 comum precisa, e a dose não tem nada a ver com dez minutos por dia.
 
@@ -189,8 +197,8 @@ indivíduo, e os autores reconhecem que isso pode deixar diferenças de
 partida.
 
 **O que encontrou.** Num teste de atenção sustentada, o grupo sem treino
-piorou ao longo do período de preparação, e o grupo do curso prático se
-manteve estável — com menos lapsos que o grupo sem treino e que o grupo das
+piorou ao longo do período de preparação. O grupo do curso prático se
+manteve estável, com menos lapsos que o grupo sem treino e que o grupo das
 aulas. O detalhe mais interessante: os participantes deveriam praticar trinta
 minutos por dia, mas o grupo prático registrou, em média, cerca de 178
 minutos *no total* das oito semanas.
@@ -203,17 +211,20 @@ proteger a atenção sob pressão. Não prova uma dose mínima.
 :::
 
 Outros estudos apontam na mesma direção, todos com limites; o de cinco dias
-com universitários chineses está no capítulo {{cap:atencao-emocao-e-habito}}. E a
-própria contagem de respirações foi usada como
-instrumento: Daniel Levinson e colegas, no laboratório de Richard Davidson,
-mostraram em quatro estudos com mais de quatrocentas pessoas que errar menos
-a contagem acompanha menos divagação e mais percepção do próprio estado
-mental, e que quatro semanas de treino de contagem pela internet reduziram a
-divagação em comparação com treino de memória e com nenhum treino. Isso dá
-à contagem um papel duplo: é exercício e é régua.
+com universitários chineses está no capítulo {{cap:atencao-emocao-e-habito}}.
+
+A própria contagem de respirações também foi usada como instrumento de
+medida. Uma série de quatro estudos de 2014 mostrou duas coisas:
+
+- quem erra menos a contagem também divaga menos e percebe melhor o próprio
+  estado mental;
+- quatro semanas de treino de contagem pela internet reduziram a divagação,
+  em comparação com treino de memória e com nenhum treino.
+
+Isso dá à contagem um papel duplo: é exercício e é régua.
 
 O resumo honesto: a atenção sustentada melhora com treino de atenção focada
-(**moderada**); que dez minutos diários bastem para um efeito mensurável é
+(**moderada**). Que dez minutos diários bastem para um efeito mensurável é
 plausível, mas ainda **preliminar**. E, como o capítulo {{cap:atencao-emocao-e-habito}}
 discute, ganhos numa tarefa de laboratório nem sempre se transferem para a
 vida.
@@ -245,9 +256,10 @@ em vez de acalmar. Se isso acontecer, troque de âncora: os sons do ambiente,
 o peso do corpo na cadeira, as mãos. Abrir os olhos também ajuda.
 
 Efeitos adversos da meditação são reais e documentados, inclusive em
-programas de oito semanas: um estudo cuidadoso de participantes de terapia
+programas de oito semanas. Um estudo cuidadoso com participantes de terapia
 cognitiva baseada em mindfulness encontrou efeitos ruins duradouros numa
-minoria, associados a sinais de excitação desregulada e dissociação. Dez
+minoria. Eles vinham associados a sinais de excitação desregulada e
+dissociação. Dez
 minutos por dia é uma dose baixa, mas não é dose zero. O capítulo
 {{cap:quando-a-meditacao-da-errado}} descreve os sinais e quando parar. E
 nenhuma prática deste livro substitui tratamento para ansiedade, depressão

@@ -3,7 +3,7 @@ part: II — HOW THE BRAIN CHANGES
 title: How the Brain Changes
 illustration: 02-como-o-cerebro-muda
 source: a-mente-treinavel/parts/02-como-o-cerebro-muda.md
-status: draft
+status: final
 ---
 This part changes the question. It is no longer "what does the tradition say"
 but "what do experiments show". It begins by teaching how to read a study —

@@ -51,6 +51,31 @@ conversation sounds: clear, structured, direct, explanatory.
 - **Each chapter ends with a short summary** of what it established (a `##`
   head, a few lines or a short list). Not a teaser for the next chapter.
 
+**Plain language** (the author's rule, 2026-10-19). The evidence must be
+easy to follow for a beginner, without becoming less true.
+
+- **Verdict first.** Each evidence section opens with the plain answer and
+  its label; the studies come after, as the explanation. The same holds for
+  paragraphs: the point, then who found it.
+- **One or two studies tell the story.** Not a study-by-study tour. The others
+  go to the chapter's list in Fontes.
+- **Names only when they matter.** Describe a study by what it did ("um
+  ensaio de 18 meses com idosos"). A researcher's name stays for a famous
+  study or one the book returns to. No journals or universities in the prose.
+- **One number per finding, in everyday terms** ("cerca de 1 em cada 10",
+  "a vantagem caiu pela metade"). Effect sizes, sample sizes and p-values
+  live in the `relatorio` boxes.
+- **One new idea per paragraph.** A technical term only if the book uses it
+  again; otherwise, a plain description.
+- **Caveats in plain words**, and only those that change how far to trust the
+  claim ("um único ensaio, feito pelos criadores do método"). The `[care]`
+  caveat rule still applies.
+- **Short sentences**, about 25 words or fewer; lists where the text
+  enumerates.
+- **Diagrams are welcome** where a comparison, a sequence or a mechanism is
+  easier to see than to read (SVG in `illustrations/figures/`, one per
+  language).
+
 ## Truth is non-negotiable
 
 - **Every empirical claim** is traceable to a real source recorded in
@@ -157,9 +182,12 @@ in `book.yaml`. The **English edition is a separate book** (US English),
   Rename both together. The part titles are provisional.
 - Chapter bodies: `##` for section heads, never an `#` heading. Markdown lists
   and tables are fine.
-- Illustrations are part openers only, one master per part in
-  `illustrations/masters/`, matched by the part's `illustration:` field. A
-  placeholder is generated until the art exists.
+- Illustrations: one master per part opener in `illustrations/masters/`,
+  matched by the part's `illustration:` field (a placeholder is generated
+  until the art exists). In-text diagrams are grayscale SVG line art in
+  `illustrations/figures/`, `fig-<name>-pt.svg` and `fig-<name>-en.svg`,
+  referenced from the chapter with a caption; the build rasterizes them. Any
+  note belongs in the caption, not inside the drawing.
 - Covers are typographic, from `shared/print/cover.typ`, with a palette under
   `cover:` in `book.yaml` (`bg`, `ink`, `accent`, hex). The current palette is a
   neutral placeholder.

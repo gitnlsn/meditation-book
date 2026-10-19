@@ -57,8 +57,18 @@ that", "in this sense" only where natural). Short sentences stay short.
 | forte / moderada / preliminar / contestada | strong / moderate / preliminary / contested |
 | "moderada a forte" | "moderate to strong" (and so on for any range) |
 | Meditação não substitui tratamento. | Meditation is not a substitute for treatment. |
+| Meditação não substitui tratamento para insônia, para dor nem para pressão alta. | Meditation is not a substitute for treatment for insomnia, for pain or for high blood pressure. |
+| *veredito*, in every form | *verdict*, keeping the form: `## O veredito` → `## The Verdict` (heading, title case); `**Veredito.**` / `**Veredito:**` → `**Verdict.**` / `**Verdict:**`; `**Veredito: preliminar.**` → `**Verdict: preliminary.**`; "O veredito:" in running prose → "The verdict:". One rule (2026-10-19): never "Ruling", "Conclusion" or "Bottom line". |
+| `**A posição deste livro.**` | `**This book's position.**` |
+| `**O que ainda não se sabe, e por quê:**` / `**O que ainda não se sabe:**` | `**What is not yet known, and why:**` / `**What is not yet known:**` |
+| ainda não se sabe | is not yet known |
+| `## Outros desfechos, em uma linha` | `## Other Outcomes, in One Line` |
+| `## Efeitos adversos entram na conta` | `## Adverse Effects Belong in the Count` |
 | o que os textos afirmam / o que praticantes relatam / o que experimentos mostram | what the texts claim / what practitioners report / what experiments show |
 | a segunda flecha | the second arrow |
+| `**Resposta curta:**` (bold, opening an evidence section) | `**Short answer:**` |
+| "A resposta curta:" (running prose, unbolded) | "The short answer:" |
+| nenhum efeito detectável / pequeno / moderado / grande / pequeno a moderado (effect-size words, scale defined in *Como saber se algo funciona*) | no detectable effect / small / moderate / large / small to moderate |
 
 A label in bold in the Portuguese (`**Preliminar.**`) is bold in English
 (`**Preliminary.**`).
@@ -121,6 +131,46 @@ scholarship and neuroscience, not a back-translation.
 | efeito adverso | adverse effect | |
 | despersonalização / desrealização | depersonalization / derealization | |
 | retiro intensivo | intensive retreat | |
+| controle passivo | passive control | added 2026-10-19 (Part II revision) |
+| meditação simulada / Reiki simulado | sham meditation / sham Reiki | |
+| pré-registro | preregistration | |
+| atendimento de costume / tratamento habitual | usual care | both Portuguese phrasings appear (ch. 5, ch. 7) |
+| cuidado habitual reforçado | enhanced usual care | the MB-BP control |
+| poder estatístico | statistical power | glossed inline, not a term |
+| margem de incerteza (of a CI) | range of uncertainty | |
+| risco relativo / intervalo de confiança | risk ratio / confidence interval | |
+| teste de equivalência | equivalence test | |
+| revisão de revisões | review of reviews | umbrella review; not a defined term |
+| revisão Cochrane | Cochrane review | |
+| tratamentos de eficácia comprovada | evidence-based treatments | Goldberg's term |
+| ensaio aberto | open-label trial | |
+| ensaio de fase 2 | phase 2 trial | |
+| aprendizado de máquina | machine learning | |
+| retratação | retraction | "a revista retirou o artigo" → "the journal withdrew the article" |
+| célula progenitora | progenitor cell | |
+| giro denteado | dentate gyrus | |
+| espessura do córtex | cortical thickness | |
+| fluxo de sangue (perfusão) | blood flow | the Age-Well box; the source says "perfusion" |
+| idade cerebral | brain age | Luders's BrainAGE; the prose says "brain age" |
+| expansão e renormalização | expansion–renormalization (model) | Wenger et al. |
+| conectividade funcional | functional connectivity | |
+| rede de saliência | salience network | |
+| divagação intencional / sem intenção | intentional / unintentional mind wandering | |
+| variabilidade da frequência cardíaca | heart rate variability | first defined in ch. 8 |
+| arritmia sinusal respiratória | respiratory sinus arrhythmia | |
+| telômeros | telomeres | |
+| relógio epigenético | epigenetic clock | |
+| pressão arterial (sistólica / diastólica) | blood pressure (systolic / diastolic) | first defined in ch. 14; "mm Hg" with a space in English, "mmHg" in Portuguese |
+| Meditação Transcendental | Transcendental Meditation | |
+| transferência (de treino) | transfer | now a `terms:` entry (ch. 9) |
+| erro de previsão | prediction error | `terms:` entry (ch. 9) |
+| treino integrativo corpo-mente | integrative body-mind training | Tang's IBMT |
+| uso indevido (de opioides) | misuse | |
+| terapia cognitivo-comportamental em grupo | group cognitive-behavioral therapy | |
+| terapia de apoio em grupo | supportive group therapy | |
+| TCC (terapia cognitivo-comportamental) | CBT (cognitive behavioral therapy) | defined in the balance chapter |
+| levantamento de base populacional | population-based survey | |
+| prejuízo ao funcionamento | functional impairment | |
 
 ## Quotations
 
@@ -159,6 +209,27 @@ Add entries below as `- **chapter file** — what, and why it matters.`
 - Ch. 12 typo "e o um dos maiores"; ch. 9 front matter used "fraca", not one of the four labels.
 - Sobre a autora pointed indirectly at the director ("escrito para um leitor que não sabia nada"); now "escrito para quem parte do zero". Fontes said the records stay "com a autora"; now "junto com o manuscrito".
 - English ch. 15 had crisis lines only for Brazil; it now also says "Wherever you are, call your local emergency number or a crisis line." (safety; the only addition the English makes).
+
+### Fixed in the Part II revision (2026-10-19), in both editions
+
+- **05-como-saber-se-algo-funciona.md** — "Metade das manchetes" is now "Boa parte das manchetes" ("Many of the headlines"); the Goldberg 2018 box prints −0,004. (Both 04–06 items closed.)
+- **05-como-saber-se-algo-funciona.md** — "Em meditação é impossível" became "é mais difícil", because sham-meditation controls now exist.
+- **06-neuroplasticidade-sem-exagero.md** — Moreno-Jiménez 2019 and Kempermann 2018 are now in `sources:` (Kempermann was later cut in the plain-language pass, same day) and have VERIFIED.md sections; Thomas & Baker now says "parte anterior do hipocampo" / "anterior hippocampal volume". (Both 04–06 items closed.)
+- **06-neuroplasticidade-sem-exagero.md** — Headings: "Juggling: What Comes Also Goes" → "Juggling: What Comes Doesn't Always Go"; "New Neurons? An Open Controversy" → "New Neurons? A Controversy That Has Moved"; new heads "The Meta-Analysis That Was Withdrawn", "And People Who Have Meditated for Years?", "The Verdict".
+- **07-a-mente-que-divaga.md** — The K&G box now says "sugeriram fortemente" ("strongly suggested"), as the paper does; the Raichle title is now recorded in VERIFIED.md. (Both 07–09 items closed.) The unsourced "na maioria das vezes, a pessoa só percebe que divagou depois de já estar longe" was replaced with a sourced claim (Seli 2016: wandering occurs with and without intention). New heads: "Does Wandering Make You Unhappy?", "Does Training Reduce Mind Wandering?".
+- **08-estresse-o-alarme-que-nao-desliga.md** — The Pascoe 2017 "pressão arterial sistólica" note is moot: the paragraph was replaced and Pascoe is no longer cited. The perseverative-cognition front matter/body mismatch is resolved: both say moderada (short term) and preliminar (long-term disease). The chapter no longer uses `**A favor.**` / `**A complicação.**`; the ReSource material is now an evidence box. (Both 07–09 items on ch. 8 closed.)
+- **08 and 14** — "39 especialistas" / "39 experts" count all signatories, Grossman included, as the PDF does. *Superseded in the consistency pass (2026-10-19):* the plain-language pass had made it "dezenas" / "dozens"; both editions now say "Grossman e outros 38 especialistas" / "Grossman and 38 other experts" (39 invited, one declined; 39 names on the byline).
+- **09-atencao-emocao-e-habito.md** — `evidence:` uses only the four labels ("fraca" gone; already listed above). Raugh et al. is dated 2025 in the chapter (issue year; online 2024-10-28); references.md records both.
+- **14-o-corpo-o-sono-e-a-dor.md** — The "lado a lado" table gained a "Pressão arterial" row, placed above "Dor" so that "a convergência está na última linha" still points to the pain row, in both editions.
+
+### Fixed in the consistency pass after the plain-language pass (2026-10-19), in both editions
+
+- **Effect-size words** now follow the scale defined in *Como saber se algo funciona*: Goyal 2014 (0,22–0,38) is "pequena a moderada" / "small to moderate" in *O que a ciência…* (also its summary line and the "faz bem a todo mundo" myth); cortisol in *Estresse* is "pequena a moderada" (Rogerson g = 0,345; Johnson g = −0,38), saliva "nenhum efeito detectável", Brown's non-significant estimate is no longer called "pequeno", Grasmann (g = −0,11, p = 0,053) is "muito pequena, no limite do acaso"; *Atenção, emoção e hábito* says the meta-analyses agree the effect is "no máximo, de pequeno a moderado"; Zeng 2015's "medium" is "moderado" / "moderate" in *Bondade e compaixão*.
+- **14-o-corpo-o-sono-e-a-dor.md** — Transcendental Meditation was "apresentada no capítulo" *O que a ciência…*, which never presents it; the pointer is gone and TM is introduced in place. The three openers are now `**Resposta curta:**` / `**Short answer:**`, as in *O que a ciência…*.
+- **08-estresse-o-alarme-que-nao-desliga.md** — `[care]` caveats added in the same paragraph for Johnson 2026 (an author develops mindfulness programs; cortisol is a marker, not health) and Kaliman 2025 (a secondary analysis). Also added: Goldberg 2022 in chapters 5 and 10 (written from inside the field), Breedvelt 2021 and Lee 2026 in chapter 10; the Fredrickson (13) and Luders (6) caveats were merged into the paragraph that cites them.
+- **10-o-que-a-ciencia-da-meditacao-mostra-e-o-que.md** — MYRIAD: "A análise incluiu 84 escolas" (85 were randomized, 84 analyzed).
+- **Glossary** — entries added for every new `terms:` item (correlação, estatisticamente significativo, meditação simulada, pré-registro, retratação, telômeros, variabilidade da frequência cardíaca, erro de previsão, TCC, postura, pressão arterial, plus a "retiro intensivo" cross-reference); "hipótese da cognição perseverativa" removed; massa cinzenta, hipocampo, lista de espera, samatha, sati, vacuidade, tamanho de efeito, divagação mental and teoria polivagal reworded to match their chapters.
+- **Fontes / Sources** — works no chapter relies on any more were removed (see references.md, "No longer cited after the plain-language pass").
 
 ### Notes from the translators, open for the author
 
@@ -203,11 +274,11 @@ Add entries below as `- **chapter file** — what, and why it matters.`
 - **04-o-caminho-e-onde-a-meditacao-entra-nele.md** — The Thanissaro note is paraphrased without quotation marks, as in the Portuguese, although VERIFIED.md records his English wording. A direct quotation is available if the author wants one.
 - **04-o-caminho-e-onde-a-meditacao-entra-nele.md** — The Portuguese foot note also says that the Kabat-Zinn, Sharf and Rahula quotations were translated by Íris Gradim. In English these are quoted from the originals, so the note keeps only the contract's Sujato sentence.
 - **05-como-saber-se-algo-funciona.md** — "(do inglês *randomized*, 'sorteado'; também se diz ensaio clínico randomizado, ou ECR)" only works in Portuguese. The English gives "randomized controlled trial, or RCT ('randomized' means assigned by chance)".
-- **05-como-saber-se-algo-funciona.md** — The fMRI section says "a fMRI não vê neurônios (… apresentadas em {{cap:neuroplasticidade-sem-exagero}})" with no "no capítulo", so the build prints "apresentadas em 6". Every other cross-reference in these chapters has "capítulo" in front of it. The English adds "chapter".
-- **05-como-saber-se-algo-funciona.md** — "Metade das manchetes sobre meditação vem com uma imagem do cérebro" reads as a figure but has no source. It is probably meant rhetorically, but it is the kind of unlabeled quantity the book otherwise avoids.
-- **05-como-saber-se-algo-funciona.md** — In the Goldberg 2018 box, the last row gives *d* = 0,00, while the abstract (VERIFIED.md) gives d = -0.004. The rounding is harmless, but every other *d* in the table is printed as published.
-- **06-neuroplasticidade-sem-exagero.md** — Moreno-Jiménez et al. 2019 (a [care] source) and Kempermann et al. 2018 are cited in the body, but they are missing from the front matter `sources:` and have no entry in VERIFIED.md. Both are in references.md. The [care] caveat ("A questão não está fechada") does sit in the same paragraph.
-- **06-neuroplasticidade-sem-exagero.md** — The chapter cites Thomas & Baker for "aumento de volume do hipocampo com exercício físico em pessoas idosas". The source says *anterior* hippocampal volume. This is not wrong, only less specific.
+- **05-como-saber-se-algo-funciona.md** — **Resolved 2026-10-19** — every cross-reference now has "capítulo". Was: The fMRI section says "a fMRI não vê neurônios (… apresentadas em {{cap:neuroplasticidade-sem-exagero}})" with no "no capítulo", so the build prints "apresentadas em 6". Every other cross-reference in these chapters has "capítulo" in front of it. The English adds "chapter".
+- **05-como-saber-se-algo-funciona.md** — **Resolved 2026-10-19** — "Metade das manchetes sobre meditação vem com uma imagem do cérebro" reads as a figure but has no source. It is probably meant rhetorically, but it is the kind of unlabeled quantity the book otherwise avoids.
+- **05-como-saber-se-algo-funciona.md** — **Resolved 2026-10-19** — In the Goldberg 2018 box, the last row gives *d* = 0,00, while the abstract (VERIFIED.md) gives d = -0.004. The rounding is harmless, but every other *d* in the table is printed as published.
+- **06-neuroplasticidade-sem-exagero.md** — **Resolved 2026-10-19** — Moreno-Jiménez et al. 2019 (a [care] source) and Kempermann et al. 2018 are cited in the body, but they are missing from the front matter `sources:` and have no entry in VERIFIED.md. Both are in references.md. The [care] caveat ("A questão não está fechada") does sit in the same paragraph.
+- **06-neuroplasticidade-sem-exagero.md** — **Resolved 2026-10-19** — The chapter cites Thomas & Baker for "aumento de volume do hipocampo com exercício físico em pessoas idosas". The source says *anterior* hippocampal volume. This is not wrong, only less specific.
 
 ## Proposed fixed sentences
 
@@ -224,12 +295,16 @@ Add entries below as `- **chapter file** — what, and why it matters.`
 
 # Found in the Portuguese: chapters 07–09
 
-- **08-estresse-o-alarme-que-nao-desliga.md, 09-atencao-emocao-e-habito.md** — `{{cap:slug}}` resolves to a bare number (scripts/build.py `resolve_refs`), but these chapters write "em {{cap:…}}" / "que {{cap:…}} explica" with no "capítulo", so the Portuguese prints "apresentada em 2", "apareceu em 8", "o balanço está em 10". ch08: lines 32, 127, 237, 260. ch09: lines 40, 48, 49, 75, 76, 79, 197, 201, 241, 280. Chapter 07 always writes "o capítulo {{cap:…}}". The English writes "chapter {{cap:…}}" everywhere.
-- **09-atencao-emocao-e-habito.md** — front matter `evidence:` says "transferência para a vida diária (fraca, preliminar)". "fraca" is not one of the four labels; the body says only **preliminar**. The front matter is copied verbatim into the English file, so the fix belongs in the Portuguese.
-- **08-estresse-o-alarme-que-nao-desliga.md** — the Pascoe et al. (2017) paragraph says that with all forms pooled, meditation reduced "pressão arterial sistólica". The recorded abstract (VERIFIED.md; sources/pascoe-2017-…) says "blood pressure" for the pooled result. "systolic" appears only for subtypes. The English follows the Portuguese ("systolic blood pressure"). Check the full paper or drop "sistólica".
-- **08-estresse-o-alarme-que-nao-desliga.md** — front matter `evidence:` gives perseverative cognition as "preliminar a moderada", while the body (and Brosschot's own abstract) say **preliminar**.
-- **07-a-mente-que-divaga.md** — the Killingsworth & Gilbert box says the time-lag analyses "sugeriram" mind wandering came first. The authors wrote "strongly suggested". The softening is defensible, since the box labels causation preliminary, but it reports the authors' claim as weaker than they stated it. The English follows the Portuguese ("suggested, according to the authors").
-- **07-a-mente-que-divaga.md** — Raichle et al. (2001) is quoted by title ("Um modo padrão de funcionamento do cérebro"). The English uses the published title, "A default mode of brain function", but VERIFIED.md records only the abstract, not the title. Worth adding the title to the record.
+- **08-estresse-o-alarme-que-nao-desliga.md, 09-atencao-emocao-e-habito.md** — **Resolved 2026-10-19** — every cross-reference in 05–10, 14 and 15 is now preceded by "capítulo". Was: `{{cap:slug}}` resolves to a bare number (scripts/build.py `resolve_refs`), but these chapters write "em {{cap:…}}" / "que {{cap:…}} explica" with no "capítulo", so the Portuguese prints "apresentada em 2", "apareceu em 8", "o balanço está em 10". ch08: lines 32, 127, 237, 260. ch09: lines 40, 48, 49, 75, 76, 79, 197, 201, 241, 280. Chapter 07 always writes "o capítulo {{cap:…}}". The English writes "chapter {{cap:…}}" everywhere.
+- **09-atencao-emocao-e-habito.md** — **Resolved 2026-10-19** — front matter `evidence:` says "transferência para a vida diária (fraca, preliminar)". "fraca" is not one of the four labels; the body says only **preliminar**. The front matter is copied verbatim into the English file, so the fix belongs in the Portuguese.
+- **08-estresse-o-alarme-que-nao-desliga.md** — **Resolved 2026-10-19** — (moot; paragraph replaced) the Pascoe et al. (2017) paragraph says that with all forms pooled, meditation reduced "pressão arterial sistólica". The recorded abstract (VERIFIED.md; sources/pascoe-2017-…) says "blood pressure" for the pooled result. "systolic" appears only for subtypes. The English follows the Portuguese ("systolic blood pressure"). Check the full paper or drop "sistólica".
+- **08-estresse-o-alarme-que-nao-desliga.md** — **Resolved 2026-10-19** — front matter `evidence:` gives perseverative cognition as "preliminar a moderada", while the body (and Brosschot's own abstract) say **preliminar**.
+- **07-a-mente-que-divaga.md** — **Resolved 2026-10-19** — the Killingsworth & Gilbert box says the time-lag analyses "sugeriram" mind wandering came first. The authors wrote "strongly suggested". The softening is defensible, since the box labels causation preliminary, but it reports the authors' claim as weaker than they stated it. The English follows the Portuguese ("suggested, according to the authors").
+- **07-a-mente-que-divaga.md** — **Resolved 2026-10-19** — Raichle et al. (2001) is quoted by title ("Um modo padrão de funcionamento do cérebro"). The English uses the published title, "A default mode of brain function", but VERIFIED.md records only the abstract, not the title. Worth adding the title to the record.
+- **05-como-saber-se-algo-funciona.md** (2026-10-19) — **Resolved 2026-10-19 (consistency pass)** — moot: after the plain-language pass neither edition quotes MacCoon; the study is described. Was: The Portuguese paraphrases MacCoon ("não foi mais eficaz que um controle ativo rigoroso"); the English quotes the original "no more effective than a rigorous active control" (VERIFIED.md).
+- **06-neuroplasticidade-sem-exagero.md** (2026-10-19) — **Resolved 2026-10-19 (consistency pass)** — the Fox 2014 quotation is gone from both editions; the Siew & Yu title phrase is still quoted in English. Was: The English quotes Fox 2014's "strong concerns" and the Siew & Yu title phrase "led to brain structural changes" in the original wording (the Portuguese uses Íris Gradim's translations). The retraction note is not quoted in English, because the Portuguese paraphrases it.
+- **09-atencao-emocao-e-habito.md** (2026-10-19) — **Resolved 2026-10-19 (consistency pass)** — Millett et al. 2021 is no longer cited in either edition. Was: Millett et al. 2021 appears in the Portuguese as a translation ("não é robusto"); the English quotes the original "is not robust".
+- **10-o-que-a-ciencia-da-meditacao-mostra-e-o-que.md** (2026-10-19) — Webb 2026 is quoted as "clinicamente trivial", translated from "clinically trivial"; the English quotes the original.
 - **scripts/translation-header.py** (not the Portuguese, but it affects every translator) — it writes `title:` unquoted. A title containing ": " ("Stress: The Alarm That Won't Switch Off") then becomes invalid YAML. I quoted it by hand in 08's English front matter.
 
 ## Proposed fixed sentences
@@ -242,7 +317,7 @@ Add entries below as `- **chapter file** — what, and why it matters.`
 | divagação (noun, as a phenomenon) / divagar | mind wandering / (the mind) wanders, wandering |
 | carga alostática / alostase | allostatic load / allostasis |
 | teoria polivagal | polyvagal theory |
-| hipótese da cognição perseverativa | perseverative cognition hypothesis |
+| hipótese da cognição perseverativa | perseverative cognition hypothesis (no longer used: the chapter now states the idea in plain words, and the glossary entry was removed, 2026-10-19) |
 | ameaça de avaliação social | social-evaluative threat |
 | transferência (de treino) | transfer |
 | automatismo (Lally) | automaticity |
@@ -251,14 +326,14 @@ Add entries below as `- **chapter file** — what, and why it matters.`
 
 # Found in the Portuguese — chapters 10–12
 
-- **10-o-que-a-ciencia-da-meditacao-mostra-e-o-que.md** — front matter `title_en:` says "What Meditation Science Shows, and What It Doesn't" (comma), but the contract's title table says "What Meditation Science Shows — and What It Doesn't" (dash). The English chapter uses the contract's title; `title_en` should be brought in line so the two records agree.
+- **10-o-que-a-ciencia-da-meditacao-mostra-e-o-que.md** — (still open after the 2026-10-19 revision) front matter `title_en:` says "What Meditation Science Shows, and What It Doesn't" (comma), but the contract's title table says "What Meditation Science Shows — and What It Doesn't" (dash). The English chapter uses the contract's title; `title_en` should be brought in line so the two records agree.
 - **10-o-que-a-ciencia-da-meditacao-mostra-e-o-que.md** — Hölzel 2011 is described as "densidade de massa cinzenta"; the abstract (VERIFIED.md) says "gray matter concentration". Translated as "gray matter density" to follow the Portuguese; the author may prefer "concentration" to match the source.
 - **10-o-que-a-ciencia-da-meditacao-mostra-e-o-que.md** — the definition of MBSR glosses the English acronym in Portuguese ("sigla em inglês de…"); the English edition just spells out the name. No problem, noted only because the gloss naturally disappears in English.
 - **11-atencao-na-respiracao.md** — the text says the practice, developed, leads to "conhecimento e libertação". In MN 118 (Sujato 15.4/43.1) it is the *seven awakening factors* that "fulfill knowledge and freedom", at the end of a chain (breath → four kinds of mindfulness meditation → awakening factors → knowledge and freedom). The compression is defensible but slightly loose; the English follows the Portuguese.
-- **11-atencao-na-respiracao.md** — the "Cuidados" section cites Britton et al. 2021 ("um estudo cuidadoso de participantes de terapia cognitiva baseada em mindfulness"), but Britton 2021 is not in the chapter's `sources:` front matter.
+- **11-atencao-na-respiracao.md** — **Resolved 2026-10-19 (consistency pass)** — Britton et al. 2021 added to `sources:` in both editions. Was: the "Cuidados" section cites Britton et al. 2021 ("um estudo cuidadoso de participantes de terapia cognitiva baseada em mindfulness"), but Britton 2021 is not in the chapter's `sources:` front matter.
 - **11-atencao-na-respiracao.md** — the Portuguese renders the MN 118 opening as "O praticante vai…"; quoting Sujato directly in English brings in his word "mendicant", which the beginner reader meets without a gloss (the contract forbids adding one). Same in chapter 12's MN 10 quotation. Worth a decision on whether a one-word gloss belongs in the Portuguese first.
-- **12-observar-sem-agarrar.md** — typo in the "O que a ciência diz" section: "A distinção é bem aceita, e o um dos maiores estudos longitudinais…" (stray "o").
-- **12-observar-sem-agarrar.md** — the ReSource synthesis quoted by title ("importa o que você pratica" = Singer & Engert 2019, "It matters what you practice") is not in the chapter's `sources:` front matter (which lists Schlosser 2019, a different paper).
+- **12-observar-sem-agarrar.md** — **Resolved 2026-10-11** (see "Already fixed"). Was: typo in the "O que a ciência diz" section: "A distinção é bem aceita, e o um dos maiores estudos longitudinais…" (stray "o").
+- **12-observar-sem-agarrar.md** — **Resolved 2026-10-19 (consistency pass)** — Singer & Engert 2019 added to `sources:` in both editions. Was: the ReSource synthesis quoted by title ("importa o que você pratica" = Singer & Engert 2019, "It matters what you practice") is not in the chapter's `sources:` front matter (which lists Schlosser 2019, a different paper).
 - **12-observar-sem-agarrar.md** — the Portuguese uses "sensações" for *vedanā* while Sujato's English (quoted in the same section) says "feeling". The English uses **feelings** for the *vedanā* sense throughout (list item 2, practice step 7, summary) so the gloss and the quotation agree; "sensations" is kept for the generic sense in the opening paragraph.
 - **12-observar-sem-agarrar.md** — the mind list says "com raiva ou sem"; Sujato's MN 10 (34.4) has "mind with hate". English uses "hate" to match the sutta the paragraph paraphrases; "concentrada" has no single matching Sujato term in 34.2–34.17 (closest: "immersed in samādhi"), kept as "concentrated".
 - **12-observar-sem-agarrar.md** — "Seu método é a rotulagem (em inglês, *noting*)": the parenthesis drops out in English, where the method's name simply is *noting*.
@@ -288,12 +363,12 @@ Add entries below as `- **chapter file** — what, and why it matters.`
 - **13-bondade-e-compaixao-como-treino.md** — The Sujato quotation "May all beings be happy!" carries an exclamation mark in the source; the Portuguese dropped it. The English keeps it (exact quotation), which is the only "!" in these chapters. Decide whether that is acceptable under the no-exclamation-marks voice rule.
 - **13-bondade-e-compaixao-como-treino.md** — The MN 7 block quote in Portuguese omits "all around" ("em toda parte, espalha…"); Sujato 13.1 has "everywhere, all around". The English quotes Sujato in full.
 - **13-bondade-e-compaixao-como-treino.md** — "pode ser difícil no início" is in quotation marks in Cautions as if quoting Galante 2014; the original is "Exposure to KBM may initially be challenging for some people." The English quotes the original ("may initially be challenging").
-- **14-o-corpo-o-sono-e-a-dor.md** — Black et al. 2015: "média de 66 anos"; the source says mean age 66.3. The English copies 66. If the no-rounding rule applies, it should be 66,3.
+- **14-o-corpo-o-sono-e-a-dor.md** — **Resolved 2026-10-19 (consistency pass)** — the plain-language pass removed the mean age from both editions. Was: Black et al. 2015: "média de 66 anos"; the source says mean age 66.3. The English copies 66. If the no-rounding rule applies, it should be 66,3.
 - **14-o-corpo-o-sono-e-a-dor.md** — The Rusch box ends "baixa, mas consistente com as diretrizes" for the "no advantage over specific treatment" claim. "Baixa" (the authors' GRADE-style "low strength of evidence") isn't one of the book's four labels, and the chapter's `evidence:` field states that claim without a label. Translated literally as "low".
-- **14-o-corpo-o-sono-e-a-dor.md** — The European guideline is described as first-line "em qualquer idade"; Riemann 2023 says "adults of any age". The English says "adults of any age", which is what the source says.
+- **14-o-corpo-o-sono-e-a-dor.md** — **Resolved 2026-10-19 (consistency pass)** — the Portuguese now says "para adultos de qualquer idade", as the source does. Was: The European guideline is described as first-line "em qualquer idade"; Riemann 2023 says "adults of any age". The English says "adults of any age", which is what the source says.
 - **15-quando-a-meditacao-da-errado.md** — The Lindahl table says it uses "os nomes que o próprio estudo usa" but shortens several categories against Table 4: "depressão ou luto" (study: Depression, dysphoria, or grief), "embotamento emocional" (Affective flattening or emotional detachment), "fadiga" (Fatigue or weakness), "alteração dos limites entre eu e mundo" (Changes in self-other or self-world boundaries), "hipersensibilidade a estímulos" (Perceptual hypersensitivity). The English uses the study's full names, because the sentence promises them. Either align the Portuguese or drop "com os nomes que o próprio estudo usa".
-- **15-quando-a-meditacao-da-errado.md** — The crisis resources are Brazil-only (CVV 188, SAMU 192, CAPS, UPA). Per the contract the English adds nothing, but an English-edition reader outside Brazil gets no crisis resource at all, in the chapter that most needs one. A neutral line ("outside Brazil, contact your local emergency number or crisis line") would be an authorial decision, made in the Portuguese first.
-- **16-uma-pratica-para-a-vida.md** — Galante 2023 is described as "programas de mindfulness em grupo, presenciais e conduzidos por instrutor"; the verified abstract says "Group-based teacher-led MBPs"; "presenciais" (in person) is not in the recorded text. Check the full paper before keeping it.
+- **15-quando-a-meditacao-da-errado.md** — (still open after the 2026-10-19 revision; see also "Already fixed" for the English line added) The crisis resources are Brazil-only (CVV 188, SAMU 192, CAPS, UPA). Per the contract the English adds nothing, but an English-edition reader outside Brazil gets no crisis resource at all, in the chapter that most needs one. A neutral line ("outside Brazil, contact your local emergency number or crisis line") would be an authorial decision, made in the Portuguese first.
+- **16-uma-pratica-para-a-vida.md** — **Resolved 2026-10-19 (consistency pass)** — "presenciais" / "in-person" dropped in chapters 10 and 16, both editions; the description now follows the abstract ("group-based teacher-led"). Was: Galante 2023 is described as "programas de mindfulness em grupo, presenciais e conduzidos por instrutor"; the verified abstract says "Group-based teacher-led MBPs"; "presenciais" (in person) is not in the recorded text. Check the full paper before keeping it.
 - **16-uma-pratica-para-a-vida.md** — The week-by-week table uses "Rotular" with the labels "pensando", "ouvindo", "planejando"; the English renders them as "Noting ('thinking,' 'hearing,' 'planning')". If the ch. 12 translator chose different English labels, align the table with ch. 12.
 
 ## Proposed fixed sentences
@@ -334,10 +409,9 @@ Nothing below was changed in the Portuguese.
   (BRITTON et al. 2021, *Clinical Psychological Science* v. 9, n. 6; FARIAS et al.
   2020, *Acta Psychiatrica Scandinavica* v. 142, n. 5; WOOLLETT & MAGUIRE 2011,
   *Current Biology* v. 21, n. 24). Copied as they are.
-- **book.yaml** — `kdp.description` is still `[[?autor]]` and `keywords: []`, so the
-  English description was drafted from the book (marked `# draft — for the author`),
-  not translated. When the Portuguese blurb is written, the English should be
-  redone from it.
+- **book.yaml** — the English description was drafted from the book before a
+  Portuguese one existed. Resolved 2026-10-19: the Portuguese blurb was written
+  to match it, so the English now stands as its translation.
 
 ### Fixed when the glossary was built (2026-10-11), both editions
 

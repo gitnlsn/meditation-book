@@ -37,10 +37,38 @@ labels:
   part: Parte
 
 kdp:
-  description: |
-    [[?autor: o texto do anúncio, depois do rascunho]]
-  keywords: []          # [[?autor: sete palavras-chave, quando o título estiver decidido]]
-  categories:           # [[?autor: confirmar as três categorias]]
+  description: |       # também a contracapa impressa, um parágrafo por bloco
+    A mente treinável é para quem parte do zero e quer entender a meditação
+    direito: de onde ela vem, o que ela faz e o que ela não faz.
+
+    O livro começa pelo budismo como os próprios textos o apresentam: as
+    Quatro Nobres Verdades, a impermanência e o não-eu, e o caminho do qual a
+    meditação é só uma parte. E mantém a tradição separada da versão de
+    autoajuda que costuma vir junto.
+
+    Depois passa à ciência: como ler um estudo, o que a neuroplasticidade
+    significa e o que não significa, a mente que divaga, o estresse, a
+    atenção, a emoção e o hábito. Cada resultado em que o livro se apoia leva
+    um rótulo com a força da evidência (forte, moderada, preliminar ou
+    contestada), e o livro aponta o exagero onde ele existe: amostras
+    pequenas, controles fracos, replicações que falharam, exames do cérebro
+    lidos com confiança demais.
+
+    A última parte ensina as práticas passo a passo: atenção na respiração,
+    observar sem agarrar, bondade e compaixão, o corpo. Um capítulo inteiro
+    trata do que acontece quando a meditação dá errado, dos efeitos adversos
+    documentados a quando parar e buscar ajuda.
+
+    A meditação não substitui tratamento, e este livro não finge o contrário.
+  keywords:             # as mesmas sete buscas da edição inglesa, em português
+    - meditação para iniciantes
+    - budismo explicado
+    - ciência da meditação
+    - neuroplasticidade
+    - mindfulness e pesquisa científica
+    - meditação baseada em evidências
+    - efeitos adversos da meditação
+  categories:
     - Corpo, Mente e Espírito > Meditação
     - Religião > Budismo
     - Ciência > Ciências da Vida > Neurociência
@@ -64,11 +92,11 @@ print:
   illustration_width: 0.74
 
 epub:
-  cover: cover.png
+  cover: cover.jpeg
   illustration_format: jpg
   illustration_max_px: 1400
 
-cover:                  # [[?autor: paleta]]; estes são neutros
-  bg: "#1f2328"
-  ink: "#f2efe9"
-  accent: "#c9a227"
+cover:                  # o creme do papel da arte de capa, tinta escura, ocre da folha
+  bg: "#f9edd5"
+  ink: "#2a2520"
+  accent: "#9a7434"

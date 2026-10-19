@@ -713,6 +713,22 @@ def build_cover(book_dir: Path, cfg: dict) -> Path:
 
     work = DIST / slug / "cover"
     work.mkdir(parents=True, exist_ok=True)
+
+    # The same master as the eBook cover, so the two covers carry one picture.
+    # The front panel plus its bleed is wider than the eBook shape, so the art
+    # is widened to the panel by mirroring its outer strips of paper: a flat
+    # fill beside it would show a seam where the paper's grain and shading stop.
+    master = book_dir / "illustrations" / "masters" / str(cfg.get("epub", {}).get("cover", "cover.png"))
+    art = None
+    if master.exists():
+        panel_w = float(str(trim[0]).removesuffix("in")) + 0.125
+        panel_h = float(str(trim[1]).removesuffix("in")) + 0.25
+        art = work / "front-art.png"
+        run(["magick", str(master), "-virtual-pixel", "mirror",
+             "-set", "option:distort:viewport",
+             "%[fx:round(h*" + f"{panel_w / panel_h:.6f}" + ")]x%h-%[fx:round((h*"
+             + f"{panel_w / panel_h:.6f}" + "-w)/2)]+0",
+             "-distort", "SRT", "0", "+repage", str(art)])
     shutil.copy(SHARED / "print" / "cover.typ", work / "cover.typ")
     series = cfg.get("series") or {}
     src = "\n".join([
@@ -728,6 +744,8 @@ def build_cover(book_dir: Path, cfg: dict) -> Path:
         f"  pages: {pages},",
         f"  guides: {str(bool(cfg.get('cover_guides', True))).lower()},",
         *cover_colours(cfg),
+        *([f'  art: image("/{art.relative_to(ROOT).as_posix()}", width: 100%, height: 100%, fit: "cover"),']
+          if art else []),
         ")",
         "",
     ]) + "\n"

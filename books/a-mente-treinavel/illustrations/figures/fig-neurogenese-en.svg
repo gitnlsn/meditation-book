@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1404" height="1202" viewBox="0 0 520 445" font-family="Arial, Helvetica, sans-serif" fill="#1a1a1a">
+<rect x="0" y="0" width="520" height="445" fill="#ffffff"/>
+<path d="M 82,26 L 82,388" fill="none" stroke="#8a8a8a" stroke-width="2"/>
+<circle cx="82" cy="26" r="5.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.8"/>
+<text x="20" y="31" font-size="16" font-weight="bold">2018</text>
+<text x="104" y="31" font-size="16" font-weight="bold">Two studies, opposite answers</text>
+<text x="104" y="50" font-size="15">One finds no young neurons in the adult hippocampus.</text>
+<text x="104" y="69" font-size="15">The other finds thousands, at every age.</text>
+<circle cx="82" cy="107" r="5.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.8"/>
+<text x="20" y="112" font-size="16" font-weight="bold">2019</text>
+<text x="104" y="112" font-size="16" font-weight="bold">Better-preserved tissue</text>
+<text x="104" y="131" font-size="15">Thousands of immature neurons in healthy people,</text>
+<text x="104" y="150" font-size="15">into their 80s.</text>
+<circle cx="82" cy="188" r="5.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.8"/>
+<text x="20" y="193" font-size="16" font-weight="bold">2021</text>
+<text x="104" y="193" font-size="16" font-weight="bold">The objection</text>
+<text x="104" y="212" font-size="15">The marker used also shows up in mature neurons.</text>
+<text x="104" y="231" font-size="15">Proof requested: find the cells that give rise to</text>
+<text x="104" y="250" font-size="15">neurons at the moment they divide.</text>
+<circle cx="82" cy="288" r="5.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.8"/>
+<text x="20" y="293" font-size="16" font-weight="bold">2022</text>
+<text x="104" y="293" font-size="16" font-weight="bold">Reading each cell's genes</text>
+<text x="104" y="312" font-size="15">One study: clear signs in mice, pigs and macaques,</text>
+<text x="104" y="331" font-size="15">but not in humans. Another: those cells, rare,</text>
+<text x="104" y="350" font-size="15">in adults.</text>
+<circle cx="82" cy="388" r="5.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.8"/>
+<text x="20" y="393" font-size="16" font-weight="bold">2025</text>
+<text x="104" y="393" font-size="16" font-weight="bold">The proof requested</text>
+<text x="104" y="412" font-size="15">Those cells, in the act of dividing, in the</text>
+<text x="104" y="431" font-size="15">hippocampus of adults.</text>
+</svg>

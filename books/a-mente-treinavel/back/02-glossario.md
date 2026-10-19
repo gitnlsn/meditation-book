@@ -1,6 +1,6 @@
 ---
 title: Glossário
-status: draft
+status: final
 ---
 Os termos que o livro define, com o sentido em que o livro os usa e o
 capítulo onde cada um é explicado por inteiro. Os termos em páli vêm com a
@@ -79,10 +79,6 @@ grafia do texto e, antes de tudo, o que querem dizer.
 :   Estados que a tradição considera obstáculos à prática: desejo sensorial, má vontade, torpor e sonolência, agitação e remorso, e dúvida. O *Satipaṭṭhāna Sutta* os inclui entre o que o praticante observa.\
     → capítulos {{cap:o-caminho-e-onde-a-meditacao-entra-nele}} e {{cap:observar-sem-agarrar}}
 
-**cognição perseverativa, hipótese da**
-:   Proposta de Brosschot, Gerin e Thayer (2006): preocupação e ruminação prolongam a ativação do corpo antes e depois de um evento estressante. Os próprios autores chamam o apoio de preliminar, porque boa parte dos dados é correlacional.\
-    → capítulo {{cap:estresse-o-alarme-que-nao-desliga}}
-
 **compaixão**
 :   No sentido que a pesquisa usa, um sentimento de cuidado diante do sofrimento do outro, acompanhado da motivação de ajudar. Não exige sentir a mesma dor, e inclui calor, não só aflição.\
     → capítulo {{cap:bondade-e-compaixao-como-treino}}
@@ -97,6 +93,10 @@ grafia do texto e, antes de tudo, o que querem dizer.
 
 **controle ativo**
 :   Grupo controle que faz outra atividade com a mesma duração, o mesmo formato e o mesmo calor humano, mas sem o ingrediente que se quer testar. Mesmo ele só neutraliza o placebo se os dois grupos esperarem melhorar na mesma medida.\
+    → capítulo {{cap:como-saber-se-algo-funciona}}
+
+**correlação**
+:   Duas coisas que andam juntas. Correlação não é causa: quem passa anos meditando pode ter sido diferente desde o começo, assim como quem frequenta academia pode já ser mais saudável antes da primeira aula.\
     → capítulo {{cap:como-saber-se-algo-funciona}}
 
 **córtex**
@@ -122,7 +122,7 @@ grafia do texto e, antes de tudo, o que querem dizer.
     → capítulo {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}}
 
 **divagação mental**
-:   Quando a atenção sai do que você está fazendo e vai para pensamentos e sentimentos sem relação com a tarefa, em geral sem que você perceba. Ocupou quase metade dos momentos amostrados no dia a dia, e tem custos (erros) e benefícios (planejamento, criatividade).\
+:   Quando a atenção sai do que você está fazendo e vai para pensamentos e sentimentos sem relação com a tarefa, em geral sem que você perceba. Ocupa entre um terço e metade dos momentos acordados, e tem custos (erros) e benefícios (planejamento, criatividade).\
     → capítulo {{cap:a-mente-que-divaga}}
 
 **dor crônica**
@@ -155,9 +155,17 @@ grafia do texto e, antes de tudo, o que querem dizer.
 :   A capacidade de deixar uma experiência estar presente sem puxá-la nem empurrá-la. Não é indiferença: a pessoa equânime percebe com nitidez, mas não acrescenta a segunda flecha.\
     → capítulo {{cap:observar-sem-agarrar}}
 
+**erro de previsão**
+:   A diferença entre a recompensa esperada e a recebida. Nos anos 1990, neurônios de dopamina em primatas pareceram sinalizar esse erro, e não a recompensa em si. Um estudo de 2022 com animais contestou essa leitura.\
+    → capítulo {{cap:atencao-emocao-e-habito}}
+
 **escaneamento corporal**
 :   Em inglês, *body scan*: prática em que a atenção percorre o corpo devagar, parte por parte, notando o que está lá sem tentar mudar nada. Vem do MBSR, que adaptou contemplações do corpo presentes na tradição para um objetivo clínico.\
     → capítulo {{cap:o-corpo-o-sono-e-a-dor}}
+
+**estatisticamente significativo**
+:   Diz-se de um resultado que seria improvável se não houvesse efeito nenhum, como uma moeda que dá cara muitas vezes seguidas. Não quer dizer que o efeito seja grande nem importante; quer dizer só que dificilmente é puro acaso.\
+    → capítulo {{cap:como-saber-se-algo-funciona}}
 
 **excepcionalismo budista**
 :   Nome dado pelo filósofo Evan Thompson à crença de que o budismo é superior às outras religiões por ser inerentemente racional e empírico, ou de que nem é uma religião, e sim uma "ciência da mente" ou uma terapia.\
@@ -190,7 +198,7 @@ grafia do texto e, antes de tudo, o que querem dizer.
     → capítulo {{cap:atencao-emocao-e-habito}}
 
 **hipocampo**
-:   Estrutura curva, uma em cada lado do cérebro, na parte interna dos lobos temporais. É essencial para formar memórias novas e para a navegação no espaço, e é a região dos estudos com os taxistas de Londres.\
+:   Estrutura curva, uma de cada lado do cérebro, na parte interna, atrás das têmporas. É essencial para formar memórias novas e para se orientar no espaço, e é a região dos estudos com os taxistas de Londres.\
     → capítulo {{cap:neuroplasticidade-sem-exagero}}
 
 ## I
@@ -220,7 +228,7 @@ grafia do texto e, antes de tudo, o que querem dizer.
 ## L
 
 **lista de espera**
-:   O controle mais fraco, e o mais comum na pesquisa sobre meditação: o grupo controle não faz nada durante o estudo e recebe o curso depois. Elimina a explicação "o tempo passou", mas não a expectativa, o grupo acolhedor nem o instrutor atento.\
+:   O controle mais comum na pesquisa sobre meditação, e o mais fraco: o grupo controle não faz nada durante o estudo e recebe o curso depois. Não elimina a expectativa nem o contexto, e ainda infla o resultado, porque quem espera tende a melhorar menos do que melhoraria sendo atendido normalmente.\
     → capítulo {{cap:como-saber-se-algo-funciona}}
 
 ## M
@@ -234,7 +242,7 @@ grafia do texto e, antes de tudo, o que querem dizer.
     → capítulo {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}}
 
 **massa cinzenta**
-:   O tecido onde ficam os corpos dos neurônios e grande parte das sinapses, diferente da massa branca, feita dos longos prolongamentos que ligam regiões distantes. Quando um estudo diz que ela "aumentou", quer dizer que o programa de análise estimou um pouco mais desse tecido numa região.\
+:   O tecido onde ficam os corpos dos neurônios e grande parte das sinapses. Quando um estudo diz que ela "aumentou", quer dizer que o programa de análise estimou um pouco mais desse tecido numa região.\
     → capítulo {{cap:neuroplasticidade-sem-exagero}}
 
 **MBCT**
@@ -244,6 +252,10 @@ grafia do texto e, antes de tudo, o que querem dizer.
 **MBSR**
 :   *Mindfulness-Based Stress Reduction*, "redução do estresse baseada em mindfulness": curso em grupo, hoje de oito semanas, criado por Jon Kabat-Zinn para pacientes com dor crônica. É uma adaptação laica de práticas budistas, tirada de propósito de seu contexto religioso.\
     → capítulo {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}
+
+**meditação simulada**
+:   Controle apresentado como meditação, que gera a mesma expectativa, mas sem a instrução que se quer testar: o comprimido de açúcar da meditação. Se a meditação de verdade supera a simulada, o efeito não é só expectativa.\
+    → capítulo {{cap:como-saber-se-algo-funciona}}
 
 **meta-análise**
 :   Um estudo de estudos: reúne todas as pesquisas sobre uma pergunta, segundo regras definidas antes, e combina os resultados num número só. Pesa mais do que qualquer estudo isolado, mas herda as fraquezas dos estudos que reúne.\
@@ -329,6 +341,18 @@ grafia do texto e, antes de tudo, o que querem dizer.
 :   Na medicina, um tratamento sem princípio ativo que produz melhora real porque a pessoa espera melhorar. Por extensão, toda a parte do benefício que vem da expectativa e do contexto, e não do ingrediente testado.\
     → capítulo {{cap:como-saber-se-algo-funciona}}
 
+**postura**
+:   O modo de sentar. Na tradição, tem uma função: manter o corpo estável e desperto, sem esforço. O sutta fala de pernas cruzadas e corpo ereto, mas uma cadeira serve igualmente.\
+    → capítulo {{cap:atencao-na-respiracao}}
+
+**pré-registro**
+:   Publicar o plano do estudo antes de colher os dados: quantas pessoas, que controle, qual o desfecho principal, como será a análise. Depois, não dá para trocar de aposta nem esconder o estudo que não deu certo.\
+    → capítulo {{cap:como-saber-se-algo-funciona}}
+
+**pressão arterial**
+:   A força do sangue contra a parede das artérias, medida em milímetros de mercúrio (mmHg) por dois números: a sistólica, quando o coração se contrai, e a diastólica, entre um batimento e outro. Pressão alta é um dos principais fatores de risco para doença cardiovascular.\
+    → capítulo {{cap:o-corpo-o-sono-e-a-dor}}
+
 **professor**
 :   Qualquer pessoa com formação e experiência que acompanha a prática: um instrutor certificado de MBSR ou MBCT, um professor autorizado dentro de uma tradição budista, um psicólogo com formação em intervenções baseadas em mindfulness.\
     → capítulo {{cap:uma-pratica-para-a-vida}}
@@ -369,6 +393,13 @@ grafia do texto e, antes de tudo, o que querem dizer.
 :   Período afastado da rotina dedicado à prática, de uma manhã a várias semanas. O **retiro intensivo** dura vários dias, às vezes semanas ou meses, quase só de prática formal, muitas horas por dia e em geral em silêncio; ter feito retiro está associado a mais experiências desagradáveis.\
     → capítulos {{cap:quando-a-meditacao-da-errado}} e {{cap:uma-pratica-para-a-vida}}
 
+**retiro intensivo**
+:   Ver **retiro**.
+
+**retratação**
+:   Quando uma revista retira um artigo já publicado, com uma nota que diz por quê. O livro conta o caso de uma meta-análise de 2023 sobre mindfulness e estrutura do cérebro, retratada em 2025 por ter deixado de fora estudos que não acharam efeito.\
+    → capítulo {{cap:neuroplasticidade-sem-exagero}}
+
 **rotulagem**
 :   Em inglês, *noting*: método sistematizado pelo monge Mahasi Sayadaw no século XX, que consiste em nomear em silêncio, com uma palavra simples, o que está acontecendo no momento em que acontece. O rótulo é um apoio; conhecer o objeto importa mais que o nome.\
     → capítulo {{cap:observar-sem-agarrar}}
@@ -384,7 +415,7 @@ grafia do texto e, antes de tudo, o que querem dizer.
     → capítulo {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
 
 **samatha**
-:   Calma, serenidade: o desenvolvimento da estabilidade da mente, associado nos textos aos estados de absorção meditativa (*jhāna*). Nos suttas, é complementar à *vipassanā*.\
+:   Calma, serenidade: o desenvolvimento da estabilidade da mente, associado nos textos aos estados de absorção descritos na concentração correta. Nos suttas, é complementar à *vipassanā*.\
     → capítulo {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
 
 **Sangha**
@@ -392,7 +423,7 @@ grafia do texto e, antes de tudo, o que querem dizer.
     → capítulos {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}} e {{cap:uma-pratica-para-a-vida}}
 
 **sati**
-:   Termo páli aparentado ao verbo *sarati*, "lembrar": a qualidade que mantém algo à vista na mente. Nos textos, envolve discernir o valor moral do que aparece; em inglês, foi traduzido por *mindfulness*.\
+:   Termo páli aparentado ao verbo "lembrar": a qualidade que mantém algo à vista na mente. Nos textos, envolve discernir o valor moral do que aparece; em inglês, foi traduzido por *mindfulness*.\
     → capítulo {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
 
 **satipaṭṭhāna**
@@ -422,19 +453,27 @@ grafia do texto e, antes de tudo, o que querem dizer.
 ## T
 
 **tamanho de efeito**
-:   Quão grande é a diferença entre os grupos, e não apenas se ela existe. O mais comum, *d*, mede essa diferença comparada com o quanto as pessoas já diferem umas das outras: com *d* = 0,35, quem praticou leva vantagem em cerca de 60 de cada 100 sorteios.\
+:   Quão grande é a diferença entre os grupos, e não apenas se ela existe. O mais comum, *d* (ou a variante *g*), compara essa diferença com o quanto as pessoas já variam. O livro o traduz em palavras: indistinguível de 0, nenhum efeito detectável; cerca de 0,2, pequeno; cerca de 0,5, moderado; 0,8 ou mais, grande. Um valor entre duas faixas leva as duas palavras: 0,35 é "pequeno a moderado".\
     → capítulo {{cap:como-saber-se-algo-funciona}}
 
 **taṇhā**
 :   "Sede": a urgência de que a experiência seja diferente agora, não o simples querer. O texto a descreve em três formas — sede de prazeres dos sentidos, de continuar existindo e de não existir — e a aponta como a causa de dukkha.\
     → capítulo {{cap:as-quatro-nobres-verdades-como-diagnostico}}
 
+**TCC**
+:   Terapia cognitivo-comportamental: a psicoterapia que treina a pessoa a identificar e mudar os pensamentos e comportamentos que mantêm um problema. É recomendada como tratamento de primeira escolha para depressão.\
+    → capítulo {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}
+
 **TCC-I**
 :   Terapia cognitivo-comportamental para insônia: um tratamento estruturado de algumas semanas que trabalha os hábitos e as crenças que mantêm a insônia. É o tratamento de primeira escolha para a insônia crônica em adultos.\
     → capítulo {{cap:o-corpo-o-sono-e-a-dor}}
 
+**telômeros**
+:   As pontas protetoras dos cromossomos. Seu encurtamento acompanha o envelhecimento das células e foi associado a estresse crônico. Num teste direto, um ensaio de 18 meses, a meditação não os protegeu.\
+    → capítulo {{cap:estresse-o-alarme-que-nao-desliga}}
+
 **teoria polivagal**
-:   Teoria de Stephen Porges segundo a qual o nervo vago tem um ramo "ventral", ligado à segurança e à conexão social, e um "dorsal", ligado a paralisia e desligamento. É popular, mas suas premissas fisiológicas são rejeitadas pela maioria dos especialistas.\
+:   Teoria de Stephen Porges segundo a qual o nervo vago tem um ramo "ventral", ligado à segurança e à conexão social, e um "dorsal", ligado a paralisia e desligamento. É popular, mas suas premissas fisiológicas são rejeitadas por um grupo amplo de especialistas no sistema nervoso autônomo.\
     → capítulo {{cap:estresse-o-alarme-que-nao-desliga}}
 
 **Theravāda**
@@ -458,12 +497,16 @@ grafia do texto e, antes de tudo, o que querem dizer.
 ## V
 
 **vacuidade**
-:   A afirmação de que nada tem uma natureza própria e independente (*svabhāva*). No Mahāyāna, a escola Madhyamaka estendeu o argumento do não-eu a todas as coisas; é a leitura de uma escola, não de todo o budismo.\
+:   A afirmação de que nada tem uma natureza própria e independente. No Mahāyāna, a escola Madhyamaka estendeu o argumento do não-eu a todas as coisas; é a leitura de uma escola, não de todo o budismo.\
     → capítulos {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}} e {{cap:impermanencia-e-nao-eu}}
 
 **Vajrayāna**
 :   O ramo do budismo concentrado no Tibete e nas regiões vizinhas, por isso também chamado de budismo tibetano. Alguns estudiosos o contam como parte do Mahāyāna, e não como um terceiro ramo.\
     → capítulo {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}}
+
+**variabilidade da frequência cardíaca**
+:   A variação natural do intervalo entre um batimento do coração e o seguinte. É usada como marcador do funcionamento do sistema nervoso autônomo e está associada à saúde física e mental. Não há efeito demonstrado da meditação sobre ela.\
+    → capítulo {{cap:estresse-o-alarme-que-nao-desliga}}
 
 **vedanā**
 :   O tom de cada experiência: agradável, desagradável ou neutro. Não é emoção; é a camada mais rápida da reação, anterior a gostar ou não gostar com palavras. É o segundo dos cinco agregados e a segunda das quatro bases da atenção.\

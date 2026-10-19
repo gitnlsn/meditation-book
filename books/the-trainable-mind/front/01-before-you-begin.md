@@ -2,7 +2,8 @@
 title: Before You Begin
 toc: false
 source: a-mente-treinavel/front/01-antes-de-comecar.md
-status: draft
+status: final
+source_sha: 315c7d302071
 ---
 Íris Gradim is an artificial intelligence system. The sentences in this book
 were written by her, one by one.
@@ -10,12 +11,12 @@ were written by her, one by one.
 There was one person in the whole of the work, and that person is also the
 reader this book was written for: someone who wanted to learn meditation,
 Buddhism and neuroscience from zero, and to understand why these practices
-would do any good — not just to hear that they do. That person chose the
-subject, the order (the foundations before the practice), the length, and a
-demand that runs through every page: that every argument be true and every
-source real. That person also chose the voice, saying they preferred the way
-an artificial intelligence explains things to the way books are usually
-written, and asked for this one to be written that way.
+would do any good, not just to hear that they do. That person chose the
+subject, the order (the foundations before the practice) and the length.
+They also made a demand that runs through every page: that every argument be
+true and every source real. And they chose the voice. They said they
+preferred the way an artificial intelligence explains things to the way
+books are usually written, and asked for this one to be written that way.
 
 This is said here at the entrance because the whole book asks the reader to
 ask where each claim comes from. It would be strange not to answer for its own

@@ -18,13 +18,14 @@ caveats: dukkha não é só "sofrimento"; a analogia médica é antiga, mas é a
 practice: notar a segunda flecha num incômodo pequeno do dia
 sources: Dhammacakkappavattana Sutta (SN 56.11); Sallatha Sutta (SN 36.6); Anālayo
   2011; Rainville et al. 1997
-status: draft
+status: final
 ---
 Este capítulo explica o ensinamento central do budismo, as Quatro Nobres
-Verdades, e mostra que ele tem a estrutura de um diagnóstico: um problema, a
-causa do problema, a afirmação de que ele pode acabar e um tratamento. Depois
-apresenta uma imagem que o próprio Buda usou, a da segunda flecha, porque ela
-é a ponte mais direta entre o que o budismo diz e o que a neurociência mede.
+Verdades. Ele mostra que esse ensinamento tem a estrutura de um diagnóstico:
+um problema, a causa do problema, a afirmação de que ele pode acabar e um
+tratamento. Depois apresenta uma imagem que o próprio Buda usou, a da segunda
+flecha. Ela é a ponte mais direta entre o que o budismo diz e o que a
+neurociência mede.
 Ao fim, você deve conseguir dizer em suas palavras qual problema o budismo
 afirma resolver, e por que a solução proposta não é "pensar positivo".
 
@@ -72,8 +73,8 @@ porque ninguém precisa de um Buda para saber que doença dói.
 O próprio texto mostra que o sentido é mais largo. A lista inclui "não
 conseguir o que se deseja" e termina com uma frase técnica: "em resumo, os
 cinco agregados de apego são dukkha". Os cinco agregados são a análise budista
-do que compõe uma pessoa — forma (o corpo), sensação, percepção, formações e
-consciência — e o capítulo {{cap:impermanencia-e-nao-eu}} trata deles. O que
+do que compõe uma pessoa: forma (o corpo), sensação, percepção, formações e
+consciência. O capítulo {{cap:impermanencia-e-nao-eu}} trata deles. O que
 importa aqui é a consequência: dukkha inclui as experiências *agradáveis*,
 porque elas também mudam, acabam, e nós nos agarramos a elas.
 
@@ -95,30 +96,31 @@ almoçar não é taṇhā no sentido técnico; precisar que o almoço seja
 exatamente como você imaginou, e sofrer porque não foi, é.
 
 Essa distinção vai voltar no capítulo {{cap:atencao-emocao-e-habito}},
-quando o livro falar de recompensa e hábito. Por enquanto, basta notar que o budismo não localiza a causa do
-sofrimento no mundo lá fora, e sim numa resposta interna ao mundo.
+quando o livro falar de recompensa e hábito. Por enquanto, basta notar que o
+budismo não localiza a causa do sofrimento no mundo lá fora, e sim numa
+resposta interna ao mundo.
 
 ### Nirodha e nirvana: cessação, não anestesia
 
 **Nirodha** é "cessação". A terceira verdade afirma que, se a sede acabar, o
 dukkha que ela produz acaba também. O estado em que isso se completa é
-chamado **nirvana** (em páli, *nibbāna*), uma palavra cuja raiz se associa à
-imagem de uma chama que se apaga por falta de combustível.
+chamado **nirvana** (em páli, *nibbāna*). A raiz da palavra se associa à imagem de
+uma chama que se apaga por falta de combustível.
 
 Nirvana não é um paraíso nem um estado de êxtase permanente, e as escolas
-budistas discordam sobre como descrevê-lo. Para o propósito deste livro, a
-leitura mínima é suficiente: existe, segundo a tradição, um modo de viver em
-que as experiências continuam acontecendo — inclusive as dolorosas — sem que
-a mente as agarre ou as empurre.
+budistas discordam sobre como descrevê-lo. Para o propósito deste livro, basta a
+leitura mínima. Existe, segundo a tradição, um modo de viver em que as
+experiências continuam acontecendo, inclusive as dolorosas, sem que a mente as
+agarre ou as empurre.
 
 ### Magga: o caminho é prático
 
 **Magga** é "caminho". A quarta verdade não diz "acredite"; diz "faça". O
 Nobre Caminho Óctuplo tem oito elementos: visão correta, intenção correta,
 fala correta, ação correta, modo de vida correto, esforço correto, atenção
-correta e concentração correta. Só os dois últimos — e, em parte, o
-esforço — correspondem ao que hoje chamamos de meditação. O capítulo {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
-explica por que isso importa.
+correta e concentração correta. Só os dois últimos (e, em parte, o
+esforço) correspondem ao que hoje chamamos de meditação. O capítulo
+{{cap:o-caminho-e-onde-a-meditacao-entra-nele}} explica por que isso importa.
 
 ## A estrutura de diagnóstico
 
@@ -132,30 +134,35 @@ o raciocínio de um médico:
 | A doença pode ser curada | dukkha pode cessar (nirodha) |
 | Este é o tratamento | O tratamento é o caminho (magga) |
 
-A comparação não é invenção moderna. Um discurso preservado na tradução
-chinesa de uma coleção antiga (o *Saṃyukta-āgama*, número 389) diz que um
-grande médico domina quatro habilidades — conhecer a doença, a origem da
-doença, a cura e a forma de impedir que a doença volte — e que o Buda é um
-médico desse tipo, para o sofrimento. A mesma correspondência aparece em dois
-manuais de meditação clássicos, o *Vimuttimagga* e o *Visuddhimagga*. No
-cânone páli, o discurso equivalente não existe, mas o Buda é chamado de
-médico com frequência.
+A comparação não é invenção moderna. Um discurso antigo, preservado numa
+tradução chinesa (*Saṃyukta-āgama* 389), diz que um grande médico domina
+quatro habilidades:
+
+- conhecer a doença;
+- conhecer a origem da doença;
+- conhecer a cura;
+- saber impedir que a doença volte.
+
+O Buda, diz o texto, é um médico desse tipo, para o sofrimento. A mesma
+correspondência aparece em dois manuais clássicos de meditação. No cânone
+páli, o discurso equivalente não existe, mas o Buda é chamado de médico com
+frequência.
 
 Há uma pergunta histórica interessante aqui, e ela está em aberto. Alguns
 estudiosos supuseram que o Buda tomou emprestado um esquema de diagnóstico
 que já existia na medicina indiana. O problema é que **não há registro de um
-esquema médico em quatro partes anterior ao budismo**, como mostraram Har
-Dayal, Filliozat e, em detalhe, Albrecht Wezler (1984). O monge e estudioso
-Bhikkhu Anālayo (2011) argumenta que o discurso parece supor que a plateia
-já conhecia esse modo de raciocinar — talvez como prática popular, não como
-teoria escrita. Nenhuma das duas posições pode ser provada com o que
+esquema médico em quatro partes anterior ao budismo**; os estudiosos que o
+procuraram não o encontraram. O monge e estudioso Bhikkhu Anālayo (2011) vê
+outra possibilidade. Para ele, o discurso parece supor que a plateia já
+conhecia esse modo de raciocinar, talvez como prática popular, não como teoria
+escrita. Nenhuma das duas posições pode ser provada com o que
 sobreviveu.
 
 Para você, leitor que começa, a conclusão útil não depende dessa disputa. O
 esquema mostra **que tipo de ensinamento é este**. Não é uma explicação de
 como o universo surgiu, nem uma revelação a ser aceita por fé. É uma análise
-do sofrimento humano com uma proposta de tratamento, feita num ambiente cheio
-de filósofos que debatiam metafísica — e é justamente essa escolha pela
+do sofrimento humano com uma proposta de tratamento. Foi feita num ambiente
+cheio de filósofos que debatiam metafísica. E é justamente essa escolha pela
 análise prática que torna o budismo comparável, em parte, à psicologia e à
 neurociência.
 
@@ -165,8 +172,9 @@ primeira verdade começa por "nascer é sofrimento". O budismo tradicional
 assume renascimento, e o objetivo final do caminho inclui sair do ciclo de
 renascimentos. As leituras ocidentais modernas, inclusive esta, costumam
 deixar isso de lado e ficar com a parte psicológica. Isso é legítimo como
-uso, mas não é o que o texto diz, e o capítulo {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}}
-explica de onde vem essa versão "laica".
+uso, mas não é o que o texto diz. O capítulo
+{{cap:quem-foi-o-buda-e-quem-ele-nao-foi}} explica de onde vem essa versão
+"laica".
 
 ## A segunda flecha
 
@@ -189,12 +197,14 @@ física continua lá. O que não vem é a camada de resistência, aflição e
 lamento que a pessoa acrescenta por cima.
 
 O sutta diz mais uma coisa, e ela é a parte mais fina do argumento. Quando a
-pessoa comum é atingida pela dor, ela **resiste** a ela, e a seguir **procura
+pessoa comum é atingida pela dor, ela **resiste** a ela. A seguir, **procura
 prazer sensorial** como saída, "porque não conhece outra saída para a dor
-além do prazer dos sentidos". As duas reações — empurrar a dor e correr para
-o prazer — correspondem a duas das três formas de taṇhā que a segunda
-verdade descreveu: a sede de prazeres dos sentidos e a sede de que algo
-deixe de existir. A segunda flecha é taṇhā em ação.
+além do prazer dos sentidos".
+
+As duas reações, empurrar a dor e correr para o prazer, correspondem a duas
+das três formas de taṇhā que a segunda verdade descreveu. Uma é a sede de
+prazeres dos sentidos. A outra é a sede de que algo deixe de existir. A
+segunda flecha é taṇhā em ação.
 
 Note o que o texto *não* diz. Não diz que o praticante não sente dor, nem
 que ele deveria fingir que não sente. A primeira flecha é inevitável: corpo
@@ -216,20 +226,21 @@ dolorosa:
 Parecem a mesma coisa, mas podem ser separadas em laboratório.
 
 ::: {.relatorio}
-**O estudo.** Rainville e colegas, publicado na *Science* em 1997. Participantes hipnotizados receberam estímulos dolorosos
-de calor enquanto o cérebro era examinado. As sugestões hipnóticas pediam que o *desagrado* da dor
+**O estudo.** Rainville e colegas, publicado na *Science* em 1997.
+Participantes hipnotizados receberam estímulos dolorosos de calor enquanto o
+cérebro era examinado. As sugestões hipnóticas pediam que o *desagrado* da dor
 aumentasse ou diminuísse, sem mudar a intensidade.
 
 **O que encontrou.** Os participantes relataram mudanças no desagrado sem
-mudança na intensidade percebida. Num exame de imagem (tomografia por emissão
-de pósitrons), a atividade de uma região chamada córtex cingulado anterior
-acompanhou o desagrado; a do córtex somatossensorial primário, a região que
-mapeia as sensações do corpo, não mudou.
+mudança na intensidade percebida. No exame de imagem (tomografia por emissão
+de pósitrons), uma região chamada córtex cingulado anterior acompanhou o
+desagrado. O córtex somatossensorial primário, a região que mapeia as
+sensações do corpo, não mudou.
 
 **Força da evidência:** moderada para a ideia geral de que intensidade e
-desagrado da dor são processados de forma parcialmente separada — a
+desagrado da dor são processados de forma parcialmente separada. Essa
 distinção é amplamente aceita na pesquisa de dor. O estudo em si é pequeno e
-antigo, e "esta região codifica o desagrado" é uma simplificação: o cingulado
+antigo. E "esta região codifica o desagrado" é uma simplificação: o cingulado
 anterior participa de muitas outras funções.
 :::
 
@@ -244,15 +255,14 @@ leitura é útil como imagem, mas tem limites que devem ser ditos:
 2. **O estudo usou hipnose, não meditação.** Ele mostra que a dimensão afetiva
    da dor pode mudar sem a sensorial mudar. Não mostra que a meditação produz
    esse efeito. Se produz, e quanto, é assunto do capítulo
-   {{cap:o-corpo-o-sono-e-a-dor}}, e a resposta curta é: há evidência, de
-   força moderada a preliminar e com efeitos menores do que se costuma
-   divulgar.
+   {{cap:o-corpo-o-sono-e-a-dor}}. A resposta curta: há evidência, de força
+   moderada a preliminar, e os efeitos são menores do que se costuma divulgar.
 3. **Não existe "o lugar do sofrimento" no cérebro.** Dizer que o budismo
    "descobriu o cingulado anterior" seria o tipo de exagero que este livro
    promete evitar.
 
-O que sobra, depois das ressalvas, é uma convergência real e modesta: a
-tradição afirma que a dor e a reação à dor são duas coisas, e a ciência
+O que sobra, depois das ressalvas, é uma convergência real e modesta. A
+tradição afirma que a dor e a reação à dor são duas coisas. A ciência
 encontrou razões independentes para tratá-las como duas coisas. A segunda
 afirmação não prova a primeira. Mas torna razoável levá-la a sério.
 
@@ -260,8 +270,8 @@ A mesma lógica vale fora da dor física. Um e-mail ríspido do chefe é a
 primeira flecha. As três horas seguintes ruminando o e-mail, ensaiando
 respostas e prevendo demissão são a segunda. O capítulo
 {{cap:estresse-o-alarme-que-nao-desliga}} mostra que o corpo responde a essa
-segunda flecha — a ameaça imaginada — com o mesmo sistema de alarme que usa
-para ameaças reais, e que é aí que ela cobra seu preço físico.
+segunda flecha, a ameaça imaginada, com o mesmo sistema de alarme que usa para
+ameaças reais. É aí que ela cobra seu preço físico.
 
 ## Por que isso não é "pensar positivo"
 
@@ -275,7 +285,7 @@ dê bom resultado sem passar a semana em agonia.
 
 **Segundo, a segunda flecha não se tira com uma decisão.** Não adianta dizer
 "não vou me afligir". O sutta descreve a diferença entre a pessoa comum e o
-praticante como fruto de treino: é por isso que existe uma quarta verdade, e
+praticante como fruto de treino. É por isso que existe uma quarta verdade, e
 ela é um caminho, não um conselho. Pensar positivo é substituir um pensamento
 por outro; o que a tradição propõe é mudar a relação com os pensamentos,
 inclusive os positivos.

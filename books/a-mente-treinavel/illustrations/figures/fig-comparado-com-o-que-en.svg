@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1404" height="1010" viewBox="0 0 520 374" font-family="Arial, Helvetica, sans-serif" fill="#1a1a1a">
+<defs>
+  <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a1a1a"/></marker>
+</defs>
+<rect x="0" y="0" width="520" height="374" fill="#ffffff"/>
+<text x="62" y="26" font-size="14" fill="#555555">Comparison</text>
+<text x="312" y="26" font-size="14" fill="#555555">What mindfulness showed</text>
+<rect x="50" y="40" width="212" height="100" rx="6" fill="#e3e3e3" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="300" y="40" width="210" height="100" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="62" y="66" font-size="16" font-weight="bold">Against nothing</text>
+<text x="62" y="87" font-size="15">waitlist or</text>
+<text x="62" y="105" font-size="15">no treatment</text>
+<text x="312" y="66" font-size="16" font-weight="bold">Helps</text>
+<text x="312" y="87" font-size="15">for most of the</text>
+<text x="312" y="105" font-size="15">problems studied</text>
+<path d="M 266,90.0 L 296,90.0" fill="none" stroke="#1a1a1a" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="50" y="152" width="212" height="100" rx="6" fill="#e3e3e3" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="300" y="152" width="210" height="100" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="62" y="178" font-size="16" font-weight="bold">Against another</text>
+<text x="62" y="198" font-size="16" font-weight="bold">activity</text>
+<text x="62" y="219" font-size="15">an active control</text>
+<text x="312" y="178" font-size="16" font-weight="bold">Smaller advantage</text>
+<text x="312" y="199" font-size="15">and less often clear</text>
+<path d="M 266,202.0 L 296,202.0" fill="none" stroke="#1a1a1a" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="50" y="264" width="212" height="100" rx="6" fill="#e3e3e3" stroke="#1a1a1a" stroke-width="1.2"/>
+<rect x="300" y="264" width="210" height="100" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="62" y="290" font-size="16" font-weight="bold">Against a proven</text>
+<text x="62" y="310" font-size="16" font-weight="bold">treatment</text>
+<text x="62" y="331" font-size="15">such as CBT or an</text>
+<text x="62" y="349" font-size="15">antidepressant</text>
+<text x="312" y="290" font-size="16" font-weight="bold">A tie</text>
+<text x="312" y="311" font-size="15">at the end of treatment,</text>
+<text x="312" y="329" font-size="15">for almost every</text>
+<text x="312" y="347" font-size="15">problem</text>
+<path d="M 266,314.0 L 296,314.0" fill="none" stroke="#1a1a1a" stroke-width="1.6" marker-end="url(#ah)"/>
+<path d="M 22,44 L 22,360" fill="none" stroke="#1a1a1a" stroke-width="2.2" marker-end="url(#ah)"/>
+<text x="0" y="0" font-size="15" font-weight="bold" text-anchor="middle" transform="translate(40 202.0) rotate(-90)">more demanding</text>
+</svg>

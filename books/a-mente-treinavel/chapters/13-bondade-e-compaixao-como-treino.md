@@ -23,18 +23,21 @@ sources: Karaṇīya Mettā Sutta (Snp 1.8, trad. Sujato); MN 7 (trad. Sujato); 
   IX (trad. Ñāṇamoli); Fredrickson et al. 2008; Zeng et al. 2015; Galante et al. 2014;
   Klimecki et al. 2013, 2014; Klimecki & Singer 2011; Singer & Engert 2019; Kreplin
   et al. 2018
-status: draft
+status: final
 ---
 Este capítulo trata de um tipo de meditação que não tem como alvo a atenção,
 e sim a disposição em relação aos outros: a bondade e a compaixão
-cultivadas de propósito. Ele estabelece três coisas. Primeiro, que a
-tradição budista trata essas qualidades como treináveis, com método e
-ordem. Segundo, que a ciência encontrou um efeito moderado delas sobre as
-emoções positivas — e um efeito bem menor, e mais frágil, sobre o
-comportamento. Terceiro, que sentir a dor do outro (empatia) e querer o bem
-de quem sofre (compaixão) não são a mesma coisa, e que confundir as duas
-desgasta. Esta última distinção tem um paralelo curioso num manual budista
-do século V.
+cultivadas de propósito. Ele estabelece três coisas:
+
+1. A tradição budista trata essas qualidades como treináveis, com método e
+   ordem.
+2. A ciência encontrou um efeito moderado delas sobre as emoções positivas.
+   O efeito sobre o comportamento é bem menor, e mais frágil.
+3. Sentir a dor do outro (empatia) e querer o bem de quem sofre (compaixão)
+   não são a mesma coisa, e confundir as duas desgasta.
+
+Esta última distinção tem um paralelo curioso num manual budista do século
+V.
 
 ## As quatro moradas
 
@@ -74,11 +77,15 @@ Nipāta* (1.8). Duas passagens:
 > assim também, para com todas as criaturas, desdobre um coração sem
 > limites.
 
-Um detalhe que a leitura moderna costuma pular: o poema começa dizendo que
-a prática serve para "realizar o estado de paz", pede antes uma vida ética
-— ser íntegro, aberto a conselhos, não fazer nada que os sábios censurem — e
-termina dizendo que quem a desenvolve "nunca mais volta a um útero", isto é,
-não renasce. Na tradição, mettā não é técnica de bem-estar. É parte de um
+Um detalhe que a leitura moderna costuma pular. O poema:
+
+- começa dizendo que a prática serve para "realizar o estado de paz";
+- pede antes uma vida ética: ser íntegro, aberto a conselhos, não fazer
+  nada que os sábios censurem;
+- termina dizendo que quem a desenvolve "nunca mais volta a um útero", isto
+  é, não renasce.
+
+Na tradição, mettā não é técnica de bem-estar. É parte de um
 caminho ético e religioso que inclui renascimento, como explicou
 {{cap:as-quatro-nobres-verdades-como-diagnostico}}.
 
@@ -117,16 +124,17 @@ Duas definições, no sentido que a pesquisa usa:
   calor, não só aflição.
 
 A diferença parece filosófica, mas tem consequência prática. Quem trabalha
-perto do sofrimento — enfermagem, medicina, assistência social, cuidado de
-um familiar doente — conhece o esgotamento que costuma ser chamado de
-"fadiga por compaixão". Olga Klimecki e Tania Singer, do Instituto Max
-Planck, propuseram em 2011 que o nome está errado. O que desgasta, segundo
-elas, não é a compaixão, e sim a empatia sem regulação: absorver a dor
-alheia como se fosse própria, até o ponto de recuar para se proteger. Daí
-o termo que elas propõem, que este livro adota como **fadiga por empatia**
-(literalmente, "fadiga por sofrimento empático"): o esgotamento de quem
-sente repetidamente a dor dos outros sem um modo de transformá-la em
-cuidado.
+perto do sofrimento conhece o esgotamento que costuma ser chamado de "fadiga
+por compaixão". Isso vale para enfermagem, medicina, assistência social ou o
+cuidado de um familiar doente.
+
+As pesquisadoras Olga Klimecki e Tania Singer propuseram em 2011 que o nome
+está errado. O que desgasta, segundo elas, não é a compaixão, e sim a
+empatia sem regulação: absorver a dor alheia como se fosse própria, até o
+ponto de recuar para se proteger. Daí o termo que elas propõem, que este
+livro adota como **fadiga por empatia** (literalmente, "fadiga por
+sofrimento empático"). É o esgotamento de quem sente repetidamente a dor dos
+outros sem um modo de transformá-la em cuidado.
 
 O experimento que mais sustenta essa ideia está no quadro abaixo.
 
@@ -156,10 +164,10 @@ Pesa ainda o fato de essa linha de pesquisa vir de poucos laboratórios.
 
 A convergência com o *Visuddhimagga* é real e modesta. O manual diz que a
 compaixão tem um inimigo próximo que se parece com ela e é feito de
-tristeza; o laboratório encontrou que treinar a ressonância com a dor
+tristeza. O laboratório encontrou que treinar a ressonância com a dor
 aumenta o sofrimento de quem treina, e que treinar o cuidado o reduz. As
-duas afirmações não são a mesma: Buddhaghosa fala de um estado mental
-descrito por introspecção e doutrina; Klimecki fala de afeto relatado e
+duas afirmações não são a mesma. Buddhaghosa fala de um estado mental
+descrito por introspecção e doutrina. Klimecki fala de afeto relatado e
 atividade cerebral num experimento. Uma não prova a outra. Mas apontam na
 mesma direção, a partir de métodos completamente diferentes.
 
@@ -194,81 +202,105 @@ Dez a quinze minutos.
    felizes", como no poema.
 7. **Termine** com alguns ciclos de respiração.
 
-Três observações. **As frases não precisam produzir sentimento.** A
-instrução é dirigir a intenção, não fabricar emoção; se não sentir nada, a
-prática foi feita. **O primeiro círculo é difícil para muita gente.** Se
-desejar o bem a si mesmo despertar tristeza ou autocrítica forte, comece
-pelo segundo círculo e volte a si mesmo depois — é uma adaptação comum, não
-a ordem do manual. **Querer o bem de alguém difícil não é concordar, nem
-perdoar, nem reatar.** É reconhecer que essa pessoa também quer ser feliz e
-não quer sofrer, e perceber o que acontece em você quando faz isso.
+Três observações:
+
+- **As frases não precisam produzir sentimento.** A instrução é dirigir a
+  intenção, não fabricar emoção. Se não sentir nada, a prática foi feita.
+- **O primeiro círculo é difícil para muita gente.** Desejar o bem a si
+  mesmo pode despertar tristeza ou autocrítica forte. Nesse caso, comece
+  pelo segundo círculo e volte a si mesmo depois. É uma adaptação comum, não
+  a ordem do manual.
+- **Querer o bem de alguém difícil não é concordar, nem perdoar, nem
+  reatar.** É reconhecer que essa pessoa também quer ser feliz e não quer
+  sofrer. E perceber o que acontece em você quando faz isso.
 
 ## O que a ciência diz
 
 Mudando de registro, para o que os experimentos mediram.
 
-**Afeto positivo: evidência moderada.** Uma meta-análise de 2015 reuniu 24
-estudos, com 1.759 participantes, sobre meditação de bondade amorosa e
-emoções positivas relatadas. Encontrou efeitos de tamanho médio sobre as
-emoções positivas do dia a dia, tanto em ensaios randomizados com lista de
-espera quanto em estudos sem sorteio, e efeitos menores nas intervenções
-centradas em compaixão do que nas centradas em bondade. Outra meta-análise,
-de 2014, com 22 ensaios, encontrou efeitos moderados sobre depressão
-relatada, compaixão e autocompaixão em comparação com controles passivos —
-mas resultados inconclusivos contra controles ativos, qualidade
-metodológica baixa a moderada e intervalos largos, por causa de estudos
-pequenos. Os autores registram também que a prática pode ser difícil no
-início para algumas pessoas.
+**Afeto positivo: evidência moderada.** A prática de bondade amorosa
+aumenta as emoções positivas que as pessoas relatam no dia a dia.
 
-O estudo mais citado da área é o de Barbara Fredrickson e colegas (2008):
-139 adultos que trabalhavam, metade sorteada para começar a praticar
-bondade amorosa. A prática aumentou as emoções positivas diárias, e esse
-aumento se associou a ganhos em recursos pessoais (propósito, apoio social,
-menos sintomas de doença) que predisseram mais satisfação com a vida e menos
-sintomas depressivos. A ressalva vem junto: o controle era lista de espera,
-os desfechos eram autorrelato, e a teoria mais ampla do programa de
-Fredrickson — em especial a ideia de uma "razão de positividade" ideal — foi
-criticada. Este livro cita o ensaio, não a teoria.
+Uma meta-análise de 2015 reuniu 24 estudos sobre o tema. O efeito foi
+moderado, tanto em ensaios randomizados com lista de espera quanto em
+estudos sem sorteio. Foi menor nas intervenções centradas em compaixão do
+que nas centradas em bondade.
+
+Outra meta-análise, de 2014, encontrou efeitos moderados sobre depressão
+relatada, compaixão e autocompaixão, em comparação com controles passivos.
+Mas a força desse resultado é limitada:
+
+- contra controles ativos, os resultados foram inconclusivos;
+- a qualidade dos estudos era de baixa a moderada;
+- os estudos eram pequenos, e por isso a margem de incerteza era larga.
+
+Os autores registram também que a prática pode ser difícil no início para
+algumas pessoas.
+
+O estudo mais citado da área é o de Barbara Fredrickson e colegas (2008).
+Adultos que trabalhavam foram sorteados: metade começou a praticar bondade
+amorosa. A prática aumentou as emoções positivas diárias. Esse aumento se
+associou a ganhos em recursos pessoais (propósito, apoio social, menos
+sintomas de doença). E esses ganhos predisseram mais satisfação com a vida e
+menos sintomas depressivos.
+A ressalva vem junto. O controle era lista de espera, e os desfechos eram
+autorrelato. E a teoria mais ampla do programa de Fredrickson foi
+criticada, em especial a ideia de uma "razão de positividade" ideal. Este
+livro cita o ensaio, não a teoria.
 
 **Empatia × compaixão: evidência preliminar.** É a linha descrita no quadro.
-O maior estudo que a estende é o ReSource Project, do Instituto Max Planck:
-nove meses de treino em três módulos — atenção ao presente e ao corpo,
-práticas socioemocionais como compaixão e bondade, e práticas de
-perspectiva sobre si e os outros. A síntese de Singer e Engert (2019) relata
-efeitos diferentes conforme o módulo, inclusive na resposta do cortisol a um
-teste de estresse social, que caiu depois dos módulos sociais e não depois
-do módulo de atenção (o resultado está no capítulo
-{{cap:estresse-o-alarme-que-nao-desliga}}). É o melhor argumento de que "meditação" não é uma
-intervenção só. Mas vem, de novo, de um único grupo de pesquisa.
+O maior estudo que a estende é o ReSource Project: nove meses de treino em
+três módulos.
+
+1. Atenção ao presente e ao corpo.
+2. Práticas socioemocionais, como compaixão e bondade.
+3. Práticas de perspectiva sobre si e os outros.
+
+Uma síntese de 2019 relata efeitos diferentes conforme o módulo. Um exemplo
+é a resposta do cortisol a um teste de estresse social. Ela caiu depois dos
+módulos sociais, e não depois do módulo de atenção (o resultado está no
+capítulo {{cap:estresse-o-alarme-que-nao-desliga}}). É o melhor argumento de
+que "meditação" não é uma intervenção só. Mas vem, de novo, de um único
+grupo de pesquisa.
 
 **Comportamento real: menor do que os questionários sugerem.** É aqui que a
-área mais exagera. Uma meta-análise de 2018, de Kreplin, Farias e Brazil,
-reuniu ensaios randomizados com adultos saudáveis (22 na revisão, 16 na
-meta-análise) sobre meditação e comportamento pró-social. Encontrou um
-aumento moderado no conjunto — mas só em compaixão e empatia, **não** em
-agressão, sensação de conexão ou preconceito. E o aumento de compaixão só
-apareceu em duas condições: quando o professor da meditação era coautor do
-estudo, e quando o grupo de comparação era passivo. Com controle ativo, ou
-sem o professor entre os autores, o efeito sumiu. Os próprios autores
-concluem que os efeitos pró-sociais dependem do tipo de comportamento e da
-qualidade do estudo.
+área mais exagera.
 
-O resumo honesto: a prática de bondade amorosa aumenta emoções positivas
-relatadas (**moderada**); empatia e compaixão parecem ter efeitos
-diferentes, e opostos, sobre quem as treina (**preliminar**); que a prática
-torne alguém mais gentil com os outros, de modo que se veja no
-comportamento, é **preliminar** e sensível a viés.
+Uma meta-análise de 2018 reuniu ensaios randomizados com adultos saudáveis
+sobre meditação e comportamento pró-social, isto é, comportamento que
+beneficia os outros. Encontrou um aumento moderado no conjunto. Mas só em
+compaixão e empatia, **não** em agressão, sensação de conexão ou
+preconceito.
+
+E o aumento de compaixão só apareceu em duas condições:
+
+- quando o professor da meditação era coautor do estudo;
+- quando o grupo de comparação era passivo.
+
+Com controle ativo, ou sem o professor entre os autores, o efeito sumiu. Os
+próprios autores concluem que os efeitos pró-sociais dependem do tipo de
+comportamento e da qualidade do estudo.
+
+O resumo honesto:
+
+- a prática de bondade amorosa aumenta emoções positivas relatadas
+  (**moderada**);
+- empatia e compaixão parecem ter efeitos diferentes, e opostos, sobre quem
+  as treina (**preliminar**);
+- que a prática torne alguém mais gentil com os outros, de modo que se veja
+  no comportamento, é **preliminar** e sensível a viés.
 
 ## Onde tradição e ciência se separam
 
 Para a tradição, as moradas sublimes são estados que se aprofundam até a
-absorção meditativa e fazem parte de um caminho ético; o *Visuddhimagga*
+absorção meditativa e fazem parte de um caminho ético. O *Visuddhimagga*
 dedica um capítulo inteiro a elas, e o poema de mettā termina no fim dos
 renascimentos. Para a ciência, são intervenções de algumas semanas avaliadas
-por questionário, tarefas de laboratório e, às vezes, imagem cerebral. A
-tradição afirma que a bondade transforma quem a pratica e, por isso, o modo
-como trata os outros; os experimentos confirmam a primeira parte com mais
-segurança que a segunda.
+por questionário, tarefas de laboratório e, às vezes, imagem cerebral.
+
+A tradição afirma que a bondade transforma quem a pratica e, por isso, o
+modo como trata os outros. Os experimentos confirmam a primeira parte com
+mais segurança que a segunda.
 
 Há ainda uma diferença de ponto de partida. A tradição põe a ética antes da
 meditação: o poema pede integridade antes de pedir amor. Os programas
@@ -278,9 +310,9 @@ efeito, nenhum estudo citado aqui testou.
 ## Cuidados
 
 Dirigir bondade a si mesmo pode trazer à tona tristeza, vergonha ou
-lembranças de não ter sido cuidado — o que é uma das razões pelas quais a
-prática "pode ser difícil no início". Para quem tem histórico de trauma ou
-abuso, o quarto círculo nunca deve começar por quem causou o dano, e não há
+lembranças de não ter sido cuidado. É uma das razões pelas quais a prática
+"pode ser difícil no início". Para quem tem histórico de trauma ou abuso, o
+quarto círculo nunca deve começar por quem causou o dano. E não há
 obrigação de chegar a essa pessoa. Se a prática despertar angústia que não
 passa depois da sessão, interrompa e veja os sinais descritos no capítulo
 {{cap:quando-a-meditacao-da-errado}}. Para quem cuida de outros e está

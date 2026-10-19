@@ -2,7 +2,7 @@
 part: I — O QUE O BUDISMO DIZ
 title: O que o budismo diz
 illustration: 01-o-que-o-budismo-diz
-status: draft
+status: final
 ---
 Antes de perguntar se a meditação funciona, é preciso saber o que ela é — e
 ela nasceu dentro de uma tradição com um diagnóstico próprio sobre o

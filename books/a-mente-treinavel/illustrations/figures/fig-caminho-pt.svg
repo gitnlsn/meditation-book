@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1404" height="977" viewBox="0 0 520 362" font-family="Arial, Helvetica, sans-serif" fill="#1a1a1a">
+<svg xmlns="http://www.w3.org/2000/svg" width="1404" height="907" viewBox="0 0 520 336" font-family="Arial, Helvetica, sans-serif" fill="#1a1a1a">
 <defs>
   <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a1a1a"/></marker>
 </defs>
-<rect x="0" y="0" width="520" height="362" fill="#ffffff"/>
+<rect x="0" y="0" width="520" height="336" fill="#ffffff"/>
 <rect x="4.0" y="10" width="512.0" height="36" rx="4" fill="#2b2b2b" stroke="#2b2b2b" stroke-width="1.2"/>
 <text x="260.0" y="33.5" font-size="16" font-weight="bold" font-style="normal" text-anchor="middle" fill="#ffffff">Nobre Caminho Óctuplo: oito fatores, três treinos</text>
 <path d="M 86.0,46 L 86.0,58" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
@@ -54,5 +54,4 @@
 <circle cx="368.0" cy="228.0" r="10.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.1"/>
 <text x="368.0" y="233.2" font-size="15" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
 <text x="444.0" y="233.3" font-size="15" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Intenção correta</text>
-<text x="260.0" y="352.0" font-size="14.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#555555">Os números seguem a ordem da lista dos oito fatores.</text>
 </svg>

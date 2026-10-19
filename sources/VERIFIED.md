@@ -121,8 +121,14 @@ Used in: capítulo "O caminho, e onde a meditação entra nele".
 Source: `sujato-mn10-en.md` (SuttaCentral, CC0). 2.1 (abertura: "path to
 convergence"; páli *ekāyano … maggo*); 3.2–3.5 (os quatro campos); 10.1–10.2
 (partes do corpo: "head hair … bones … kidneys … feces … pus, blood");
-14.1–30.3 (cadáver no "charnel ground"; "This body is also of that same
-nature"); 36.4–36.8 (cinco obstáculos: sensual desire, ill will, dullness and
+4.1–30.3 (seis exercícios do corpo: respiração 4, posturas 6, "situational
+awareness" 8, partes 10, elementos 12, cadáver 14–30); 10.1–10.3 (31 partes,
+"up from the soles of the feet and down from the tips of the hairs"; símile do
+"bag with openings at both ends, filled with various kinds of grains");
+14.1–30.3 (cadáver "discarded in a charnel ground"; refrão completo: "This
+body is also of that same nature, that same kind, and cannot go beyond
+that."); 5.3 e passim ("They meditate independent, not grasping at anything
+in the world."); 36.4–36.8 (cinco obstáculos: sensual desire, ill will, dullness and
 drowsiness, restlessness and remorse, doubt); 38.1–38.8 (agregados); 44.1–44.3
 (Quatro Nobres Verdades); 46.1–46.23 (sete anos … sete dias: "enlightenment in
 this very life, or if there's residue left behind, non-return").
@@ -155,6 +161,18 @@ Source: `analayo-2003-satipatthana-direct-path-en.pdf` (PDF da Univ. Hamburg).
   facilitates and enables memory".
 - pp. 88–89: "calm (samatha) and insight (vipassanā) are at their best when
   developed in skilful cooperation"; crítica à leitura de "two different paths".
+- p. 122: "The aim is a balanced and detached attitude towards the body. With
+  such a balanced attitude, one sees the body merely as a product of
+  conditions"; o "vehement loathing of the body" de Heiler "goes too far"
+  (n. 11, p. 121).
+- p. 149: risco: "Excessive contemplation of 'impurity' can lead to loathing
+  and repugnance"; monges "felt thoroughly ashamed and disgusted by it. In the
+  end, a substantial number of them committed suicide" (n. 133: Vin III 68 e
+  S V 320 = SN 54.9; não conferidos diretamente). O símile do saco de grãos:
+  "the effect is to cool desire, not to stimulate aversion".
+- p. 153: os corpos no charnel ground "either decayed or were devoured by wild
+  animals"; o exercício destaca "the repulsive nature of the body" e "the fact
+  that death is the inescapable destiny of all living beings".
 - c. pp. 74–75, n. 34: Monier-Williams
   traduz *samyak* por "complete", "entire", "whole"; Gruber 1999 sobre a
   inadequação de "right" para sammā.
@@ -402,6 +420,10 @@ Source: resumo no PubMed (PMID 22137364) e texto em PMC3257026, lidos em 2026-10
 
 Componentes do HEP (texto completo): physical activity; functional movement (posture, balance); supportive music and imagery; nutrition.
 
+Acréscimo (2026-10-19), `maccoon-2012-active-control-mbsr-pubmed-abstract-en.txt`, abstract:
+
+> Compared to HEP, MBSR led to reductions in thermal pain ratings in the mindfulness- but not the HEP-related instruction condition (η(2) = .18). There were significant improvements over time for general distress (η(2) = .09), anxiety (η(2) = .08), hostility (η(2) = .07), and medical symptoms (η(2) = .14), but no effects of intervention.
+
 Used in: capítulo "Como saber se algo funciona".
 
 ## Boot et al. (2013), *Perspectives on Psychological Science* 8(4): 445–454
@@ -438,7 +460,11 @@ Source: `bennett-2010-dead-salmon-en.pdf` (de https://w.mriquestions.com/uploads
 
 > The salmon was shown a series of photographs depicting human individuals in social situations [...] The salmon was asked to determine which emotion the individual in the photo must have been experiencing.
 
-Ig Nobel: conforme references.md (não reconferido aqui). O ano do escaneamento (2009) não foi conferido e não é citado.
+Ig Nobel (conferido em 2026-10-19): `improbable-2012-ig-nobel-neuroscience-en.txt` (de https://improbable.com/ig/winners/), sob o título "2012 Ig Nobel Prize":
+
+> NEUROSCIENCE PRIZE: Craig Bennett, Abigail Baird, Michael Miller, and George Wolford [USA], for demonstrating that brain researchers, by using complicated instruments and simple statistics, can see meaningful brain activity anywhere — even in a dead salmon.
+
+Nome do arquivo: a página não tem autor pessoal (é a lista de premiados da Improbable Research); segue o precedente organizacional de `pew-2012-…` e `sep-…`. O ano do escaneamento (2009) não foi conferido e não é citado.
 
 Used in: capítulo "Como saber se algo funciona".
 
@@ -447,6 +473,12 @@ Used in: capítulo "Como saber se algo funciona".
 Source: resumo no PubMed (PMID 11209064), lido em 2026-10-11.
 
 > Local deviations in the OEF represent the physiological basis of signals of changes in neuronal activity obtained with functional MRI [...] These decreases suggest the existence of an organized, baseline default mode of brain function that is suspended during specific goal-directed behaviors.
+
+Título (conferido em 2026-10-19 em `raichle-2001-default-mode-pubmed-abstract-en.txt`, PMID 11209064):
+
+> A default mode of brain function.
+
+O capítulo "A mente que divaga" cita o título; a edição inglesa usa o título publicado.
 
 Used in: capítulos "Como saber se algo funciona" (base fisiológica da fMRI) e "A mente que divaga".
 
@@ -509,6 +541,8 @@ Source: resumo no PubMed (PMID 22484409), lido em 2026-10-11.
 
 > given the microscopic nature of these changes in animals and the relatively low spatial resolution of MRI, it is unclear that such changes can be reliably detected in humans. [...] limitations of experimental design, statistical methods, and methodological artifacts may underlie many of the reported effects [...] The most robust evidence [...] shows changes in anterior hippocampal volume with exercise in elderly participants.
 
+Nota (2026-10-19): o capítulo agora diz "aumento de volume da parte anterior do hipocampo", como a fonte; fecha a nota dos tradutores.
+
 Used in: capítulo "Neuroplasticidade sem exagero".
 
 ## Sorrells et al. (2018), *Nature* 555: 377–381
@@ -533,6 +567,16 @@ Source: resumo no PubMed (PMID 35594344), lido em 2026-10-11.
 
 > Meditation-naïve participants (n = 218) [...] were randomly assigned to WL (n = 70), an 8-week MBSR program (n = 75), or a validated, matched active control (n = 73). We assessed changes in gray matter volume, gray matter density, and cortical thickness. [...] we failed to replicate prior findings and found no evidence that MBSR produced neuroplastic changes compared to either control group, either at the whole-brain level or in regions of interest drawn from prior MBSR studies.
 
+Texto completo (acréscimo de 2026-10-19): `kral-2022-absence-structural-pmc-en.txt` (PMC9122316, PMC Open Access), Discussion:
+
+> It may be that only with much longer duration of training and/or training explicitly focused on a single form of practice, that structural alterations will be identified.
+
+> In the largest and most rigorously controlled study to date (abstract)
+
+> Most of the included studies focused on cross-sectional research of long-term meditation practitioners (on the meta-analysis of Fox et al.)
+
+O capítulo parafraseia a primeira frase como sugestão dos autores ("Os próprios autores sugeriram que talvez só um treino muito mais longo, ou concentrado numa única prática, produza alterações estruturais"). Isso confirma a atribuição que references.md tinha a partir de uma página de imprensa.
+
 Used in: capítulo "Neuroplasticidade sem exagero".
 
 ## Killingsworth & Gilbert (2010), *Science* 330(6006): 932
@@ -550,6 +594,10 @@ Source: `killingsworth-2010-wandering-mind-en.pdf` (de https://www.imm.uzh.ch/ne
 > what people were thinking was a better predictor of their happiness than was what they were doing.
 
 > "stimulus-independent thought" or "mind wandering" appears to be the brain's default mode of operation (1–3) [ref. 1 = Raichle et al. 2001]
+
+> experience sampling has rarely been used to investigate the relationship between mind wandering and happiness and has always been limited to very small samples
+
+(Acréscimo de 2026-10-19: base para "medições no dia a dia eram raras e com poucas pessoas". O quadro agora diz "sugeriram fortemente", como o "strongly suggested" acima.)
 
 **Nota:** references.md diz "2,250 adults and about 250,000 data points"; o artigo diz que o *banco* tinha "nearly a quarter of a million samples from about 5000 people", e que a análise usou amostras de 2.250 adultos. O capítulo não cita os 250 mil.
 
@@ -641,7 +689,13 @@ Source: `galante-2021-mbp-nonclinical-pubmed-abstract-en.txt` (PMID 33428616), a
 
 Affiliation (University of Cambridge) from the PubMed author list.
 
-Used in: capítulo "O que a ciência da meditação mostra — e o que não mostra".
+Texto completo (acréscimo de 2026-10-19): `galante-2021-mbp-nonclinical-plosmed-en.pdf` (de https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1003481&type=printable), Results:
+
+> The most common control group was passive (no intervention or waitlist), used in 96 trials (71%).
+
+O total de 136 ensaios vem do resumo, acima.
+
+Used in: capítulos "O que a ciência da meditação mostra — e o que não mostra" e "Como saber se algo funciona".
 
 ## Galante et al. (2023), *Nature Mental Health* 1: 462–476
 
@@ -779,7 +833,13 @@ Source: `tang-2007-short-term-pubmed-abstract-en.txt` (PMID 17940025), abstract.
 
 > the experimental group of 40 undergraduate Chinese students given 5 days of 20-min integrative training showed greater improvement in conflict scores on the Attention Network Test, lower anxiety, depression, anger, and fatigue, and higher vigor [...] a significant decrease in stress-related cortisol
 
-Control: "a similarly chosen control group given relaxation training". Used in: capítulo "Atenção, emoção e hábito".
+Control: "a similarly chosen control group given relaxation training".
+
+Acréscimo (2026-10-19), mesmo arquivo:
+
+> The training method comes from traditional Chinese medicine and incorporates aspects of other meditation and mindfulness training.
+
+Used in: capítulo "Atenção, emoção e hábito" (frase nova sobre a origem do método).
 
 ## Jha et al. (2010), *Emotion* 10(1): 54–64
 
@@ -1079,7 +1139,7 @@ Source: resumo no PubMed (PMID 26586819), lido em 2026-10-11. doi:10.1523/JNEURO
 
 > randomly assigned 75 healthy, human volunteers to 4 d of the following: (1) mindfulness meditation, (2) placebo conditioning, (3) sham mindfulness meditation, or (4) book-listening control intervention ... all cognitive manipulations ... significantly attenuated pain intensity and unpleasantness ... Mindfulness meditation reduced pain intensity (p = 0.032) and pain unpleasantness (p < 0.001) ratings more than placebo analgesia ... more than sham mindfulness meditation ... confirms the existence of multiple, cognitively driven, supraspinal mechanisms for pain modulation.
 
-Used in: capítulo "O corpo, o sono e a dor".
+Used in: capítulos "O corpo, o sono e a dor" e (desde 2026-10-19) "Como saber se algo funciona" (quadro: 75 voluntários, quatro dias, quatro braços).
 
 ## Hilton et al. (2017), *Ann Behav Med* 51(2): 199–213
 
@@ -1206,7 +1266,7 @@ Source: resumo no PubMed (PMID 38056219; efetch E-utilities), lido em 2026-10-11
 
 > Random effects meta-analyses were conducted on 45 RCTs. Small, significant effect sizes were found for symptoms of depression (Ncomp = 46, N = 5852, g = 0.24, 95% CI = 0.17, 0.31, NNT = 13.57) and anxiety (Ncomp = 48, N = 6082, g = 0.28, 95% CI = 0.21, 0.35, NNT = 11.47) in favour of mindfulness apps over control groups. ... Effects remained stable when restricting analyses to lower risk of bias and larger sample trials. ... Non-significant effects were observed when comparing mindfulness apps to active therapeutic comparisons (g = -0.15 depression, g = 0.10 anxiety), though the number of studies was low. Growing evidence indicates that mindfulness apps can acutely reduce symptoms of depression and anxiety, although higher quality studies with longer follow-ups are needed.
 
-Used in: "Perguntas da segunda semana" (aplicativos).
+Used in: "Perguntas da segunda semana" (aplicativos); "O que a ciência da meditação mostra — e o que não mostra" (questões em aberto; a frase "Non-significant effects were observed when comparing mindfulness apps to active therapeutic comparisons [...] though the number of studies was low", acima).
 
 ## Linardon (2023), *Behaviour Research and Therapy* 170: 104421
 
@@ -1233,3 +1293,896 @@ Sources lidas em 2026-10-11:
 - https://mindfulnessbrasil.com — "O MBHP estrutura o treinamento da atenção em oito semanas"; "Centro Brasileiro de Mindfulness e Promoção da Saúde".
 
 Used in: "Perguntas da segunda semana" (professores e grupos).
+
+
+---
+
+**Revisão da Parte II (2026-10-19).** Seções novas da revisão de "Como saber se algo funciona" a "O que a ciência da meditação mostra — e o que não mostra", com o que transbordou para "O corpo, o sono e a dor" e "Quando a meditação dá errado". Cada obra aparece uma vez, com todos os capítulos em "Used in". Acréscimos a obras que já tinham seção (MacCoon 2012, Bennett 2010, Raichle 2001, Killingsworth & Gilbert 2010, Kral 2022, Thomas & Baker 2013, Galante 2021, Zeidan 2015, Tang 2007, Linardon 2024) foram feitos na própria seção, acima. Lidos em 2026-10-19.
+
+## Tyner et al. (2026), *Nature* 652: 143–150
+
+Source: `tyner-2026-replicability-social-behavioural-abstract-en.txt` (abstract from https://www.nature.com/articles/s41586-025-10078-y, read 2026-10-19; volume/pages from Crossref, doi:10.1038/s41586-025-10078-y).
+
+> Here we attempted replications of 274 claims of positive results from 164 quantitative papers published from 2009 to 2018 in 54 journals in the social and behavioural sciences. Replications were high powered on average to detect the original effect size (median of 99.6%), used original materials when relevant and available, and were peer reviewed in advance through a standardized internal protocol. Replications showed statistically significant results in the original pattern for 151 of 274 claims (55.1% (95% confidence interval (CI) 49.2–60.9%)) and for 80.8 of 164 papers (49.3% (95% CI 43.8–54.7%)), weighed for replicating multiple claims per paper.
+
+> The median Pearson’s r effect size was 0.25 (95% CI 0.21–0.27) for original studies and 0.10 (95% CI 0.09–0.13) for replication studies [...] Some decline in effect size and significance is expected based on power to detect original effects and regression to the mean because we replicated only positive results.
+
+Used in: capítulo "Como saber se algo funciona".
+
+## Goldberg, Riordan, Sun & Davidson (2022), *Perspectives on Psychological Science* 17(1): 108–130
+
+Sources: `goldberg-2022-empirical-status-44-pubmed-abstract-en.txt` (PMID 33593124; the same abstract is also saved as `goldberg-2022-empirical-status-mbis-pubmed-abstract-en.txt`), abstract; `goldberg-2022-empirical-status-44-pmc-en.xml` (PMC8364929), Results/Discussion and tables. Online 2021.
+
+> A total of 160 effect sizes were reported in 44 meta-analyses (k = 336 RCTs, N = 30,483 participants). MBIs showed superiority to passive controls across most PICOS (ds = 0.10-0.89). Effects were typically smaller and less often statistically significant compared with active controls. MBIs were similar or superior to specific active controls and evidence-based treatments. [...] Results were generally robust to publication bias, although other important sources of bias were identified. [...] Reporting of adverse effects was inconsistent. Statistical power may be lacking in meta-analyses, particularly for comparisons with active controls. (abstract)
+
+> Comparison with evidence-based treatments. Post-treatment. MBIs did not differ from evidence-based treatments for any PICOS subcategory at post-treatment, with one exception. MBIs showed superiority to evidence-based treatments for smoking ( d = 0.42). (full text)
+
+> MBCT, however, did show superiority over evidence-based treatments for the prevention of depressive relapse ( d = 0.17; Kuyken et al., 2016 ). (full text)
+
+> MBIs may be less effective than evidence-based treatments for anxiety, although the effect size did not differ from zero ( d = −0.18, [−0.41, 0.06]; Goldberg et al., 2018 ). (full text)
+
+> statistical power was typically higher for comparisons with passive controls (beta = .78, SD = .29) than comparisons with active controls (beta = .52, SD = .39). (full text)
+
+Smoking row of the evidence-based-treatment table (post-treatment), as extracted: "Problem Smoking 1 1 0.42 0.42 Goldberg (2018) 4 587 0.42 0.20, 0.64 11" → 4 studies, 587 participants, 95% CI 0.20–0.64; a post-treatment estimate, not long-term abstinence.
+
+Authors include Davidson RJ; affiliation (University of Wisconsin–Madison, Center for Healthy Minds) from the PubMed author list.
+
+Used in: capítulos "Como saber se algo funciona"; "Atenção, emoção e hábito" (estimativa para fumo); "O que a ciência da meditação mostra — e o que não mostra".
+
+## Cuijpers et al. (2024), *Epidemiol Psychiatr Sci* 33: e56
+
+Source: `cuijpers-2024-waitlist-overestimation-pubmed-abstract-en.txt` (PMID 39501660), abstract.
+
+> We included 333 randomized controlled trials (472 comparisons; total number participants: 41,480) [...] A highly significant difference was observed between studies with a CAU control group (g = 0.63; 95% CI: 0.55; 0.71 [...]) and studies with a WL (g = 0.95; 95% CI: 0.85; 1.04 [...]). [...] WL control conditions considerably overestimate the effect sizes of psychological treatments [...] This overestimation is probably caused by a smaller improvement within the WL condition compared to the improvement in the CAU condition.
+
+Used in: capítulo "Como saber se algo funciona".
+
+## Lopes, Sampaio & Tavares (2024), *Front Integr Neurosci* 18: 1432270
+
+Source: `lopes-2024-pain-mindfulness-placebo-pubmed-abstract-en.txt` (PMID 39267814), abstract.
+
+> Our search revealed a total of 272 studies, of which only 19 studies were included (10 acute pain and nine chronic pain), considering the inclusion and exclusion criteria related to expectations and placebo effects. [...] these results show that these factors are still not routinely considered in experimental designs.
+
+The chapter paraphrases (no quotation marks).
+
+Used in: capítulo "Como saber se algo funciona".
+
+## Riegner, Dean, Wager & Zeidan (2025), *Biol Psychiatry* 97(1): 81–88
+
+Source: `riegner-2025-mindfulness-placebo-signatures-pubmed-abstract-en.txt` (PMID 39216636), abstract.
+
+> multivariate pattern analysis pain signatures were applied across 2 randomized clinical trials [...] 115 healthy participants were randomized into a 4-session mindfulness meditation (n = 37), placebo-cream conditioning (n = 19), sham mindfulness meditation (n = 20), or book-listening control (n = 39) intervention. [...] Mindfulness meditation produced significantly greater reductions in pain intensity and pain unpleasantness ratings and nociceptive-specific and negative affective pain signatures than placebo cream, sham mindfulness meditation, and control interventions.
+
+"Mesmo laboratório": Zeidan is senior author of both papers.
+
+Used in: capítulo "Como saber se algo funciona".
+
+## Hanley et al. (2025), *Complement Ther Med* 95: 103278
+
+Source: `hanley-2025-reiki-mindfulness-placebo-pubmed-abstract-en.txt` (PMID 41183719), abstract and COI statement.
+
+> In this placebo-controlled randomized trial, 164 adults with physician-confirmed KOA were assigned to one of four groups: Reiki, sham Reiki (i.e., Feiki), mindfulness meditation, or a waitlist control. Active treatments were delivered in four weekly 30-minute sessions. [...] Mindfulness significantly outperformed Feiki (p = .004). Reiki demonstrated effects comparable to mindfulness (p = .22). Clinically meaningful reductions in symptoms (>30 %) were reported by 55 % of participants in the Reiki and mindfulness groups, compared to 20 % in the Feiki group and 13 % in the waitlist group.
+
+COI: "Dr. Garland reported [...] receiving honoraria and payment for delivering seminars [...] related to training clinicians in MORE [...]; receiving royalties from the sale of books related to MORE". Erratum: Complement Ther Med 2026;102:103440.
+
+Used in: capítulo "Como saber se algo funciona".
+
+## Haddad et al. (2020), *Int J Geriatr Psychiatry* 35(6): 626–632
+
+Source: `haddad-2020-expectancy-mindfulness-pubmed-abstract-en.txt` (PMID 32017250), abstract.
+
+> data from a single-blind, multi-site, randomized controlled trial comparing MBSR to a health education attention control in older adults with anxiety and/or depressive disorders and subjective cognitive concerns. [...] Neither expectancy nor perceived credibility of intervention accounted significantly for MBSR's effectiveness for memory test performance or clinical global improvement.
+
+Used in: capítulo "Como saber se algo funciona".
+
+## Coronado-Montoya et al. (2016), *PLoS One* 11(4): e0153220
+
+Source: `coronado-montoya-2016-positive-results-mbi-pubmed-abstract-en.txt` (PMID 27058355), abstract.
+
+> 108 (87%) of 124 published trials reported ≥1 positive outcome in the abstract, and 109 (88%) concluded that mindfulness-based therapy was effective, 1.6 times greater than the expected number of positive trials based on effect size d = 0.55 (expected number positive trials = 65.7). Of 21 trial registrations, 13 (62%) remained unpublished 30 months post-trial completion.
+
+Methods: the expected number assumes MBT "were similarly effective compared to individual therapy for depression".
+
+Used in: capítulo "Como saber se algo funciona".
+
+## Sparacio et al. (2024), *Nat Hum Behav* 8(9): 1716–1725
+
+Sources: `sparacio-2024-self-administered-mindfulness-pubmed-abstract-en.txt` (PMID 38862815) and full text `sparacio-2024-self-administered-mindfulness-pmc-en.json` (PMC11420060, BioC).
+
+> In a preregistered (OSF https://doi.org/10.17605/OSF.IO/UF4JZ ; retrospective registration at ClinicalTrials.gov NCT06308744 ) multi-site study (nsites = 37, nparticipants = 2,239, 70.4% women [...]) [...] All exercises proved to be more efficacious than the active control.
+
+Full text:
+
+> [recordings were made] by the same certified meditation trainer [...] and each lasted 15 min.
+
+> (5) mostly students (94.2%)
+
+> The effects of each mindfulness exercise on stress were rather small and relied on self-reported stress.
+
+Control story lengths (table): 15.01, 14.19 and 14.58 min (le Carré, Hemingway, Tolkien).
+
+Used in: capítulo "Como saber se algo funciona".
+
+## Botvinik-Nezer et al. (2020), *Nature* 582(7810): 84–88
+
+Source: `botvinik-nezer-2020-many-teams-pubmed-abstract-en.txt` (PMID 32483374), abstract.
+
+> asking 70 independent teams to analyse the same dataset, testing the same 9 ex-ante hypotheses. The flexibility of analytical approaches is exemplified by the fact that no two teams chose identical workflows to analyse the data. This flexibility resulted in sizeable variation in the results of hypothesis tests
+
+Used in: capítulo "Como saber se algo funciona".
+
+## Elliott et al. (2020), *Psychological Science* 31(7): 792–806
+
+Source: `elliott-2020-test-retest-fmri-pubmed-abstract-en.txt` (PMID 32489141), abstract.
+
+> a meta-analysis of 90 experiments (N = 1,008) revealed poor overall reliability-mean intraclass correlation coefficient (ICC) = .397. [...] common task-fMRI measures are not currently suitable for brain biomarker discovery or for individual-differences research.
+
+Used in: capítulo "Como saber se algo funciona". (The "1 = repetição perfeita" gloss is the standard ICC scale, not a figure from the paper.)
+
+## Marek et al. (2022), *Nature* 603(7902): 654–660
+
+Source: `marek-2022-brain-wide-thousands-pubmed-abstract-en.txt` (PMID 35296861), abstract.
+
+> the median neuroimaging study sample size is about 25 [...] we used three of the largest neuroimaging datasets currently available-with a total sample size of around 50,000 individuals [...] BWAS associations were smaller than previously thought, resulting in statistically underpowered studies, inflated effect sizes and replication failures at typical sample sizes. As sample sizes grew into the thousands, replication rates began to improve [...] In contrast to non-BWAS approaches with larger effects (for example, lesions, interventions and within-person), BWAS reproducibility requires samples with thousands of individuals.
+
+Used in: capítulo "Como saber se algo funciona".
+
+## Chételat et al. (2022), *JAMA Neurology* 79(11): 1165–1174
+
+Source: `chetelat-2022-age-well-meditation-pubmed-abstract-en.txt` (PMID 36215061), abstract.
+
+> Participants were randomly assigned (1:1:1) to (1) an 18-month meditation-based training, (2) a structurally matched non-native language (English) training, or (3) no intervention arm.
+
+> Meditation and non-native language training included 2-hour weekly group sessions, practice of 20 minutes or longer daily at home, and 1-day intensive practices.
+
+> Primary outcomes included volume and perfusion of anterior cingulate cortex (ACC) and insula.
+
+> Among 137 participants (mean [SD] age, 69.4 [3.8] years; [...]) assigned to the meditation (n = 45), non-native language training (n = 46), or no intervention (n = 46) groups, all but 1 completed the trial. There were no differences in volume changes of ACC (0.01 [98.75% CI, -0.02 to 0.05]; P = .36) or insula (0.01 [98.75% CI, -0.02 to 0.03]; P = .58) [...]. Differences in perfusion changes did not reach statistical significance [...] (0.02 [98.75% CI, -0.01 to 0.05]; P = .06) [...] (0.02 [98.75% CI, -0.01 to 0.05]; P = .09). Meditation was superior to non-native language training on 18-month changes in a global composite score capturing attention regulation, socioemotional, and self-knowledge capacities (Cohen d, 0.52 [95% CI, 0.19-0.85]; P = .002).
+
+Enrollment: "Community-dwelling cognitively unimpaired adults 65 years and older". Printed as p = 0,36 / 0,58 / 0,06 / 0,09 and *d* = 0,52 (decimal comma).
+
+Used in: capítulo "Neuroplasticidade sem exagero".
+
+## Siew & Yu (2023), *Scientific Reports* 13(1): 18469 — retracted
+
+Source: `siew-2023-mbi-rct-brain-ale-pubmed-abstract-en.txt` (PMID 37891243), abstract; `siew-2025-retraction-note-en.txt` (PMC12263888), full text of the Retraction Note, *Sci Rep* 15: 25545.
+
+> 11 studies (n = 581) assessing whole-brain voxel-based grey matter or cortical thickness changes after a mindfulness RCT were included. [...] One significant cluster [...] emerged in the right insula and precentral gyrus region
+
+Title: "Mindfulness-based randomized controlled trials led to brain structural changes" (the Portuguese renders the title phrase as "levaram a mudanças estruturais no cérebro", in Íris Gradim's translation).
+
+> After publication of this study concerns were raised about the way the exclusion/inclusion criteria were applied. Specifically, four null-finding papers accounting for data from 40% of participants were excluded from the analyses, while other studies were included despite being done in very specific, nonrepresentative populations. In particular, the exclusion of the null papers means that the meta-analysis presented in the paper was not designed to test the stated hypothesis of whether mindfulness interventions have impact on brain morphology and cannot therefore support the conclusions of this Article.
+
+> Both Authors disagree with this retraction.
+
+Used in: capítulo "Neuroplasticidade sem exagero".
+
+## Sorrells et al. (2021), *J Neurosci* 41(12): 2554–2565
+
+Source: `sorrells-2021-positive-controls-pubmed-abstract-en.txt` (PMID 33762407), abstract.
+
+> However, most of these DCX-labeled cells have mature morphology. Furthermore, studies in the adult human DG have not found a germinal region containing dividing progenitor cells.
+
+> DCX is not uniquely expressed by newly born neurons: DCX is present in adult amygdala, entorhinal and parahippocampal cortex neurons despite being absent in the neighboring DG. Analysis of available RNA-sequencing datasets supports the view that DG neurogenesis is rare or absent in the adult human brain. To resolve the conflicting interpretations in humans, it is necessary to identify and visualize dividing neuronal precursors or develop new methods to evaluate the age of a neuron at the single-cell level.
+
+Used in: capítulo "Neuroplasticidade sem exagero".
+
+## Franjic et al. (2022), *Neuron* 110(3): 452–469.e14
+
+Source: `franjic-2022-transcriptomic-neurogenic-pubmed-abstract-en.txt` (PMID 34798047), abstract. Affiliation: Yale School of Medicine.
+
+> Integrated cross-species analysis revealed robust transcriptomic and histologic signatures of neurogenesis in the adult mouse, pig, and macaque but not humans. Doublecortin (DCX), a widely accepted marker of newly generated granule cells, was detected in diverse human neurons, but it did not define immature neuron populations.
+
+Used in: capítulo "Neuroplasticidade sem exagero".
+
+## Zhou et al. (2022), *Nature* 607(7919): 527–533
+
+Source: `zhou-2022-immature-neurons-lifespan-pubmed-abstract-en.txt` (PMID 35794479), abstract. Affiliation: University of Pennsylvania.
+
+> we demonstrated the capacity for neurogenesis in the adult human hippocampus with the presence of rare dentate granule cell fate-specific proliferating neural progenitors and with cultured surgical specimens. Together, our findings suggest the presence of a substantial number of imGCs in the adult human hippocampus via low-frequency de novo generation and protracted maturation
+
+Used in: capítulo "Neuroplasticidade sem exagero".
+
+## Dumitru et al. (2025), *Science* 389(6755): 58–63
+
+Source: `dumitru-2025-proliferating-progenitors-pubmed-abstract-en.txt` (PMID 40608919), abstract. Frisén's affiliation (Karolinska Institute) is confirmed in `kempermann-2018-human-adult-neurogenesis-pubmed-abstract-en.txt` (author 18: "Department of Cell and Molecular Biology, Karolinska Institute").
+
+> We analyzed the human hippocampus from birth through adulthood by single-nucleus RNA sequencing. [...] In adults, using antibodies against the proliferation marker Ki67 and machine learning algorithms, we found proliferating neural progenitor cells. Furthermore, transcriptomic data showed that neural progenitors were localized within the dentate gyrus.
+
+The sample size is not in the abstract and is not printed.
+
+Used in: capítulo "Neuroplasticidade sem exagero".
+
+## Moreno-Jiménez et al. (2019), *Nature Medicine* 25(4): 554–560
+
+Source: `moreno-jimenez-2019-neurogenesis-alzheimer-pubmed-abstract-en.txt` (PMID 30911133), abstract. Affiliation: CBMSO, CSIC-UAM, Madrid.
+
+> By combining human brain samples obtained under tightly controlled conditions and state-of-the-art tissue processing methods, we identified thousands of immature neurons in the DG of neurologically healthy human subjects up to the ninth decade of life.
+
+Used in: capítulo "Neuroplasticidade sem exagero".
+
+## Kempermann et al. (2018), *Cell Stem Cell* 23(1): 25–30
+
+Source: `kempermann-2018-human-adult-neurogenesis-pubmed-abstract-en.txt` (PMID 29681514), abstract.
+
+> we summarize the state of the field and argue that there is currently no reason to abandon the idea that adult-generated neurons make important functional contributions to neural plasticity and cognition across the human lifespan.
+
+Used in: capítulo "Neuroplasticidade sem exagero".
+
+## Wenger et al. (2017), *Trends Cogn Sci* 21(12): 930–939
+
+Source: `wenger-2017-expansion-renormalization-pubmed-abstract-en.txt` (PMID 29149999), abstract. Affiliation: Max Planck Institute for Human Development, Berlin (mpib-berlin.mpg.de).
+
+> The model predicts an initial increase of gray matter structure, potentially reflecting growth of neural resources like neurons, synapses, and glial cells, which is followed by a selection process operating on this new tissue leading to a complete or partial return to baseline of the overall volume after selection has ended.
+
+Used in: capítulo "Neuroplasticidade sem exagero".
+
+## Fox et al. (2014), *Neurosci Biobehav Rev* 43: 48–73
+
+Source: `fox-2014-morphometric-meditation-pubmed-abstract-en.txt` (PMID 24705269), abstract.
+
+> we reviewed and meta-analyzed 123 brain morphology differences from 21 neuroimaging studies examining ∼300 meditation practitioners. Anatomical likelihood estimation (ALE) meta-analysis found eight brain regions consistently altered in meditators [...] Effect size meta-analysis (calculating 132 effect sizes from 16 studies) suggests a global 'medium' effect size (Cohen's d¯=0.46; r¯=.19). Publication bias and methodological limitations are strong concerns, however.
+
+Português ("preocupações fortes") de Íris Gradim. Printed as *d* = 0,46.
+
+Used in: capítulo "Neuroplasticidade sem exagero".
+
+## Luders, Cherbuin & Gaser (2016), *NeuroImage* 134: 508–513
+
+Source: `luders-2016-brain-age-pubmed-abstract-en.txt` (PMID 27079530), abstract.
+
+> We applied a recently developed machine learning algorithm trained to identify anatomical correlates of age in the brain translating those into one single score: the BrainAGE index (in years). [...] we re-analyzed a large sample of 50 long-term meditators and 50 control subjects [...] at age fifty, brains of meditators were estimated to be 7.5years younger than those of controls.
+
+Used in: capítulo "Neuroplasticidade sem exagero".
+
+## Valk et al. (2017), *Science Advances* 3(10): e1700489
+
+Source: `valk-2017-social-brain-plasticity-pubmed-abstract-en.txt` (PMID 28983507), abstract.
+
+> we collected longitudinal magnetic resonance imaging (MRI) data throughout a 9-month mental training intervention [...] MRI-based cortical thickness analyses, contrasting the different training modules against each other, indicated spatially diverging changes in cortical morphology. [...] Module-specific structural brain changes correlated with training-induced behavioral improvements in the same individuals in domain-specific measures of attention, compassion, and cognitive perspective-taking, respectively
+
+Used in: capítulo "Neuroplasticidade sem exagero".
+
+## Kawashima, Hinuma & Tanaka (2023), *Scientific Reports* 13(1): 2873
+
+Source: `kawashima-2023-ema-mind-wandering-pubmed-abstract-en.txt` (PMID 36801931), abstract, lido em 2026-10-19.
+
+> we searched PubMed and Web of Science for articles published until the end of 2020 and systematically reviewed 25 articles, and performed meta-analyses on 17 of them. Our meta-analysis found that people spend 34.504% of daily life in mind-wandering, and meta-regression revealed that using subject smartphones for EMA, frequent sampling, and long experimental duration significantly affect MW reports. [...] these results indicate the existence of reactivity, even in MW research.
+
+O capítulo imprime "cerca de 34,5%" (arredondamento de 34,504%).
+
+Used in: capítulo "A mente que divaga".
+
+## Zanesco, Denkova & Jha (2025), *Psychological Bulletin* 151(2): 217–239
+
+Source: `zanesco-2025-mind-wandering-time-pubmed-abstract-en.txt` (PMID 38421788), abstract, lido em 2026-10-19.
+
+> Our search located 68 research reports providing almost a half-million total responses to experience sampling mind-wandering probes from more than 10,000 unique individuals. [...] Our results confirm that mind-wandering increases in frequency over time during task performance, implicating mind-wandering in characteristic within-task psychological changes, such as increasing boredom and patterns of worsening behavioral performance with time-on-task.
+
+Used in: capítulo "A mente que divaga".
+
+## Kam, Wong, Thiemann, Hasan, Andrews-Hanna & Mills (2024), *Psychological Bulletin* 150(5): 621–641
+
+Source: `kam-2024-unprompted-thought-wellbeing-pubmed-abstract-en.txt` (PMID 38619477), abstract, lido em 2026-10-19.
+
+> In this systematic review of 76 studies, we implemented a meta-analysis and qualitative review [...] Using a multilevel mixed-model approach on 386 effect sizes from 23,168 participants across 64 studies, our meta-analyses indicated an overall relationship between unprompted thought and worse affective well-being (r¯ = -.18, 95% CI [-.23, -.14]); however, the magnitude and direction of this relationship changed when considering specific aspects of the phenomenon (including thought content and intentionality) and methodological approaches (including questionnaires vs. experience sampling).
+
+Used in: capítulo "A mente que divaga".
+
+## Poerio, Totterdell & Miles (2013), *Consciousness and Cognition* 22(4): 1412–1421
+
+Source: `poerio-2013-mind-wandering-mood-pubmed-abstract-en.txt` (PMID 24149091), abstract, lido em 2026-10-19.
+
+> A novel experience-sampling technique with smartphone application prompted participants to answer questions about mind-wandering and mood across 7 days. While sadness tended to precede mind-wandering, mind-wandering itself was not associated with later mood and only predicted feeling worse if its content was negative.
+
+Used in: capítulo "A mente que divaga".
+
+## Ruby, Smallwood, Engen & Singer (2013), *PLoS ONE* 8(10): e77554
+
+Source: `ruby-2013-self-generated-thought-mood-pubmed-abstract-en.txt` (PMID 24194889), abstract, lido em 2026-10-19.
+
+> thoughts that were past- and other-related were associated with subsequent negative mood, even if current thought content was positive. By contrast, future- and self-related thoughts preceded improvements of mood, even when current thought content was negative.
+
+O capítulo simplifica para "pensar no passado ... pensar no futuro".
+
+Used in: capítulo "A mente que divaga".
+
+## Franklin, Mrazek, Anderson, Smallwood, Kingstone & Schooler (2013), *Frontiers in Psychology* 4: 583
+
+Source: `franklin-2013-silver-lining-pubmed-abstract-en.txt` (PMID 24009599), abstract, lido em 2026-10-19.
+
+> Our results largely conform to those of the Killingsworth and Gilbert (2010) study, with mind-wandering generally being associated with a more negative mood. [...] when off-task episodes are rated for interest, the high interest episodes are associated with an increase in positive mood compared to all on-task episodes.
+
+Used in: capítulo "A mente que divaga".
+
+## Gross, Raynes, Schooler, Guo & Dobkins (2025), *Emotion* 25(3): 671–682
+
+Source: `gross-2025-wandering-mind-valence-pubmed-abstract-en.txt` (PMID 39418457), abstract, lido em 2026-10-19.
+
+> an experience sampling methodology was used to capture participants' (N = 337) attention state (present or mind wandering), thought valence, and mood 6 times per day for 7 days [...] This design allowed for a conceptual replication and expansion of Killingsworth and Gilbert (2010) [...] Unlike their study, however, we inquired about thought valence for both mind-wandering and present moments. Our findings revealed that the relationship between attention state and mood is substantially accounted for by thought valence
+
+Used in: capítulo "A mente que divaga".
+
+## Seli, Risko, Smilek & Schacter (2016), *Trends in Cognitive Sciences* 20(8): 605–617
+
+Source: `seli-2016-mind-wandering-intention-pubmed-abstract-en.txt` (PMID 27318437), abstract, lido em 2026-10-19.
+
+> a recent series of papers have demonstrated that mind-wandering reported in empirical investigations frequently occurs with and without intention, and, more crucially, that intentional and unintentional mind-wandering are dissociable.
+
+Used in: capítulo "A mente que divaga".
+
+## Baird, Smallwood, Mrazek, Kam, Franklin & Schooler (2012), *Psychological Science* 23(10): 1117–1122
+
+Source: `baird-2012-inspired-distraction-pubmed-abstract-en.txt` (PMID 22941876), abstract, lido em 2026-10-19.
+
+> Compared with engaging in a demanding task, rest, or no break, engaging in an undemanding task during an incubation period led to substantial improvements in performance on previously encountered problems. Critically, the context that improved performance after the incubation period was associated with higher levels of mind wandering
+
+Used in: capítulo "A mente que divaga".
+
+## Smeekens & Kane (2016), *Psychology of Aesthetics, Creativity, and the Arts* 10(4): 389–415
+
+Source: `smeekens-2016-wmc-mind-wandering-creativity-pubmed-abstract-en.txt` (PMID 28458764), abstract, lido em 2026-10-19.
+
+> Three individual-differences studies inserted incubation periods into one or two divergent thinking tasks [...] only the questionnaire measure of daydreaming, but not probed thought reports, weakly predicted creativity; the fact that in-the-moment TUTs did not correlate divergent creativity is especially problematic for claims that mind-wandering processes contribute to creative cognition.
+
+Used in: capítulo "A mente que divaga".
+
+## Perestelo-Perez, Barraca, Peñate, Rivero-Santana & Alvarez-Perez (2017), *International Journal of Clinical and Health Psychology* 17(3): 282–295
+
+Source: `perestelo-perez-2017-mbi-rumination-pubmed-abstract-en.txt` (PMID 30487903), abstract (inglês e espanhol), lido em 2026-10-19.
+
+> identified eleven studies that fulfilling inclusion criteria. Results: A meta-analysis of the effect of the intervention compared to usual care showed a significant and moderate reduction of ruminative thoughts (g = -0.59, 95% CI: -0.77, -0.41; I2 = 0%). [...] A meta-analysis of three studies that compared the intervention to other active treatments (medication, behavioral activation and cognitive-behavioral therapy, respectively) showed no significant differences.
+
+> (resumo em espanhol) no mostraron diferencias significativas (g = −0,02, 95% CI: −0,39, 0,35; I2 = 0%).
+
+Used in: capítulo "A mente que divaga".
+
+## Buckner & DiNicola (2019), *Nature Reviews Neuroscience* 20(10): 593–608
+
+Source: `buckner-2019-default-network-updated-pubmed-abstract-en.txt` (PMID 31492945), abstract, lido em 2026-10-19.
+
+> regions distributed throughout the association cortex, often called the default network, are suppressed during tasks that demand external attention and are active during remembering, envisioning the future and making social inferences. [...] Detailed high-resolution analyses of single individuals suggest that the default network is not a single network, as historically described, but instead comprises multiple interwoven networks.
+
+Used in: capítulo "A mente que divaga".
+
+## Menon (2023), *Neuron* 111(16): 2469–2487
+
+Source: `menon-2023-twenty-years-dmn-pubmed-abstract-en.txt` (PMID 37167968), abstract, lido em 2026-10-19.
+
+> I summarize literature examining the role of the DMN in self-reference, social cognition, episodic and autobiographical memory, language and semantic memory, and mind wandering. [...] I argue that the DMN integrates and broadcasts memory, language, and semantic representations to create a coherent "internal narrative" reflecting our individual experiences. This narrative is central to the construction of a sense of self
+
+Used in: capítulo "A mente que divaga".
+
+## Fox, Spreng, Ellamil, Andrews-Hanna & Christoff (2015), *NeuroImage* 111: 611–621
+
+Source: `fox-2015-wandering-brain-meta-pubmed-abstract-en.txt` (PMID 25725466), abstract, lido em 2026-10-19.
+
+> Examining 24 functional neuroimaging studies of spontaneous thought processes, we conducted a meta-analysis using activation likelihood estimation (ALE). A number of key DMN areas showed consistent recruitment across studies [...] Numerous non-DMN regions, however, were also consistently recruited [...] These meta-analytic results indicate that DMN activation alone is insufficient to adequately capture the neural basis of spontaneous thought; frontoparietal control network areas, and other non-DMN regions, appear to be equally central.
+
+Used in: capítulo "A mente que divaga".
+
+## Kucyi et al. (2024), *Network Neuroscience* 8(3): 808–836
+
+Source: `kucyi-2024-variability-mind-wandering-pubmed-abstract-en.txt` (PMID 39355438), abstract, lido em 2026-10-19.
+
+> three densely sampled individuals each reported hundreds of mind-wandering episodes while undergoing multi-session functional magnetic resonance imaging. We found reliable associations between mind-wandering and DMN activation when estimating brain networks within individuals using precision functional mapping. However, the timing of spontaneous DMN activity relative to subjective reports, and the networks beyond DMN that were activated and deactivated during mind-wandering, were distinct across individuals.
+
+Used in: capítulo "A mente que divaga".
+
+## Yan et al. (2019), *PNAS* 116(18): 9078–9083
+
+Source: `yan-2019-reduced-dmn-mdd-pubmed-abstract-en.txt` (PMID 30979801), abstract, lido em 2026-10-19.
+
+> Twenty-five research groups in China established the REST-meta-MDD Consortium by contributing R-fMRI data from 1,300 patients with MDD and 1,128 normal controls (NCs). [...] We focused on functional connectivity (FC) within the default mode network (DMN), frequently reported to be increased in MDD. Instead, we found decreased DMN FC when we compared 848 patients with MDD to 794 NCs from 17 sites after data exclusion. We found FC reduction only in recurrent MDD, not in first-episode drug-naïve MDD.
+
+Used in: capítulo "A mente que divaga".
+
+## Garrison, Zeffiro, Scheinost, Constable & Brewer (2015), *Cognitive, Affective, & Behavioral Neuroscience* 15(3): 712–720
+
+Source: `garrison-2015-meditation-dmn-active-task-pubmed-abstract-en.txt` (PMID 25904238), abstract, lido em 2026-10-19. Tamanho da amostra não conferido e não citado.
+
+> prior studies had used small groups, whereas in the present study we tested these hypotheses in a larger group. The results indicated that meditation is associated with reduced activations in the default mode network, relative to an active task, for meditators as compared to controls.
+
+Used in: capítulo "A mente que divaga".
+
+## Ganesan, Beyer, Moffat, Van Dam, Lorenzetti & Zalesky (2022), *Neuroscience & Biobehavioral Reviews* 141: 104846
+
+Source: `ganesan-2022-focused-attention-fmri-pubmed-abstract-en.txt` (PMID 36067965), abstract, lido em 2026-10-19.
+
+> 28 studies were included in this review, of which 10 studies (200 participants) were amenable to activation likelihood estimation meta-analysis. We found that regions comprising three key functional brain networks i.e., Default-mode, Salience, and Executive Control, were consistently implicated in focused attention meditation.
+
+Used in: capítulo "A mente que divaga".
+
+## Rahrig, Vago, Passarelli, Auten, Lynn & Brown (2022), *Scientific Reports* 12(1): 12260
+
+Source: `rahrig-2022-dmn-connectivity-pubmed-abstract-en.txt` (PMID 35851275), abstract, lido em 2026-10-19.
+
+> screened for inclusion based on experimental/quasi-experimental trial design and use of mindfulness-based training interventions. RsFC effects were extracted from twelve studies (mindfulness n = 226; control n = 204). Voxel-based meta-analysis revealed significantly greater rsFC (MT > control) between the left middle cingulate (Hedge's g = .234, p = 0.0288, I2 = 15.87), located within the SN, and the posterior cingulate cortex, a focal hub of the DMN. Egger's test for publication bias was nonsignificant, bias = 2.17, p = 0.162.
+
+Used in: capítulo "A mente que divaga".
+
+## Feruglio, Matiz, Pagnoni, Fabbro & Crescentini (2021), *Neuroscience & Biobehavioral Reviews* 131: 313–330
+
+Source: `feruglio-2021-mindfulness-wandering-mind-pubmed-abstract-en.txt` (PMID 34560133), abstract, lido em 2026-10-19.
+
+> The search resulted in 2035 papers, 24 of which were eligible. Reviewed studies revealed a high heterogeneity in designs, outcome measures and interventions. Most of the pre-post intervention studies showed that a protracted practice of MM (at least 2 weeks) reduced MW [...] Further studies are needed to replicate available findings
+
+Used in: capítulo "A mente que divaga".
+
+## Mrazek, Franklin, Phillips, Baird & Schooler (2013), *Psychological Science* 24(5): 776–781
+
+Source: `mrazek-2013-mindfulness-wmc-gre-pubmed-abstract-en.txt` (PMID 23538911), abstract, lido em 2026-10-19. Tamanho da amostra não conferido e não citado.
+
+> In a randomized controlled investigation, we examined whether a 2-week mindfulness-training course would decrease mind wandering and improve cognitive performance. Mindfulness training improved both GRE reading-comprehension scores and working memory capacity while simultaneously reducing the occurrence of distracting thoughts
+
+Used in: capítulo "A mente que divaga".
+
+## Jong, Ng, Phang, Omran & Teoh (2025), *Applied Cognitive Psychology* 39(3)
+
+Source: `jong-2025-mbi-cognition-students-crossref-en.json` (metadados Crossref, doi:10.1002/acp.70056), abstract, lido em 2026-10-19. Texto completo não obtido (403).
+
+> This review synthesized evidence from randomized controlled trials [...] Twenty‐six trials were included, with 17 pooled for meta‐analysis. [...] The evidence quality was generally low. Significant improvements were found in the "orienting" subdomain of attention (MD −8.12, 95% CI: −14.18, −2.05) and "episodic memory": (SMD 0.93, 95% CI: 0.32, 1.53).
+
+O capítulo afirma apenas que os únicos ganhos significativos (no resumo) foram orientação e memória episódica, e que a divagação não estava entre eles. O resultado específico do subdomínio "mind wandering" não foi conferido.
+
+Used in: capítulo "A mente que divaga".
+
+## Ottaviani et al. (2016), *Psychological Bulletin* 142(3): 231–259
+
+Source: `ottaviani-2016-perseverative-cognition-pubmed-abstract-en.txt` (PMID 26689087), abstract.
+
+> The aim of this study was to meta-analyze available studies on the physiological concomitants of perseverative cognition in healthy subjects. [...] Sixty studies were eligible for the analyses. Associations emerged between perseverative cognition and higher systolic blood pressure (SBP) (g = .45) and diastolic blood pressure (DBP) (g = .51) in experimental studies, and higher heart rate (HR) (g = .28 and g = .20) and cortisol (g = .36 and g = .32), and lower heart rate variability (HRV) (g = .15 and g = .27) in experimental and correlational studies, respectively. [...] With the exception of blood pressure, results were not influenced by publication bias.
+
+Authors include Thayer JF and Brosschot JF. Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Parker et al. (2022), *American Journal of Preventive Medicine* 63(1): 131–140
+
+Source: `parker-2022-allostatic-mortality-pubmed-abstract-en.txt` (PMID 35393143), abstract.
+
+> 17 eligible studies (2001-2020) were included. [...] high allostatic load was associated with increased risk of all-cause mortality, overall (hazard ratio=1.22, 95% CI=1.14, 1.30, n=10) [...] cardiovascular disease mortality (hazard ratio=1.31, 95% CI=1.10, 1.57, n=6). [...] heterogeneity was high in most pooled estimates (I2>90%). [...] increased mortality risk of 22% for all-cause mortality and 31% for cardiovascular disease mortality. [...] The heterogeneity in allostatic load assessment across studies highlights the need for standardized measurement.
+
+Used in: capítulo "Estresse: o alarme que não desliga".
+
+## McCrory et al. (2023), *Psychoneuroendocrinology* 153: 106117
+
+Source: `mccrory-2023-allostatic-consensus-pubmed-abstract-en.txt` (PMID 37100008), abstract.
+
+> This study analyses data for 67,126 individuals aged 40-111 years participating in 13 different cohort studies and 40 biomarkers across 12 physiological systems [...] An index based on five biomarkers (CRP, RHR, HDL-C, WtHR and HbA1c) available in every study was found to predict an independent outcome - mortality - as well or better than more elaborate sets of biomarkers.
+
+Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Khalsa et al. (2020), *Psychophysiology* 57(2): e13479
+
+Source: `khalsa-2020-meditation-heartbeat-pubmed-abstract-en.txt` (PMID 31573689), abstract.
+
+> We previously found that experienced meditators did not exhibit a greater ability than nonmeditators to detect heartbeat sensations at rest, despite the meditators' reported subjective ratings of higher accuracy and lower difficulty. [...] isoproterenol, a beta-adrenergic agonist similar to adrenaline. [...] We studied 15 meditators and 15 nonmeditators [...] randomized, double-blinded, and placebo-controlled bolus infusions of isoproterenol. [...] There was no evidence of higher detection rates or increased accuracy across any dose [...] we conducted a meta-analysis including 724 participants and found little evidence for such differences. We conclude that the practice of meditation is not associated with improved cardiac interoceptive awareness.
+
+Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Grossman et al. (2026), *Clinical Neuropsychiatry* 23(1): 100–112
+
+Source: `grossman-2026-polyvagal-untenable-en.pdf`, p. 100 (abstract and citation box). Full PDF, open access.
+
+> Thirty-nine highly acknowledged experts in the areas of the physiology and the evolution of the vagus nerve and of vertebrate social behavior (many whose works have been cited in the polyvagal theory [PVT] literature as supporting the theory) were invited by the first author to participate as co-authors of this article. [...] All those invited, save one, accepted and co-authored the paper. [...] we conclude that the PVT is untenable, because it is not defensible based on existing neurophysiological and evolutionary evidence.
+
+Author count, checked against the byline on p. 100 (2026-10-19): 39 names, Grossman first and the other 38 in alphabetical order, matching "39 invited by the first author … all, save one, accepted". The book says "Grossman e outros 38 especialistas".
+
+Citation box: "Clinical Neuropsychiatry, 23(1), 100-112. doi.org/10.36131/cnfioritieditore20260110". Supersedes the earlier references.md citation, which lacked volume and pages. Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Porges (2026), *Clinical Neuropsychiatry* 23(1): 113–128
+
+Source: `porges-2026-critique-untenable-en.pdf`, p. 113 (abstract).
+
+> the critique repeatedly evaluates a reconstructed proxy of the theory shaped by persistent category errors [...] It is concluded that the charge of scientific untenability does not apply to Polyvagal Theory as formulated, but instead reflects a critique that fails to engage the theory on its own terms.
+
+The book's statement that the rebuttal is conceptual and presents no new data comes from inspecting the extracted text (`pdftotext`). Its sections are conceptual and methodological, and the text has no figures, tables or participant samples. DOI 10.36131/cnfioritieditore20260111. Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Puhlmann et al. (2021), *Psychosomatic Medicine* 83(8): 894–905
+
+Sources: `puhlmann-2021-hair-glucocorticoid-pubmed-abstract-en.txt` (PMID 34259441, abstract) and `puhlmann-2021-hair-glucocorticoid-pmc-en.xml` (full text, PMC8505163).
+
+Abstract:
+
+> An open-label efficacy trial that comprised three distinct 3-month long modules targeting attention and interoception, socioaffective, or sociocognitive abilities [...] Of 362 initially randomized individuals, 30 dropped out before study initiation (n = 332 [...]). Hair-based glucocorticoid assays were available from n = 227 [...] consistent decreases in HC and HE levels over the first three (TC3) to 6 months (TC1 and TC2) of training, with no further reduction at the final 9-month mark
+
+Full text, design:
+
+> TC1 and TC2 began their training with the attention-based Presence module. [...] TC3 only trained the Affect module for 13 weeks [...] asked to exercise the respective module's two core practices for 30 minutes daily on 5 days per week
+
+Full text, results:
+
+> HC and HE levels remained stable in the no-training RCC. With mental training, HC and HE levels decreased steadily until 6 months into the training regimen, regardless of practice content [...] After three (TC3 and TC2) to 6 months (TC1), hair glucocorticoid levels in all training cohorts were significantly reduced [...] Change in HC but not HE concentration was significantly and negatively associated with practice frequency [...] Changes in self-reported measures of chronic stress were unrelated to changes in HC and HE concentration.
+
+"inclusive num grupo que começou pelo módulo de atenção" = TC2 (Presence first, reduced after 3 months). Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Koncz, Demetrovics & Takacs (2021), *Health Psychology Review* 15(1): 56–84
+
+Source: `koncz-2021-meditation-cortisol-pubmed-abstract-en.txt` (PMID 32635830), abstract.
+
+> We included RCTs that measured change in cortisol levels. Based on 10 studies using blood samples meditation interventions had a significant, medium effect [...] this effect was only present for at-risk samples, that is, patients with a somatic illness. In the 21 studies using saliva samples the effect was small and not significant
+
+Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Rogerson et al. (2024), *Psychoneuroendocrinology* 159: 106415
+
+Source: `rogerson-2024-stress-management-cortisol-pubmed-abstract-en.txt` (PMID 37879237), abstract.
+
+> randomised controlled trials testing the effectiveness of psychological interventions on changing cortisol levels [...] in non-patient groups [...] with 58 studies (combined N = 3508) included in the meta-analysis. [...] Mindfulness and meditation (g = 0. 345) [...] there was no evidence of publication bias.
+
+Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Johnson et al. (2026), *Health Psychology* (online ahead of print)
+
+Source: `johnson-2026-mbsr-cortisol-pubmed-abstract-en.txt` (PMID 42691284), abstract.
+
+> Thirty-nine MBSR intervention studies met the inclusion criteria, with 2,059 participants. [...] Between-group analyses showed MBSR to be significantly more effective than control conditions in lowering cortisol (k = 34, g = -0.38 [-0.56, -0.21). [...] smaller reductions compared with active controls (k = 11, g = -0.29 [-0.54, -0.04]). Significant heterogeneity remained unexplained.
+
+Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Khanal et al. (2026), *Health Psychology Review* (online)
+
+Source: `khanal-2026-meditation-workplace-pubmed-abstract-en.txt` (PMID 41987765), abstract.
+
+> 132 randomised controlled trials (145 intervention groups and 23,080 participants) [...] meditation significantly improved perceived stress (g = -0.51) [...] anxiety (g = -0.38) [...] and sleep (g = -0.33) [...] Interventions did not show statistically significant differences in blood pressure, cortisol level, heart rate variability, or inflammatory markers. [...] The evidence certainty was moderate for well-being and sleep, and low to very low for the remaining outcomes.
+
+Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Brown et al. (2021), *Psychosomatic Medicine* 83(6): 631–640
+
+Source: `brown-2021-meditation-hrv-pubmed-abstract-en.txt` (PMID 33395216), abstract.
+
+> Heart rate variability (HRV) is a marker of autonomic nervous system function associated with both physical and mental health. [...] Nineteen RCTs met the criteria [...] MBIs were not efficacious in increasing vagally mediated resting-state HRV relative to control conditions (Hedges g = 0.38, 95% confidence interval [CI] = -0.014 to 0.77). When removing an outlier (g = 3.22), the effect size was reduced, CI narrowed, and findings remained nonsignificant (g = 0.19, 95% CI = -0.02 to 0.39).
+
+The book's definition of HRV ("marcador do funcionamento do sistema nervoso autônomo e associada à saúde física e mental") follows the first sentence. Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Grasmann et al. (2023), *International Journal of Molecular Sciences* 24(5): 4445
+
+Source: `grasmann-2023-mbi-biomarkers-pubmed-abstract-en.txt` (PMID 36901875), abstract.
+
+> treatment effects compared to control group effects, using only RCT data (k = 32, total N = 2880) [...] g = -0.11 (95% CI = [-0.23, 0.001], p = 0.053) [...] low study quality and evidence of publication bias may have impacted on the results.
+
+Title: "A Preregistered Systematic Review…". Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Ballesio et al. (2023), *Brain, Behavior, and Immunity* 111: 424–435
+
+Source: `ballesio-2023-immune-nma-pubmed-abstract-en.txt` (PMID 37187256), abstract.
+
+> we included 104 RCTs reporting on 7820 participants. [...] mindfulness-based (d = - 0.38, 95% CI: -0.66 to - 0.09) interventions were associated with post-treatment reduction of proinflammatory cytokines and markers. [...] Grade of evidence was moderate for mindfulness [...] substantial overall heterogeneity was detected in most of the analyses.
+
+Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Dasanayaka, Sirisena & Samaranayake (2021), *Systematic Reviews* 10(1): 151
+
+Source: `dasanayaka-2021-meditation-telomeres-pubmed-abstract-en.txt` (PMID 34020720), abstract.
+
+> Five studies comprising two RCTs and three case-control studies (CCS) were included [...] The effect of meditation on TL per se is still unclear.
+
+Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Kaliman et al. (2025), *Biological Psychiatry Global Open Science* 5(1): 100398
+
+Source: `kaliman-2025-agewell-telomeres-pubmed-abstract-en.txt` (PMID 39582797), abstract.
+
+> A total of 137 adults age ≥65 years were randomized to one of the 3 groups (meditation training, non-native language training, or passive control). [...] without a significant group effect or time × group interaction. [...] In older adults, we found no evidence for a main effect of an 18-month meditation training program on TL compared with the control groups.
+
+Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Chaix et al. (2017), *Psychoneuroendocrinology* 85: 210–214
+
+Source: `chaix-2017-epigenetic-clock-pubmed-abstract-en.txt` (PMID 28889075), abstract.
+
+> we analyzed the DNA methylome from blood cells of long-term meditators and meditation-naïve controls [...] IEAA was similar in both groups. [...] Longitudinal randomized controlled trials in larger cohorts are warranted
+
+Used in: capítulo "Estresse: o alarme que não desliga".
+
+## Schneider, Reangsing & Willis (2022), *Journal of Cardiovascular Nursing* 37(3): E11–E21
+
+Source: `schneider-2022-tm-bp-pubmed-abstract-en.txt` (PMID 35412731), abstract.
+
+> Across 18 primary studies (N = 1207), TM mildly improved systolic blood pressure by -3.3 mm Hg (P = .025) and diastolic blood pressure by -1.8 mm Hg (P = .008) compared with comparison groups, but the effects waned after 3 months.
+
+Used in: capítulo "O corpo, o sono e a dor".
+
+## Loucks et al. (2023), *Journal of the American Heart Association* 12(11): e028712
+
+Sources: `loucks-2023-mb-bp-pubmed-abstract-en.txt` (PMID 37218591, abstract) and `loucks-2023-mb-bp-pmc-en.xml` (full text, PMC10381983).
+
+Abstract:
+
+> Hypertension is a leading risk factor for cardiovascular disease. [...] a parallel-group phase 2 randomized clinical trial [...] Follow-up time was 6 months. Outcome assessors and data analyst were blinded to group allocation. Participants had elevated unattended office BP (≥120/80 mm Hg). We randomized 201 participants to MB-BP (n=101) or enhanced usual care control (n=100). [...] Loss-to-follow-up was 17.4%. [...] 81.1% non-Hispanic White [...] MB-BP was associated with a 5.9-mm Hg reduction (95% CI, -9.1 to -2.8 mm Hg) in systolic BP from baseline and outperformed the control group by 4.5 mm Hg at 6 months (95% CI, -9.0 to -0.1 mm Hg)
+
+Full text, control:
+
+> enhanced usual care group received the same home BP device, training in home BP monitoring, and option for referral to primary care as participants in the intervention group. They also received an educational brochure about high BP publicly available from the American Heart Association
+
+Full text, Disclosures:
+
+> Dr Loucks developed Mindfulness‐Based Blood Pressure Reduction (MB‐BP) and was one of the 3 MB‐BP instructors for this study. He does not receive financial compensation related to MB‐BP. [...] the primary outcome was preregistered on ClinicalTrials.gov. Dr Loucks did not have access to the master data file. He also did not perform the statistical analyses, which were performed by an independent blinded data [analyst]
+
+The gloss of "phase 2" as "um ensaio intermediário, feito antes de um teste definitivo" is the book's own plain-language explanation. Used in: capítulo "O corpo, o sono e a dor".
+
+## Reangsing, Punsuwun & Oerther (2026), *Journal of Cardiovascular Nursing* 41(5): E301–E312
+
+Source: `reangsing-2026-mbi-bp-meta-pubmed-abstract-en.txt` (PMID 41996612), abstract.
+
+> We only reviewed randomized controlled trials [...] Across 21 studies providing 23 between group comparisons (N = 2002) [...] mindfulness-based interventions had a large effect on the reduction in systolic blood pressure by -6.320 mm Hg and diastolic blood pressure by -4.091 mm Hg. [...] No primary studies reported the adverse effects.
+
+Used in: capítulo "O corpo, o sono e a dor".
+
+## Lee et al. (2026), *Journal of Human Hypertension* 40(9): 689–701
+
+Source: `lee-2026-mbi-bp-umbrella-pubmed-abstract-en.txt` (PMID 42380667), abstract.
+
+> From 1324 records, 11 systematic reviews and meta-analyses met inclusion criteria. [...] Methodological quality was rated low or critically low in all reviews, except the Cochrane review which was high-quality and reported systolic BP reductions of -6.08 mmHg (95% CI: -12.79-0.63) and diastolic reductions of -5.18 mmHg (95% CI: -10.65-0.29) compared with active controls. [...] Overall, current evidence suggests MBIs may modestly reduce BP, potentially within clinically meaningful ranges. [...] High-quality, adequately powered RCTs are needed
+
+Authors include Loucks EB (Brown University School of Public Health). In "O que a ciência da meditação mostra — e o que não mostra" the chapter prints no figure from it, only "alguns milímetros de mercúrio" and "em geral, de baixa qualidade".
+
+Used in: capítulos "O corpo, o sono e a dor" e "O que a ciência da meditação mostra — e o que não mostra".
+
+## Zanesco et al. (2018), *Journal of Cognitive Enhancement*
+
+Source: `zanesco-2018-cognitive-aging-maintenance-semanticscholar-abstract-en.json` (Semantic Scholar API, abstract), read 2026-10-19. doi:10.1007/s41465-018-0068-1. Follow-up sample size **not verified** (the open-access PDF at link.springer.com was blocked); the chapter does not print it.
+
+> We now extend this prior investigation across additional follow-up assessments occurring up to 7 years after the conclusion of training. Performance improvements observed during periods of intensive practice were partially maintained several years later. Importantly, aging-related decrements in measures of response inhibition accuracy and reaction time variability were moderated by levels of continued meditation practice across the follow-up period.
+
+Used in: capítulo "Atenção, emoção e hábito".
+
+## Im et al. (2021), *Clinical Psychology Review* 84: 101972
+
+Source: `im-2021-mbi-cognitive-function-pubmed-abstract-en.txt` (PMID 33582570), abstract.
+
+> we conducted a meta-analysis of 25 studies (n = 1439) [...] MBIs produce non-significant effects on attention (SMD = 0.07), working memory (SMD = 0.16), and long-term memory (SMD = -0.12), while a small effect was observed for executive function (SMD = 0.29).
+
+Used in: capítulo "Atenção, emoção e hábito" (tabela).
+
+## Millett et al. (2021), *Consciousness and Cognition* 95: 103195
+
+Source: `millett-2021-group-mindfulness-executive-pubmed-abstract-en.txt` (PMID 34425456), abstract.
+
+> a total of 29 studies were included in the meta-analysis [...] Overall, the current review suggests that the effect of group-based mindfulness training on executive functioning is not robust.
+
+Used in: capítulo "Atenção, emoção e hábito" (PT: "não é robusto", translated; EN quotes the original "is not robust").
+
+## Whitfield et al. (2022), *Neuropsychology Review* 32(3): 677–702
+
+Source: `whitfield-2022-mbp-cognitive-function-pubmed-abstract-en.txt` (PMID 34350544), abstract.
+
+> Fifty-six unique studies (n = 2,931) were included [...] the summary effect size for all studies favored MBPs over comparators and was small in magnitude (g = 0.15; [0.05, 0.24]). Across subgroup analyses of individual cognitive domains/subdomains, MBPs outperformed comparators for executive function (g = 0.15; [0.02, 0.27]) and working memory outcomes (g = 0.23; [0.11, 0.36]) only. [...] Across all studies, MBPs outperformed inactive, but not active comparators. Limitations include the primarily unclear within-study risk of bias (only a minority of studies were considered low risk)
+
+Used in: capítulo "Atenção, emoção e hábito" (tabela e balanço).
+
+## Zainal & Newman (2024), *Health Psychology Review* 18(2): 369–395
+
+Source: `zainal-2024-mindfulness-cognition-111rcts-pubmed-abstract-en.txt` (PMID 37578065), abstract.
+
+> One-hundred-and-eleven RCTs (n = 9,538) met eligibility criteria. MBIs had small-to-moderate significant effects on global cognition, executive attention, working memory accuracy, inhibition accuracy, shifting accuracy, sustained attention, and subjective cognitive functioning (vs. waitlist/no-treatment, g = 0.257-0.643; vs. active controls, g = 0.192-0.394). [...] Treatment effects were stronger for [...] studies with complete-case (vs. intention-to-treat) analysis
+
+Used in: capítulo "Atenção, emoção e hábito" (tabela).
+
+## Sala & Gobet (2019), *Trends in Cognitive Sciences* 23(1): 9–20; Gobet & Sala (2023), *Perspectives on Psychological Science* 18(1): 125–141
+
+Sources: `sala-2019-cognitive-training-general-pubmed-abstract-en.txt` (PMID 30471868); `gobet-2023-cognitive-training-phenomenon-pubmed-abstract-en.txt` (PMID 35939827), abstracts.
+
+> The results are highly consistent across all the reviewed domains: minimal effect on domain-general cognitive skills. Crucially, the observed between-study variability is accounted for by design quality and statistical artefacts. (Sala & Gobet 2019)
+
+> The overall effect of far transfer is null, and there is little to no true variability between the types of cognitive training. (Gobet & Sala 2023)
+
+Used in: capítulo "Atenção, emoção e hábito".
+
+## Gross (2002), *Psychophysiology* 39(3): 281–291
+
+Source: `gross-2002-emotion-regulation-consequences-pubmed-abstract-en.txt` (PMID 12212647), abstract.
+
+> Experimental and individual-difference studies find reappraisal is often more effective than suppression. Reappraisal decreases emotion experience and behavioral expression, and has no impact on memory. By contrast, suppression decreases behavioral expression, but fails to decrease emotion experience, and actually impairs memory.
+
+Used in: capítulo "Atenção, emoção e hábito".
+
+## Raugh, Berglund & Strauss (2025; online 2024), *Affective Science* 6(1): 171–200
+
+Source: `raugh-2025-mindfulness-emotion-regulation-pubmed-abstract-en.txt` (PMID 40094043), abstract. PubMed header: "Affect Sci. 2024 Oct 28;6(1):171-200 … eCollection 2025 Mar".
+
+> A total of 2037 records were screened, from which 110 studies with 767 effects (N = 8,105) were analyzed. There was a significant effect of mindfulness-based strategies (g = .28, 95% CI [.18, .38], I 2 = 83.3%). Components of monitoring (g = .17, 95% CI [.02, .32]) and equanimity (g = .3, 95% CI [.19, .41]) were also effective, although monitoring alone was significantly less effective than other strategies. [...] Despite small-study effects and publication bias, the estimate was robust to sensitivity analyses (between .15 and .3).
+
+Used in: capítulo "Atenção, emoção e hábito".
+
+## Goldin et al. (2021), *JAMA Psychiatry* 78(10): 1134–1142
+
+Source: `goldin-2021-cbt-mbsr-reappraisal-pubmed-abstract-en.txt` (PMID 34287622), abstract.
+
+> a total of 108 unmedicated adults diagnosed with generalized SAD were randomly assigned to 12 weeks of CBGT, MBSR, or waitlist. [...] CBGT and MBSR did not differ in decreased negative emotion and increased reappraisal and acceptance BOLD responses.
+
+Used in: capítulo "Atenção, emoção e hábito".
+
+## Jeong et al. (2022), *Science* 378(6626): eabq6740
+
+Source: `jeong-2022-dopamine-causal-associations-pubmed-abstract-en.txt` (PMID 36480599), abstract.
+
+> We developed an algorithm for retrospective causal learning and found that mesolimbic dopamine release conveys causal associations but not RPE, thereby challenging the dominant theory of reward learning.
+
+The abstract speaks of "animals"; the chapter says "um estudo com animais". "25 anos" in the chapter is 1997 → 2022.
+
+Used in: capítulo "Atenção, emoção e hábito".
+
+## Jackson et al. (2022), *Cochrane Database of Systematic Reviews* 4(4): CD013696
+
+Source: `jackson-2022-mindfulness-smoking-cochrane-pubmed-abstract-en.txt` (PMID 35420700), abstract.
+
+> We included randomised controlled trials (RCTs) and cluster-RCTs [...] and assessed smoking cessation at six months or longer.
+
+> We included 21 studies, with 8186 participants.
+
+> We did not detect a clear benefit or harm of mindfulness training interventions on quit rates compared with intensity-matched smoking cessation treatment (RR 0.99, 95% CI 0.67 to 1.46; I2 = 0%; 3 studies, 542 participants; low-certainty evidence)
+
+> We did not detect a clear benefit of mindfulness-based smoking cessation interventions for increasing smoking quit rates or changing mental health and well-being. [...] the evidence was of low and very low certainty
+
+Used in: capítulo "Atenção, emoção e hábito" (quadro).
+
+## Garrison et al. (2020), *Nicotine & Tobacco Research* 22(3): 324–331
+
+Source: `garrison-2020-craving-to-quit-pubmed-abstract-en.txt` (PMID 29917096), abstract. Brewer JA is listed as the last author.
+
+> A modified intent-to-treat approach was used for treatment starters (MMT-ES n = 143; ES n = 182 [...]). No group difference was found in smoking abstinence at 6 months (overall, 11.1%; MMT-ES, 9.8%; ES, 12.1%; χ2(1) = 0.43, p = .51).
+
+Control = "experience sampling only (ES)", i.e. an app recording real-time craving, smoking and mindfulness.
+
+Used in: capítulo "Atenção, emoção e hábito" (quadro).
+
+## Goldberg et al. (2021), *Cochrane Database of Systematic Reviews* 10(10): CD011723
+
+Source: `goldberg-2021-mbi-sud-cochrane-pubmed-abstract-en.txt` (PMID 34668188), abstract.
+
+> All studies were at high risk of performance bias and most were at high risk of detection bias.
+
+> In comparison with no treatment, the evidence is uncertain regarding the impact of MBIs on SUD-related outcomes. [...] In comparison with other treatments, MBIs may slightly reduce days with substance use at post-treatment and follow-up (4 to 10 months).
+
+Tobacco use disorders excluded. Used in: capítulo "Atenção, emoção e hábito".
+
+## Garland et al. (2022), *JAMA Internal Medicine* 182(4): 407–417
+
+Source: `garland-2022-more-opioid-misuse-pubmed-abstract-en.txt` (PMID 35226053), abstract.
+
+> The study included 250 adults with chronic pain receiving long-term opioid therapy who were misusing opioid medications. INTERVENTIONS: Treatment with MORE (comprising training in mindfulness, reappraisal, and savoring positive experiences) or supportive group psychotherapy (control condition)
+
+> at 9 months, 92 of 250 participants (36.8%) discontinued the study.
+
+> At 9 months, 36 of 80 participants (45.0%) in the MORE group were no longer misusing opioids compared with 19 of 78 participants (24.4%) in the supportive psychotherapy group.
+
+COI: "Dr Garland reported [...] serving as the Director of the Center on Mindfulness and Integrative Health Intervention Development, which provides Mindfulness-Oriented Recovery Enhancement (MORE) [...] receiving honoraria and payment for delivering seminars [...] and receiving royalties from BehaVR and from the sales of books related to MORE".
+
+Used in: capítulo "Atenção, emoção e hábito".
+
+## Singh et al. (2024), *Healthcare (Basel)* 12(23): 2488
+
+Source: `singh-2024-time-form-habit-pubmed-abstract-en.txt` (PMID 39685110), abstract.
+
+> A total of 20 studies involving 2601 participants [...] were included. Most studies had a high risk of bias rating (n = 11). [...] Four studies reported the median or mean times to reach habit formation, ranging from 59-66 days (median) and 106-154 days (means), with substantial individual variability (4-335 days).
+
+Used in: capítulo "Atenção, emoção e hábito".
+
+## Buyalskaya et al. (2023), *PNAS* 120(17): e2216115120
+
+Source: `buyalskaya-2023-machine-learning-habit-pubmed-abstract-en.txt` (PMID 37068252), abstract.
+
+> two large panel data sets with objective measures of 1) gym attendance (over 12 million observations) and 2) hospital handwashing (over 40 million observations). [...] Contrary to the popular belief in a "magic number" of days to develop a habit, we find that it typically takes months to form the habit of going to the gym but weeks to develop the habit of handwashing in the hospital.
+
+Used in: capítulo "Atenção, emoção e hábito".
+
+## Sverre et al. (2023), *Clinical Psychology Review* 100: 102234
+
+Source: `sverre-2023-mbt-vs-cbt-pubmed-abstract-en.txt` (PMID 36527794), abstract.
+
+> While Cognitive Behavioral Therapy (CBT) is recommended as first-line treatment for depression [...] When pooling the results of 30 independent RCTs with a total of 2750 participants, MBT and CBT were statistically significantly equivalent at both post-intervention (Hedges's g = -0.009; p < .001) and follow-up (g = -0.033; p = .001). [...] It remains unclear whether the similar effects of the two intervention types are due to different mechanisms or common factors.
+
+Used in: capítulo "O que a ciência da meditação mostra — e o que não mostra".
+
+## Breedvelt et al. (2021), *JAMA Psychiatry* 78(8): 868–875
+
+Source: `breedvelt-2021-antidepressants-sequential-ipd-pubmed-abstract-en.txt` (PMID 34009273), abstract.
+
+> Individual data from 714 participants [...] from 4 RCTs that compared preventive cognitive therapy or mindfulness-based cognitive therapy during and/or after antidepressant tapering vs antidepressant monotherapy were available. Two-stage random-effects meta-analysis found no significant difference in time to depressive relapse [...] (hazard ratio [HR], 0.86; 95% CI, 0.60-1.23).
+
+Used in: capítulo "O que a ciência da meditação mostra — e o que não mostra".
+
+## NICE (2022), NG222, *Depression in adults: treatment and management*
+
+Source: `nice-2022-ng222-depression-recommendations-en.html` (https://www.nice.org.uk/guidance/ng222/chapter/Recommendations), read 2026-10-19. "Published: 29 June 2022" on the page.
+
+> (Table 1, Treatment options for less severe depression) Group mindfulness and meditation A group intervention provided preferably by 2 practitioners, at least 1 of whom has therapy-specific training and competence. Uses a programme such as mindfulness-based cognitive therapy specifically designed for people with depression. Usually consists of 8 regular sessions.
+
+> 1.8.5 For people who have remitted from depression when treated with antidepressant medication alone, but who have been assessed as being at higher risk of relapse, consider: continuing with their antidepressant medication [...] or a course of psychological therapy (group CBT or mindfulness-based cognitive therapy [MBCT]) for people who do not wish to continue on antidepressants [...] or continuing with their antidepressant medication and a course of psychological therapy (group CBT or MBCT). [2022]
+
+"O órgão britânico que publica recomendações clínicas" is a plain description of NICE (National Institute for Health and Care Excellence), not a quotation.
+
+Used in: capítulo "O que a ciência da meditação mostra — e o que não mostra".
+
+## Zhou et al. (2023), *Translational Psychiatry* 13(1): 300
+
+Source: `zhou-2023-relapse-prevention-nma-pubmed-abstract-en.txt` (PMID 37770471), abstract.
+
+> A total of 2,871 patients were included from 25 RCTs. Mindfulness-based cognitive therapy (MBCT) was significantly better than placebo at the 3 months, the 6 months, and the 9 months at follow-up. [...] CBT was significantly better than placebo at the 21 months and the 24 months at follow-up. [...] CBT had the longest but not continuous effect [...] More evidence is needed from large comparative trials that provide long-term follow-up data.
+
+Used in: capítulo "O que a ciência da meditação mostra — e o que não mostra".
+
+## Hu et al. (2024), *JAMA Network Open* 7(10): e2438453
+
+Source: `hu-2024-mbsr-escitalopram-secondary-pmc-en.xml` (PMC11581486), Results; PMID 39382900.
+
+> Participants in both groups demonstrated reductions in anxiety symptoms ( Table 1 ), with between-group differences corresponding to small effect sizes (Cohen d ≤ 0.20). [...] At week 4 (midtreatment), significant differences in PROMIS Anxiety and PROMIS Depression scores emerged, with greater improvement with escitalopram, but were no longer significant at week 8.
+
+Table 1 reports follow-up at weeks 12 and 24.
+
+Used in: capítulo "O que a ciência da meditação mostra — e o que não mostra".
+
+## Hoge et al. (2025), *Journal of Affective Disorders* 384: 163–172
+
+Source: `hoge-2025-mbsr-escitalopram-remote-pubmed-abstract-en.txt` (PMID 40324655), abstract.
+
+> During the pandemic, a randomized controlled trial (RCT) of Mindfulness-Based Stress Reduction (MBSR) versus the antidepressant, escitalopram (ESC) added a second phase using a synchronous, videoconference (VC) format for both interventions [...] MBSR-VC (n = 100) and ESC-VC (n = 102) did not significantly differ in mean CGI-S change at endpoint (1.39 vs 1.51, p = 0.17) but non-inferiority of MBSR-VC was not supported.
+
+Used in: capítulo "O que a ciência da meditação mostra — e o que não mostra".
+
+## Galla, Karanam, Pelakh & Goldberg (2024), *Frontiers in Psychology* 15: 1384531
+
+Source: `galla-2024-adolescents-universal-reanalysis-pubmed-abstract-en.txt` (PMID 38939220), abstract.
+
+> we tested impacts of 22 randomized controlled trials (N = 16,558) [...] When compared to all controls combined, mindfulness interventions did not significantly improve any outcome (ds = 0.01 to 0.26). No effects of mindfulness interventions were observed at follow-up assessment.
+
+Used in: capítulo "O que a ciência da meditação mostra — e o que não mostra".
+
+## Holst et al. (2026), *JCPP Advances* 6(2): e70046
+
+Source: `holst-2026-myriad-trajectories-pubmed-abstract-en.txt` (PMID 41626257), abstract.
+
+> Receiving the mindfulness intervention was not associated with any mental health trajectory in models adjusted for confounders.
+
+Used in: capítulo "O que a ciência da meditação mostra — e o que não mostra".
+
+## Webb et al. (2026), *JAMA Psychiatry* 83(4): 389–398
+
+Source: `webb-2026-myriad-predicting-response-pubmed-abstract-en.txt` (PMID 41706471), abstract.
+
+> This study found that machine learning identified a subgroup with statistically detectable but clinically trivial differential intervention response.
+
+Used in: capítulo "O que a ciência da meditação mostra — e o que não mostra" (PT renders it as "clinicamente trivial").
+
+## Dunning et al. (2022), *Evidence-Based Mental Health* 25(3): 135–142
+
+Source: `dunning-2022-mbp-children-updated-pubmed-abstract-en.txt` (PMID 35820989), abstract.
+
+> While MBPs show promising results for some outcomes, in general, the evidence is of low quality and inconclusive.
+
+Used in: capítulo "O que a ciência da meditação mostra — e o que não mostra".
+
+## Parsons et al. (2017), *Behaviour Research and Therapy* 95: 29–41
+
+Source: `parsons-2017-home-practice-pubmed-abstract-en.txt` (PMID 28527330), abstract.
+
+> Across 28 studies (N = 898), there was a small but significant association between participants' self-reported home practice and intervention outcomes (r = 0·26, 95% CI 0·19,-0·34).
+
+The chapter prints no figure from it ("melhora um pouco mais … é correlação").
+
+Used in: capítulo "O que a ciência da meditação mostra — e o que não mostra".
+
+## Goldberg, Lam, Britton & Davidson (2022), *Psychotherapy Research* 32(3): 291–305
+
+Source: `goldberg-2022-mrae-population-pubmed-abstract-en.txt` (PMID 34074221), abstract.
+
+> Nine hundred and fifty three participants completed our screening survey, 470 endorsed lifetime exposure to meditation practice, and 434 completed a follow-up survey assessing MRAE (92.3% response rate). A higher proportion than hypothesized reported occurrence of MRAE (general item = 32.3%, 1+ specific item = 50.0%) and MRAE duration ≥1 month (10.4%). [...] Some degree of functional impairment was reported by 10.6% of participants, with impairment lasting ≥1 month for 1.2%. Childhood adversity was associated with elevated risk for MRAE. Participants reporting MRAE were equally glad to have practiced meditation as those not reporting MRAE.
+
+Used in: capítulos "Quando a meditação dá errado" (figures) and "O que a ciência da meditação mostra — e o que não mostra" (verdict only).
+
+## Van Dam, Targett, Davies, Burger & Galante (2025), *Clinical Psychological Science* 13(3): 632–648
+
+Source: `van-dam-2025-incidence-adverse-effects-crossref-abstract-en.txt` (Crossref, doi:10.1177/21677026241298269), abstract.
+
+> We conducted a cross-sectional, population-based survey of 886 U.S. adults (approximately representing population age, gender, and race/ethnicity) stratified by lifetime meditation experience and type. Of the participants, 96.6% reported an unusual experience, 58.4% reported an AE (Inventory of Meditation Experiences), 78.3% endorsed one or more items on the Meditation-Related Adverse Effects Scale, 31.4% endorsed experiencing a challenging/difficult/distressing experience, and 9.1% reported functional impairment because of AEs. In a robust multiple regression, psychological distress, psychoticism, unusual beliefs, and meditation-retreat participation were positively associated with unusual experiences and AEs.
+
+Used in: capítulos "Quando a meditação dá errado" (figures) and "O que a ciência da meditação mostra — e o que não mostra" (verdict only).
+
+## Canby et al. (2025), *PLOS ONE* 20(1): e0318499
+
+Source: `canby-2025-trauma-adverse-effects-pubmed-abstract-en.txt` (PMID 39883728), abstract.
+
+> secondary analyses of two MBP clinical trials (N = 52 and 104, respectively). Study 2 also examined meditation-related side effects (MRSE) and MRAE as outcomes [...] total childhood trauma, childhood emotional abuse, and subclinical PTSD symptoms predicted lasting MRAE.
+
+Used in: capítulos "Quando a meditação dá errado" and "O que a ciência da meditação mostra — e o que não mostra" (verdict only).

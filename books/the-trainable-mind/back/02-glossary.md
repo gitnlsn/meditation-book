@@ -1,7 +1,8 @@
 ---
 title: Glossary
 source: a-mente-treinavel/back/02-glossario.md
-status: draft
+status: final
+source_sha: 53b201ac1bd4
 ---
 The terms the book defines, in the sense the book uses them, with the
 chapter where each one is explained in full. Pali terms keep the spelling
@@ -55,6 +56,10 @@ the text uses and come, first of all, with what they mean.
 :   An expression coined by the monk Nyanaponika Thera in 1954 for a neutral, nonjudgmental attention. According to the historian Robert Sharf, there is little that is "bare" in the *sati* of the early texts, which involves discerning the moral value of what arises.\
     → chapter {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
 
+**blood pressure**
+:   The force of the blood against the walls of the arteries, measured in millimeters of mercury (mm Hg) as two numbers: systolic, when the heart contracts, and diastolic, between one beat and the next. High blood pressure is a leading risk factor for cardiovascular disease.\
+    → chapter {{cap:o-corpo-o-sono-e-a-dor}}
+
 **bodhisattva**
 :   In the Mahāyāna, someone who follows the gradual path that runs from the aspiration to awakening to its realization.\
     → chapter {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}}
@@ -81,6 +86,10 @@ the text uses and come, first of all, with what they mean.
 
 ## C
 
+**CBT**
+:   Cognitive behavioral therapy: the psychotherapy that trains a person to identify and change the thoughts and behaviors that keep a problem going. It is recommended as the first-line treatment for depression.\
+    → chapter {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}
+
 **CBT-I**
 :   Cognitive behavioral therapy for insomnia: a structured treatment of a few weeks that works on the habits and beliefs that keep insomnia going. It is the first-choice treatment for chronic insomnia in adults.\
     → chapter {{cap:o-corpo-o-sono-e-a-dor}}
@@ -99,6 +108,10 @@ the text uses and come, first of all, with what they mean.
 
 **control group**
 :   A group of similar people who do *not* receive the practice being tested and are measured at the same points. Only the difference between the groups counts.\
+    → chapter {{cap:como-saber-se-algo-funciona}}
+
+**correlation**
+:   Two things that go together. Correlation is not causation: people who spend years meditating may have been different from the start, just as people who go to the gym may already be healthier before their first class.\
     → chapter {{cap:como-saber-se-algo-funciona}}
 
 **cortex**
@@ -138,7 +151,7 @@ the text uses and come, first of all, with what they mean.
 ## E
 
 **effect size**
-:   How large the difference between groups is, not just whether it exists. The most common one, *d*, measures that difference against how much people already differ from one another: with *d* = 0.35, the person who practiced comes out ahead in about 60 of every 100 draws.\
+:   How large the difference between groups is, not just whether it exists. The most common one, *d* (or its variant *g*), compares that difference with how much people already vary. The book puts it into words: indistinguishable from 0, no detectable effect; about 0.2, small; about 0.5, moderate; 0.8 or more, large. A value between two bands takes both words: 0.35 is "small to moderate."\
     → chapter {{cap:como-saber-se-algo-funciona}}
 
 **emotion regulation**
@@ -154,7 +167,7 @@ the text uses and come, first of all, with what they mean.
     → chapter {{cap:bondade-e-compaixao-como-treino}}
 
 **emptiness**
-:   The claim that nothing has a nature of its own, independent of everything else (*svabhāva*). Within the Mahāyāna, the Madhyamaka school extended the not-self argument to all things; it is one school's reading, not all of Buddhism's.\
+:   The claim that nothing has a nature of its own, independent of everything else. Within the Mahāyāna, the Madhyamaka school extended the not-self argument to all things; it is one school's reading, not all of Buddhism's.\
     → chapters {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}} and {{cap:impermanencia-e-nao-eu}}
 
 **equanimity**
@@ -194,7 +207,7 @@ the text uses and come, first of all, with what they mean.
 ## G
 
 **gray matter**
-:   The tissue that holds the cell bodies of neurons and a large share of the synapses, as distinct from white matter, made of the long extensions that connect distant regions. When a study says it "increased," it means the analysis software estimated a little more of this tissue in some region.\
+:   The tissue that holds the cell bodies of neurons and a large share of the synapses. When a study says it "increased," it means the analysis software estimated a little more of this tissue in some region.\
     → chapter {{cap:neuroplasticidade-sem-exagero}}
 
 ## H
@@ -203,12 +216,16 @@ the text uses and come, first of all, with what they mean.
 :   A behavior that fires on its own in a given context, without a conscious decision. It is an association between context and response formed by repetition, and the time it takes to form varies widely: from 18 to 254 days in the most cited study.\
     → chapter {{cap:atencao-emocao-e-habito}}
 
+**heart rate variability**
+:   The natural variation in the interval between one heartbeat and the next. It is used as a marker of autonomic nervous system function and is associated with physical and mental health. No effect of meditation on it has been shown.\
+    → chapter {{cap:estresse-o-alarme-que-nao-desliga}}
+
 **Hebbian learning**
 :   The idea Donald Hebb proposed in 1949: when one neuron repeatedly helps make another fire, the connection between the two grows stronger. Connections used together are reinforced.\
     → chapter {{cap:neuroplasticidade-sem-exagero}}
 
 **hippocampus**
-:   A curved structure, one on each side of the brain, on the inner part of the temporal lobes. It is essential for forming new memories and for finding your way in space, and it is the region of the London taxi driver studies.\
+:   A curved structure, one on each side of the brain, deep inside, behind the temples. It is essential for forming new memories and for finding your way in space, and it is the region of the London taxi driver studies.\
     → chapter {{cap:neuroplasticidade-sem-exagero}}
 
 **HPA axis**
@@ -220,6 +237,9 @@ the text uses and come, first of all, with what they mean.
 **insomnia**
 :   Persistent difficulty falling asleep, staying asleep, or waking too early without being able to get back to sleep, with a cost the next day. One bad night is not insomnia.\
     → chapter {{cap:o-corpo-o-sono-e-a-dor}}
+
+**intensive retreat**
+:   See **retreat**.
 
 **interoception**
 :   The perception of the body's internal state — heartbeat, breathing, muscle tension, stomach, temperature — largely unconscious.\
@@ -262,7 +282,7 @@ the text uses and come, first of all, with what they mean.
     → chapter {{cap:bondade-e-compaixao-como-treino}}
 
 **mind wandering**
-:   When attention leaves what you are doing and goes to thoughts and feelings unrelated to the task, usually without your noticing. It took up almost half of the moments sampled in daily life, and it has costs (errors) and benefits (planning, creativity).\
+:   When attention leaves what you are doing and goes to thoughts and feelings unrelated to the task, usually without your noticing. It takes up between a third and half of waking moments, and it has costs (errors) and benefits (planning, creativity).\
     → chapter {{cap:a-mente-que-divaga}}
 
 **mindfulness**
@@ -331,17 +351,25 @@ the text uses and come, first of all, with what they mean.
 :   Wisdom, discernment: the training of seeing things as the texts say they are — impermanent, unsatisfactory, without a fixed self. One of the three trainings; it includes right view and right intention.\
     → chapter {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
 
-**perseverative cognition hypothesis**
-:   The proposal of Brosschot, Gerin and Thayer (2006): worry and rumination prolong the body's activation before and after a stressful event. The authors themselves call the support preliminary, because much of the data is correlational.\
-    → chapter {{cap:estresse-o-alarme-que-nao-desliga}}
-
 **placebo**
 :   In medicine, a treatment with no active ingredient that produces real improvement because the person expects to improve. By extension, all the part of a benefit that comes from expectation and context rather than from the ingredient being tested.\
     → chapter {{cap:como-saber-se-algo-funciona}}
 
 **polyvagal theory**
-:   Stephen Porges's theory that the vagus nerve has a "ventral" branch, linked to safety and social connection, and a "dorsal" one, linked to paralysis and shutdown. It is popular, but its physiological premises are rejected by most specialists.\
+:   Stephen Porges's theory that the vagus nerve has a "ventral" branch, linked to safety and social connection, and a "dorsal" one, linked to paralysis and shutdown. It is popular, but its physiological premises are rejected by a broad group of experts on the autonomic nervous system.\
     → chapter {{cap:estresse-o-alarme-que-nao-desliga}}
+
+**posture**
+:   The way you sit. In the tradition, it has a function: to keep the body stable and alert, without strain. The sutta speaks of crossed legs and an upright body, but a chair works just as well.\
+    → chapter {{cap:atencao-na-respiracao}}
+
+**prediction error**
+:   The difference between the expected reward and the one received. In the 1990s, dopamine neurons in primates seemed to signal this error, not the reward itself. A 2022 study in animals challenged that reading.\
+    → chapter {{cap:atencao-emocao-e-habito}}
+
+**preregistration**
+:   Publishing a study's plan before collecting the data: how many people, what control, what the main outcome is, how the analysis will be done. Afterward, you cannot change your bet or hide the study that didn't work out.\
+    → chapter {{cap:como-saber-se-algo-funciona}}
 
 **publication bias**
 :   The tendency of studies with positive results to be published more than those that find nothing. It makes the published literature look more optimistic than reality, and a meta-analysis built on it inherits the optimism.\
@@ -365,6 +393,10 @@ the text uses and come, first of all, with what they mean.
 :   Another group of researchers repeats a study, preferably with more people, and sees whether the result holds. A finding that has appeared only once is a lead, not a fact.\
     → chapter {{cap:como-saber-se-algo-funciona}}
 
+**retraction**
+:   When a journal withdraws an article it has already published, with a notice that says why. The book tells the case of a 2023 meta-analysis on mindfulness and brain structure, retracted in 2025 for leaving out studies that found no effect.\
+    → chapter {{cap:neuroplasticidade-sem-exagero}}
+
 **retreat**
 :   A period away from your routine devoted to practice, from a morning to several weeks. An **intensive retreat** lasts several days, sometimes weeks or months, given over almost entirely to formal practice, many hours a day and usually in silence; having been on retreat is associated with more unpleasant experiences.\
     → chapters {{cap:quando-a-meditacao-da-errado}} and {{cap:uma-pratica-para-a-vida}}
@@ -384,7 +416,7 @@ the text uses and come, first of all, with what they mean.
     → chapter {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
 
 **samatha**
-:   Calm, serenity: the development of the mind's stability, linked in the texts to the states of meditative absorption (*jhāna*). In the suttas, it complements *vipassanā*.\
+:   Calm, serenity: the development of the mind's stability, linked in the texts to the states of absorption described under right concentration. In the suttas, it complements *vipassanā*.\
     → chapter {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
 
 **Sangha**
@@ -392,7 +424,7 @@ the text uses and come, first of all, with what they mean.
     → chapters {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}} and {{cap:uma-pratica-para-a-vida}}
 
 **sati**
-:   A Pali term related to the verb *sarati*, "to remember": the quality that keeps something in view in the mind. In the texts, it involves discerning the moral value of what arises; in English, it was translated as *mindfulness*.\
+:   A Pali term related to the verb "to remember": the quality that keeps something in view in the mind. In the texts, it involves discerning the moral value of what arises; in English, it was translated as *mindfulness*.\
     → chapter {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
 
 **satipaṭṭhāna**
@@ -411,6 +443,10 @@ the text uses and come, first of all, with what they mean.
 :   In the philosopher Thomas Metzinger's theory, the representation the brain builds of its own organism, which we live not as a model but as reality itself. The conclusion that there is therefore "no self" is a philosophical thesis, not a laboratory result.\
     → chapter {{cap:impermanencia-e-nao-eu}}
 
+**sham meditation**
+:   A control presented as meditation, which creates the same expectation but without the instruction being tested: meditation's sugar pill. If real meditation beats the sham, the effect is not just expectation.\
+    → chapter {{cap:como-saber-se-algo-funciona}}
+
 **sīla**
 :   Ethics, conduct: the training of what you do and say. One of the three trainings; it includes right speech, right action and right livelihood.\
     → chapter {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
@@ -418,6 +454,10 @@ the text uses and come, first of all, with what they mean.
 **social-evaluative threat**
 :   The possibility of being judged negatively by others. Combined with a lack of control over the outcome, it produced the largest cortisol responses in laboratory studies, with no physical danger at all.\
     → chapter {{cap:estresse-o-alarme-que-nao-desliga}}
+
+**statistically significant**
+:   Said of a result that would be unlikely if there were no effect at all, like a coin that comes up heads many times in a row. It does not mean the effect is large or important; it only means it is unlikely to be pure chance.\
+    → chapter {{cap:como-saber-se-algo-funciona}}
 
 **stress response**
 :   The set of changes the body makes when it detects a threat: the heart speeds up, breathing changes, fuel goes to the muscles and functions that can wait are set aside. It uses two routes, the autonomic nervous system and the HPA axis.\
@@ -440,6 +480,10 @@ the text uses and come, first of all, with what they mean.
 **teacher**
 :   Anyone with training and experience who follows your practice: a certified MBSR or MBCT instructor, an authorized teacher within a Buddhist tradition, a psychologist trained in mindfulness-based interventions.\
     → chapter {{cap:uma-pratica-para-a-vida}}
+
+**telomeres**
+:   The protective caps at the ends of chromosomes. Their shortening accompanies cellular aging and has been linked to chronic stress. In a direct test, an 18-month trial, meditation did not protect them.\
+    → chapter {{cap:estresse-o-alarme-que-nao-desliga}}
 
 **Theravāda**
 :   The school that kept the suttas in Pali, and the source of most of the texts quoted in this book. It predominates in Thailand, Myanmar, Sri Lanka, Laos and Cambodia.\
@@ -480,7 +524,7 @@ the text uses and come, first of all, with what they mean.
 ## W
 
 **waitlist**
-:   The weakest control, and the most common in meditation research: the control group does nothing during the study and gets the course afterward. It rules out "time passed," but not expectation, the welcoming group or the attentive instructor.\
+:   The most common control in meditation research, and the weakest: the control group does nothing during the study and gets the course afterward. It does not rule out expectation or context, and it also inflates the result, because people who wait tend to improve less than they would with ordinary care.\
     → chapter {{cap:como-saber-se-algo-funciona}}
 
 ## Z

@@ -2,7 +2,7 @@
 part: III — A PRÁTICA
 title: A prática
 illustration: 03-a-pratica
-status: draft
+status: final
 ---
 Esta parte junta as duas anteriores. Cada capítulo ensina uma prática, passo a
 passo, e diz duas coisas sobre ela: o que a tradição afirma que ela faz, e o

@@ -8,8 +8,10 @@
 // stock, 0.002252in on white) and is computed by scripts/build.py, so this
 // file only ever receives a finished measurement.
 //
-// This is a working starting point, not a finished jacket. Replace the flat
-// fills with artwork when you have it; the geometry and safe areas stay right.
+// With no artwork the cover is typographic: flat fills and type. With `art`,
+// the picture fills the front panel and its bleed, shaded at head and foot
+// like the eBook cover; back cover and spine stay flat in `bg`, which
+// book.yaml takes from the art's paper so the wrap reads as one piece.
 
 #let bleed = 0.125in
 
@@ -127,6 +129,7 @@
   serif: ("Libertinus Serif", "Georgia"),
   sans: ("Libertinus Sans",),
   display: ("Libertinus Serif Display", "Libertinus Serif"),
+  art: none,
   body,
 ) = {
   let tw = trim.at(0)
@@ -201,10 +204,26 @@
     ])
 
     // ---------------- front cover ----------------
+    // The art runs out through the outer bleed; the type stays in the panel.
+    #if art != none {
+      let aw = tw + bleed
+      place(top + left, dx: bleed + tw + spine, block(width: aw, height: full-h, clip: true)[
+        #place(top + left, art)
+        #place(top + left, rect(width: aw, height: 38%, fill: gradient.linear(
+          bg.transparentize(15%), bg.transparentize(100%), angle: 90deg)))
+        #place(bottom + left, rect(width: aw, height: 22%, fill: gradient.linear(
+          bg.transparentize(100%), bg.transparentize(20%), angle: 90deg)))
+      ])
+    }
     #place(top + left, dx: bleed + tw + spine, dy: 0pt, front-panel(
       title: title, subtitle: subtitle, author: author, series: series,
-      w: tw, h: full-h, inset: 0.25in, top-drop: safe + 0.6in,
+      // Over artwork the title rides high, as on the eBook cover, but never
+      // inside the 0.25in KDP keeps clear of the trim.
+      w: tw, h: full-h, inset: 0.25in, top-drop: if art != none { safe + 0.15in } else { safe + 0.6in },
       author-lift: safe + 0.3in, side-trim: 2 * 0.25in + bleed,
+      compact: art != none, title-size: if art != none { 40pt } else { 34pt },
+      subtitle-size: if art != none { 15pt } else { 13pt },
+      author-size: if art != none { 14pt } else { 13pt },
       accent: accent, serif: serif, sans: sans, display: display,
     ))
 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1404" height="907" viewBox="0 0 520 336" font-family="Arial, Helvetica, sans-serif" fill="#1a1a1a">
+<rect x="0" y="0" width="520" height="336" fill="#ffffff"/>
+<text x="20" y="30" font-size="15" text-anchor="start">Marcou ao menos um item de uma escala de efeitos adversos</text>
+<rect x="20" y="40" width="313.2" height="26" fill="#c7c7c7" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="341.2" y="59" font-size="16" font-weight="bold" text-anchor="start">78,3%</text>
+<text x="20" y="102" font-size="15" text-anchor="start">Relatou um efeito adverso num questionário</text>
+<rect x="20" y="112" width="233.6" height="26" fill="#d5d5d5" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="261.6" y="131" font-size="16" font-weight="bold" text-anchor="start">58,4%</text>
+<text x="20" y="174" font-size="15" text-anchor="start">Disse ter tido uma experiência difícil ou angustiante</text>
+<rect x="20" y="184" width="125.6" height="26" fill="#e3e3e3" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="153.6" y="203" font-size="16" font-weight="bold" text-anchor="start">31,4%</text>
+<text x="20" y="246" font-size="15" text-anchor="start">Relatou prejuízo ao funcionamento por efeitos adversos</text>
+<rect x="20" y="256" width="36.4" height="26" fill="#f1f1f1" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="64.4" y="275" font-size="16" font-weight="bold" text-anchor="start">9,1%</text>
+<path d="M 20,306 L 420,306" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<path d="M 20,306 L 20,312" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="20" y="328" font-size="13" text-anchor="middle" fill="#555555">0%</text>
+<path d="M 220.0,306 L 220.0,312" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="220.0" y="328" font-size="13" text-anchor="middle" fill="#555555">50%</text>
+<path d="M 420,306 L 420,312" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="420" y="328" font-size="13" text-anchor="middle" fill="#555555">100%</text>
+</svg>

@@ -1,32 +1,32 @@
 ---
 title: Comece agora
-status: draft
+status: final
 ---
 Este livro deixa a prática para a Parte III, depois dos fundamentos. Você não
 precisa esperar até lá para praticar. Esta página dá uma prática mínima, de
 cinco minutos, para fazer desde hoje enquanto lê as Partes I e II. É a forma
-mais simples da prática ensinada no capítulo {{cap:atencao-na-respiracao}},
-sem a história e sem a ciência, que vêm depois.
+mais simples da prática ensinada no capítulo {{cap:atencao-na-respiracao}}.
+A história e a ciência vêm depois.
 
 ## A prática
 
 Cinco minutos por dia. Sente-se numa cadeira, com os pés no chão, a coluna
-ereta sem rigidez e as mãos no colo; os olhos podem ficar fechados ou
+ereta sem rigidez e as mãos no colo. Os olhos podem ficar fechados ou
 semiabertos, pousados no chão um pouco à frente.
 
 1. **Programe um alarme** para cinco minutos. Assim você não precisa olhar o
    relógio.
-2. **Encontre a respiração** onde ela for mais nítida — nas narinas, no
-   peito ou na barriga — e fique nesse lugar durante a sessão. Ele é a sua
+2. **Encontre a respiração** onde ela for mais nítida: nas narinas, no
+   peito ou na barriga. Fique nesse lugar durante a sessão. Ele é a sua
    âncora: o ponto para onde a atenção vai voltar.
 3. **Não mude a respiração.** Só note como ela está: longa ou curta, funda ou
    rasa. Se ela mudar sozinha ao ser observada, tudo bem.
-4. **A atenção vai sair** — para um plano, uma lembrança, um som, um
+4. **A atenção vai sair**: para um plano, uma lembrança, um som, um
    comentário sobre a própria prática. Isso não é falha. É o que a mente faz
    o tempo todo, e o capítulo {{cap:a-mente-que-divaga}} explica por quê.
 5. **Quando perceber que saiu, volte.** Note o fato sem comentário e traga a
    atenção de volta à respiração. Sem bronca, sem recomeçar a sessão, sem
-   concluir que "não sabe meditar". Essa volta é o exercício: cada vez que
+   concluir que "não sabe meditar". Essa volta é o exercício. Cada vez que
    você percebe e volta é uma repetição, como cada levantamento de peso no
    treino de força. Uma sessão com trinta voltas não foi uma sessão ruim; foi
    uma sessão com trinta repetições.
@@ -61,14 +61,19 @@ para dormir tem lugar próprio, no capítulo {{cap:o-corpo-o-sono-e-a-dor}}.
 
 ## Se for difícil
 
-Para algumas pessoas — em especial quem tem crises de pânico, asma ou
-histórico de trauma —, prestar atenção à respiração aumenta a ansiedade em vez
-de acalmar. Se isso acontecer, troque de âncora: os sons do ambiente, a sola
-dos pés no chão, o peso do corpo na cadeira. Abra os olhos. Encurte para dois
-ou três minutos, ou pare. Se surgirem angústia que não passa depois da
-sessão, sensação persistente de irrealidade ou memórias traumáticas
-invasivas, pare e procure orientação; o capítulo
-{{cap:quando-a-meditacao-da-errado}} descreve esses sinais. Se houver
+Para algumas pessoas, prestar atenção à respiração aumenta a ansiedade em
+vez de acalmar. Isso vale em especial para quem tem crises de pânico, asma
+ou histórico de trauma. Se acontecer, troque de âncora: os sons do ambiente,
+a sola dos pés no chão, o peso do corpo na cadeira. Abra os olhos. Encurte
+para dois ou três minutos, ou pare.
+
+Pare e procure orientação se surgir:
+
+- angústia que não passa depois da sessão;
+- sensação persistente de irrealidade;
+- memórias traumáticas invasivas.
+
+O capítulo {{cap:quando-a-meditacao-da-errado}} descreve esses sinais. Se houver
 pensamentos de se machucar, procure ajuda imediatamente: no Brasil, CVV
 (188) ou SAMU (192). Meditação não substitui tratamento, e quem está em
 tratamento continua nele.
@@ -76,6 +81,6 @@ tratamento continua nele.
 ## Daqui para a frente
 
 A partir do capítulo {{cap:atencao-na-respiracao}}, a Parte III aprofunda
-esta prática — de onde ela vem, a contagem como apoio, sessões de dez
-minutos — e acrescenta outras: rotular o que aparece, cultivar bondade,
+esta prática: de onde ela vem, a contagem como apoio, sessões de dez
+minutos. E acrescenta outras: rotular o que aparece, cultivar bondade,
 percorrer o corpo com a atenção. Até lá, cinco minutos e a volta bastam.

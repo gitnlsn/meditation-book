@@ -343,16 +343,25 @@
             fill: luma(25%))[#upper(it.element.body)]
     ]
   }
+  // Unnumbered pieces (front and back matter) sit flush left, without the
+  // number gutter, and a run of them gets the same air above as a part, so
+  // the back matter does not read as more chapters of the last part.
   show outline.entry.where(level: 2): it => context {
-    let i = query(<cap>).position(h => h.location() == it.element.location())
-    block(above: 0.35em, below: 0pt)[
-      #link(it.element.location())[
-        #box(width: 1.9em)[
-          #if i != none {
-            align(right, text(fill: luma(35%))[#(i + 1).])
-          }
-        ]
-        #h(0.45em)
+    let caps = query(<cap>).map(h => h.location())
+    let here-loc = it.element.location()
+    let i = caps.position(l => l == here-loc)
+    let above = 0.35em
+    if i == none {
+      let all = query(heading.where(level: 2, outlined: true))
+      let j = all.position(h => h.location() == here-loc)
+      if j == 0 or all.at(j - 1).location() in caps { above = 1.5em }
+    }
+    block(above: above, below: 0pt)[
+      #link(here-loc)[
+        #if i != none {
+          box(width: 1.9em, align(right, text(fill: luma(35%))[#(i + 1).]))
+          h(0.45em)
+        }
         #it.element.body
         #box(width: 1fr, inset: (x: 0.35em), repeat[.])
         #it.page()

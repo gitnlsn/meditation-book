@@ -2,7 +2,7 @@
 part: II — COMO O CÉREBRO MUDA
 title: Como o cérebro muda
 illustration: 02-como-o-cerebro-muda
-status: draft
+status: final
 ---
 Esta parte troca de pergunta. Já não é "o que a tradição diz", e sim "o que
 experimentos mostram". Ela começa ensinando a ler um estudo — porque quase

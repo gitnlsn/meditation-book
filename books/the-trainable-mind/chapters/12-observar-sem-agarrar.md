@@ -18,21 +18,25 @@ practice: rotular por dez minutos ("pensando", "ouvindo", "planejando")
 sources: Satipaṭṭhāna Sutta (MN 10, trad. Sujato); Sharf 2015; Mahasi Sayadaw,
   Satipatthana Vipassana (trad. U Pe Thin); Lutz et al. 2008; Lieberman et al. 2007;
   Kircanski et al. 2012; Burklund et al. 2014; Schlosser et al. 2019; Britton et
-  al. 2021
+  al. 2021; Singer & Engert 2019
 source: a-mente-treinavel/chapters/12-observar-sem-agarrar.md
-source_sha: 5dcf8c8b3dab
-status: draft
+source_sha: 3abf95b45d79
+status: final
 ---
 This chapter teaches the second basic practice and answers a question the
 word "mindfulness" tends to hide: what, exactly, do you do when you are
 "being mindful"? The answer, in the sense of the Buddhist text the idea comes
-from, is this: you observe whatever shows up — sensations, emotions,
-thoughts — as events that arise and pass, without following them and
+from, is this: you observe whatever shows up (sensations, emotions,
+thoughts) as events that arise and pass, without following them and
 without pushing them away. The technique taught here is **noting**, giving a
-brief name to each thing that shows up. The chapter shows where it comes
-from, what science has found about putting feelings into words, why
-observing is not the same as suppressing, and for whom this is not the best
-way in.
+brief name to each thing that shows up.
+
+The chapter shows:
+
+- where noting comes from;
+- what science has found about putting feelings into words;
+- why observing is not the same as suppressing;
+- for whom this is not the best way in.
 
 ## The Text: Four Places to Look
 
@@ -99,13 +103,13 @@ chapter {{cap:atencao-na-respiracao}}: it serves to make attention explicit, not
 replace it with words.
 
 A historical note is worth making, because this book promises not to
-flatten the tradition: much of what the West learned as "mindfulness" passed
-through these Burmese reform movements, and the historian Robert Sharf
-argues that the idea of "bare attention," free of concepts (the story is in
-chapter {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}), is a modern emphasis, and a
-debatable one, as a reading of older Theravāda doctrine. It is an
+flatten the tradition. Much of what the West learned as "mindfulness" passed
+through these Burmese reform movements. The historian Robert Sharf argues
+that the idea of "bare attention," free of concepts, is a modern emphasis,
+and a debatable one, as a reading of older Theravāda doctrine (the story is
+in chapter {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}). It is an
 influential thesis, not a consensus. Noting is a legitimate tool, tested by
-generations of practitioners — but it is an interpretation of the text, not
+generations of practitioners. But it is an interpretation of the text, not
 the text.
 
 ## Equanimity: Neither Following Nor Pushing Away
@@ -117,8 +121,8 @@ seen with wisdom the giving up of covetousness and displeasure, they watch
 over closely with equanimity."
 
 Equanimity is not indifference. The indifferent person doesn't notice, or
-doesn't care. The equanimous person notices clearly — anger is here, it is
-strong, it is heating up my face — and does not add the second arrow
+doesn't care. The equanimous person notices clearly: anger is here, it is
+strong, it is heating up my face. And they do not add the second arrow
 described in chapter {{cap:as-quatro-nobres-verdades-como-diagnostico}}: the
 commentary, the justification, the fight with the anger.
 Chapter {{cap:bondade-e-compaixao-como-treino}} presents equanimity as one of four
@@ -148,9 +152,9 @@ because noting assumes you already know how to come back to an anchor.
 7. **Include the tone**, when you can: "pleasant," "unpleasant," "neutral."
    It is the sutta's second foundation, and it is often the most revealing.
 
-After a few days, many people notice that the labels repeat — "planning,"
-"planning," "judging" — and that this repetition shows the mind's habits
-more clearly than hours of reflection. They also notice that a thought that
+After a few days, many people notice that the labels repeat: "planning,"
+"planning," "judging." This repetition shows the mind's habits more clearly
+than hours of reflection. They also notice that a thought that
 has been noted often loses force. It isn't a rule, and it isn't the goal;
 but it is common.
 
@@ -175,14 +179,18 @@ that matter here.
 
 **Putting feelings into words reduces part of the reaction: preliminary
 evidence.** The lab of the psychologist Matthew Lieberman studies what it
-calls *affect labeling*. In the first imaging study, naming the emotion in a
-negative photo reduced the response of the amygdala (a region linked to
-threat detection, among other functions, met in chapter
-{{cap:como-saber-se-algo-funciona}}) compared with other ways of
-processing the same image, and increased activity in a region of the
-prefrontal cortex. A later study with 39 older adults found that labeling
-and deliberately reappraising the situation reduced amygdala activity to a
-similar degree, with correlated drops in reported distress. The curious
+calls *affect labeling*.
+
+In the first imaging study, people named the emotion in a negative photo.
+That reduced the response of the amygdala, compared with other ways of
+processing the same image. (The amygdala is a region linked to threat
+detection, among other functions, met in chapter
+{{cap:como-saber-se-algo-funciona}}.) And it increased activity in a region
+of the prefrontal cortex.
+
+A later study, with older adults, compared labeling with deliberately
+reappraising the situation. Both strategies reduced amygdala activity to a
+similar degree, and reported distress fell along with it. The curious
 point is that labeling is not meant to change the emotion, and it changes it
 anyway.
 
@@ -197,8 +205,8 @@ themselves; the fourth did the exposure alone.
 
 **What it found.** A week later, facing a different spider in a different
 place, the group that had labeled showed a smaller skin conductance response
-(a physiological sign of arousal) than the other groups, and got slightly
-closer to the spider than the distraction group. But it **did not report
+(a physiological sign of arousal) than the other groups. And it got
+slightly closer to the spider than the distraction group. But it **did not report
 less fear** than the others. And those who used more fear and anxiety words
 during the exposure had a greater reduction in their response.
 
@@ -211,8 +219,8 @@ measured.
 
 There is a leap here that needs naming. *Affect labeling* in the lab means
 naming an emotion in response to a stimulus, usually once, in words. Noting
-in meditation is continuous, silent, and covers everything — sounds,
-thoughts, itches — not just emotions. Lieberman's studies make it plausible
+in meditation is continuous, silent, and covers everything (sounds,
+thoughts, itches), not just emotions. Lieberman's studies make it plausible
 that meditative noting helps regulate emotions. They did not test the
 practice itself.
 
@@ -220,19 +228,20 @@ practice itself.
 evidence.** Chapter {{cap:atencao-emocao-e-habito}} defined the two terms, following
 Lutz and colleagues (2008). The breath practice is focused attention: one
 object, and back to it. Noting sits between the two: there is an anchor, but
-attention opens to whatever shows up and registers it without reacting — the
-core of open monitoring. The distinction is well accepted, and one of the
-largest longitudinal studies of secular meditative training, the Max Planck
-Institute's ReSource Project, concluded, in the words of the title of a 2019
-synthesis, that "it matters what you practice": different practices trained
-different capacities. The caveat is the usual one: the studies that separate
+attention opens to whatever shows up and registers it without reacting.
+That is the core of open monitoring.
+
+The distinction is well accepted. One of the largest long-running studies of
+secular meditative training is the ReSource Project. A 2019 synthesis summed
+up its findings in its title: "it matters what you practice." Different
+practices trained different capacities. The caveat is the usual one: the studies that separate
 the two styles in the brain are, for the most part, small.
 
 ## Where Tradition and Science Part Ways
 
 Science asks whether noting *reduces reactivity*. The sutta has a different
 aim: to see that everything that shows up arises and passes away, and that
-none of it is worth grasping — the subject of
+none of it is worth grasping. That is the subject of
 chapter {{cap:impermanencia-e-nao-eu}}. For the tradition, feeling calmer is a
 welcome side effect; the target is an understanding. No experiment cited
 here measures that understanding.
@@ -245,17 +254,21 @@ true at once, but they are not the same claim.
 ## When This Isn't the Way In
 
 Opening attention to whatever shows up means that what is difficult shows up
-too. For most people, this is tolerable and even useful. For some —
-especially people with a history of trauma, dissociation or panic attacks —
-it can bring up memories, sensations or states of disconnection that they
-cannot regulate on their own.
+too. For most people, this is tolerable and even useful. For some, it can
+bring up memories, sensations or states of disconnection that they cannot
+regulate on their own. This is especially true for people with a history of
+trauma, dissociation or panic attacks.
 
-The research supports caution. In a survey of 1,232 regular meditators,
-about a quarter reported particularly unpleasant experiences they attributed
-to meditation. They were more likely among those who practiced only
-vipassanā-type styles — the family noting belongs to —, among those with a
-lot of repetitive negative thinking, and among those who had been on a
-retreat. It is a self-report study, with a single question, and it does not
+The research supports caution. In a survey of more than a thousand regular
+meditators, about a quarter reported particularly unpleasant experiences
+they attributed to meditation. They were more likely in three groups:
+
+- people who practiced only vipassanā-type styles, the family noting
+  belongs to;
+- people with a lot of repetitive negative thinking;
+- people who had been on a retreat.
+
+It is a self-report study, with a single question, and it does not
 establish cause (preliminary evidence). In an eight-week program, lasting
 bad effects, in a minority, were associated with signs of dysregulated
 arousal and dissociation. Both studies are covered in detail in
@@ -264,15 +277,15 @@ chapter {{cap:quando-a-meditacao-da-errado}}.
 So, three practical guidelines:
 
 - **Keep the anchor strong.** If noting opens up more than you can keep up
-  with, go back to just the breath or, if that is uncomfortable too, to your
-  feet on the floor, with your eyes open.
+  with, go back to just the breath. If that is uncomfortable too, go back to
+  your feet on the floor, with your eyes open.
 - **Shorten it.** Three minutes done well are worth more than ten of
   distress.
 - **Stop and get help** if flashbacks show up, or a persistent sense of
   unreality or of being outside your body, or distress that doesn't pass
   after the session. Chapter {{cap:quando-a-meditacao-da-errado}} describes these
   signs. For people with trauma, a practice guided by a trained professional
-  is a better way in than practicing alone — and no meditation is a
+  is a better way in than practicing alone. And no meditation is a
   substitute for treatment.
 
 ## What This Chapter Established

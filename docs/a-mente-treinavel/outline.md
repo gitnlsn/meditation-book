@@ -51,12 +51,48 @@ diferentes, e cada afirmação do livro diz em qual das três está.
   definição e corrigir os rótulos era mais honesto do que afrouxar a
   definição para caber neles.
 
+## Decisões (2026-10-19): a Parte II à luz da pesquisa recente
+
+- **Posição firme sobre a ciência (autor):** o livro diz com clareza o que a
+  ciência mostra, e onde a pesquisa é fraca ou inconclusiva diz isso também,
+  e por quê. Cada seção de evidência termina num veredito com rótulo, e cada
+  resumo de capítulo da Parte II lista as perguntas em aberto.
+- **Auditoria (autor aprovou):** os seis capítulos da Parte II foram
+  conferidos contra revisões sistemáticas, meta-análises e grandes ensaios de
+  2019–2026. Nenhuma conclusão mudou de sentido, mas vários rótulos mudaram:
+  mindfulness para parar de fumar, ganhos de atenção em programas de oito
+  semanas e "mente que divaga é mente infeliz" passaram a "contestada";
+  mindfulness universal nas escolas subiu a "moderada a forte" com as
+  reanálises independentes.
+- **Rótulos (autor):** continuam quatro. Uma afirmação que a melhor evidência
+  contradiz fica "contestada", com uma frase simples dizendo o que falhou
+  ("o maior ensaio não encontrou…"), em vez de um quinto rótulo.
+- **Extensão (autor):** a atualização alcança também "O corpo, o sono e a
+  dor" (pressão arterial) e "Quando a meditação dá errado" (frequência de
+  efeitos adversos na população).
+
 ## Título (decidido em 2026-10-11)
 
 ***A mente treinável*** — Budismo, meditação e o cérebro que muda. Em inglês,
 ***The Trainable Mind*** — Buddhism, Meditation and the Brain That Changes.
 Escolhido pelo autor entre três propostas; as outras eram *A segunda flecha* e
 *Sentar e ver*.
+
+## Capa e contracapa (2026-10-19)
+
+- **Arte (autor):** a folha da figueira-de-bodhi cujas nervuras viram
+  dendritos de um neurônio, a gravura a nanquim com um só ocre, gerada a partir
+  de prompts que o autor aprovou. É a mesma imagem no eBook e na capa
+  impressa, nas duas edições. As aberturas de parte seguem o mesmo traço: a
+  árvore, o neurônio, a pessoa sentada num cômodo comum.
+- **Paleta:** tirada da própria arte: o creme do papel (`#f9edd5`), tinta
+  escura (`#2a2520`) e o ocre da folha, escurecido para ler bem (`#9a7434`).
+- **Decidido por mim (contracapa, delegado pelo autor):** o texto do anúncio
+  e da contracapa é o da edição inglesa, reescrito em português, e não um
+  texto novo. Ele já descrevia o livro como ele é, parte por parte, sem
+  promessa de transformação, e fecha com o aviso de que a meditação não
+  substitui tratamento. Manter os dois iguais evita que uma edição prometa o
+  que a outra não promete.
 
 ---
 

@@ -16,37 +16,44 @@ caveats: praticantes de longa data se autosselecionam; retiros têm riscos próp
 practice: montar o próprio plano de oito semanas
 sources: Wood 2019; Lally et al. 2010; Goleman & Davidson 2017; Kok & Singer 2017;
   Galante et al. 2023; Schlosser et al. 2019; Kral et al. 2022
-status: draft
+status: final
 ---
 Este capítulo fecha o livro com uma pergunta prática: como fazer uma prática
 de meditação durar mais do que o entusiasmo das primeiras semanas? A resposta
-que ele defende é que motivação não sustenta nada por muito tempo; o que
-sustenta é estrutura — um horário e um lugar fixos, gente com quem praticar,
-alguém que oriente e uma razão que você entende. O capítulo mostra o que se
-sabe sobre cada uma dessas peças, como escolher entre um programa, uma
-tradição ou um grupo, que cuidados tomar com retiros, e termina com duas
-coisas: um plano de oito semanas para você montar e um resumo do argumento do
-livro inteiro.
+que ele defende é que motivação não sustenta nada por muito tempo. O que
+sustenta é estrutura: um horário e um lugar fixos, gente com quem praticar,
+alguém que oriente e uma razão que você entende.
+
+O capítulo mostra:
+
+- o que se sabe sobre cada uma dessas peças;
+- como escolher entre um programa, uma tradição ou um grupo;
+- que cuidados tomar com retiros;
+- um plano de oito semanas para você montar;
+- um resumo do argumento do livro inteiro.
 
 ## Por que a motivação não basta
 
 A ideia de que hábitos se formam pela força de vontade é intuitiva e,
 segundo a pesquisa sobre hábito, mal colocada. Hábito, como definido no capítulo
 {{cap:atencao-emocao-e-habito}}, é uma resposta que o contexto dispara quase
-sem decisão. A psicóloga Wendy Wood, uma das principais pesquisadoras do
-tema, resume a literatura num livro de divulgação (*Good Habits, Bad Habits*,
-2019): hábitos são associações entre um contexto e uma resposta, e mudar o
-ambiente costuma funcionar melhor do que contar com a vontade. Quem depende
+sem decisão. A psicóloga Wendy Wood, que estuda o tema, resume a pesquisa
+num livro de divulgação (*Good Habits, Bad Habits*, 2019). Hábitos são
+associações entre um contexto e uma resposta. Por isso, mudar o ambiente
+costuma funcionar melhor do que contar com a vontade. Quem depende
 de "estar a fim" decide de novo, todo dia, se vai praticar — e um dia perde.
 Quem pratica sempre depois do café, na mesma cadeira, decide menos.
 
 O estudo de Lally e colegas (2010), apresentado com seus limites no capítulo
-{{cap:atencao-emocao-e-habito}}, acrescenta duas informações úteis: o tempo
-até um comportamento diário se tornar automático variou entre **18 e 254
-dias** — não há número mágico —, e **perder um dia não atrapalhou** de forma
-relevante a formação do hábito. Força da evidência: **moderada** para a ideia
-geral de que repetição num contexto estável cria automatismo; **preliminar**
-para os números, que vêm de um estudo pequeno, com medidas de autorrelato.
+{{cap:atencao-emocao-e-habito}}, acrescenta duas informações úteis:
+
+- o tempo até um comportamento diário se tornar automático variou entre
+  **18 e 254 dias**. Não há número mágico;
+- **perder um dia não atrapalhou** de forma relevante a formação do hábito.
+
+Força da evidência: **moderada** para a ideia geral de que repetição num
+contexto estável cria automatismo. **Preliminar** para os números, que vêm
+de um estudo pequeno, com medidas de autorrelato.
 
 A consequência prática: em vez de perguntar "como me manter motivado?",
 pergunte "o que no meu dia vai disparar a prática?".
@@ -58,8 +65,8 @@ pergunte "o que no meu dia vai disparar a prática?".
 Escolha um momento que já existe na sua rotina e amarre a prática a ele:
 depois de escovar os dentes de manhã, ao chegar em casa, antes de deitar.
 Use o mesmo lugar e, se possível, a mesma almofada ou cadeira. Comece com
-uma duração que você consiga cumprir num dia ruim — cinco ou dez minutos —,
-não com a que você gostaria de cumprir num dia bom. Uma prática curta e
+uma duração que você consiga cumprir num dia ruim, como cinco ou dez
+minutos. Não com a que você gostaria de cumprir num dia bom. Uma prática curta e
 diária constrói o contexto; uma longa e esporádica, não.
 
 ### Comunidade: a sangha na prática
@@ -67,8 +74,8 @@ diária constrói o contexto; uma longa e esporádica, não.
 O capítulo {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}} definiu a **Sangha**
 como a comunidade — no uso tradicional, a comunidade monástica. **Na
 prática**, para quem começa, sangha quer dizer algo mais simples: um grupo
-com quem você medita regularmente — um grupo de meditação de bairro, uma
-turma de curso, um centro ligado a uma tradição, até duas ou três pessoas que
+com quem você medita regularmente. Pode ser um grupo de bairro, uma turma de
+curso, um centro ligado a uma tradição, ou até duas ou três pessoas que
 combinam praticar juntas por videochamada.
 
 O grupo ajuda de três formas. Cria um horário que não depende de você
@@ -77,16 +84,19 @@ sensação de estar fazendo errado. E oferece um lugar para falar das
 dificuldades, que é o que o capítulo anterior mostrou ser importante.
 
 A evidência direta sobre "praticar em grupo" é menos sólida do que a
-intuição. Dois dados apontam na mesma direção. Numa meta-análise com dados
-individuais de 13 ensaios e 2.371 adultos, Galante e colegas (2023)
-encontraram que programas de mindfulness em grupo, presenciais e conduzidos
-por instrutor reduziram o sofrimento psicológico em comparação com controles
-passivos, com efeito de tamanho pequeno a moderado
-({{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}) — o que não isola o
-efeito do grupo, mas é o formato em que a evidência existe. E no ReSource Project, um estudo alemão de nove meses com
-362 participantes, Kok e Singer (2017) testaram práticas feitas em dupla e
-encontraram engajamento semelhante ao da meditação solitária e aumento da
-sensação de proximidade social. Força: **moderada a preliminar**.
+intuição. Força: **moderada a preliminar**. Dois dados apontam na mesma
+direção.
+
+O primeiro vem de uma meta-análise de 2023 que reuniu os dados individuais de
+13 ensaios ({{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}). Programas
+de mindfulness em grupo e com instrutor reduziram o sofrimento
+psicológico, em comparação com controles passivos. O efeito foi de
+pequeno a moderado. Isso não isola o efeito do grupo, mas é o formato em que
+a evidência existe.
+
+O segundo vem do ReSource Project, um estudo alemão de nove meses. Ele testou
+práticas feitas em dupla. O engajamento foi parecido com o da meditação
+solitária, e a sensação de proximidade com outras pessoas aumentou.
 
 ### Orientação: um professor
 
@@ -94,9 +104,8 @@ sensação de proximidade social. Força: **moderada a preliminar**.
 acompanha sua prática: um instrutor de MBSR ou MBCT certificado, um professor
 autorizado dentro de uma tradição budista, um psicólogo com formação em
 intervenções baseadas em mindfulness. Nas tradições budistas, a relação com
-o professor costuma ser central e assume formas muito diferentes de uma
-escola para outra, quase nenhuma delas parecida com a de um curso de oito
-semanas. Para quem começa, o papel mínimo é responder a
+o professor costuma ser central. Ela assume formas muito diferentes de uma
+escola para outra, e quase nenhuma se parece com um curso de oito semanas. Para quem começa, o papel mínimo é responder a
 perguntas, corrigir equívocos e reconhecer quando algo não vai bem.
 
 Este livro não tem como dar um selo de qualidade, mas pode dar critérios de
@@ -111,19 +120,19 @@ prudência. Um bom sinal é um professor que:
 5. não cria dependência, segredo ou pressão por dinheiro, tempo ou lealdade.
 
 Os sinais contrários são motivo para procurar outro lugar. No estudo de
-Lindahl e colegas sobre experiências difíceis, as relações — inclusive com o
-professor — aparecem entre os fatores que influenciaram como essas
-experiências se desenrolaram ({{cap:quando-a-meditacao-da-errado}}).
+Lindahl e colegas sobre experiências difíceis, as relações aparecem entre os
+fatores que influenciaram como essas experiências se desenrolaram. Isso
+inclui a relação com o professor ({{cap:quando-a-meditacao-da-errado}}).
 
 ### Uma razão que você entende
 
 A quarta peça é a que este livro tentou dar. Uma prática sustentada só por
 promessas ("vai mudar seu cérebro", "vai acabar com a ansiedade") não
 sobrevive ao primeiro mês em que a promessa não se cumpre. Uma prática
-sustentada por um entendimento — sei o que estou treinando, sei o que a
-evidência diz e o que não diz, sei por que voltar à respiração é a
-repetição que conta — aguenta semanas sem resultado visível, porque não
-depende de resultado visível.
+sustentada por um entendimento aguenta semanas sem resultado visível, porque
+não depende dele. Esse entendimento é: sei o que estou treinando, sei o que a
+evidência diz e o que não diz, sei por que voltar à respiração é a repetição
+que conta.
 
 ## Programa, tradição ou grupo: como escolher
 
@@ -138,9 +147,9 @@ Há três caminhos principais, e eles não se excluem.
 MBSR e MBCT foram definidos no capítulo {{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}.
 A diferença entre eles e uma tradição não é de qualidade, é de propósito.
 Os programas tiram a meditação do conjunto em que ela nasceu e a usam com
-objetivos de saúde; o capítulo {{cap:o-caminho-e-onde-a-meditacao-entra-nele}}
-mostrou que, na tradição, meditação é uma das três partes de um treino que
-inclui ética e sabedoria. Nenhuma das duas escolhas é a versão "verdadeira"
+objetivos de saúde. Na tradição, como mostrou o capítulo
+{{cap:o-caminho-e-onde-a-meditacao-entra-nele}}, meditação é uma das três
+partes de um treino que inclui ética e sabedoria. Nenhuma das duas escolhas é a versão "verdadeira"
 para todo mundo. É honesto, porém, saber qual das duas você escolheu.
 
 Aplicativos e livros (inclusive este) servem para começar e para manter uma
@@ -159,29 +168,33 @@ coisa.
 Três cautelas:
 
 1. **Vá do curto para o longo.** Faça um dia antes de um fim de semana, um
-   fim de semana antes de uma semana. No levantamento de Schlosser e colegas
-   (2019), ter participado de retiros estava associado a mais experiências
-   desagradáveis — uma associação, não prova de causa, mas um bom motivo
-   para não começar pelo mais intenso.
+   fim de semana antes de uma semana. Num levantamento de 2019, quem já
+   tinha feito retiros relatava mais experiências desagradáveis. É uma
+   associação, não prova de causa, mas é um bom motivo para não começar
+   pelo mais intenso.
 2. **Informe seu histórico.** Um retiro cuidadoso deveria perguntar sobre
    saúde mental antes de aceitar alguém. Se não perguntar, isso já é uma
    informação.
    Histórico de trauma, psicose, transtorno bipolar ou depressão grave é
    razão para conversar com quem o acompanha antes de ir.
 3. **Saiba como sair.** Antes de começar, descubra com quem falar se algo
-   der errado e se é possível reduzir a prática ou ir embora. Um retiro que
-   trata a vontade de parar apenas como resistência a ser vencida está
-   cometendo o erro da minimização.
+   der errado e se é possível reduzir a prática ou ir embora. Alguns
+   retiros tratam a vontade de parar apenas como resistência a ser vencida.
+   Esse é o erro da minimização.
 
 ## O que esperar no longo prazo
 
 Aqui o livro tem de ser especialmente honesto. O psicólogo Daniel Goleman e
 o neurocientista Richard Davidson, em *Altered Traits* (2017), propõem uma
-distinção útil: há **estados** — o que muda durante e logo depois da
-prática — e **traços** — o que muda de forma duradoura na pessoa. A ressalva vem junto: é um livro de divulgação escrito por um diretor
-de laboratório sobre o próprio campo, e foi publicado antes do grande ensaio
-de 2022 do próprio laboratório de Davidson (Kral e colegas), que não
-encontrou mudança estrutural no cérebro depois de oito semanas de MBSR
+distinção útil:
+
+- **estados** são o que muda durante e logo depois da prática;
+- **traços** são o que muda de forma duradoura na pessoa.
+
+A ressalva vem junto. É um livro de divulgação escrito por um diretor de
+laboratório sobre o próprio campo. E saiu antes do grande ensaio de 2022 do
+próprio laboratório de Davidson, que não encontrou mudança estrutural no
+cérebro depois de oito semanas de MBSR
 ({{cap:o-que-a-ciencia-da-meditacao-mostra-e-o-que}}).
 
 O problema central dos estudos com praticantes de longa data é o **viés de
@@ -193,13 +206,13 @@ a meditação causou a diferença. Força da evidência para efeitos de longo
 prazo: **preliminar**.
 
 O que isso quer dizer para você: pratique pelo que a evidência mostra em
-semanas e meses — um pouco menos de estresse e de ansiedade, para
-muita gente — e pelo que você mesmo observa, não pela promessa de virar
-outra pessoa.
+semanas e meses, que é um pouco menos de estresse e de ansiedade para muita
+gente. Pratique também pelo que você mesmo observa. Não pela promessa de
+virar outra pessoa.
 
 ## Seu plano de oito semanas
 
-Oito semanas é a duração dos programas clínicos mais estudados, e é tempo
+Oito semanas é a duração dos programas clínicos mais estudados. É tempo
 suficiente para experimentar cada prática do livro e descobrir qual funciona
 para você. Monte o plano assim:
 
@@ -228,7 +241,7 @@ Uma sugestão de sequência, que percorre as práticas da Parte III:
 
 Ao fim da oitava semana, responda por escrito a três perguntas: qual prática
 eu vou manter? Em que horário? Com quem? Se em algum momento surgirem os
-sinais descritos no capítulo {{cap:quando-a-meditacao-da-errado}}, o plano muda —
+sinais descritos no capítulo {{cap:quando-a-meditacao-da-errado}}, o plano muda:
 encurte, troque a prática ou pare e procure orientação. E se você está em
 tratamento para qualquer condição, este plano o acompanha, não o substitui.
 
@@ -239,7 +252,7 @@ tratamento para qualquer condição, este plano o acompanha, não o substitui.
    leitura moderna e seletiva dele.
 2. **Seu ensinamento central tem a forma de um diagnóstico:** há
    insatisfatoriedade (dukkha), ela tem causa (a sede, taṇhā), pode cessar, e
-   há um caminho. A segunda flecha — a reação que acrescentamos à dor — é o
+   há um caminho. A segunda flecha, a reação que acrescentamos à dor, é o
    mecanismo em miniatura.
 3. **Na tradição, a meditação é uma parte de um treino maior**, com ética e
    sabedoria. O mindfulness clínico é uma adaptação, legítima e diferente.
@@ -253,18 +266,18 @@ tratamento para qualquer condição, este plano o acompanha, não o substitui.
    imaginadas, e atenção, emoção e hábito são treináveis.** É isso que a
    meditação treina, não "o cérebro" em geral.
 7. **No balanço clínico, a evidência é moderada:** benefícios reais e
-   modestos em ansiedade, estresse e prevenção de recaída de depressão, do
-   tamanho dos de outros tratamentos ativos, não maiores.
+   modestos em ansiedade, estresse e prevenção de recaída de depressão. São
+   do tamanho dos de outros tratamentos ativos, não maiores.
 8. **A prática básica é voltar.** Notar o desvio e retornar é a repetição que
-   treina — com a respiração, com rótulos, com bondade, com o corpo.
+   treina: com a respiração, com rótulos, com bondade, com o corpo.
 9. **Meditação pode fazer mal**, em uma minoria de casos, e saber reconhecer
    os sinais faz parte de praticar.
 10. **O que sustenta a prática é estrutura e entendimento**, não motivação.
 
-Onde a tradição e a ciência concordam — a separação entre a dor e a reação à
-dor, a atenção como algo treinável, o peso do hábito —, a evidência basta
-para justificar a prática. Onde não concordam, ou onde a ciência é fraca, o
-livro disse isso no lugar em que a afirmação aparecia. É essa a razão que ele
+Em alguns pontos a tradição e a ciência concordam: a separação entre a dor e
+a reação à dor, a atenção como algo treinável, o peso do hábito. Ali, a
+evidência basta para justificar a prática. Onde não concordam, ou onde a
+ciência é fraca, o livro disse isso no lugar em que a afirmação aparecia. É essa a razão que ele
 oferece para sentar: não uma promessa, mas um entendimento.
 
 ## O que fica estabelecido

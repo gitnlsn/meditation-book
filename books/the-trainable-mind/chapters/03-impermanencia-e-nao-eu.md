@@ -18,27 +18,26 @@ sources: Anattalakkhaṇa Sutta (SN 22.59, trad. Sujato); Siderits, "Buddha" (SE
   2023); Hayes, "Madhyamaka" (SEP, 2023); Metzinger 2009; Thompson 2020; Lush et al.
   2020; Ehrsson et al. 2022
 source: a-mente-treinavel/chapters/03-impermanencia-e-nao-eu.md
-source_sha: 44de4c1be429
-status: draft
+source_sha: 217d10509c7a
+status: final
 ---
 This chapter explains the two Buddhist claims that most confuse newcomers:
 that everything making up experience is impermanent, and that none of it is a
-"self." It walks through the argument of the canonical text where the second
-idea appears, what the argument denies and what it doesn't, and how the
-Buddhist schools have read it in different ways. It then presents what
-philosophy and cognitive science say about the sense of self, and why the
-resemblance between the two is real, interesting and not enough to say that
-science has "confirmed" Buddhism.
+"self." It walks through the argument of the text where the second idea appears:
+what the argument denies, what it doesn't and how the Buddhist schools have
+read it. It then presents what philosophy and cognitive science say about the
+sense of self. The resemblance between the two is real and interesting. But
+it is not enough to say that science has "confirmed" Buddhism.
 
 ## The Text: The Second Discourse
 
-According to the tradition, after his first teaching (the one on the Four
-Noble Truths, covered in chapter {{cap:as-quatro-nobres-verdades-como-diagnostico}}),
-the Buddha gave a second one, in the same deer park near Varanasi and to the
+The Buddha's first teaching was the one on the Four Noble Truths, covered in
+chapter {{cap:as-quatro-nobres-verdades-como-diagnostico}}. According to the
+tradition, he gave a second one in the same deer park near Varanasi, to the
 same five ascetics. It is the *Anattalakkhaṇa Sutta*, "the discourse on the
-characteristic of not-self" (*Saṃyutta Nikāya* 22.59). It is short, it takes
-the form of a dialogue of questions and answers, and it is worth following
-step by step, because the whole argument is there.
+characteristic of not-self" (*Saṃyutta Nikāya* 22.59). It is short and takes
+the form of a dialogue of questions and answers. It is worth following step
+by step, because the whole argument is there.
 
 First, two words.
 
@@ -62,7 +61,7 @@ this life.
 Chapter {{cap:as-quatro-nobres-verdades-como-diagnostico}} mentioned the
 **five aggregates** in passing. They are the Buddhist analysis of what makes
 up a person: instead of "I," five groups of processes. The Pali word,
-*khandha*, works as an umbrella term: each aggregate gathers every occurrence
+*khandha*, works as an umbrella term. Each aggregate gathers every occurrence
 of one kind of experience, past, present or future. The order runs from the
 coarsest, the body, to the subtlest.
 
@@ -78,17 +77,17 @@ Four observations make the table more useful:
 
 - **Vedanā is not emotion.** It is just the tone: the "like" or "don't like"
   that comes with an experience before any story about it. It is the stuff
-  of the second arrow in chapter {{cap:as-quatro-nobres-verdades-como-diagnostico}}:
-  the first arrow is an unpleasant vedanā; the second is what you do with
+  of the second arrow in chapter {{cap:as-quatro-nobres-verdades-como-diagnostico}}.
+  The first arrow is an unpleasant vedanā; the second is what you do with
   it. Chapter {{cap:observar-sem-agarrar}} comes back to vedanā as a
   practice.
-- **Saṅkhārā is the hardest word.** Translations vary: "mental formations"
-  in Mendis's classic version, "volitions" in Bhikkhu Anālayo's study (2003),
-  *choices* in Bhikkhu Sujato's, which this book uses. All of them point to
+- **Saṅkhārā is the hardest word.** Translations vary: "mental formations,"
+  "volitions," *choices* (in Bhikkhu Sujato's version, which this book
+  uses). All of them point to
   the active part of the mind, the part that wants and decides.
-- **Consciousness is the strongest candidate for "self."** Anālayo observes
-  that it is the act of being conscious that most gives the sense of a
-  cohesive "I" behind experience. That is why the sutta makes a point of
+- **Consciousness is the strongest candidate for "self."** The monk and
+  scholar Bhikkhu Anālayo observes that it is the act of being conscious that
+  most gives the sense of a cohesive "I" behind experience. That is why the sutta makes a point of
   including it on the list of what is not the self.
 - **On the most common reading, the list is complete.** There is no sixth
   item left over called "the one who has the five." That is what the sutta
@@ -110,7 +109,7 @@ aggregate:
 
 And it repeats the same for feeling, perception, formations and
 consciousness. The idea behind it is that a "self," in the strong sense,
-would be the seat of command: if my body were me, I could decide that it
+would be the seat of command. If my body were me, I could decide that it
 would not fall ill. I can't. The same goes for the sadness that shows up
 uninvited, or the thought that comes back when I wanted it gone.
 
@@ -125,26 +124,31 @@ they answer:
 > regarded thus: 'This is mine, I am this, this is my self'?"
 > "No, sir."
 
-The structure, as Siderits reconstructs it, is this: if there were a self,
-it would be permanent; none of the five aggregates is permanent; therefore,
-none of them is the self. Notice the threefold formula: "mine," "I am this,"
-"my self." The text does not just reject the idea of a soul; it rejects
-three everyday ways of laying claim to experience: owning it, identifying
-with it, and taking it as one's essence.
+The structure, as Siderits reconstructs it, is this:
+
+1. if there were a self, it would be permanent;
+2. none of the five aggregates is permanent;
+3. therefore, none of them is the self.
+
+Notice the threefold formula: "mine," "I am this," "my self." The text does
+not just reject the idea of a soul. It rejects three everyday ways of laying
+claim to experience: owning it, identifying with it, and taking it as one's
+essence.
 
 **The conclusion is practical.** The sutta does not end with a metaphysical
-thesis but with an instruction: to see each aggregate, "past, future, or
-present; internal or external; solid or subtle," as "This is not mine, I am
-not this, this is not my self." Whoever sees this way, the text says, grows
+thesis but with an instruction. Each aggregate, "past, future, or present;
+internal or external; solid or subtle," is to be seen as "This is not mine,
+I am not this, this is not my self." Whoever sees this way, the text says, grows
 disillusioned, desire fades away, and they are freed. The sutta ends by
 recounting that, while the discourse was being spoken, the minds of the five
 ascetics were freed.
 
 A note on context. The "self" the sutta denies is not an invention of the
 modern reader. In ancient India, currents of thought linked to the
-*Upaniṣads* held that suffering comes from ignorance about a person's true
-identity, the self (*ātman*); in one version of this idea, the self is pure
-consciousness, a witness, identical with the essence of the cosmos.
+*Upaniṣads*, ancient texts that Hinduism regards as sacred, held that
+suffering comes from ignorance about a person's true identity, the self
+(*ātman*). In one version of this idea, the self is pure consciousness, a
+witness, identical with the essence of the cosmos.
 According to the philosopher Evan Thompson, the self denied in the suttas is
 this *ātman*. It is useful to keep that in mind before transplanting the
 argument into today's debates.
@@ -160,16 +164,15 @@ a fixed and independent owner.
 
 **There is no single reading.** Siderits records a dispute over
 interpretation. Some scholars note that the Buddha never denies, in so many
-words, the existence of a self that transcends the five aggregates; he only
+words, the existence of a self that transcends the five aggregates. He only
 shows that no aggregate is that self. Against this, all of classical Indian
 philosophy, Buddhist and non-Buddhist, understood the Buddha to have denied
 the self without qualification. The question is still debated.
 
 **The schools took the idea to different places.** In the Mahāyāna, the
 Madhyamaka school, one of the two main schools in India, extended the
-argument to everything: not only the person but all things are **empty** of
-a nature of their own (*svabhāva*); nothing has an essence that exists by
-itself. This is the doctrine of emptiness mentioned in chapter
+argument to everything. Not only the person but all things are **empty** of
+a nature of their own: nothing has an essence that exists by itself. This is the doctrine of emptiness mentioned in chapter
 {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}}. It is one school's reading, not
 the whole of Buddhism's.
 
@@ -177,9 +180,9 @@ There is also a tension the tradition has always known about: classical
 Buddhism affirms rebirth. If there is no self, what is reborn? Siderits
 observes that the argument from impermanence itself assumes rebirth:
 "permanent," there, means lasting beyond a single life. Buddhist answers to
-this question fill libraries, and this book, which makes the psychological
-selection described in chapter {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}},
-does not try to settle it.
+this question fill libraries. This book makes the psychological selection
+described in chapter {{cap:quem-foi-o-buda-e-quem-ele-nao-foi}} and does not
+try to settle it.
 
 ## What Philosophy and Cognitive Science Say
 
@@ -189,27 +192,32 @@ experiments *show*, and neither was designed to test Buddhism.
 
 ### The Self-Model
 
-The German philosopher Thomas Metzinger proposed, in *Being No One* (2003)
-and in the version for general readers, *The Ego Tunnel* (2009), that the
-sense of being someone is the content of a **self-model**: a representation
-the brain builds of its own organism. The central point is that this model
-is *transparent*: we do not experience it as a model, but as reality itself.
+The German philosopher Thomas Metzinger proposed that the sense of being
+someone is the content of a **self-model**: a representation the brain
+builds of its own organism. The central point is that this model is
+*transparent*. We do not experience it as a model, but as reality itself.
 The self, in this theory, is a process, not a thing. Hence Metzinger's
 best-known thesis: there is no such thing as a self; there is the model,
 which the brain cannot see as a model.
 
-The thesis is philosophical, not a laboratory result. It rests on the fact
-that the sense of self emerges from biology and can be manipulated, and even
-controlled, experimentally; but the conclusion that "there is no self" is an
+The thesis is philosophical, not a laboratory result. It rests on a fact:
+the sense of self emerges from biology and can be manipulated, and even
+controlled, in experiments. But the conclusion that "there is no self" is an
 interpretation of those data.
 
 ### The Construction of the Self
 
-A more modest idea is that of the **construction of the self**: the sense of
-having a body, of being in a place, of being the author of your own actions
-and of having a history is assembled continuously by the brain from several
-sources (vision, touch, signals from inside the body, memory) and can be
-taken apart or fooled under special conditions. Constructed does not mean
+A more modest idea is that of the **construction of the self**. On this
+view, the brain continuously assembles our sense of who we are:
+
+- of having a body;
+- of being in a place;
+- of being the author of our own actions;
+- of having a history.
+
+It does this from several sources: vision, touch, signals from inside the
+body, memory. And that assembly can be taken apart or fooled under special
+conditions. Constructed does not mean
 false. A house is constructed too.
 
 The most famous laboratory example is the rubber hand illusion.
@@ -219,23 +227,23 @@ The most famous laboratory example is the rubber hand illusion.
 Cohen in a one-page letter in *Nature* in 1998. The procedure is simple: the
 person's hand is hidden, a rubber hand is in view, and both are stroked with
 a brush at the same time. Many participants report feeling the touch on the
-rubber hand, feeling that it is "theirs," and locating their own hand closer
-to the fake one than it really is.
+rubber hand and feeling that it is "theirs." They also locate their own hand
+closer to the fake one than it really is.
 
 **What it found — and the dispute.** In 2020, Peter Lush and colleagues
 measured the hypnotic suggestibility of 353 participants and found that it
 predicted how strong an illusion they reported. Their conclusion: part of the
 effect may come from participants' expectations about what they ought to
 feel, and the usual controls do not rule this out. In 2022, a group led by
-Henrik Ehrsson replied in the same journal that there is no specific
-relationship between suggestibility and the illusion; Lush and Anil Seth
-responded.
+Henrik Ehrsson replied, in the same journal, that there is no specific
+relationship between suggestibility and the illusion. Lush and Anil Seth
+responded again.
 
-**Strength of evidence:** moderate for the phenomenon: many people report
+**Strength of evidence:** moderate for the phenomenon. Many people report
 the illusion, and it supports an extensive literature on the sense of body
-ownership. Contested as to its interpretation: whether it shows how the
-sense of "the body that is mine" is assembled, or the power of expectations,
-is an open question.
+ownership. Contested as to its interpretation. Does it show how the sense of
+"the body that is mine" is assembled, or the power of expectations? The
+question is open.
 :::
 
 Notice what the illusion shows, at best: that the sense that *this* hand is
@@ -248,9 +256,8 @@ aggregates is correct.
 It is tempting to join the two halves of this chapter in one sentence: "2,500
 years ago the Buddha discovered what neuroscience has just proved: the self
 is an illusion created by the brain." Thompson criticizes this version, which
-he attributes to Buddhist modernism, and this book follows the critique on
-three points; the first two are his, and the third runs along the same
-lines.
+he attributes to Buddhist modernism. This book follows the critique on three
+points: the first two are his, and the third runs along the same lines.
 
 1. **The concepts are not the same.** The *anattā* of the suttas denies the
    permanent *ātman* of the Upaniṣads, in an argument that assumes rebirth.
@@ -258,15 +265,15 @@ lines.
    brain. Saying that one "confirms" the other treats as identical two ideas
    that were born to answer different questions.
 2. **"Not a substance" does not imply "an illusion."** Thompson considers
-   Metzinger's notion of the self too restrictive: if the only thing that
-   could count as a self were a fixed substance, then there would be no
-   self; but the self can be a *process*. His image is the dance: the dance
+   Metzinger's notion of the self too restrictive. If only a fixed substance
+   could count as a self, then there would be no self. But the self can be a
+   *process*. His image is the dance: the dance
    does not exist apart from the dancer and the dancer's movements, and it
    is not an illusion for that.
 3. **Finding something in the brain does not settle the question.** That
    the sense of self depends on brain processes is what any scientific
    theory of mind would expect. It does not tell us which conception of the
-   self is correct, or what the best way to live with it is, which is what
+   self is correct, or what the best way to live with it is. And that is what
    Buddhism cares about.
 
 What remains is a real and limited convergence. Buddhism claims that what we
@@ -278,13 +285,15 @@ convergence: **preliminary**, and philosophically **contested**.
 
 Two bridges ahead. Chapter {{cap:a-mente-que-divaga}} deals with the
 so-called default mode network, a set of brain regions associated with mind
-wandering, and with why it is risky to say that meditating "switches off the
-self." And chapter {{cap:quando-a-meditacao-da-errado}} shows the other side:
-among the difficult experiences reported by Western meditators, documented
-by Jared Lindahl, Willoughby Britton and colleagues (2017), there is an
-entire domain of changes in the *sense of self*; and, across these
-experiences as a whole, the impact ranged from very positive to very
-negative, and the distress from minimal and passing to severe and lasting.
+wandering. It shows why it is risky to say that meditating "switches off the
+self."
+
+Chapter {{cap:quando-a-meditacao-da-errado}} shows the other side. Jared
+Lindahl, Willoughby Britton and colleagues (2017) documented difficult
+experiences reported by Western meditators. Among them is an entire domain
+of changes in the *sense of self*. Across these experiences as a whole, the
+impact ranged from very positive to very negative. The distress ranged from
+minimal and passing to severe and lasting.
 Tampering with the sense of self is not, in every case, a pleasant or
 harmless experience.
 

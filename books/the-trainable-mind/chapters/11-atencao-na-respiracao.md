@@ -14,19 +14,25 @@ evidence: melhora de atenção sustentada (moderada); doses curtas (preliminar)
 caveats: '"esvaziar a mente" não é o objetivo'
 practice: dez minutos por dia durante uma semana, contando respirações
 sources: Ānāpānasati Sutta (MN 118, trad. Sujato); Visuddhimagga VIII (trad. Ñāṇamoli);
-  MacLean et al. 2010; Jha et al. 2015; Hasenkamp et al. 2012; Levinson et al. 2014
+  MacLean et al. 2010; Jha et al. 2015; Hasenkamp et al. 2012; Levinson et al. 2014;
+  Britton et al. 2021
 source: a-mente-treinavel/chapters/11-atencao-na-respiracao.md
-source_sha: eb9180035b20
-status: draft
+source_sha: e81f7c48a4d7
+status: final
 ---
 This chapter teaches the oldest and simplest practice in Buddhist meditation:
 paying attention to the breath. The central idea is a single one, and the
 rest of the chapter exists to support it: the practice is not about keeping
 attention still, but about **coming back**. Attention drifts off, you notice
 that it has, and you bring it back. Each return is a repetition, the way each
-lift counts in strength training. By the end, you will know how to do ten
-minutes a day, what the tradition says this practice produces, what
-experiments have measured, and where the two stop lining up.
+lift counts in strength training.
+
+By the end, you will know:
+
+- how to do ten minutes a day;
+- what the tradition says this practice produces;
+- what experiments have measured;
+- where the two stop lining up.
 
 ## The Text: The Discourse on Mindfulness of Breathing
 
@@ -58,8 +64,8 @@ group deals with the body and the breath; the second, with the pleasant
 feelings that may arise; the third, with the mind; the fourth, with
 impermanence, fading away, cessation and letting go. The text itself links
 each group to one of the four foundations of mindfulness in the
-*Satipaṭṭhāna Sutta*, the subject of chapter {{cap:observar-sem-agarrar}}, and says
-that the practice, once developed, leads to "knowledge and freedom."
+*Satipaṭṭhāna Sutta*, the subject of chapter {{cap:observar-sem-agarrar}}. And it
+says that the practice, once developed, leads to "knowledge and freedom."
 
 Two consequences for a beginner. First, this chapter uses only the first
 steps: noticing the breath as it is. The rest of the discourse is a path
@@ -107,15 +113,16 @@ useful question is not how to stop it from drifting, but what to do once it
 has.
 
 Chapter {{cap:a-mente-que-divaga}} described the study by Wendy Hasenkamp and
-colleagues (2012), which gave shape to this cycle: fourteen practitioners
-meditated on the breath inside a scanner and pressed a button each time they
-noticed they had drifted from it, and the practice was divided into four
-phases — wandering, noticing, redirecting, sustaining. The study is small,
-and its readings of brain networks carry the risk of reverse inference. But
-the model is useful to a practitioner for another reason. It shows that even
-experienced practitioners wander — if they didn't, there would be no button
-to press — and that the training lies in the noticing and redirecting
-phases. **Noticing and coming back is the exercise**, not a failure in the
+colleagues (2012), which gave shape to this cycle. Experienced practitioners
+meditated on the breath inside a scanner. They pressed a button each time
+they noticed they had drifted from it. The practice was divided into four
+phases: wandering, noticing, redirecting, sustaining.
+
+The study is small, and its readings of brain networks carry the risk of
+reverse inference. But the model is useful to a practitioner for another
+reason. It shows that even experienced practitioners wander. If they
+didn't, there would be no button to press. And it shows that the training
+lies in the noticing and redirecting phases. **Noticing and coming back is the exercise**, not a failure in the
 exercise.
 
 ## The Practice
@@ -180,9 +187,9 @@ is a typical example of focused attention.
 
 **Sustained attention: moderate evidence, at a high dose.** The best study is
 the Shamatha Project (MacLean and colleagues, 2010), described in
-chapter {{cap:atencao-emocao-e-habito}}: a three-month retreat, with about five
-hours a day of attention on a chosen object such as the breath, improved
-vigilance in a randomized trial with a waitlist. What the study shows is that
+chapter {{cap:atencao-emocao-e-habito}}. It was a three-month retreat, with
+about five hours a day of attention on a chosen object such as the breath.
+In a randomized trial with a waitlist, it improved vigilance. What the study shows is that
 sustained attention is trainable. It does not show how much training an
 ordinary person needs, and the dose has nothing in common with ten minutes a
 day.
@@ -200,8 +207,8 @@ groups were randomized by platoon, not by individual, and the authors
 acknowledge that this may leave differences at baseline.
 
 **What it found.** On a sustained-attention test, the group with no training
-got worse over the preparation period, and the practical-course group held
-steady — with fewer lapses than the no-training group and the lecture group.
+got worse over the preparation period. The practical-course group held
+steady, with fewer lapses than the no-training group and the lecture group.
 The most interesting detail: participants were supposed to practice thirty
 minutes a day, but the practical group logged, on average, about 178 minutes
 *in total* over the eight weeks.
@@ -215,17 +222,20 @@ minimum dose.
 :::
 
 Other studies point the same way, all with limits; the five-day study with
-Chinese university students is in chapter {{cap:atencao-emocao-e-habito}}. And breath
-counting itself has been used as a measuring instrument: Daniel Levinson and
-colleagues, in Richard Davidson's lab, showed in four studies with more than
-four hundred people that making fewer counting errors goes along with less
-mind wandering and more awareness of one's own mental state, and that four
-weeks of online breath-counting training reduced mind wandering compared
-with working-memory training and with no training. That gives counting a
-double role: it is an exercise and it is a ruler.
+Chinese university students is in chapter {{cap:atencao-emocao-e-habito}}.
+
+Breath counting itself has also been used as a measuring instrument. A
+series of four studies from 2014 showed two things:
+
+- people who make fewer counting errors also wander less and are more aware
+  of their own mental state;
+- four weeks of online breath-counting training reduced mind wandering,
+  compared with working-memory training and with no training.
+
+That gives counting a double role: it is an exercise and it is a ruler.
 
 The honest summary: sustained attention improves with focused-attention
-training (**moderate**); that ten minutes a day is enough for a measurable
+training (**moderate**). That ten minutes a day is enough for a measurable
 effect is plausible, but still **preliminary**. And, as
 chapter {{cap:atencao-emocao-e-habito}} discusses, gains on a lab task do not always
 carry over to life.
@@ -258,9 +268,9 @@ you, the weight of your body on the chair, your hands. Opening your eyes
 also helps.
 
 The adverse effects of meditation are real and documented, even in
-eight-week programs: a careful study of participants in mindfulness-based
-cognitive therapy found lasting bad effects in a minority, associated with
-signs of dysregulated arousal and dissociation. Ten minutes a day is a low
+eight-week programs. A careful study of participants in mindfulness-based
+cognitive therapy found lasting bad effects in a minority. They were
+associated with signs of dysregulated arousal and dissociation. Ten minutes a day is a low
 dose, but it is not a zero dose. Chapter {{cap:quando-a-meditacao-da-errado}}
 describes the signs and when to stop. And no practice in this book is a
 substitute for treatment of anxiety, depression or any diagnosis.
